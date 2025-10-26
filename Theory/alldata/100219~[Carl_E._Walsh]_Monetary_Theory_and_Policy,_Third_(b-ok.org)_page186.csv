@@ -1,0 +1,38 @@
+﻿Content
+"the money supply is mt/C0mt/C01¼ð1/C0gÞy1þgðmt/C01/C0mt/C02Þ, and the trend (average)"
+"growth rate is y1. Given this process, and the assumption that agents make use of it"
+"and the equilibrium condition (4.29) in forming their expectations, one solution for"
+the price level is given by
+pt¼a½y0þð1/C0gÞy1ð1þaÞ/C138
+1það1/C0gÞþað1/C0gÞy1
+1það1/C0gÞ/C20/C21
+tþ1
+1það1/C0gÞ/C20/C21
+mt
+¼A0þA1tþA2mt:
+That this is a solution can be veriﬁed by noting that it implies E tptþ1¼A0þ
+A1ðtþ1ÞþA2Etmtþ1¼A0þA1ðtþ1ÞþA2½y0þð1/C0gÞy1ðtþ1Þþgmt/C138; substitut-
+"ing this into (4.29) yields the proposed solution. Under this solution, the inﬂationrate p"
+"t/C0pt/C01converges to y1, the average growth rate of the nominal supply of"
+money. 23
+Consider an alternative solution:
+pt¼A0þA1tþA2mtþBt; ð4:30Þ
+where Btis time-varying. Does there exist a Btprocess consistent with (4.29)? Sub-
+stituting the new proposed solution into the equilibrium condition for the price levelyields
+A
+0þA1tþA2mtþBt¼mt
+1þaþa½A0þA1ðtþ1ÞþA2Etmtþ1þEtBtþ1/C138
+1þa;
+"which, to hold for all realizations of the nominal money supply, requires that, as"
+"before, A0¼a½y0þð1/C0gÞy1ð1þaÞ/C138=½1það1/C0gÞ/C138,A1¼að1/C0gÞy1=½1það1/C0gÞ/C138,"
+andA2¼1=½1það1/C0gÞ/C138. This then implies that the Btprocess must satisfy
+Bt¼a
+1þa/C18/C19
+EtBtþ1;
+which holds if Bfollows the explosive process
+Btþ1¼kBt ð4:31Þ
+"fork¼ð1þaÞ=a>1. In other words, (4.30) is an equilibrium solution for anypro-"
+"cessBtsatisfying (4.31). Since Bgrows at the rate k/C01¼1=a, and since a, the elas-"
+"ticity of money demand with respect to expected inﬂation, is normally thought to besmall, its inverse would be large. The actual inﬂation rate along a bubble solution"
+path could greatly exceed the rate of money growth.
+23. This follows because pt/C0pt/C01¼A1þA2ðmt/C0mt/C01Þconverges to A1þA2y1¼y1.4.4 Deﬁcits and Inﬂation 161

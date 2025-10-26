@@ -1,0 +1,39 @@
+﻿Content
+faster. Most hyperinﬂations have occurred after wars (and on the losing side). Such
+countries face an economy devastated by war and a tax system that no longer func-
+"tions e¤ectively. At the same time, there are enormous demands on the government"
+for expenditures to provide the basics of food and shelter and to rebuild the econ-
+omy. Revenue needs outpace the government’s ability to raise tax revenues. The
+ends of such hyperinﬂations usually involve a ﬁscal reform that allows the govern-ment to reduce its reliance on seigniorage (see Sargent 1986).
+"When expected inﬂation falls in response to the reforms, the opportunity cost of"
+"holding money is reduced and the demand for real money balances rises. Thus, the"
+growth rate of the nominal money supply normally continues temporarily at a very
+"high rate after a hyperinﬂation has ended. A similar, if smaller-scale, phenomenon"
+"occurred in the United States in the mid-1980s. The money supply, as measured by"
+"M1, grew very rapidly. At the time, there were concerns that this growth would lead"
+"to a return of higher rates of inﬂation. Instead, it seemed to reﬂect the increased de-mand for money resulting from the decline in inﬂation from its peak levels in 1979–"
+1980. The need for real money balances to grow as inﬂation is reduced often causes
+"problems for establishing and maintaining the credibility of policies designed to re-duce inﬂation. If a disinﬂation is credible, so that expected inﬂation falls, it may be"
+necessary to increase the growth rate of the nominal money supply temporarily. But
+"when inﬂation and rapid money growth are so closely related, letting money growth"
+rise may be misinterpreted as a signal that the central bank has given up on its dis-
+inﬂation policy.
+"Fiscal theories of seigniorage, inﬂation, and hyperinﬂations are based on"
+"fundamentals—there really is a deﬁcit that needs to be ﬁnanced, and that is what"
+leads to money creation. An alternative view of hyperinﬂations is that they are sim-
+"plybubbles , similar to bubbles in ﬁnancial markets. Such phenomena are based on"
+the possibility of multiple equilibria in which expectations can be self-fulﬁlling.
+"To illustrate this possibility, suppose the real demand for money is given, in log"
+"terms, by"
+m
+t/C0pt¼/C0aðEtptþ1/C0ptÞ;
+where E tptþ1denotes the expectation formed at time tof time tþ1 prices and a>0.
+This money demand function is the log version of Cagan’s demand function. This
+equation can be rearranged to express the current price level as
+pt¼1
+1þa/C18/C19
+mtþa
+1þa/C18/C19
+Etptþ1: ð4:29Þ
+Suppose that the growth rate of the nominal money supply process is given by
+"mt¼y0þð1/C0gÞy1tþgmt/C01. Since mis the log money supply, the growth rate of160 4 Money and Public Finance"

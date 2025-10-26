@@ -1,0 +1,37 @@
+﻿Content
+Recall that the MIU model displayed short-run dynamics in which the real vari-
+"ables such as output, consumption, capital stock, and employment were independent"
+of the nominal money supply process when utility was log-linear in consumption and
+money balances. 27While ^m mdoes not directly enter the utility function in the CIA
+"model, note that in the case of log utility in consumption (that is, when F¼1), the"
+"short-run real dynamics in the CIA model are not independent of the process fol-lowed by ^m m, as they were in the MIU model. Note that (3.46), (3.50), and (3.52)"
+"imply, when F¼1, that"
+^l l
+t¼/C0Etð^m mtþ1þ^p ptþ1Þ¼/C0 ð ^m mtþEtutþ1Þ¼ 1þhnss
+lss/C18/C19
+^n nt/C0^y yt:
+"Thus, variations in the expected future growth rate of money, E tutþ1, force adjust-"
+"ment to either ^y y,^c cð^m mÞ,o r ^n n(or all three). In particular, for given output and con-"
+"sumption, higher expected money growth (and therefore higher expected inﬂation)"
+produces a fall in ^n nt. This is the e¤ect by which higher inﬂation reduces labor supply
+and output.
+"The current growth rate of the nominal money stock, ut, and the current rate of"
+"inﬂation, pt, only appear in the form ut/C0pt(see (3.52)). Hence, as in the MIU"
+"model, unanticipated monetary shocks a¤ect only current inﬂation and have no real"
+"e¤ects unless they alter expectations of future money growth (i.e., unless E tutþ1is"
+a¤ected).
+"The response of money growth to productivity shocks has real e¤ects, and the"
+"economy’s response to a productivity shock is decreasing in f. For example, when f"
+"is negative, a positive productivity shock implies that money growth will decline in"
+"the future. Consequently, expected inﬂation also declines. The resulting reduction in"
+the nominal interest rate lowers the e¤ective inﬂation tax on consumption and
+"increases labor supply. In contrast, when fis positive, a positive productivity shock"
+"increases expected inﬂation and reduces labor supply. This tends to partially o¤setthe e¤ect of the productivity shock on output. Thus, output variability is less whenfis positive than when it is zero or negative. However, the e¤ects are small; as f"
+"goes from /C00:15 to 0 to 0 :15, the standard deviation of output falls from 1 :57 to"
+1:50 to 1 :43.
+The response of the nominal interest rate is shown in ﬁgure 3.1. As with the MIU
+"model, a positive money growth shock, by raising expected inﬂation when r"
+"u>0,"
+raises the nominal rate of interest. Greater persistence of the money growth rate pro-cess leads to larger movements in expected inﬂation in response to a monetary shock.
+"This, in turn, produces larger adjustments of labor supply and output. As illustrated"
+27. This was the case in which F¼b¼1.114 3 Money and Transactions

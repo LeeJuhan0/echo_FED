@@ -1,0 +1,32 @@
+﻿Content
+"e¤ects of a contractionary shock, for example, build to a peak after several months"
+and then gradually die out.
+Eichenbaum (1992) compared the estimated e¤ects of monetary policy in the
+United States using alternative measures of policy shocks and discussed how di¤erent
+"choices can produce puzzling results, at least puzzling relative to certain theoretical"
+expectations. He based his discussion on the results obtained from a VAR containingfour variables: the price level and output (these correspond to the elements of yin
+"(1.8)), M1 as a measure of the money supply, and the federal funds rate as a measure"
+of short-term interest rates (these correspond to the elements of x). He considered
+interpreting shocks to M1 as policy shocks versus the alternative of interpreting
+funds rate shocks as policy shocks. He found that a positive innovation to M1 is fol-
+lowed by an increase in the federal funds rate and a decline in output. This result ispuzzling if M1 shocks are interpreted as measuring the impact of monetary policy.
+An expansionary monetary policy shock would be expected to lead to increases inboth M1 and output. The interest rate was also found to rise after a positive M1
+"shock, also a potentially puzzling result; a standard model in which money demandvaries inversely with the nominal interest rate would suggest that an increase in themoney supply would require a decline in the nominal rate to restore money market"
+equilibrium. D. Gordon and Leeper (1994) showed that a similar puzzle emerges
+when total reserves are used to measure monetary policy shocks. Positive reserve
+innovations are found to be associated with increases in short-term interest rates
+and unemployment increases. The suggestion that a rise in reserves or the money
+"supply might raise, not lower, market interest rates generated a large literature"
+"that attempted to search for a liquidity e¤ect of changes in the money supply (e.g.,"
+Reichenstein 1987; Christiano and Eichenbaum 1992a; Leeper and Gordon 1992;
+Strongin 1995; Hamilton 1996).
+When Eichenbaum used innovations in the short-term interest rate as a measure of
+"monetary policy actions, a positive shock to the funds rate represented a contrac-tionary policy shock. No output puzzle was found in this case; a positive interest"
+"rate shock was followed by a decline in the output measure. Instead, what has been"
+called the price puzzle emerges: a contractionary policy shock is followed by a rise in
+the price level. The e¤ect is small and temporary (and barely statistically signiﬁcant)but still puzzling. The most commonly accepted explanation for the price puzzle is
+that it reﬂects the fact that the variables included in the VAR do not span the full
+information set available to the Fed. Suppose the Fed tends to raise the funds rate
+whenever it forecasts that inﬂation might rise in the future. To the extent that the
+"Fed is unable to o¤set the factors that led it to forecast higher inﬂation, or to the ex-tent that the Fed acts too late to prevent inﬂation from rising, the increase in the"
+"funds rate will be followed by a rise in prices. This interpretation would be consistent22 1 Empirical Evidence on Money, Prices, and Output"

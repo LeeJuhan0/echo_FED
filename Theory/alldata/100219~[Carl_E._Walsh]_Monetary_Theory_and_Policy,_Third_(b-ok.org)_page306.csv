@@ -1,0 +1,44 @@
+﻿Content
+Vc¼1
+2l½aðb1eþvÞþe/C0k/C1382þ12½b
+0þb1eþv/C1382: ð7:10Þ
+"Under a commitment policy, the central bank commits itself to particular values of"
+the parameters b0andb1prior to the formation of expectations by the public and
+"prior to observing the particular realization of the shock e. Thus, b0andb1are"
+chosen to minimize the unconditional expectation of the loss function. Solving the
+"minimization problem, the optimal policy under precommitment is"
+Dmc¼/C0al
+1þa2l/C18/C19
+e: ð7:11Þ
+"Note that average inﬂation under precommitment will be zero ðb0¼0Þ, but the re-"
+sponse to the aggregate supply shock is the same as under discretion (see (7.7)). The
+unconditional expectation of the loss function under precommitment is
+E½Vc/C138¼1
+2lk2þ12 l
+1þa2l/C18/C19
+s2
+eþð1þa2lÞs2
+v/C20/C21
+; ð7:12Þ
+"which is strictly less than the loss under discretion. Comparing (7.9) and (7.12), the"
+"cost of discretion is equal to ðalkÞ2=2, which is simply the loss attributable to the"
+nonzero average rate of inﬂation.
+"The inﬂation bias that arises under discretion occurs for two reasons. First, the"
+"central bank has an incentive to inﬂate once private sector expectations are set. Sec-ond, the central bank is unable to precommit to a zero average inﬂation rate. To see"
+"why it cannot commit, suppose the central bank announces that it will deliver zero"
+"inﬂation. If the public believes the announced policy, and therefore p"
+"e¼0, it is clear"
+"from (7.5) or (7.6) that the optimal policy for the central bank to follow would in-volve setting a positive average money growth rate, and the average inﬂation ratewould be positive. So the central bank’s announcement would not be believed in the"
+ﬁrst place. The central bank cannot believably commit to a zero inﬂation policy be-
+"cause under such a policy (i.e., if p¼p"
+e¼0) the marginal cost of a little inﬂation is
+q1
+"2p2=qp¼p¼0, while the marginal beneﬁt is al>0 under the linear objective"
+function formulation or /C0a2lðp/C0peÞþalk¼alk>0 under the quadratic formu-
+"lation. Because the marginal beneﬁt exceeds the marginal cost, the central bank has"
+an incentive to break its commitment.
+Society is clearly worse o¤ under the discretionary policy outcome because it expe-
+riences positive average inﬂation with no systematic improvement in output perfor-
+mance. This result fundamentally alters the long-running debate in economics over
+"rules versus discretion in the conduct of policy. Prior to Kydland and Prescott’s anal-ysis of time inconsistency, economists had debated whether monetary policy should"
+"be conducted according to a simple rule, such as Milton Friedman’s kpercent7.2 Inﬂation under Discretionary Policy 281"

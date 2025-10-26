@@ -1,0 +1,31 @@
+﻿content
+"for period t and x2
+t for period t þ 1. Assume these are given by x1
+t 1⁄4 pt þ kyt and x2
+t 1⁄4
+Etptþ1 þ kEtytþ1. The aggregate price level at time t is equal to pt 1⁄4 1
+2 ðx1
+t þ x2
+t1Þ. If
+aggregate demand is given by yt 1⁄4 mt pt and mt 1⁄4 m0 þ ot, what is the e¤ect of
+a money shock ot on pt and yt? Explain why output shows no persistence after a
+money shock.
+7. Following Rotemberg (1988), suppose the representative firm i sets its price to
+minimize a quadratic loss function that depends on the di¤erence between the firm’s
+actual log price in period t, pit, and its optimal log price, p¡
+t . If the firm can adjust at
+time t, it will set its price to minimize
+6.6 Problems 265
+1
+2
+Et
+Xy
+j1⁄40
+bi
+ðpitþj p¡
+tþj
+Þ
+2
+; ð6:49Þ
+subject to the assumed process for determining when the firm will next be able to
+adjust."

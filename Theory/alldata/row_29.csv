@@ -1,0 +1,17 @@
+### PAPER
+The International Forward Guidance Transmission under a Global Liquidity Trap
+
+### SUMMARY
+The thesis titled The International Forward Guidance Transmission under a Global Liquidity Trap by Daisuke Ida and Hirokuni Iiboshi explores the interaction effects of forward guidance (FG) on international monetary policy transmission using a two-country New Keynesian model within a global liquidity trap context. The study is structured around several key findings and contributions to the field of monetary policy.
+
+Firstly  the authors highlight the significance of the constant risk aversion coefficient (CRRA) in determining the beggar-thy-neighbor and prosper-thy-neighbor effects in foreign economies when the home country is constrained by the zero lower bound (ZLB). This finding underscores the importance of risk aversion in shaping international economic interactions under ZLB conditions.
+
+Secondly  the paper demonstrates that both countries can benefit from the home country's adoption of FG policies if only the home central bank faces the ZLB. This suggests that unilateral FG policies can have positive spillover effects on foreign economies  potentially leading to mutual benefits.
+
+Thirdly  the authors identify the potential benefits of FG interaction effects between two countries. They document the possibility that home and foreign central banks can enhance their monetary policy outcomes through coordination by adopting the same duration of FG quarters. This finding points to the advantages of synchronized FG policies in a global liquidity trap scenario.
+
+The study employs a standard two-country New Keynesian model  which is extended to account for simultaneous ZLB constraints in both countries. This model is used to analyze the international spillover effects of FG policy implementation. The authors evaluate policies in scenarios where one or both countries' central banks adopt FG policies  examining the impact on output  inflation  and nominal interest rates through international monetary policy transmission.
+
+The numerical simulations conducted in the study reveal the types of FG interactions that can be expected between the two countries. The authors utilize the occasionally binding constraints (OccBin) toolkit developed by Guerrieri and Iacoviello (2015) to capture international FG transmission during a liquidity trap. This toolkit is commonly used for unconventional monetary policy analysis under the ZLB in closed-economy models  but its application to FG policy in a two-country model is novel.
+
+The findings of the paper emphasize the importance of the CRRA in determining international economic effects and highlight the potential for mutual benefits through coordinated FG policies. The study contributes to the understanding of international monetary policy transmission under ZLB constraints and offers insights into the strategic use of FG in a global economic context.

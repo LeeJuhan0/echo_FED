@@ -1,0 +1,42 @@
+﻿Content
+inﬂation government would not be credible because the public realizes that an opti-
+mizing central bank would also announce that it is a strict inﬂation ﬁghter to induce
+the public to expect low inﬂation. 19
+"Initially, the public is assumed to have prior beliefs about the current government’s"
+"type (where these beliefs come from is unspeciﬁed, and therefore there will be multi-"
+"ple equilibria, one for each set of initial beliefs). If the government is actually an opti-mizer and ever chooses to inﬂate, its identity is revealed, and from then on the public"
+"expects the equilibrium inﬂation rate under discretion. To avoid this outcome, the"
+optimizing government may have an incentive to conceal its true identity by mimick-
+"ing the zero inﬂation type, at least for a while. Equilibrium may involve pooling, in"
+"which both types behave the same way. In a ﬁnite-period game, the optimizer will"
+always inﬂate in the last period because there is no future gain from further attempts
+at concealment.
+Backus and Dri‰ll solved for the equilibrium in their model by employing the
+concept of a sequential equilibrium (Kreps and Wilson 1982) for a ﬁnitely repeated
+game. Let p
+d
+tequal the inﬂation rate for period tset by a zero inﬂation (a ‘‘dry’’)
+"government, and let pw"
+tbe the rate set by an optimizing (a ‘‘wet’’) government. Start
+in the ﬁnal period T. The zero inﬂation type always sets pd
+"T¼0, and the optimizing"
+type always inﬂates in the last period at the discretionary rate pw
+T¼al. With no fur-
+"ther value in investing in a reputation, a wet government just chooses the optimal in-"
+ﬂation rate derived from the one-period Barro-Gordon model analyzed earlier.
+"In periods prior to T, however, the government’s policy choice a¤ects its future"
+"reputation, and it may therefore beneﬁt a wet government to choose a zero rate of"
+"inﬂation in order to build a reputation as a dry government. Thus, equilibrium may"
+consist of an initial series of periods in which the wet government mimics the dry
+"government, and inﬂation is zero. For suitable values of the parameters, the sequen-tial equilibrium concept that Backus and Dri‰ll employed also leads to mixed strat-"
+egies in which the wet government inﬂates with some probability. So the wet
+"government randomizes; if the outcome calls for it to inﬂate, the government is"
+"revealed as wet, and from then on, inﬂation is equal to al. If it doesn’t inﬂate, the"
+public updates its beliefs about the government’s type using Bayes’s rule.
+Ball (1995) developed a model of inﬂation persistence based on the same notion of
+"central bank types used by Backus and Dri‰ll (1985) and Barro (1986). That is, onetype, type D, always sets inﬂation equal to zero, whereas type Wacts opportunisti-"
+cally to minimize the expected discounted value of a quadratic loss function of theform
+19. Vickers (1986) assumed that the types di¤er with respect to the weight placed on inﬂation in the loss
+"function. In Tabellini (1988) the ‘‘tough’’ type has l¼0 (i.e., no weight on output), while the ‘‘weak’’ type"
+is characterized by a l>0. Cukierman and Liviatan (1991) assumed that the types di¤er in their ability to
+commit.7.3 Solutions to the Inﬂation Bias 291

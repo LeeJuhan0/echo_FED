@@ -1,0 +1,48 @@
+﻿Content
+"Finally, by developing a linear approximation to the basic money-in-the-utility"
+"function model (augmented to include a labor supply choice), it was shown how the"
+e¤ects of variations in the growth rate of the money supply on the short-run dynamic
+adjustment of the economy depended on the e¤ect of money holdings on the mar-
+ginal utility of consumption and leisure.
+2.7 Appendix: Solving the MIU Model
+"The basic MIU model will be linearized around the nonstochastic steady state, so the"
+ﬁrst task is to derive the steady-state equilibrium. Setting all shocks to zero and all
+"endogenous variables equal to constants, and using the functional forms assumed"
+"for production and utility, the Euler condition, the deﬁnition of the real return, theproduction function, the capital accumulation equation, and the goods market clear-"
+ing condition imply
+l
+ss¼bð1þrssÞlss)1þrss¼1
+b;
+rss¼ayss
+kss/C18/C19
+/C0d)yss
+kss/C18/C19
+¼1
+a/C18/C191
+b/C01þd/C18/C19
+yss¼ðkssÞaðnssÞ1/C0a)nss
+kss¼yss
+kss/C18/C191=ð1/C0aÞ
+¼1
+b/C01þd
+a !1=ð1/C0aÞ
+xss¼kss/C0ð1/C0dÞkss¼dkss)xss
+kss¼d
+css¼yss/C0xss)css
+kss¼yss
+kss/C18/C19
+/C0d¼1a/C18/C19
+1
+b/C01þð1/C0aÞd/C20/C21
+:
+These ﬁve equations pin down the steady-state values of the real return as well as the
+"steady-state ratios of output, employment, investment, and consumption to the capi-"
+tal stock.
+"In the text, the intensive production function was deﬁned as"
+fkss
+nss/C18/C19
+¼kss
+nss/C18/C19a
+:
+"Then yss=nss¼fðkss=nssÞ,css¼yss/C0dkss¼½f/C0dðkss=nssÞ/C138nss¼fnss. Section 2.5.2"
+"also made use of the fact that since y¼f¼fn,fn¼f/C0ðkss=nssÞf0.76 2 Money-in-the-Utility Function"

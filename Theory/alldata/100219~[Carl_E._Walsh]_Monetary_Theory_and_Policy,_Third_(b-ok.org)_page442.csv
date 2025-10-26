@@ -1,0 +1,43 @@
+﻿Content
+"Notice that (9.42) can be written as rt¼AEtrtþ1þvt, where 0 <A<1a n d vtis"
+"white noise, since the disturbances are assumed to be serially uncorrelated and the"
+same will be true of the inﬂation forecast errors under rational expectations. It fol-
+lows that E trtþ1¼0 in any no-bubbles solution. The expected future real exchange
+rate would be nonzero if either the aggregate demand or aggregate supply shockswere serially correlated.
+Now the expression for the equilibrium real exchange rate can be substituted into
+the aggregate supply relationships (9.35) and (9.36) to yield
+y
+t¼b2A1ðpt/C0Et/C01ptÞþb2A2ðp/C3
+t/C0Et/C01p/C3
+tÞ
+/C0a2A3Etrtþ1þA1etþA2e/C3
+tþA3ðut/C0u/C3
+tÞð 9:43Þ
+y/C3
+t¼b2A2ðpt/C0Et/C01ptÞþb2A1ðp/C3
+t/C0Et/C01p/C3
+tÞ
+þa2A3Etrtþ1þA2etþA1e/C3
+t/C0A3ðut/C0u/C3
+tÞ: ð9:44Þ
+TheAiparameters are given by
+A1¼2a1þa2þb1ð1þa3Þ
+B>0
+A2¼b1ð1þa3Þ
+B>0
+A3¼b1
+B>0:
+Equations (9.43) and (9.44) reveal the spillover e¤ects through which the inﬂation
+choice of one economy a¤ects the other economy when b2A200. An increase in in-
+ﬂation in the home economy (assuming it is unanticipated) leads to a real deprecia-
+tion. This occurs because unanticipated inﬂation leads to a home output expansion
+(see (9.35)). Equilibrium requires a rise in demand for home country production. In
+"the closed economy, this occurs through a fall in the real interest rate. In the open"
+"economy, an additional channel of adjustment arises from the role of the real ex-"
+"change rate. Given that E trtþ1¼0, the interest parity condition (9.39) becomes rt¼"
+r/C3
+"t/C0rt, so for given r/C3"
+"t, the fall in rtrequires a rise in rt(a real depreciation), which"
+also serves to raise home demand.
+"The rise in rtrepresents a real appreciation for the foreign economy, and this"
+"raises consumer price wages relative to producer price wages and increases aggregateoutput in the foreign economy (see (9.36)). As a result, an expansion in the home9.3 Policy Coordination 417"

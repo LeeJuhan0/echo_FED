@@ -1,0 +1,38 @@
+﻿Content
+It can also be helpful to have an analytic solution to a model; often explicit solu-
+tions help to indicate whether simulation results are likely to be sensitive to parame-
+ter values and to highlight directly the mechanisms through which changes in the
+processes followed by the exogenous variables lead to e¤ects on the endogenous vari-
+ables and to alterations in the equilibrium decision rules of the agents in the model.
+"In addition, easily adaptable programs for solving linear dynamic stochastic rational-expectations models are now freely available. 37"
+This section develops a linearized version of an MIU model that also incorporates
+"a labor-leisure choice. This introduces a labor supply decision into the analysis, an"
+"important and necessary extension for studying business cycle ﬂuctuations, since em-"
+ployment variation is an important characteristic of cycles. It is also important to
+allow for uncertainty by adding exogenous shocks that disturb the system from its
+"steady-state equilibrium. The two types of shocks considered are productivity shocks,"
+"the driving force in real-business-cycle models, and shocks to the growth rate of the"
+nominal stock of money.
+2.5.1 The Decision Problem
+The household’s problem is conveniently expressed using the value function. In
+"studying a similar problem without a labor-leisure choice (see section 2.2), the state"
+could be summarized by the resource variable o
+tthat included current income.
+"When the household chooses how much labor to supply, current income is no longerpredetermined from the perspective of the household’s choices of money, bonds, and"
+"capital investment. Consequently, income (output) y"
+tcannot be part of the state vec-
+"tor for period t. Instead, let"
+at¼ttþ½ ð1þit/C01Þ=ð1þptÞ/C138bt/C01þ½1=ð1þptÞ/C138mt/C01
+be the household’s real ﬁnancial wealth plus transfer at the start of period twhere
+"bt/C01andmt/C01are real bond and money balances at the end of the previous period,"
+andttis the real transfer payment received at the start of period t;ptis the inﬂation
+rate. Deﬁne the value function Vðat;kt/C01Þas the maximum present value of utility
+"the household can achieve if the current state is ðat;kt/C01Þ, where kt/C01is the per capita"
+(or household) stock of capital at the start of the period. If ntdenotes the fraction of
+"time the household devotes to market employment (so that nt¼1/C0lt, where ltis the"
+"fraction of time spent in leisure activities), output per household ytis given by"
+yt¼fðkt/C01;nt;ztÞ:
+"37. For example, Matlab programs provided by Harald Uhlig can be obtained from hhttp://www.wiwi"
+.hu-berlin.de/wpol/html/toolkit.htm iand Paul So ¨derlind’s Gauss and Matlab programs are available at
+hhttp://home.datacomm.ch/paulsoderlind/ i. Dynare for Matlab is available at hhttp://www.cepremap
+.cnrs.fr/dynare/ i.62 2 Money-in-the-Utility Function

@@ -1,0 +1,32 @@
+﻿Content
+a.Calculate the response of the output gap and inﬂation to a serially uncorrelated
+"positive cost shock for f¼0;0:25;0:5;0:75, and 1 under the optimal discretionary"
+policy.
+b.Now do the same for the optimal commitment policy.
+"c.Discuss how the di¤erences between commitment and discretion depend on f,t h e"
+weight on lagged inﬂation in the inﬂation adjustment equation.
+17.Suppose
+pt/C0gpt/C01¼bðEtptþ1/C0gptÞþkxtþet
+et¼0:25et/C01þet;
+and the period loss function is
+Lt¼ðpt/C0gpt/C01Þ2þ0:25x2
+t:
+a.Analytically ﬁnd the optimal targeting rule under discretion.
+b.Analytically ﬁnd the optimal targeting rule under commitment (timeless
+perspective).
+c.How do the volatilities of inﬂation and the output gap depend on the value of g?
+Explain.d.How does the unconditional expected value of the loss function depend on g?
+Explain.18.Suppose the inﬂation equation contains lagged inﬂation:
+p
+t¼ð1/C0fÞbEtptþ1þfpt/C01þkxtþet:
+a.Show that the optimal commitment policy from a timeless perspective is
+ptþðl=kÞ½xt/C0ð1/C0fÞxt/C01/C0bfEtxtþ1/C138¼0:
+b.Show that the unconditional optimal commitment policy takes the form
+ptþðl=kÞ½xt/C0bð1/C0fÞxt/C01/C0fEtxtþ1/C138¼0:
+"19.The following model has been estimated by Linde ´(2002), although the values"
+here are from Svensson and Williams (2005):
+pt¼0:4908E tptþ1þð1/C00:4908Þpt/C01þ0:0081ytþep
+t
+yt¼0:4408E tytþ1þð1/C00:4408Þ½1:1778yt/C01þð1/C01:1778Þyt/C02/C138
+/C00:0048ðit/C0Etptþ1Þþey
+t8.7 Problems 393

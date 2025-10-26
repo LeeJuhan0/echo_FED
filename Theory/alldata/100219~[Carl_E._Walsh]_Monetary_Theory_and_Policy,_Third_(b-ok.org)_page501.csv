@@ -1,0 +1,37 @@
+﻿Content
+where etis independently and identically distributed as a normal mean zero unit vari-
+"ance process, where Sis a 2 /C22 nonsingular matrix. Assume further that one can"
+"write the short-term interest rate itas a function of the two factors. Speciﬁcally,"
+it¼d0þd1Ft: ð10:31Þ
+"Finally, assume the prices of risk associated with each factor are linear functions of"
+"the two factors, so that if Li;tis the price of risk associated with conditional volatility"
+"of factor i,"
+Lt¼LL;t
+LS;t/C20/C21
+¼l0þl1Ft: ð10:32Þ
+"Ifitis the return on a one-period bond, than the structure given by (10.30)–(10.32),"
+"together with the assumption that no-arbitrage opportunities exist, allows one to price"
+"longer-term bonds. In particular, if bj;tis the log price of a j-period nominal bond,"
+one can show that
+bj;t¼AjþBjFt;
+where
+A1¼/C0d0;B1¼/C0d1;
+"and for j¼2;...;J,"
+Ajþ1/C0Aj¼Bjð/C0Sl0Þþ1
+2BjSS0BjþA1
+Bjþ1¼Bjðr/C0Sl1ÞþB1:
+Empirical research aimed at estimating this type of no-arbitrage model generally
+"ﬁnds that one factor a¤ects yields at all maturities and so is called the level factor,"
+whereas the other factor a¤ects short and long rates di¤erently and so is called the
+slope factor.
+The macroﬁnance literature has attempted to identify the level and slope factors
+"with macroeconomic factors. For example, in new Keynesian models, the short-"
+term interest rate is often represented in terms of a Taylor rule of the form
+it¼r/C3þpT
+tþapðpt/C0pT
+tÞþaxxt;
+where pT
+"tis the central bank’s inﬂation target and xtis the output gap. In this case,"
+changes in the inﬂation target should a¤ect nominal interest rates at all maturities
+"by altering inﬂation expectations. Thus, it would seem to be a prime candidate for"
+the level factor. The slope factor might then be capturing the central bank’s policy476 10 Financial Markets and Monetary Policy

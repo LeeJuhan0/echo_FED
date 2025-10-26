@@ -1,0 +1,47 @@
+﻿Content
+"(2001b) argued that the e¤ects arising with nonseparable utility are quite small, so"
+that little is lost by assuming separability. Ireland (2001c) ﬁnds little evidence for
+nonseparable preferences in a model estimated on U.S. data.
+"The quantity of money is not totally absent from the underlying model, since (8.8)"
+also must hold in equilibrium. Linearizing this equation around the steady state
+yields24
+^m mt/C0^p pt¼1
+biss/C18/C19
+ðs^y yt/C0^{ {tÞ: ð8:30Þ
+"Given the nominal interest rate chosen by the monetary policy authority, this equa-tion determines the nominal quantity of money. Alternatively, if the policymaker sets"
+"the nominal quantity of money, then (8.20), (8.24), and (8.30) must all be used to"
+solve jointly for x
+"t,pt, and ^{ {t."
+Chapter 10 discusses the role of credit channels in the monetary transmission
+process.
+8.3.5 Adding Economic Disturbances
+"As the model consisting of (8.20) and (8.24) stands, there are no underlying non-"
+policy disturbances that might generate movements in either the output gap or inﬂa-
+"tion other than the productivity disturbance that a¤ects the ﬂexible-price outputlevel. It is common, however, to include in these equations stochastic disturbances"
+arising from other sources.
+Suppose the representative household’s utility from consumption is subject to ran-
+"dom shocks that alter the marginal utility of consumption. Speciﬁcally, let the utility"
+function in (8.1) be modiﬁed to include a taste shock c:
+E
+tXy
+i¼0biðctþiCtþiÞ1/C0s
+1/C0sþg
+1/C0bMtþi
+Ptþi/C18/C191/C0b
+/C0wN1þh
+tþi
+"1þh""#"
+: ð8:31Þ
+The Euler condition (8.7) becomes
+c1/C0s
+tC/C0s
+t¼bð1þitÞEtðPt=Ptþ1Þðc1/C0s
+tþ1C/C0s
+tþ1Þ;
+"which, when linearized around the zero inﬂation steady state yields"
+^c ct¼Et^c ctþ1/C01
+s/C18/C19
+ð^{ {t/C0Etptþ1Þþs/C01
+s/C18/C19
+ðEtctþ1/C0ctÞ: ð8:32Þ
+24. See the chapter 2 appendix.8.3 A Linearized New Keynesian Model 347

@@ -1,0 +1,45 @@
+﻿Content
+10.Suppose that the private sector forms expectations according to
+pe
+t¼p/C3ifpt/C01¼pe
+t/C01
+pe
+t¼alk otherwise :
+If the central bank’s objective function is the discounted present value of the single-
+"period loss function given by (7.2), and its discount rate is b, what is the minimum"
+value of p/C3that can be sustained in equilibrium?
+11.(Based on Cukierman and Liviatan 1991) Assume that there are two central bank
+"types with common preferences given by (7.1), but type Dalways delivers what it"
+"announces, whereas type Wacts opportunistically. Assume that output is given by"
+"(7.3), with e10. Using a two-period framework, show how output behaves under"
+each type in (a) a pooling equilibrium and (b) a separating equilibrium. Are thereany values of bsuch that welfare is higher if a type Wcentral bank is setting policy?
+12.Suppose there are two possible policymaker types: a commitment type ðCÞwhose
+"announced target represents a commitment, and an opportunistic type ðOÞwho is"
+not necessarily bound by the target. The objective of both types is to maximize
+Aðp
+1/C0pe
+1Þ/C0p2
+1
+2þbAðp2/C0pe
+2Þ/C0p2
+2
+2/C20/C21
+; ð7:28Þ
+where pjand pe
+"j,j¼1;2 are actual and expected inﬂation in period jrespectively,"
+"0aba1 is a discount factor, and Ais a positive parameter. Assume that the type"
+in o‰ce in the ﬁrst period remains in o‰ce also in the second period. The public
+"does not know which type is in o‰ce but believes, at the beginning of period 1, that"
+the probability that a preannounced inﬂation target has been issued by type Cis
+0ap1a1 (this is the ﬁrst-period reputation of policymakers). The timing of moves
+"within each period is as follows. First, the policymaker in o‰ce announces the inﬂa-"
+tion target for that period. Then inﬂationary expectations are formed. Following
+"that, the policymaker picks the actual rate of inﬂation."
+"a.Derive the policy plans of each of the two types, when in o‰ce, in the second pe-"
+riod. What is the intuition underlying your answer?b.Letp
+2be the reputation of policymakers at the beginning of the second period.
+Find (and motivate) an expression for the public’s (rational) expectation of inﬂation
+for that period.
+"c.Derive the policy plans of each of the two types, when in o‰ce, in the ﬁrst period,"
+and explain your results intuitively.d.What is the relationship between second- and ﬁrst-period reputations in equilib-
+rium? Why?7.6 Problems 327

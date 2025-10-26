@@ -1,0 +1,37 @@
+﻿Content
+Et/C01ptand the monetary authority in setting its policy instrument must act prior to
+observing the current values of the disturbances.
+a.Calculate the expected loss function if itis used as the policy instrument. (Hint:
+"Given the objective function, the instrument will always be set to ensure that"
+expected inﬂation is equal to zero.)
+b.Calculate the expected loss function if mtis used as the policy instrument.
+c.How does the instrument choice comparison depend on
+"i.the relative variances of the aggregate supply, demand, and money demand"
+disturbances?ii.the weight on stabilizing output ﬂuctuations l?
+8.Using the intermediate target model of section 11.3.3 and the loss function
+"(11.15), rank the policies that set i"
+"tequal to ^{ {t,iT"
+"t, and ^{ {tþm/C3xt."
+"9.Show that if the nominal interest rate is set according to (11.17), the expected"
+value of the nominal money supply is equal to ^m mgiven in (11.19).
+10.Suppose the central bank is concerned with minimizing the expected value of a
+loss function of the form
+L¼EðTRÞ2þwEðifÞ2;
+which depends on the variances of innovations to total reserves and the funds rate
+"(wis a positive parameter). Using the reserve-market model of this chapter, ﬁnd the"
+values of fdand fbthat minimize this loss function. Are there conditions under
+which a pure nonborrowed reserves or a pure borrowed reserves operating procedurewould be optimal?
+11.Assume i
+d¼ifþsin (11.27) where sis a penalty for discount window borrow-
+ing. How does this modiﬁcation change (11.27)? How are (11.30)–(11.32) a¤ected?
+How does the Fed’s operating procedure a¤ect the interpretation of movements in
+"nonborrowed reserves, borrowed reserves, and the federal funds rate as measures ofmonetary policy shocks?"
+12.Suppose the central bank operates a channel system of the sort analyzed in sec-
+"tion 11.4.3 with s¼0:50 (i.e., 50 basis points). Assume end-of-day bank settlement"
+"balances are Tþe, where eis normally distributed with mean zero and variance s"
+2.
+The supply of settlement balances is ﬁxed at Tand the target interest rate is i/C3.
+a.Explain how the equilibrium market interest rate is a¤ected by an increase in s2.
+b.Explain how the equilibrium market interest rate is a¤ected by an increase in s.
+c.Explain why i/C3is not a complete description of monetary policy under a channel
+system unless sis also known.11.7 Problems 557

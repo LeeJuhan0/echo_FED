@@ -1,0 +1,36 @@
+﻿Content
+"If this equation is linearized around the steady state, one obtains"
+rtþEtptþ1/C0Etmtþ1¼{/C0Etmtþ1¼0;
+"where E tmtþ1is the expected growth rate of money. In this formulation, while real"
+"money balances are determined ðmt¼ctÞ, there are many nominal money supply"
+"processes consistent with equilibrium, as long as they all generate the same expected"
+rate of nominal money growth.
+The price level is indeterminate under such an interest rate–pegging policy (see sec-
+"tion 10.2.1). However, assuming that Ptis predetermined because of price level sticki-"
+ness still allows the money demand equation and the Fisher equation to determine
+Ptþ1andmt(and so the implied nominal supply of money) without a¤ecting the real
+"equilibrium determined by the Euler condition. In that sense, Carlstrom and Fuerst(1997) concluded that there exists a path for the nominal money supply in the face of"
+price stickiness that leads to the same real equilibrium under an interest rate peg as
+would occur with a ﬂexible price level.
+Carlstrom and Fuerst (1995) provided some simulation evidence to suggest that
+nominal interest rate pegs dominate constant money growth rate policies. While this
+suggests that a constant nominal interest rate peg is desirable within the context of
+"their model, Carlstrom and Fuerst did not explicitly derive the optimal policy. In-stead, their argument was based on quite di¤erent grounds than the traditional Poole"
+"(1970) argument for an interest rate–oriented policy. 7In Poole’s analysis, stabilizing"
+"the interest rate served to insulate the real economy from purely ﬁnancial distur-bances. In contrast, Carlstrom and Fuerst appealed to standard tax-smoothing argu-"
+"ments to speculate, based on intertemporal tax considerations, that an interest rate"
+peg might be optimal (see chapter 4).
+"The tax-smoothing argument for an interest rate peg is suggestive, but it is unlikely"
+"to be robust in the face of ﬁnancial market disturbances. For example, in an analysis"
+"of optimal policy deﬁned as money growth rate control, Ireland (1996) introduceda stochastic velocity shock by assuming the CIA constraint applies to only a time-"
+varying fraction v
+"tof all consumption. In this case, the CIA constraint takes the"
+"form PtvtctaQt, where Qtis the nominal quantity out of which cash goods must be"
+purchased. It is straightforward to show that the Euler condition must be modiﬁed in
+this case to become
+ucðctÞ
+1þvtit¼bEtRtucðctþ1Þ
+1þvtþ1itþ1/C18/C19
+:
+7. See chapter 11 for a discussion of Poole’s analysis of the choice of monetary policy operating proce-
+dures.460 10 Financial Markets and Monetary Policy

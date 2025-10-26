@@ -1,0 +1,39 @@
+﻿Content
+"rate, borrowed reserves fall to zero in this range, so that total reserve supply is just"
+"NBR. As the funds rate increases above the discount rate, borrowings become posi-"
+tive (see (11.27)) and the total supply of reserves increases. Total reserve demand is
+decreasing in the funds rate according to (11.25).
+"Consider ﬁrst a positive realization of the policy shock vs. The e¤ects on if, BR,"
+and NBR can be found from the ﬁrst column of the matrix Ain (11.34). The policy
+shock increases nonborrowed reserves (think of it as initiating an open market pur-
+"chase that increases banking sector reserve assets). In ﬁgure 11.1, the reserve supply"
+curve shifts to the right horizontally by the amount of the increase in NBR. Given
+"the borrowed reserves and total reserve demand functions, this increase in reserve"
+supply causes the funds rate to fall. Bank borrowing from the Fed decreases because
+"the relative cost of borrowed reserves ðid/C0ifÞhas risen, partially o¤setting some of"
+the increase in total reserve supply. 36A policy shock is associated with an increase in
+"total reserves, a fall in the funds rate, and a fall in borrowed reserves."
+"It is the response to nonpolicy disturbances that will di¤er, depending on the oper-"
+ating procedures (see the second and third columns of the matrix A; the elements of
+these columns depend on the fjparameters). Suppose there is a positive disturbance
+"to total reserve demand, vd>0. This shifts total reserve demand to the right. In the"
+"absence of any policy response (i.e., if fd¼0), the funds rate increases. This increase"
+"reduces total reserve demand (if a>0), o¤setting to some degree the initial increase"
+in reserve demand. The rise in the funds rate induces an increase in reserve supply as
+banks increase their borrowing from the Fed. Under a funds rate operating proce-
+"dure, however, fd¼1; the Fed lets nonborrowed reserves rise by the full amount of"
+the rise in reserve demand to prevent the funds rate from rising. Both reserve demandand reserve supply shift to the right by the amount of the disturbance to reserve
+"demand, and the new equilibrium is at an unchanged funds rate. Thus, total reservedemand shocks are completely accommodated under a funds rate procedure. If the"
+positive reserve demand shock originated from an increase in the demand for bank
+"deposits as a result of an economic expansion, a funds rate procedure automatically"
+accommodates the increase in money demand and has the potential to produce pro-
+cyclical movements of money and output.37
+"In contrast, under a total reserves operating procedure, the Fed would adjust non-"
+borrowed reserves to prevent v
+"dfrom a¤ecting total reserves. From (11.32), this"
+requires that fd¼/C0b=a; nonborrowed reserves must be reduced in response to a
+"36. This analysis assumes that the discount rate has not changed; the Fed could, for example, change the"
+discount rate to keep if/C0idconstant and keep borrowed reserves unchanged. Since the total supply of
+"reserves has increased, the funds rate must fall, so this would require a cut in the discount rate."
+37. Since operating procedures have been deﬁned in terms of the innovations to reserves and the funds
+"rate, nothing has been said about the extent to which the funds rate might be adjusted in subsequentperiods to o¤set movements in reserve demand induced by output or inﬂation.11.4 Operating Procedures and Policy Measures 541"

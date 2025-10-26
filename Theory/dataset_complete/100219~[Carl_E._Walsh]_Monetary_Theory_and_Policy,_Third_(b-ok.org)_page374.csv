@@ -1,0 +1,49 @@
+﻿Content
+By keeping current and expected future output equal to the ﬂexible-price equilibrium
+"level, E t^x xtþi¼0 for all i, and inﬂation remains equal to zero. Blanchard and Galı ´"
+"(2007) described this as the ‘‘divine coincidence.’’ However, if an error term is addedto the inﬂation adjustment equation so that"
+p
+t¼bEtptþ1þkxtþet; ð8:34Þ
+then
+pt¼kXy
+i¼0biEtxtþiþXy
+i¼0biEtetþi:
+As long asPy
+"i¼0biEtetþi00, maintainingPyi¼0biEtxtþi¼0 is not su‰cient to en-"
+sure that inﬂation always remains equal to zero. A trade-o¤ between stabilizing out-
+put and stabilizing inﬂation can arise. Disturbance terms in the inﬂation adjustment
+equation are often called cost shocks orinﬂation shocks . Since these shocks ultimately
+"a¤ect only the price level, they are also called price shocks ."
+"Clarida, Galı ´, and Gertler (2001) suggested one means of introducing a sto-"
+chastic shock into the inﬂation adjustment equation. They added a stochastic wage
+markup to represent deviations between the real wage and the marginal rate of sub-
+"stitution between leisure and consumption. Thus, the labor supply condition (8.9)"
+becomes
+wNh
+t
+C/C0s
+t/C18/C19
+emw
+t¼Wt
+Pt;
+where mw
+tis a random disturbance.25 This could arise from shifts in tastes that a¤ect
+"the marginal utility of leisure. Or, if labor markets are imperfectly competitive, it"
+"could arise from stochastic shifts in the markup of wages over the marginal rate ofsubstitution (Clarida, Galı ´, and Gertler 2002). Having linearized around the steady"
+"state, one obtains"
+h^n n
+tþs^c ctþmw
+t¼^w wt/C0^p pt: ð8:35Þ
+The real marginal cost variable becomes
+"25. With the utility function given in (8.31), this becomes"
+wNh
+t
+C/C0s
+t/C18/C19emw
+t
+c1/C0s
+t !
+¼Wt
+Pt;
+showing that mw
+ta¤ects the labor market condition in a manner similar to a taste shock.8.3 A Linearized New Keynesian Model 349

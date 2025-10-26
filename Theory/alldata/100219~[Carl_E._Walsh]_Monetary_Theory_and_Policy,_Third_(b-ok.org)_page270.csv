@@ -1,0 +1,41 @@
+﻿Content
+"data on price changes (see section 6.3.1), TDP models were seen as adequate for"
+modeling aggregate phenomena. SDP models are closely related to Ss models of in-
+ventory behavior; as long as the ﬁrm’s price remains in a region close to the optimal
+"price, no adjustment occurs, but whenever the price hits an upper (S) or lower (s)"
+"boundary of this region, the ﬁrm changes its price. Ss models have proven di‰cult"
+"to aggregate, so SDP models generally impose assumptions on the distribution of ad-justment costs or the distribution of shocks to obtain tractable solutions."
+"Dotsey, King, and Wolman"
+"Dotsey, King, and Wolman (1999) assumed that ﬁrms face a cost of price adjustment"
+that is stochastic and di¤ers across ﬁrms and time. Each period ﬁrms receive a new
+"realization of the cost. Thus, expected costs are the same for all ﬁrms, so each ﬁrm"
+"that does decide to adjust its price will choose the same price. Dotsey, King, and"
+Wolman (DKW) deﬁne a vintage jﬁrm as a ﬁrm that last adjusted its price jperiods
+ago. Let y
+jtbe the fraction of ﬁrms of vintage j. Since all vintage jﬁrms adjusted at
+"the same time, they all have the same price. Among the ﬁrms of vintage j, there will"
+be a critical ﬁxed cost such that all ﬁrms with smaller ﬁxed costs adjust and thosewith larger ﬁxed costs do not. Let a
+jtbe the fraction of vintage jﬁrms that adjust
+"price. Then, in period tþ1, the fraction of ﬁrms that become vintage jþ1 is equal"
+to 1/C0ajttimes the fraction that were of vintage jin period t:
+yjþ1;tþ1¼ð1/C0ajtÞyjt1ojt;
+and the fraction of all ﬁrms that do adjust in period tis equal to
+o0t¼XJ
+j¼1ajtyjt;
+where Jis the maximum number of periods any ﬁrm has not adjusted its price.25
+Prices of each vintage jare weighted by ojtin forming the aggregate average price
+level.
+"Letvj;tbe the value function for a ﬁrm of vintage jat time t. Then, the value func-"
+"tions for ﬁrms that do adjust their price at time t,v0;t, takes the form"
+v0;t¼max
+P/C3
+t/C26
+½P/C3
+t/C0PtVt/C138Pt
+P/C3
+t/C20/C211=ð1/C0qÞ
+YtþbEtð1/C0a1;tþ1Þv1;tþ1
+þbEta1;tþ1v0;tþ1/C0bEtX1;tþ1/C27
+;
+"25. In the Calvo model, ajt¼1/C0ofor all jandt, and J¼y. In the Taylor model, Jis equal to the"
+length of the longest contract.6.2 Sticky Prices and Wages 245

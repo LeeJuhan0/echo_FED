@@ -1,0 +1,27 @@
+﻿content
+"The Model
+To build the model of the small open economy, we take three assumptions from
+Chapter 3:
+n The economy’s output Y is fixed by the factors of production and the
+production function. We write this as
+Y 5 Y– 5 F(K–
+, L–
+).
+n Consumption C is positively related to disposable income Y 2 T.
+We write the consumption function as
+C 5 C(Y 2 T ).
+n Investment I is negatively related to the real interest rate r. We write the
+investment function as
+I 5 I(r).
+These are the three key parts of our model. If you do not understand these
+relationships, review Chapter 3 before continuing.
+We can now return to the accounting identity and write it as
+NX 5 (Y 2 C 2 G) 2 I
+NX 5 S 2 I.
+Substituting the Chapter 3 assumptions recapped above and the assumption that
+the interest rate equals the world interest rate, we obtain
+NX 5 [Y
+– 2 C(Y
+– 2 T ) 2 G] 2 I(r∗)
+5 S
+– 2 I(r∗)."

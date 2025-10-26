@@ -1,0 +1,48 @@
+﻿Content
+it¼/C01/C0g
+1það1/C0gÞ/C20/C21
+mtþ1
+1þa/C18/C19
+ð2qtþvtÞ; ð10:23Þ
+and the two-period nominal rate is
+It¼1
+2ðitþEtitþ1Þ
+¼12/C01/C0g2
+1það1/C0gÞ/C20/C21
+mtþ1
+1þa/C18/C19
+ð2qtþvtÞ/C26/C27
+: ð10:24Þ
+Equation (10.24) illustrates how the long-term rate depends on the money supply
+"process, where this process is characterized in this example by the parameter g."
+"From (10.24), the impact of an innovation to mt(i.e., a jshock) on the current"
+long rate is equal to
+/C01
+21/C0g2
+1það1/C0gÞ/C20/C21
+<0;
+which depends on the parameter g. The greater the degree of serial correlation in the
+"money supply process (the larger is g), the smaller the e¤ect in absolute value on itof"
+"a change in mt. The e¤ect of a money innovation on the slope of the term structure,"
+"It/C0it, is equal to1"
+"2ð1/C0gÞ2=½1það1/C0gÞ/C138, and this also depends on g. High persis-"
+tence in the money supply process produces a ﬂatter term structure. To take the ex-
+"treme case, suppose g¼1; the nominal money supply follows a random walk with"
+innovation jt. An innovation implies a permanent change in the level of the money
+supply. This causes a proportionate change in the price level (the coe‰cient on mtin
+"(10.22) is equal to 1 if g¼1), but there is no impact on the expected rate of inﬂation."
+"With the real rate exogenous, the nominal interest rate adjusts only in response to"
+"changes in expected inﬂation, so with g¼1, changes in mhave no e¤ect on the nom-"
+"inal interest rate. If g<1, an unexpected increase in mcauses the expectation of a"
+subsequent decline in mand p. It is this expectation of a deﬂation that lowers the
+nominal rate of interest.
+"Similarly, the impact of real interest rate disturbances on nominal rates will de-"
+"pend on the money supply process if policy responds to real disturbances. If, for ex-"
+"ample, the money supply process is modiﬁed to become mt¼mt/C01þcqt/C01þjtso"
+"that the growth rate of mtdepends on the real rate shock, it can be shown that the"
+equilibrium short-term rate is
+it¼2þc
+1þa/C18/C19
+qtþ1
+1þa/C18/C19
+vt:10.3 The Term Structure of Interest Rates 469

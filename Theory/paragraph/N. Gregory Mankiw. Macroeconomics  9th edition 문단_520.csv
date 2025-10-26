@@ -1,0 +1,42 @@
+﻿content
+"Allowing for a changing level of technology adds another term to our equation accounting for economic growth:
+_
+DY
+Y
+5 a
+_
+DK
+K
+ (1  a) _
+DL
+L
+
+_
+DA
+A
+
+Growth in Contribution Contribution Growth in Total
+Output 5 of Capital  of Labor  Factor Productivity
+.
+CHAPTER 9 Economic Growth II: Technology, Empirics, and Policy | 273
+This is the key equation of growth accounting. It identifies and allows us to measure the three sources of growth: changes in the amount of capital, changes in the amount of labor, and changes in total factor productivity.
+Because total factor productivity is not directly observable, it is measured indirectly. We have data on the growth in output, capital, and labor; we also have data on capital’s share of output. From these data and the growth-accounting equation, we can compute the growth in total factor productivity to make sure that everything adds up:
+_
+DA
+A
+5
+_
+DY
+Y
+ a
+_
+DK
+K
+ (1  a) _
+DL
+L
+.
+DA/A is the change in output that cannot be explained by changes in inputs.
+Thus, the growth in total factor productivity is computed as a residual—that is,
+as the amount of output growth that remains after we have accounted for the determinants of growth that we can measure directly. Indeed, DA/A is sometimes called the Solow residual, after Robert Solow, who first showed how to compute it.18
+Total factor productivity can change for many reasons. Changes most often arise because of increased knowledge about production methods, so the Solow residual is frequently used as a measure of technological progress. Yet other factors, such as education and government regulation, can affect total factor productivity as well. For example, if higher public spending raises the quality of education, then workers may become more productive and output may rise, which implies higher total factor productivity. In another example, if government regulations require firms to purchase capital to reduce pollution or increase worker safety, then the capital stock may rise without any increase in measured output, which implies lower total factor productivity. Total factor productivity captures anything that changes the relation between measured inputs and measured output."

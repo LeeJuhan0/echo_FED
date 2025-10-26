@@ -1,0 +1,30 @@
+﻿content
+"The traditional analysis of operating procedures focuses on volatility; the operating
+procedure adopted by the central bank a¤ects the way disturbances influence the
+variability of output, prices, real interest rates, and monetary aggregates. The average values of these variables, however, is treated as independent of the choice
+of operating procedure. Canzoneri and Dellas (1998) showed that the choice of
+procedure can have a sizable e¤ect on the average level of the real rate of interest
+by a¤ecting the variability of aggregate consumption.
+The standard Euler condition relates the current marginal utility
+of consumption
+to the expected real return and the future marginal utility of consumption:
+11.3 The Instrument Choice Problem 529
+ucðctÞ 1⁄4 bRftEtucðctþ1Þ;
+where b is the discount factor, Rft is the gross risk-free real rate of return, and ucðctÞ
+is the marginal utility of consumption at time t. The right side of this expression can
+be written as
+bRftEtucðctþ1ÞAbRftucðEtctþ1Þ þ 1
+2
+bRftucccðEtctþ1Þ Vartðctþ1Þ;
+where uccc is the third derivative of the utility function and Vartðctþ1Þ is the conditional variance of ctþ1. If the variance of consumption di¤ers under alternative monetary policy operating procedures, then either the marginal utility of consumption
+must adjust (i.e., consumption will change) or the risk-free real return must change.
+Because the expected real interest rate can be expressed as the sum of the risk-free
+rate and a risk premium, average real interest rates will be a¤ected if the central
+bank’s operating procedure a¤ects Rft or the risk premium.
+Canzoneri and Dellas developed a general equilibrium model with nominal wage
+rigidity and simulated the model under alternative operating procedures (interest rate
+targeting, money targeting, and nominal income targeting). They found that real interest rates, on average, are highest under a nominal interest rate targeting procedure. To understand why, suppose the economy is subject to money demand shocks.
+Under a procedure that fixes the nominal money supply, such shocks induce a positive correlation between consumption (output) and inflation. This generates a negative risk premium (when consumption is lower than expected, the ex post real return
+is high because inflation is lower than expected). A nominal interest rate procedure
+accommodates money demand shocks and so results in a higher average risk premium. By calibrating their model and conducting simulations, Canzoneri and Dellas
+concluded that the choice of operating procedure can have a significant e¤ect on average real interest rates."

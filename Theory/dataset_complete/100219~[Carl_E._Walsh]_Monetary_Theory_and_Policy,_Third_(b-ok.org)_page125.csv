@@ -1,0 +1,37 @@
+﻿Content
+PtctaMt/C01þTt;
+"where cis real consumption, Pis the aggregate price level, and Tis the nominal"
+"lump-sum transfer. In real terms,"
+ctaMt/C01
+PtþTt
+Pt¼mt/C01
+1þptþtt; ð3:16Þ
+"where mt/C01¼Mt/C01=Pt/C01,pt¼ðPt=Pt/C01Þ/C01 is the inﬂation rate, and tt¼Tt=Pt."
+Note the timing: Mt/C01refers to nominal money balances chosen by the agent in pe-
+riodt/C01 and carried into period t. The real value of these balances is determined by
+"the period tprice level Pt. Since we have assumed away any uncertainty, the agent"
+knows Ptat the time Mt/C01is chosen. This speciﬁcation of the CIA constraint assumes
+that income from production during period twill not be available for consumption
+purchases until period tþ1.
+"The budget constraint, in nominal terms, is"
+Ptot1Ptfðkt/C01Þþð1/C0dÞPtkt/C01þMt/C01þTtþð1þit/C01ÞBt/C01
+bPtctþPtktþMtþBt; ð3:17Þ
+"where otis the agent’s time treal resources, consisting of income generated during"
+"period tfðkt/C01Þ, the undepreciated capital stock ð1/C0dÞkt/C01, money holdings, the"
+"transfer from the government, and gross nominal interest earnings on the agent’s"
+"t/C01 holdings of nominal one-period bonds, Bt/C01. Physical capital depreciates at the"
+"rate d. These resources are used to purchase consumption, capital, bonds, and nomi-"
+nal money holdings that are then carried into period tþ1. Dividing through by the
+"time tprice level, the budget constraint can be rewritten in real terms as"
+ot1fðkt/C01Þþð 1/C0dÞkt/C01þttþmt/C01þð1þit/C01Þbt/C01
+1þptbctþmtþbtþkt;ð3:18Þ
+where mandbare real cash and bond holdings. Note that real resources available to
+the representative agent in period tþ1 are given by
+otþ1¼fðktÞþð1/C0dÞktþttþ1þmtþð1þitÞbt
+1þptþ1: ð3:19Þ
+The period tgross nominal interest rate 1 þitdivided by 1 þptþ1is the gross real
+rate of return from period ttotþ1 and can be denoted by 1 þrt¼ð1þitÞ=
+"ð1þptþ1Þ. With this notation, (3.19) can be written as"
+otþ1¼fðktÞþð1/C0dÞktþttþ1þð1þrtÞat/C0it
+1þptþ1/C18/C19
+mt;100 3 Money and Transactions

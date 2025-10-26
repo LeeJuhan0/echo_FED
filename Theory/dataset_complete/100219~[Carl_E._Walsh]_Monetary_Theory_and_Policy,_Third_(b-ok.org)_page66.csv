@@ -1,0 +1,31 @@
+﻿Content
+"steady state, we will study the dynamic properties implied by a stochastic version of"
+"the model, a version that also includes uncertainty, a labor-leisure choice, and vari-"
+able employment.
+2.2.1 Steady-State Equilibrium
+Consider the properties of this economy when it is in a steady-state equilibrium with
+n¼0 and the nominal supply of money growing at the rate y. Let the superscript ss
+"denote values evaluated at the steady state. The steady-state, constant values of con-sumption, the capital stock, real money balances, inﬂation, and the nominal interestrate must satisfy the ﬁrst-order necessary conditions for the household’s decision"
+"problem given by (2.6)–(2.8), the economywide budget constraint, and the speciﬁca-"
+tion of the exogenous growth rate of M. Note that with real money balances con-
+"stant in the steady state, it must be that the prices are growing at the same rate asthe nominal stock of money, or p"
+"ss¼y.13Using (2.10) to eliminate VoðossÞ, the"
+equilibrium conditions can be written as
+ucðcss;mssÞ/C0b½fkðkssÞþ1/C0d/C138ucðcss;mssÞ¼0 ð2:14Þ
+1þiss
+1þy/C0½fkðkssÞþ1/C0d/C138¼0 ð2:15Þ
+umðcss;mssÞ/C0b½fkðkssÞþ1/C0d/C138ucðcss;mssÞþbucðcss;mssÞ
+1þy¼0 ð2:16Þ
+fðkssÞþtssþð1/C0dÞkssþmss
+1þy¼cssþkssþmss; ð2:17Þ
+"where oss¼fðkssÞþtssþð1/C0dÞkssþmss=ð1þpÞ. In (2.14)–(2.17), use has been"
+"made of the fact that in the equilibrium of this representative agent model, b¼0."
+Equation (2.15) is the steady-state form of the Fisher relationship linking real and
+nominal interest rates. This can be seen by noting that the real return on capital (net
+"of depreciation) is rss1fkðkssÞ/C0d, so (2.15) can be written as"
+1þiss¼ð1þrssÞð1þyÞ¼ð 1þrssÞð1þpssÞ: ð2:18Þ
+Notice that in (2.14)–(2.17) money appears only in the form of real money bal-
+"ances. Thus, any change in the nominal quantity of money that is matched by a pro-"
+"portional change in the price level, leaving mssunchanged, has no e¤ect on the"
+economy’s real equilibrium. This is described by saying that the model exhibits
+"13. If the population is growing at the rate n, then 1 þpss¼ð1þyÞ=ð1þnÞ.2.2 The Basic MIU Model 41"

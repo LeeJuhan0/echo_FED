@@ -1,0 +1,174 @@
+﻿id,paragraph
+1,"The index of leading indicators is far from a precise forecast of the future, as
+short-run economic fluctuations are largely unpredictable. Nonetheless, the
+index is a useful input into planning by both businesses and the government."
+2,"10-2 Time Horizons in Macroeconomics
+Now that we have some sense about the facts that describe short-run economic
+fluctuations, we can turn to our basic task in this part of the book: building a
+theory to explain these fluctuations. That job, it turns out, is not a simple one.
+It will take us not only the rest of this chapter but also the next four chapters to
+develop the model of short-run fluctuations in its entirety.
+Before we start building the model, however, let’s step back and ask a fundamental question: Why do economists need different models for different time
+horizons? Why can’t we stop the course here and be content with the classical
+models developed in Chapters 3 through 9? The answer, as this book has consistently reminded its reader, is that classical macroeconomic theory applies to the
+long run but not to the short run. But why is this so?"
+3,"How the Short Run and the Long Run Differ
+Most macroeconomists believe that the key difference between the short run
+and the long run is the behavior of prices. In the long run, prices are flexible and
+can respond to changes in supply or demand. In the short run, many prices are “sticky” at
+some predetermined level. Because prices behave differently in the short run than
+in the long run, various economic events and policies have different effects over
+different time horizons.
+To see how the short run and the long run differ, consider the effects of a
+change in monetary policy. Suppose that the Federal Reserve suddenly reduces
+the money supply by 5 percent. According to the classical model, the money
+supply affects nominal variables—variables measured in terms of money—but
+not real variables. As you may recall from Chapter 5, the theoretical separation of real and nominal variables is called the classical dichotomy, and the
+irrelevance of the money supply for the determination of real variables is
+called monetary neutrality. Most economists believe that these classical ideas
+describe how the economy works in the long run: a 5 percent reduction in
+the money supply lowers all prices (including nominal wages) by 5 percent,
+while output, employment, and other real variables remain the same. Thus, in
+the long run, changes in the money supply do not cause fluctuations in output
+and employment."
+4,"In the short run, however, many prices do not respond to changes in monetary policy. A reduction in the money supply does not immediately cause all
+firms to cut the wages they pay, all stores to change the price tags on their
+goods, all mail-order firms to issue new catalogs, and all restaurants to print
+new menus. Instead, there is little immediate change in many prices; that is,
+290 | PART IV Business Cycle Theory: The Economy in the Short Run
+many prices are sticky. This short-run price stickiness implies that the short-run
+impact of a change in the money supply is not the same as the long-run impact.
+A model of economic fluctuations must take into account this short-run
+price stickiness. We will see that the failure of prices to adjust quickly and
+completely to changes in the money supply (as well as to other exogenous
+changes in economic conditions) means that, in the short run, real variables
+such as output and employment must do some of the adjusting instead."
+5,"In other words, during the time horizon over which prices are sticky, the
+classical dichotomy no longer holds: nominal variables can influence real
+variables, and the economy can deviate from the equilibrium predicted by
+the classical model."
+6,"If You Want to Know Why Firms Have Sticky
+Prices, Ask Them
+How sticky are prices, and why are they sticky? In an intriguing study, economist
+Alan Blinder attacked these questions directly by surveying firms about their
+price-adjustment decisions.
+Blinder began by asking firm managers how often they changed prices.
+The answers, summarized in Table 10-1, yielded two conclusions. First, sticky
+prices are common. The typical firm in the economy adjusts its prices once or
+twice a year. Second, there are large differences among firms in the frequency of
+price adjustment. About 10 percent of firms changed prices more often than once
+a week, and about the same number changed prices less often than once a year."
+7,"CASE STUDY
+Frequency Percentage of Firms
+Less than once 10.2
+Once 39.3
+1.01 to 2 15.6
+2.01 to 4 12.9
+4.01 to 12 7.5
+12.01 to 52 4.3
+52.01 to 365 8.6
+More than 365 1.6
+Data from: Alan S. Blinder, “On Sticky Prices: Academic Theories Meet the Real World,”
+in N. G. Mankiw, ed., Monetary Policy (Chicago: University of Chicago Press, 1994),
+117–154, Table 4.1.
+The Frequency of Price Adjustment
+This table is based on answers to the question: How often do the prices of your most
+important products change in a typical year?"
+8,"TABLE 10-1
+CHAPTER 10 Introduction to Economic Fluctuations | 291
+Blinder then asked the firm managers why they didn’t change prices more
+often. In particular, he explained to the managers several economic theories of
+sticky prices and asked them to judge how well each of these theories described
+their firms. Table 10-2 summarizes the theories and ranks them by the percentage
+of managers who accepted the theory as an accurate description of their firms’
+pricing decisions. Notice that each of the theories was endorsed by some of the
+managers, but each was rejected by a large number as well. One interpretation is
+that different theories apply to different firms, depending on industry characteristics, and that price stickiness is a macroeconomic phenomenon without a single
+microeconomic explanation."
+9,"Firms hold back on price changes, waiting for others to go first
+Cost-based pricing with lags: 55.5
+Price increases are delayed until costs rise
+Delivery lags, service, etc.: 54.8
+Firms prefer to vary other product attributes, such as delivery lags, service,
+or product quality
+Implicit contracts: 50.4
+Firms tacitly agree to stabilize prices, perhaps out of “fairness” to customers
+Nominal contracts: 35.7
+Prices are fixed by explicit contracts
+Costs of price adjustment: 30.0
+Firms incur costs of changing prices
+Procyclical elasticity: 29.7
+Demand curves become less elastic as they shift in
+Pricing points: 24.0
+Certain prices (like $9.99) have special psychological significance
+Inventories: 20.9
+Firms vary inventory stocks instead of prices
+Constant marginal cost: 19.7
+Marginal cost is flat and markups are constant
+Hierarchical delays: 13.6
+Bureaucratic delays slow down decisions
+Judging quality by price: 10.0
+Firms fear customers will mistake price cuts for reductions in quality
+Data from: Alan S. Blinder, “On Sticky Prices: Academic Theories Meet the Real World,” in N. G. Mankiw, ed., Monetary
+Policy (Chicago: University of Chicago Press, 1994), 117–154, Tables 4.3 and 4.4.
+Theories of Price Stickiness
+TABLE 10-2
+292 | PART IV Business Cycle Theory: The Economy in the Short Run
+The Model of Aggregate Supply and
+Aggregate Demand"
+10,"How does the introduction of sticky prices change our view of how the economy works? We can answer this question by considering economists’ two favorite
+words—supply and demand.
+In classical macroeconomic theory, the amount of output depends on the
+economy’s ability to supply goods and services, which in turn depends on the
+supplies of capital and labor and on the available production technology. This
+is the essence of the basic classical model in Chapter 3, as well as of the Solow
+growth model in Chapters 8 and 9. Flexible prices are a crucial assumption of
+classical theory. The theory posits, sometimes implicitly, that prices adjust to
+ensure that the quantity of output demanded equals the quantity supplied.
+The economy works quite differently when prices are sticky. In this case, as
+we will see, output also depends on the economy’s demand for goods and services. Demand, in turn, depends on a variety of factors: consumers’ confidence
+about their economic prospects, firms’ perceptions about the profitability of new
+investments, and monetary and fiscal policy. Because monetary and fiscal policy
+can influence demand, and demand in turn can influence the economy’s output
+over the time horizon when prices are sticky, price stickiness provides a rationale
+for why these policies may be useful in stabilizing the economy in the short run."
+11,"In the rest of this chapter, we begin developing a model that makes these
+ideas more precise. The place to start is the model of supply and demand, which
+we used in Chapter 1 to discuss the market for pizza. This basic model offers
+some of the most fundamental insights in economics. It shows how the supply
+and demand for any good jointly determine the good’s price and the quantity
+sold, as well as how shifts in supply and demand affect the price and quantity. We
+now introduce the “economy-size” version of this model—the model of aggregate
+supply and aggregate demand. This macroeconomic model allows us to study how
+the aggregate price level and the quantity of aggregate output are determined
+in the short run. It also provides a way to contrast how the economy behaves in
+the long run and how it behaves in the short run."
+12,"Although the model of aggregate supply and aggregate demand resembles the
+model of supply and demand for a single good, the analogy is not exact. The model
+of supply and demand for a single good considers only one good within a large
+economy. By contrast, as we will see in the coming chapters, the model of aggregate supply and aggregate demand is a sophisticated model that incorporates the
+interactions among many markets. In the remainder of this chapter we get a first
+glimpse at those interactions by examining the model in its most simplified form.
+Our goal here is not to explain the model fully but, instead, to introduce its key
+elements and illustrate how it can help explain short-run economic fluctuations."
+13,"To read more about this study, see Alan S. Blinder, “On Sticky Prices: Academic Theories Meet the Real World,” in N. G. Mankiw, ed., Monetary Policy (Chicago: University of Chicago Press, 1994), 117–154. For more recent evidence about the frequency of price adjustment, see Emi Nakamura and Jón Steinsson, “Five Facts About Prices: A Reevaluation of Menu Cost Models,” Quarterly Journal of Economics, 123, no. 4 (November 2008): 1415–1464. Nakamura and Steinsson examine the microeconomic data that underlie the consumer and producer price indexes. They report that, including temporary sales, 19 to 20 percent of prices change every month. If sales are excluded, however, the frequency of price adjustment falls to about 9 to 12 percent per month. This latter finding is broadly consistent with Blinder’s conclusion that the typical firm adjusts its prices about once a year."
+14,CHAPTER 10 Introduction to Economic Fluctuations | 293 supply and aggregate demand. This macroeconomic model allows us to study how the aggregate price level and the quantity of aggregate output are determined in the short run. It also provides a way to contrast how the economy behaves in the long run and how it behaves in the short run.
+15,"Although the model of aggregate supply and aggregate demand resembles the model of supply and demand for a single good, the analogy is not exact. The model of supply and demand for a single good considers only one good within a large economy. By contrast, as we will see in the coming chapters, the model of aggregate supply and aggregate demand is a sophisticated model that incorporates the interactions among many markets. In the remainder of this chapter we get a first glimpse at those interactions by examining the model in its most simplified form. Our goal here is not to explain the model fully but, instead, to introduce its key elements and illustrate how it can help explain short-run economic fluctuations."
+16,"10-3 Aggregate Demand Aggregate demand (AD) is the relationship between the quantity of output demanded and the aggregate price level. In other words, the aggregate demand curve tells us the quantity of goods and services people want to buy at any given level of prices. We examine the theory of aggregate demand in detail in Chapters 11 through 13. Here we use the quantity theory of money to provide a simple, although incomplete, derivation of the aggregate demand curve."
+17,"The Quantity Equation as Aggregate Demand Recall from Chapter 5 that the quantity theory says that MV 5 PY, where M is the money supply, V is the velocity of money, P is the price level, and Y is the amount of output. If the velocity of money is constant, then this equation states that the money supply determines the nominal value of output, which in turn is the product of the price level and the amount of output."
+18,"When interpreting this equation, it is useful to recall that the quantity equation can be rewritten in terms of the supply and demand for real money balances: M/P 5 (M/P ) d 5 kY, where k 5 1/V is a parameter representing how much money people want to hold for every dollar of income. In this form, the quantity equation states that the supply of real money balances M/P equals the demand for real money balances (M/P ) d and that the demand is proportional to output Y. The velocity of money V is the flip side of the money demand parameter k. The assumption of constant velocity is equivalent to the assumption of a constant demand for real money balances per unit of output."
+19,"294 | PART IV Business Cycle Theory: The Economy in the Short Run FIGURE 10-5 The Aggregate Demand Curve The aggregate demand curve AD shows the relationship between the price level P and the quantity of goods and services demanded Y. It is drawn for a given value of the money supply M. The aggregate demand curve slopes downward: the higher the price level P, the lower the level of real balances M/P, and therefore the lower the quantity of goods and services demanded Y."
+20,"Price level, P Income, output, Y Aggregate demand, AD If we assume that velocity V is constant and the money supply M is fixed by the central bank, then the quantity equation yields a negative relationship between the price level P and output Y. Figure 10-5 graphs the combinations of P and Y that satisfy the quantity equation holding M and V constant. This downward-sloping curve is called the aggregate demand curve."
+21,"Why the Aggregate Demand Curve Slopes Downward As a strictly mathematical matter, the quantity equation explains the downward slope of the aggregate demand curve very simply. The money supply M and the velocity of money V determine the nominal value of output PY. Once PY is fixed, if P goes up, Y must go down."
+22,"action requires more dollars, so the number of transactions and thus the quantity of goods and services purchased must fall. We can also explain the downward slope of the aggregate demand curve by thinking about the supply and demand for real money balances. If output is higher, people engage in more transactions and need higher real balances M/P. For a fixed money supply M, higher real balances imply a lower price level. Conversely, if the price level is lower, real money balances are higher; the higher level of real balances allows a greater volume of transactions, which means a greater quantity of output is demanded."
+23,"CHAPTER 10 Introduction to Economic Fluctuations | 295 Shifts in the Aggregate Demand Curve The aggregate demand curve is drawn for a fixed value of the money supply. In other words, it tells us the possible combinations of P and Y for a given value of M. If the Fed changes the money supply, then the possible combinations of P and Y change, which means the aggregate demand curve shifts."
+24,"For example, consider what happens if the Fed reduces the money supply. The quantity equation, MV 5 PY, tells us that the reduction in the money supply leads to a proportionate reduction in the nominal value of output PY. For any given price level, the amount of output is lower, and for any given amount of output, the price level is lower. As in Figure 10-6 panel (a), the aggregate demand curve relating P and Y shifts inward."
+25,"The opposite occurs if the Fed increases the money supply. The quantity equation tells us that an increase in M leads to an increase in PY. For any given price level, the amount of output is higher, and for any given amount of output, the price level is higher. As shown in Figure 10-6 panel (b), the aggregate demand curve shifts outward."
+26,"Although the quantity theory of money provides a very simple basis for understanding the aggregate demand curve, be forewarned that reality is more complicated. Fluctuations in the money supply are not the only source of fluctuations in aggregate demand. Even if the money supply is held constant, the aggregate demand curve shifts if some event causes a change in the velocity of money. Over the next two chapters, we develop a more general model of aggregate demand, called the IS–LM model, which will allow us to consider many possible reasons for shifts in the aggregate demand curve."
+27,"FIGURE 10-6 Shifts in the Aggregate Demand Curve Changes in the money supply shift the aggregate demand curve. In panel (a), a decrease in the money supply M reduces the nominal value of output PY. For any given price level P, output Y is lower. Thus, a decrease in the money supply shifts the aggregate demand curve inward from AD1 to AD2. In panel (b), an increase in the money supply M raises the nominal value of output PY. For any given price level P, output Y is higher. Thus, an increase in the money supply shifts the aggregate demand curve outward from AD1 to AD2."
+28,"Price level, P Price level, P Income, output, Y Income, output, Y (a) Inward Shifts in the Aggregate Demand Curve AD2 AD1 Reductions in the money supply shift the aggregate demand curve to the left. (b) Outward Shifts in the Aggregate Demand Curve AD1 AD2 Increases in the money supply shift the aggregate demand curve to the right."
+29,"296 | PART IV Business Cycle Theory: The Economy in the Short Run 10-4 Aggregate Supply By itself, the aggregate demand curve does not tell us the price level or the amount of output that will prevail in the economy; it merely gives a relationship between these two variables. To accompany the aggregate demand curve, we need another relationship between P and Y that crosses the aggregate demand curve—an aggregate supply curve. The aggregate demand and aggregate supply curves together pin down the economy’s price level and quantity of output."
+30,"Aggregate supply (AS) is the relationship between the quantity of goods and services supplied and the price level. Because the firms that supply goods and services have flexible prices in the long run but sticky prices in the short run, the aggregate supply relationship depends on the time horizon. We need to discuss two different aggregate supply curves: the long-run aggregate supply curve LRAS and the short-run aggregate supply curve SRAS. We also need to discuss how the economy makes the transition from the short run to the long run."
+31,"The Long Run: The Vertical Aggregate Supply Curve Because the classical model describes how the economy behaves in the long run, we derive the long-run aggregate supply curve from the classical model. Recall from Chapter 3 that the amount of output produced depends on the fixed amounts of capital and labor and on the available technology. To show this, we write Y 5 F(K –, L –) 5 Y –. According to the classical model, output does not depend on the price level. To show that output is fixed at this level, regardless of the price level, we draw a vertical aggregate supply curve, as in Figure 10-7. In the long run, the intersection of the aggregate demand curve with this vertical aggregate supply curve determines the price level."
+32,"If the aggregate supply curve is vertical, then changes in aggregate demand affect prices but not output. For example, if the money supply falls, the aggregate demand curve shifts downward, as in Figure 10-8. The economy moves from the old intersection of aggregate supply and aggregate demand, point A, to the new intersection, point B. The shift in aggregate demand affects only prices."
+33,"The vertical aggregate supply curve satisfies the classical dichotomy because it implies that the level of output is independent of the money supply. This long-run level of output, Y –, is called the full-employment, or natural, level of output. It is the level of output at which the economy’s resources are fully employed or, more realistically, at which unemployment is at its natural rate."

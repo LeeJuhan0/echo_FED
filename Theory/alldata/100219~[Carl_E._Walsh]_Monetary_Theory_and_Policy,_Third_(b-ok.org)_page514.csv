@@ -1,0 +1,37 @@
+﻿Content
+occurs only when the borrower defaults—in which case the lender takes over the en-
+tire project’s return—and for rationing to arise in some equilibria.
+10.5.4 Agency Costs
+"Adverse selection, moral hazard, and monitoring costs all arise as important factors"
+in any relationship in which a principal delegates decision-making authority to an
+"agent. In credit markets, the lender delegates to a borrower control over resources."
+The inability to monitor the borrower’s actions or to share the borrower’s informa-
+tion gives rise to agency costs. Bernanke and Gertler (1989) and Gertler (1988) em-phasized the role of agency costs that make external funding sources more expensive
+"for ﬁrms than internal sources. As a consequence, a ﬁrm’s balance sheet plays a role"
+"in a¤ecting the cost of ﬁnance. In recessions, internal sources of funds decline, forc-"
+ing ﬁrms to turn to external sources. But the deterioration of the ﬁrm’s balance sheet
+"worsens the agency problems and increases the cost of external funds, thereby further"
+"contracting investment spending and contributing to the recession. Thus, credit con-"
+ditions can play a role in amplifying the impact of other shocks to the economy and
+a¤ecting their propagation throughout the economy and through time.
+"In the model of Bernanke and Gertler (1989), ﬁrms are assumed to be able to ob-"
+serve the outcome of their own investment projects costlessly; others must incur amonitoring cost to observe project outcomes. Firms and lenders are assumed to be
+"risk-neutral. Firms are indexed by e‰ciency type o, distributed uniformly on ½0;1/C138."
+More e‰cient types (ones with low o) need to invest fewer inputs in a given project.
+"Projects themselves require inputs of xðoÞ, yielding gross payo¤ k"
+1with probability
+"p1, and k2>k1with probability p2¼1/C0p1. The function xð:Þis increasing in o."
+"The expected project return, p1k1þp2k2, will be denoted k. The realized outcome"
+of a particular project can be observed costlessly by the ﬁrm undertaking the projectand at cost cby others. Firms are assumed to have internal sources of ﬁnancing
+"equal to S;Sis assumed to be less than xð0Þ, so that even the most e‰cient ﬁrm"
+"must borrow to undertake a project. Finally, let rdenote the opportunity cost of"
+funds to lenders; ﬁrms that do not undertake a project also receive this rate on their
+funds. 32
+"If lenders could observe project outcomes costlessly, equilibrium would involve"
+lenders’ ﬁnancing all projects whose expected payo¤ exceeds their opportunity cost
+"ofrx. Thus, all ﬁrms whose ois less than a critical value o"
+/C3deﬁned by
+k/C0rxðo/C3Þ¼0
+would receive loans. Firms with o<o/C3borrow B1xðoÞ/C0S.
+32. Bernanke and Gertler developed a general equilibrium model; here a partial equilibrium version is
+described to focus on the role played by credit market imperfections in investment decisions.10.5 Financial Frictions in Credit Markets 489

@@ -1,0 +1,53 @@
+﻿Content
+kt¼ðaþqtÞkt/C01/C0Rbt/C01
+ut: ð10:49Þ
+The numerator of this expression represents the farmer’s net worth—current output
+plus land holdings minus existing debt. With utequal to the required down payment
+"per unit of land, the farmer invests his entire net worth in purchasing new land."
+"To verify that the borrowing constraint is binding, it is necessary to show that the"
+farmer always ﬁnds it optimal to use all marketable output to purchase additional
+land (after repaying outstanding loans). Suppose instead that the farmer consumes a
+unit of output over and above ckt/C01. This yields marginal utility uc(a constant by the
+"assumption of linear utility), but by reducing the farmer’s land in period tby 1= ut,"
+this additional consumption costs
+ucbfc
+utþb2
+fa
+utc
+utþ1þbfa
+utþ1c
+utþ2þ/C1/C1/C1/C18/C19
+/C1/C1/C1/C18/C19
+/C1/C1/C1/C18/C19
+/C1/C1/C1/C18/C19/C20/C21
+since the 1 =utunits of land purchased at time twould have yielded additional con-
+sumption c=utplus marketable output a=utthat could have been used to purchase
+"more land that would have yielded c=utþ1in consumption, and so on. Each of these"
+future consumption additions must be discounted back to time tusing the farmer’s
+discount rate bf. It will be demonstrated subsequently that the steady-state value of
+"uwill be a. Making this substitution, the farmer will always prefer to use marketable"
+output to purchase land if1<b
+fc
+aþb2
+fa
+ac
+aþbfaac
+aþ/C1/C1/C1/C18/C19
+/C1/C1/C1/C18/C19
+/C1/C1/C1/C18/C19
+/C1/C1/C1/C18/C19/C20/C21
+¼bf
+1/C0bfc
+a;
+or
+aþc
+a>1
+bf>R: ð10:50Þ
+Kiyotaki and Moore assumed that cis large enough to ensure that this condition
+holds. This means farmers would always like to postpone consumption and will bor-
+"row as much as possible to purchase land. Hence, the borrowing constraint will bind."
+Equation (10.49) can be written as utkt¼ðaþqtÞkt/C01/C0Rbt/C01. But Rbt/C01¼qtkt/C01
+"from (10.48), so utkt¼akt/C01. Now using (10.47) to eliminate ut, the capital stock"
+held by farmers satisﬁes the following di¤erence equation:
+1
+RG0ðk/C0ktÞkt¼akt/C01: ð10:51Þ10.5 Financial Frictions in Credit Markets 495

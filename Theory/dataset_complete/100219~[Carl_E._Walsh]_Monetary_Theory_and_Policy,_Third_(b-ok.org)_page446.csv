@@ -1,0 +1,45 @@
+﻿Content
+"speciﬁed symmetrically, the value of the loss function will be the same for each. For"
+"the domestic economy, the expected loss when policies are coordinated is equal to"
+Lc¼1
+21
+1þlb2
+2 !
+ls2
+e:
+"When policies are determined in a Nash noncooperative equilibrium,"
+LN¼1
+21þlb2
+2A2
+1
+ð1þlb2
+"2A1Þ2""#"
+ls2
+e:
+"Because 0 <A1<1, it follows that Lc<LN; coordination achieves a better out-"
+come than occurs in the Nash equilibrium.
+This example appears to imply that coordination will always dominate noncoordi-
+nation. It is important to recall that the only source of disturbance was a common
+aggregate supply shock. The case of asymmetric shocks is addressed in problem 4 at
+"the end of this chapter. But even when there are only common shocks, coordination"
+need not always be superior. Rogo¤ (1985a) provided a counterexample. His argu-
+ment is based on a model in which optimal policy is time-inconsistent (see chapter7) but one can brieﬂy describe the intuition behind Rogo¤’s results. A coordinated
+monetary expansion leads to a larger short-run real output expansion because it avoids
+changes in the real exchange rate. But this fact increases the incentive to engineer a
+surprise monetary expansion if the policymakers believe the natural rate of output is
+"too low. Wage and price setters will anticipate this tactic, together with the asso-"
+"ciated higher inﬂation. Equilibrium involves higher inﬂation, but because it has"
+"been anticipated, output (which depends on inﬂation surprises) does not increase. Con-"
+"sequently, coordination leads to better stabilization but higher average inﬂation. If"
+"the costs of the latter are high enough, noncoordination can dominate coordination."
+The discussion of policy coordination serves to illustrate several important aspects
+"of open-economy monetary economics. First, the real exchange rate is the relativeprice of output in the two countries, so it plays an important role in equilibrating rel-"
+"ative demand and supply in the two countries. Second, foreign shocks matter for the"
+domestic economy; both aggregate supply shocks and aggregate demand shocks orig-
+inating in the foreign economy a¤ect output in the domestic economy. As (9.43) and
+"(9.44) show, however, the model implies that common demand shocks that leave"
+u/C0u
+/C3una¤ected have no e¤ect on output levels or the real exchange rate. Since
+"these shocks do a¤ect demand in each country, a common demand shock raises realinterest rates in each country. Third, policy coordination can matter."
+"Although the two-country model of this section is useful, it has several omissions"
+"that may limit the insights to be gained from its use. First, the aggregate demandand aggregate supply relationships are not derived explicitly within an optimizing9.3 Policy Coordination 421"

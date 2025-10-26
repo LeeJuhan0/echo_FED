@@ -1,0 +1,67 @@
+﻿Content
+450 | PART V Topics in Macroeconomic Theory
+T
+"o generate this graph, we need two equations that summarize the relation-"
+ships between output Y t and inﬂation p t. These equations are derived from the 
+ﬁve equations of the model we have already seen. T o isolate the relationships 
+"between Yt and p t, however, we need to use a bit of algebra to eliminate the "
+"other three endogenous variables (r t, it, and E tpt 11)."
+The ﬁrst relationship between output and inﬂation comes almost directly 
+from the Phillips curve equation. We can get rid of the one endogenous variable 
+in the equation (E t 21pt ) by using the expectations equation ( Et 21pt 5 pt 21) to 
+"substitute past inﬂation p t 21 for expected inﬂation E t 21pt. With this substitution, "
+the equation for the Phillips curve becomes
+ pt 5 pt 21 1 f(Y t 2 Y–
+t) 1 yt. ( DAS)
+This equation relates inﬂation pt and output Yt for given values of two exogenous 
+variables (natural output Y–
+t and a supply shock yt ) and a predetermined variable 
+(the previous period’s inﬂation rate pt 21).
+Figure 15-2 graphs the relationship between inﬂation p t and output Y t 
+described by this equation. We call this upward-sloping curve the dynamic 
+"aggregate supply curve, or DAS. The dynamic aggregate supply curve is similar "
+"to the aggregate supply curve we saw in Chapter 14, except that inﬂation "
+rather than the price level is on the vertical axis. The DAS curve shows 
+how inﬂation is related to output in the short run. Its upward slope reﬂects 
+"the Phillips curve: other things equal, higher levels of economic activity are "
+"associated with higher marginal costs of production and, therefore, higher "
+inﬂation.
+"The DAS curve is drawn for given values of past inﬂation pt 21, the natural "
+level of output Y–
+"t, and the supply shock y t. If any one of these three variables "
+"changes, the DAS  curve shifts. One of our tasks ahead is to trace out the implica-"
+"tions of such shifts. But ﬁrst, we need another curve."
+The Dynamic Aggregate Supply 
+Curve The dynamic aggregate 
+supply curve DAS t shows a posi-
+tive association between output Y t 
+and inﬂation p t. Its upward slope 
+reﬂects the Phillips curve relation-
+"ship: other things equal, high levels "
+of economic activity are associated 
+with high inﬂation. The dynamic 
+aggregate supply curve is drawn for 
+"given values of past inﬂation p t21, "
+the natural level of output Y–
+"t, and "
+the supply shock y t. When these vari-
+"ables change, the curve shifts.Inflation, p"
+"Income, output, YDynamic aggregate"
+"supply, "
+DAStFIGURE 15-2
+The Dynamic Aggregate Supply 
+Curve The dynamic aggr
+egate 
+supply curve DAS t shows a posi-
+tive association between output Y t 
+and inﬂation p t. Its upward slope 
+reﬂects the Phillips curve relation-
+"ship: other things equal, high levels "
+of economic activity are associated 
+with high inﬂation. The dynamic 
+aggregate supply curve is drawn for 
+"given values of past inﬂation p t 21, "
+the natural level of output Y–
+"t, and "
+the supply shock y t. When these vari-
+"ables change, the curve shifts."

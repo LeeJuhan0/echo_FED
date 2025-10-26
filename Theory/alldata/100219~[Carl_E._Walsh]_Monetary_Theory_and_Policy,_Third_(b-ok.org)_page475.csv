@@ -1,0 +1,40 @@
+﻿Content
+rt¼Xy
+i¼0diEta2r/C3
+tþiþetþi/C0utþi
+a1þa2þb1/C18/C19
+and
+pt¼1
+1þc/C18/C19Xy
+i¼0c
+1þc/C18/C19i
+Etðmtþi/C0ztþi/C0vtþiÞ;
+"where ztþi1ytþiþð1/C0hÞrtþi/C0crtþi:Assume that r/C3¼0 for all tand that e,u, and"
+"zþvall follow ﬁrst-order autoregressive processes (e.g., et¼reet/C01þxe;tforxe"
+white noise). Let the nominal money supply be given by
+mt¼g1et/C01þg2ut/C01þg3ðzt/C01þvt/C01Þ:
+"Find equilibrium expressions for the real exchange rate, the nominal exchange rate,"
+"and the consumer price index. What values of the parameters g1,g2, and g3minimize"
+ﬂuctuations in st?i n qt?i n rt? Are there any conﬂicts between stabilizing the ex-
+change rate (real or nominal) and stabilizing the consumer price index?
+7.Equation (9.42) for the equilibrium real exchange rate in the two-country model
+"of section 9.3.1 takes the form rt¼AEtrtþ1þvt. Suppose vt¼gvt/C01þct, where ct"
+is a mean zero white noise process. Suppose the solution for rtis of the form rt¼bvt.
+Find the value of b. How does it depend on g?
+8.Section 9.5.1 demonstrated how a simple open-economy model with nominal
+price stickiness could be expressed in a form that paralleled the closed-economy new
+Keynesian model of chapter 8. Would this same conclusion result in a model ofsticky wages with ﬂexible prices? What if both wages and prices were sticky?
+9.McCallum and Nelson (2000a) proposed a new Keynesian open-economy model
+in which imported goods are only used as inputs into the production of the domestic
+good and households consumer only the domestically produced good. If e
+tis the
+"nominal exchange rate, and stis the real exchange rate, the model can be summa-"
+rized by the following equations:
+ct¼Etctþ1/C0b1½Rt/C0Etptþ1/C0rt/C138
+imt¼yt/C0sst
+ept¼y/C3
+tþs/C3st
+st¼et/C0ptþp/C3
+t
+Rt¼R/C3
+tþEtetþ1/C0et;450 9 Money and the Open Economy

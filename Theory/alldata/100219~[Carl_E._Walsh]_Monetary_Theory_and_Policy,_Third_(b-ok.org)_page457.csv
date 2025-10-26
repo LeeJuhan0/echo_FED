@@ -1,0 +1,55 @@
+﻿Content
+"simplicity, assume that all foreign goods sell for the price Pf"
+t. This speciﬁcation
+assumes complete exchange rate pass-through; given P/C3
+"t, a 1 percent change in the"
+exchange rate produces a 1 percent change in the domestic currency price of foreign
+produced goods Pf
+"t. Given the law of one price, the price levels in the domestic and"
+foreign countries are linked by
+Pc
+t¼StPc/C3
+t:
+"For the rest of the world, the distinction between the CPI and the price of domestic"
+"production is ignored, so Pc/C3"
+t¼P/C3
+t.24
+It will be useful to deﬁne the terms of trade and the real exchange rate. The terms
+of trade equal the relative price of foreign and domestic goods:
+Dt1Pf
+t
+Ph
+t¼StP/C3
+t
+Ph
+t: ð9:68Þ
+The real exchange rate is the price of foreign-produced goods (in terms of domestic
+currency) relative to the home country’s consumer price index:
+Qt¼StP/C3
+t
+Pc
+t¼Ph
+t
+Pc
+t/C18/C19
+Dt: ð9:69Þ
+"As was the case with the new Keynesian model of chapter 8, the focus will be on"
+percentage deviations around the steady state. Let lowercase letters denote percent-
+age deviation around the steady state of the corresponding uppercase letter. Then
+(9.68) and (9.69) can be expressed as
+dt¼stþp/C3
+t/C0ph
+t
+andq
+t¼stþp/C3
+t/C0pc
+t:
+"Using the deﬁnition of the terms of trade in (9.63),"
+pc
+t¼ð1/C0gÞph
+tþgpf
+t¼ph
+tþgdt: ð9:70Þ
+"Equations (9.61), (9.62), (9.65), and (9.66) can be written as"
+"24. That is, the rest of the world is large relative to the home country, so changes in the price of home-"
+produced goods have little impact on the consumer price index for the rest of the world.432 9 Money and the Open Economy

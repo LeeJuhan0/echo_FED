@@ -1,0 +1,38 @@
+﻿Content
+"case, the model consisting of (9.49)–(9.54) can be reduced to two equations involving"
+"the price level, the nominal exchange rate, and the nominal money supply (see the"
+chapter appendix for details). Equilibrium will depend on expectations of the period
+"tþ1 exchange rate, and the response of the economy to current policy actions may"
+depend on how these expectations are a¤ected.
+To determine how the exchange rate and the price level respond to monetary
+"shocks, assume a speciﬁc process for the nominal money supply. To allow for a dis-"
+"tinction between transitory and permanent monetary shocks, assume"
+mt¼mþmt/C01þjt/C0gjt/C01; 0aga1; ð9:56Þ
+"where jis a serially uncorrelated white noise process. If g¼0,mtfollows a random"
+"walk with drift m; innovations jhave a permanent impact on the level of m.I fg ¼1,"
+"the money supply is white noise around a deterministic trend. If 0 <g<1, a fraction"
+ð1/C0gÞof the innovation has a permanent e¤ect on the level of the money supply.
+"To analyze the impact of foreign price shocks on the home country, let"
+p/C3
+t¼p/C3þp/C3
+t/C01þft; ð9:57Þ
+where fis a random white noise disturbance. This allows for a constant average for-
+eign inﬂation rate of p/C3with permanent shifts in the price path due to the realizations
+off.
+"Using the method of undetermined coe‰cients, the following solutions for ptand"
+stare consistent with (9.49)–(9.54) and with rational expectations (see appendix):
+pt¼k0þmt/C01þB2½1þcð1/C0gÞ/C138
+Kjt/C0gjt/C01
+þ½ðA2/C0B2Þut/C0A2et/C0B2vt/C138
+Kð9:58Þ
+st¼d0þmt/C01/C0p/C3
+t/C01/C0ft/C0B1½1þcð1/C0gÞ/C138
+Kjt
+/C0gjt/C01þ½ðB1/C0A1ÞutþA1etþB1vt/C138
+K; ð9:59Þ
+"where A1¼h/C0a1/C0a2,A2¼1þc/C0A1>0,B1¼/C0 ð a1þa2þb1þb2Þ<0,"
+"B2¼a1þa2þb1>0, and K¼ /C0½ð 1þcÞB1þb2A1/C138. The constant k0is given by"
+k0¼ð1þcÞmþc/C0a2ð1/C0h/C0b1Þ
+a1þb1/C20/C21
+r/C3;
+andd0¼k0/C0p/C3.9.4 The Small Open Economy 425

@@ -1,0 +1,51 @@
+﻿Content
+"price level. Recall that in the closed economy, there is no distinction between the"
+price of domestic output and the general price level. Nominal price rigidities imply
+that the price level cannot adjust immediately to monetary disturbances. Exchange
+"rate movements alter the domestic currency price of foreign goods, allowing the"
+consumer price index to move in response to such disturbances even in the presence
+of nominal rigidities.
+Now suppose that in period tthe home country’s money supply rises unexpectedly
+relative to that of the foreign country. 12Under Obstfeld and Rogo¤’s simplifying as-
+"sumption that prices adjust completely after one period, both economies return to"
+their steady state one period after the change in m. But during the one period in
+"which product prices are preset, real output and consumptions levels will be af-fected. 13And these real e¤ects mean that the home country may run a current ac-"
+count surplus or deﬁcit in response to the change in m. This e¤ect on the current
+account alters the net asset positions of the two economies and can a¤ect the new
+steady-state equilibrium.
+Interpreting the model consisting of (9.11)–(9.21) as applying to deviations around
+"the initial steady state, the Euler conditions (9.16) and (9.17) imply that c"
+tþ1/C0c/C3
+tþ1¼
+ct/C0c/C3
+"t. Since the economies are in the new steady state after one period (i.e., in"
+"tþ1),ctþ1/C0c/C3"
+tþ11Cis the steady-state consumption di¤erential between the two
+countries. But since ct/C0c/C3
+t¼ctþ1/C0c/C3
+"tþ1¼Calso, this relationship implies that rela-"
+tive consumption in the two economies immediately jumps in period tto the new
+"steady-state value. Equation (9.23), which expresses relative money demands in the"
+"two economies, can then be written mt/C0m/C3"
+t/C0st¼C/C0dðstþ1/C0stÞ. Solving this
+"equation forward for the nominal exchange rate (assuming no bubbles),"
+st¼1
+1þdXy
+i¼0d
+1þd/C18/C19i
+ðmtþi/C0m/C3
+tþi/C0CÞ:
+If the change in mt/C0m/C3
+"tis a permanent one-time change, one can let W1m/C0m/C3"
+without time subscripts denote this permanent change. The equilibrium exchange
+rate is then equal to
+st¼1
+1þdXy
+i¼0d
+1þd/C18/C19i
+ðW/C0CÞ¼W/C0C: ð9:28Þ
+12. An unexpected change is inconsistent with the assumption of perfect foresight implicit in the nonsto-
+"chastic version of the model derived earlier. However, the linear approximation will continue to hold under"
+uncertainty if future variables are replaced with their mathematical expectation.
+"13. In a situation in which the economies are initially in a steady state, the preset values for pðhÞand"
+p/C3ðfÞwill equal zero.9.2 The Obstfeld-Rogo¤ Two-Country Model 409

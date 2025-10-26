@@ -1,0 +1,40 @@
+﻿Content
+"section 3.3, full e‰ciency is attained with i¼0. Then, since i¼0 maximizes welfare,"
+small deviations have small e¤ects on welfare (basically an application of the enve-
+"lope theorem). But if y<1, the equilibrium with i¼0 in the search model does not"
+"fully maximize utility. Hence, small deviations from the Friedman rule can have ﬁrst-order e¤ects on welfare. By calibrating their model, Lagos and Wright found much"
+larger welfare costs of positive nominal interest rates than other authors had found.
+The importance of the trading environment in determining the costs of inﬂation
+"was further explored by Rocheteau and Wright (2005). They compared welfare costsin three settings: a search model similar to Lagos and Wright (2005), a competitive"
+"market model, and a search model with posted prices (rather than the bilateral bar-"
+gaining of the basic search model). By allowing for endogenous determination of the
+"number of market participants, Rocheteau and Wright introduced an extensive mar-"
+gin (the e¤ects on the value of money as the number of traders varies) as well as an
+intensive margin (the e¤ects for a given number of traders as individual agent’s
+money holdings vary). The Friedman rule always ensures e‰ciency along the inten-
+"sive margin, but the extensive margin may still generate a source of ine‰ciency."
+"Interestingly, if the market makers in the competitive search version of the model in-ternalize the e¤ects of the prices they post on the number of traders they attract, the"
+model endogenously ensures that the Hosios condition is satisﬁed and the equilib-
+rium is fully e‰cient when the nominal rate of interest is zero. Lagos and Rocheteau
+(2005) explored the interactions of the pricing mechanism (bilateral bargaining
+"versus posted pricing) and found that with directed search, inﬂation can increase"
+"search intensities when inﬂation is low but reduce them when inﬂation is high. Thus,"
+"at low inﬂation rates, an increase in inﬂation can raise output, but they showed"
+that this actually reduces welfare and that the Friedman rule supports the e‰cient
+equilibrium.
+The Lagos and Wright model has only one nominal asset—money. If an interest-
+"bearing nominal asset such as a bond were introduced into the analysis, it woulddominate money whenever the nominal interest rate is positive. To explain the simul-"
+"taneous existence of interest-bearing nominal bonds and non-interest-bearing money,"
+Shi (2005) employed a model with a decentralized goods market and a centralized
+bond market but in which there are assumed to be barriers to trading across markets.
+"Households can use either bonds or money in the goods market, but only money can"
+"be used to purchase bonds. At the start of each period, the household must allocate"
+its money holdings between the two markets. Assume a fraction ais sent to the goods
+market and 1 /C0ato the bond market. Let o
+m
+tdenote the value of money at the end
+of period t. Then Shi showed that
+om
+t¼baaslm
+tþ1þbom
+tþ1;124 3 Money and Transactions

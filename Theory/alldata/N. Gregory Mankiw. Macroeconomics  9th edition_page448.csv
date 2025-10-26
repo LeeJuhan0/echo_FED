@@ -1,0 +1,45 @@
+﻿Content
+440 | PART V Topics in Macroeconomic Theory
+"In addition to placing greater emphasis on dynamics, the model differs from "
+our pre
+vious models in another signiﬁcant way: It explicitly incorporates the 
+"response of monetary policy to economic conditions. In previous chapters, we "
+followed the conventional simpliﬁcation that the central bank sets the money 
+"supply, which in turn is one determinant of the equilibrium interest rate. In the "
+"real world, however, many central banks set a target for the interest rate and allow "
+the money supply to adjust to whatever level is necessary to achieve that target. 
+"Moreover, the target interest rate set by the central bank depends on economic "
+"conditions, including both inﬂation and output. The dynamic AD –AS model "
+builds in these realistic features of monetary policy.
+"Although the dynamic AD –AS model is new to the reader, most of its com-"
+ponents are not. Many of the building blocks of this model will be familiar from 
+"previous chapters, even though they sometimes take on slightly different forms. "
+"More important, these components are assembled in new ways. Y ou can think "
+of this model as a new recipe that mixes familiar ingredients to create a surpris-
+"ingly original meal. In this case, we will mix familiar economic relationships in "
+a new way to produce deeper insights into the nature of short-run economic 
+ﬂuctuations.
+"Compared to the models in preceding chapters, the dynamic AD –AS model "
+"is closer to those studied by economists at the research frontier. Moreover, econ-"
+"omists involved in setting macroeconomic policy, including those working in "
+"central banks around the world, often use versions of this model when analyzing "
+the impact of economic events on output and inﬂation.
+ 15-1 Elements of the Model
+"Before examining the components of the dynamic AD –AS model, w e need "
+"to introduce one piece of notation: Throughout this chapter, the subscript t on "
+"a variable represents time. For example, Y is used to represent total output and "
+"national income, as it has been throughout this book. But now it takes the form "
+"Yt, which represents output in time period t. Similarly, Yt/H110021 represents output in "
+"period t /H11002 1, and Yt11 represents output in period t 1 1. This new notation will "
+allow us to keep track of variables as they change over time.
+Let’s now look at the ﬁve equations that make up the dynamic AD –AS model.
+Output: The Demand for Goods and Services
+The demand for goods and services is given by the equation
+Yt 5 Y–
+"t /H11002 a(rt /H11002 r) 1 et,"
+where Yt 
+"is the total output of goods and services, Y–"
+t is the economy’s natural 
+"level of output, rt is the real interest rate, et is a random demand shock, and a "
+and r are parameters greater than zero. This equation is similar in spirit to the 
+demand for goods and services equation in Chapter 3 and the IS equation in 

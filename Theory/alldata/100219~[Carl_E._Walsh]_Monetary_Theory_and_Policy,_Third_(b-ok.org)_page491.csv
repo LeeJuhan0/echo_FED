@@ -1,0 +1,38 @@
+﻿Content
+"hold over the n-period horizon. For example, if in;tis the nominal yield to maturity"
+"at time ton an n-period discount bond, and itis the one-period rate, the pure expec-"
+tations hypothesis in the absence of uncertainty would imply that 11
+ð1þin;tÞn¼Yn/C01
+i¼0ð1þitþiÞ:
+This condition ensures that the holding period yield on the n-period bond is equal to
+the yield from holding a sequence of one-period bonds. Taking logs of both sides and
+recalling that ln ð1þxÞAxfor small xyields a common approximation:
+in;t¼1
+nXn/C01
+i¼0itþi:
+"Since an n-period bond becomes an n/C01 period bond after one period, these two"
+relationships can also be written as
+ð1þin;tÞn¼ð1þitÞð1þin/C01;tþ1Þn/C01
+and
+in;t¼1
+n/C18/C19
+itþn/C01
+n/C18/C19
+in/C01;tþ1:
+These conditions will not hold exactly under conditions of uncertainty for two rea-
+"sons. First, if risk-neutral investors equate expected one-period returns, then the"
+"one-period rate 1 þitwill equal E tð1þin;tÞn=ð1þin/C01;tþ1Þn/C01, which, from Jensen’s"
+"inequality, is not the same as ð1þin;tÞn¼ð1þitÞEtð1þin/C01;tþ1Þn/C01.12Second, Jen-"
+sen’s inequality implies that ln E tð1þin/C01;tþ1Þis not the same as E tlnð1þin/C01;tþ1Þ.
+"These two issues are ignored, however, to illustrate the basic linkages between"
+the term structure of interest rates and monetary policy. It is su‰cient to sim-
+plify further by dealing only with one- and two-period interest rates. Letting It1i2;t
+"be the two-period rate (the long-term interest rate), the term structure equation"
+becomes
+ð1þItÞ2¼ð1þitÞð1þEtitþ1Þ; ð10:14Þ
+11. A constant risk premium could easily be incorporated. A time-varying risk premium is added to the
+analysis in section 10.3.2.
+12. Suppose Pn;tis the time tprice of an n-period discount bond. Then P/C01
+n;t¼ð1þin;tÞn. Since at time
+"tþ1 this becomes an n/C01 period bond, the one-period gross return is"
+EtPn/C01;tþ1=Pn;t¼Etð1þin;tÞn=ð1þin/C01;tÞn/C01:466 10 Financial Markets and Monetary Policy

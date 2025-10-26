@@ -1,0 +1,51 @@
+﻿Content
+"inﬂation tax, need to be modiﬁed to account for the short-run e¤ects of monetary"
+"factors on the economy. In this chapter, two such modiﬁcations were explored: infor-"
+"mational frictions, and frictions that limit the ability of some agents to adjust their"
+portfolios. Aggregate informational or portfolio frictions can allow money to have
+"real e¤ects in the short run even when prices are completely ﬂexible, but most mone-"
+tary models designed to address short-run monetary issues assume that prices and/orwages do not adjust instantaneously in response to changes in economic conditions.
+The next chapter discusses models of nominal price and wage rigidities.
+5.5 Appendix: An Imperfect-Information Model
+This appendix provides details on the derivation of equilibrium in the Lucas
+imperfect-information model of section 5.2.2. Additional details on the derivations
+employed in this appendix can be found at hhttp://people.ucsc.edu/~walshc/mtp3e i.
+"Using (5.4) to eliminate the marginal utility of consumption from (5.1)–(5.3), the"
+"equilibrium in local market i, or island i, can be represented by the following three"
+"equations, where the goods equilibrium condition y"
+i¼cihas been used:
+yi
+t¼ð1/C0aÞni
+t ð5:27Þ
+1þhnss
+1/C0nss/C18/C19/C20/C21
+ni
+t¼ð1þW1Þyi
+tþW2ðmi
+t/C0pi
+tÞð 5:28Þ
+mi
+t/C0pi
+t¼yi
+tþ1
+b/C18/C19b
+1/C0b/C18/C19
+½Eittþ1/C0ðEiptþ1/C0pi
+tÞ
+þW1Eiðytþ1/C0yi
+tÞþW2Eiðmtþ1/C0ptþ1/C0mi
+tþpi
+tÞ/C138; ð5:29Þ
+"where W1¼½jðb/C0FÞ/C0b/C138,W2¼ðb/C0FÞð1/C0jÞ, and 28"
+j1aðCssÞ1/C0b
+aðCssÞ1/C0bþð1/C0aÞ½ðM=PÞss/C1381/C0b:
+The chapter 2 appendix contains a more complete derivation of the basic MIU
+model. Equation (5.28) is derived from the condition that the marginal utility of
+"28. The parameters b,F,b, and hare from the utility function of the representative agent:"
+uC t;Mt
+Pt;1/C0Nt/C18/C19
+¼aC1/C0b
+tþð1/C0aÞMt
+Pt/C16/C171/C0b/C20/C21ð1/C0FÞ=ð1/C0bÞ
+1/C0FþC½ð1/C0NtÞ1/C0h/C138
+1/C0h:5.5 Appendix: An Imperfect-Information Model 219

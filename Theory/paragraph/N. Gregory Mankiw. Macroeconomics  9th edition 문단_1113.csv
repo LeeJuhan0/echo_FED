@@ -1,0 +1,5 @@
+﻿content
+"For simplicity, suppose also that the Fed chooses the rate of inflation. In reality, the Fed controls inflation only imperfectly through its control of the money supply. But for purposes of illustration, it is useful to assume that the Fed can control inflation perfectly.
+The Fed likes low unemployment and low inflation. Suppose that the cost of unemployment and inflation, as perceived by the Fed, can be represented as
+L(u, p) 5 u 1 g p2,
+where the parameter g represents how much the Fed dislikes inflation relative to unemployment. L(u, p) is called the loss function. The Fed’s objective is to make the loss as small as possible."

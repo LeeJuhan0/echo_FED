@@ -1,0 +1,14 @@
+﻿content
+"Calvo’s Model
+An alternative model of staggered price adjustment is due to Calvo (1983). He
+assumed that firms adjust their prices infrequently, and that opportunities to adjust
+arrive as an exogenous Poisson process. Each period, there is a constant probability
+1 o that the firm can adjust its price; the expected time between price adjustments
+is 1=ð1 oÞ.22 Because these adjustment opportunities occur randomly, the interval
+between price changes for an individual firm is a random variable.
+The popularity of the Calvo specification is due, in part, to its tractability. This
+arises from two aspects of the model. First, all firms that adjust their price at time t
+set the same prices. And since the firms that do not adjust represent a random sample
+of all firms, the average price of the firms that do not adjust is simply Pt1, last period’s average price across all firms. Thus, rather than needing to keep track of the
+prices of firms that do not adjust, one need only know the average price level in the
+previous period."

@@ -1,0 +1,36 @@
+﻿Content
+q1/C0mFþmfðoÞfðoÞ
+f0ðoÞ/C20/C21
+¼1: ð10:61Þ
+"Finally, from the constraint (10.58),"
+qigðoÞ¼i/C0n: ð10:62Þ
+"Equation (10.61) determines oas a function of the price of capital q, the distribu-"
+"tion of the shocks, and the cost of monitoring. All three of these factors are the same"
+"for all entrepreneurs, so all borrowers face the same o, justifying the dropping of the"
+"jsubscript. Writing o¼oðqÞ, investment ican be expressed using (10.62) as a func-"
+tion of qandn:
+iðq;nÞ¼1
+1/C0qgðoðqÞÞ/C20/C21
+n: ð10:63Þ
+Expected capital output is
+Isðq;nÞ¼iðq;nÞ½1/C0mFðoÞ/C138: ð10:64Þ
+"The optimal contract has been derived while taking the price of capital, q,a s"
+"given. In a general equilibrium analysis, this price must also be determined. To com-"
+"plete the model speciﬁcation, assume that ﬁrms produce output using a standard neo-classical production function employing labor and capital:"
+Y
+t¼ytFðKt;HtÞ;
+where ytis an aggregate productivity shock. Factor markets are competitive. House-
+holds supply labor and rent capital to ﬁrms. If households wish to accumulate more
+"capital, they can purchase investment goods at the price qtfrom a mutual fund that"
+lends to entrepreneurs. These entrepreneurs then create capital goods using the proj-ect technology just described and end the period by making their consumption deci-
+sion. 39This last choice then determines the net worth entrepreneurs carry into the
+following period.
+"If net worth is constant, Carlstrom and Fuerst showed, their general equilibrium"
+model can be mapped into a standard real business cycle model with capital adjust-
+39. Carlstrom and Fuerst assumed that entrepreneurs discount the future more heavily than households
+and that their utility is linear. The Euler condition for entrepreneurs is
+qt¼bgEt½qtþ1ð1/C0dÞþFKðtþ1Þ/C138qtþ1fðotþ1Þ
+1/C0qtþ1gðotþ1Þ/C20/C21
+; 0<g<1;
+where the ﬁrst term on the right side is the return to capital and the second term is the additional return on
+internal funds.500 10 Financial Markets and Monetary Policy

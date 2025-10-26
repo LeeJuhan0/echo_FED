@@ -1,0 +1,36 @@
+﻿Content
+tween price changes from around 4.5 months when sales are included to 10 months
+when they are excluded. Models such as the TDP and SDP models discussed earlier
+"focus on explaining aggregate inﬂation and ignore the role of sales. Second, one-third"
+"of nonsale price changes are price decreases. Third, the frequency of price increases is"
+"positively correlated with the inﬂation rate, whereas the frequency of price decreases"
+"and the size of price changes is not correlated with inﬂation. In fact, Nakamura andSteinsson concluded that most of the variation in the aggregate inﬂation rate can be"
+"accounted for by variations in the frequency of price increases. Fourth, the frequency"
+of price changes follows a seasonal pattern. Price changes are more common during
+"the ﬁrst quarter of the year. Fifth, the probability that the price of an item changes"
+(the hazard function) declines during the ﬁrst few months after a change in price.
+"This last fact is inconsistent with the Calvo model, which implies the probability"
+"that a ﬁrm changes its price is constant, independent of the time since the price was"
+last changed. Nakamura and Steinsson concluded that while facts one through three
+"are consistent with a standard menu cost models of price adjustment, facts four and"
+ﬁve are not.
+"Klenow and Kryvtsov (2008) found, based on U.S. CPI data, somewhat greater"
+frequency of price change (about seven months when sales are excluded) than didNakamura and Steinsson. They also found that despite the tendency for price
+"changes to be large on average, a signiﬁcant fraction of the changes are small. This"
+ﬁnding is inconsistent with a basic menu cost model with ﬁxed cost of adjustment.
+Nakamura and Steinsson (2008) reported that the distribution of price change fre-
+"quency is not symmetric; the average frequency is much higher than the median, sug-"
+"gesting that while many prices change frequently, there are some prices that remain"
+unchanged for sizable periods of time. Klenow and Kryvtsov also found that varia-
+"tions in the size of price changes, rather than variations in the fraction of prices thatchange, can account for most of the variance of aggregate inﬂation. As Nakamura"
+"and Steinsson argued, this result is consistent with their ﬁnding that the variance of"
+"aggregate inﬂation is attributable to changes in the frequency of price increases, since"
+the average size of price changes is a weighted average of the sizes of price increases
+"and decreases with weights equal to the frequency of each type of change. Thus, the"
+average size of price changes increases with an increase in the frequency of price
+increases or an increase in the average size of price increases.
+Klenow and Kryvtsov (2007) compared the ability of the Calvo and Taylor TDP
+"models and the Dotsey, King, and Wolman (DKW) and Golosov and Lucas SDP"
+models to match the empirical evidence from the CPI microeconomic data. Of six
+"microeconomic facts they considered, the Golosov-Lucas model matched all exceptthe presence of many small price changes. The DKW model was able to match this"
+"fact because it allows for a stochastic menu cost that varies across ﬁrms. Thus, some6.3 Assessing Alternatives 251"

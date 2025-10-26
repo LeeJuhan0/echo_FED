@@ -1,0 +1,41 @@
+﻿Content
+CHAPTER 6 The Open Economy | 147
+the U
+".S. real interest rate, but it would be an exaggeration to say that the U.S. real "
+interest rate is determined solely by w orld ﬁnancial markets.
+Q: So why are we assuming a small open economy?
+"A: Some nations, such as Canada and the Netherlands, are better described by "
+the assumption of a small open economy. Y et the main reason for making this 
+assumption is to develop understanding and intuition for the macroeconomics 
+of open economies. Remember from Chapter 1 that economic models are built 
+with simplifying assumptions. An assumption need not be realistic to be useful. 
+"Assuming a small open economy simpliﬁes the analysis greatly and, therefore, "
+helps clarify our thinking.
+Q: Can we relax this assumption and make the model more realistic?
+"A: Y es, we can, and we will. The appendix to this chapter (and the appendix "
+to Chapter 13) considers the more realistic and more complicated case of a large 
+open economy. Some instructors skip directly to this material when teaching 
+these topics because the approach is more realistic for economies such as that of 
+"the United States. Others think that students should walk before they run and, "
+"therefore, begin with the simplifying assumption of a small open economy."
+The Model
+"T o build the model of the small open economy, we take three assumptions from "
+Chapter 3:
+n The economy’s output Y is ﬁxed b y the factors of production and the 
+production function. We write this as
+"Y 5 Y– 5 F(K–, L–)."
+n Consumption C is positiv ely related to disposable income Y 2 T. 
+We write the consumption function as
+C 5 C(Y 2 T).
+n Investment I is negativ ely related to the real interest rate r. We write the 
+investment function as
+I 5 I(r).
+These are the three key parts of our model. If you do not understand these 
+"relationships, review Chapter 3 before continuing."
+We can now return to the accounting identity and write it as
+NX 5 (Y 2 C 2 G) 2 I
+NX 5 S 2 I.
+Substituting the Chapter 3 assumptions recapped above and the assumption that 
+"the interest rate equals the world interest rate, we obtain"
+NX 5 [Y– 2 C(Y– 2 T ) 2 G] 2 I(r ∗)
+ 5  S– 2 I(r ∗).

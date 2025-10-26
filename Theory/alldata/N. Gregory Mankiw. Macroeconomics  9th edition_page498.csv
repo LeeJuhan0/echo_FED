@@ -1,0 +1,41 @@
+﻿Content
+490 | PART V Topics in Macroeconomic Theory
+The Hypothesis
+One important reason that income varies over a person’s life is retirement. Most 
+"people plan to stop working at about age 65,"
+ and they expect their incomes 
+to fall when they retire. Y et they do not want a large drop in their standard of 
+"living, as measured by their consumption. T o maintain their level of consumption "
+"after retirement, people must save during their working years. Let’s see what this "
+motive for saving implies for the consumption function.
+"Consider a consumer who expects to live another T years, has wealth of "
+"W, and expects to earn income Y per year until he retires R years from now. "
+What level of consumption will the consumer choose if he wishes to maintain 
+a smooth level of consumption over the course of his life?
+The consumer’s lifetime resources are composed of initial wealth W and life-
+"time earnings of R 3 Y. (For simplicity, we are assuming an interest rate of zero; if "
+"the interest rate were greater than zero, we would need to take account of inter-"
+est earned on savings as well.) The consumer can divide up his lifetime resources 
+among his T remaining years of life. We assume that he wishes to achieve the 
+"smoothest possible path of consumption over his lifetime. Therefore, he divides "
+this total of W  RY equally among the T years and each year consumes
+C 5 (W  RY)/T.
+We can write this person’s consumption function as
+C 5 (1/T )W  (R/T )Y.
+"For example, if the consumer expects to live for 50 more years and work for "
+"30 of them, then T 5 50 and R 5 30, so his consumption function is"
+C 5 0.02W  0.6Y.
+This equation says that consumption depends on both income and wealth. 
+"An extra $1 of income per year raises consumption by $0.60 per year, and an "
+extra $1 of wealth raises consumption by $0.02 per year.
+"If every individual in the economy plans consumption like this, then the "
+aggregate consumption function is much the same as the individual one. In par-
+"ticular, aggregate consumption depends on both wealth and income. That is, the "
+economy’s consumption function is
+"C 5 aW  bY,"
+"where the parameter a is the marginal propensity to consume out of wealth, and "
+the parameter b is the marginal propensity to consume out of income.
+Implications
+Figure 16-10 graphs the relationship between consumption and income pre-
+dicted b
+"y the life-cycle model. For any given level of wealth W, the model yields "

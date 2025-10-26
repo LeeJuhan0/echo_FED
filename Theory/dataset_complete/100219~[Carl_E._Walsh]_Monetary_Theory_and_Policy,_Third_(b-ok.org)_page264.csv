@@ -1,0 +1,41 @@
+﻿Content
+"The average price of the ﬁnal good, expressed in terms of deviations from the steady"
+"state, is pt¼1"
+"2ðpt/C01þptÞ, where pt/C01is the price of intermediate goods set at time"
+"t/C01 and ptis the price set in period t. Similarly, E tptþ1¼12ðptþptþ1Þ. Substituting"
+these expressions into the equation for ptyields
+pt¼1
+2pt/C01þ12E
+tptþ1þðvtþEtvtþ1Þ:
+This reveals the backward-looking (via the presence of pt/C01) and forward-looking
+(via the presence of E tptþ1and E tvtþ1) nature of price adjustment.
+The variable vtis the deviation of minimized unit costs from its steady state. Sup-
+pose this is proportional to output: vt¼gyt.19If one further assumes a simple money
+"demand equation of the form mt/C0pt¼yt, then"
+pt¼12pt/C01þ12E
+tptþ1þgðytþEtytþ1Þ
+¼12pt/C01þ12E
+tptþ1þgðmt/C0ptþEtmtþ1/C0Etptþ1Þ
+¼121/C0g
+1þg/C18/C19
+ðpt/C01þEtptþ1Þþg
+1þg/C18/C19
+ðmtþEtmtþ1Þ: ð6:30Þ
+This is a di¤erence equation in p. It implies that the behavior of prices set during
+"period twill depend on prices set during the previous period, on prices expected to"
+"be set during the next period, and on the path of the nominal money supply over"
+the two periods during which ptwill be in e¤ect. For the case in which mtfollows a
+"random walk (so that E tmtþ1¼mt), the solution for ptis"
+pt¼apt/C01þð1/C0aÞmt; ð6:31Þ
+where a¼ð1/C0ﬃﬃﬃgpÞð1þﬃﬃﬃgpÞis the root less than 1 of a2/C02ð1þgÞa=ð1/C0gÞþ1¼
+"0.20Since the aggregate price level is an average of prices set at tandt/C01,"
+pt¼1
+2ðptþpt/C01Þ¼apt/C01þ12ð1/C0aÞðm
+tþmt/C01Þ: ð6:32Þ
+Taylor (1979; 1980) demonstrated that a price adjustment equation of the form
+given by (6.32) is capable of mimicking the dynamic response of U.S. prices. 21The
+"19. The coe‰cient gwill depend on the elasticity of labor supply with respect to the real wage. See Chari,"
+"Kehoe, and McGrattan (2000)."
+20. See problem 4 at the end of this chapter.
+21. Taylor’s actual model was based on nominal wage adjustment rather than price adjustment as pre-
+sented here.6.2 Sticky Prices and Wages 239

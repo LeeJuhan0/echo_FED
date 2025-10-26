@@ -1,0 +1,37 @@
+﻿Content
+"to money, requires a change in the rate of interest to induce private agents to hold"
+the new portfolio composition of bonds and money. A price level change propor-
+"tional to the change in the nominal money supply would not restore equilibrium, be-"
+cause it would not restore the original ratio of nominal bonds to nominal money.
+An important limitation of Metzler’s analysis was its dependence on portfolio be-
+havior that was not derived directly from the decision problem facing the agents ofthe model. The analysis was also limited in that it ignored the consequence for future
+"taxes of shifts in the composition of the government’s debt, a point made by Patinkin"
+(1965). It has been noted that the government’s intertemporal budget constraint
+requires the government to run surpluses in present value terms equal to its current
+outstanding interest-bearing debt. An open market purchase by the monetary au-
+"thority reduces the stock of interest-bearing debt held by the public, and this reduc-"
+tion will have consequences for future expected taxes.
+"Sargent and Wallace (1981) showed that the backing for government debt, wheth-"
+"er it is ultimately paid for by taxes or by printing money, is important in determining"
+the e¤ects of debt issuance and open market operations. This ﬁnding can be illus-
+trated following the analysis of Aiyagari and Gertler (1985). They used a two-periodoverlapping-generations model that allows debt policy to a¤ect the real intergenera-
+tional distribution of wealth. This e¤ect is absent from the representative-agent mod-
+"els used here, but the representative-agent framework can still be used to show how"
+the speciﬁcation of ﬁscal policy will have important implications for conclusions
+about the link between the money supply and the price level. 11
+"In order to focus on debt, taxes, and seigniorage, set government purchases equal"
+"to zero and ignore population and real income growth, in which case the govern-"
+ment’s budget constraint takes the simpliﬁed form
+ð1þr
+t/C01Þbt/C01¼ttþbtþst; ð4:15Þ
+with stdenoting seigniorage.
+"In addition to the government’s budget constraint, the budget constraint of the"
+representative agent must be speciﬁed. Assume that this agent receives an exogenous
+endowment yin each period and pays (lump-sum) taxes ttin period t. She also
+"receives interest payments on any government debt held at the start of the period;these payments, in real terms, are given by ð1þi"
+"t/C01ÞBt/C01=Pt, where it/C01is the nomi-"
+"nal interest rate in period t/C01,Bt/C01is the number of bonds held at the start of"
+"period t, and Ptis the period tprice level. This can be written equivalently as"
+"ð1þrt/C01Þbt/C01, where rt/C01¼ð1þit/C01Þ=ð1þptÞ/C01 is the ex post real rate of interest."
+"Finally, the agent has real money balances equal to Mt/C01=Pt¼ð1þptÞ/C01mt/C01that"
+11. See also Woodford (1995; 2001a) and section 4.5.2.4.4 Deﬁcits and Inﬂation 147

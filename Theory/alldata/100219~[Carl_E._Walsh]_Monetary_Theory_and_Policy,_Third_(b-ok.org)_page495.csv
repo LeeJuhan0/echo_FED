@@ -1,0 +1,38 @@
+﻿Content
+"Ifc>0, an increase in the real rate ðq>0Þinduces an increase in the nominal"
+money supply the following period. This increase implies that the money supply is
+"expected to grow ðEtmtþ1/C0mt¼cqt>0Þ, so expected inﬂation rises. This increases"
+the positive impact of qton the short-term nominal rate.
+"These results are illustrative, showing how interest rate responses depend on expec-"
+tations of the future money supply and consequently on the systematic behavior of
+m. The exact mechanism highlighted in these examples requires that a monetary in-
+"novation (i.e., j>0) generate an expected deﬂation in order for nominal rates to de-"
+"cline, since the real rate has been treated as exogenous."
+The dependence of interest rates and the term structure on monetary policy implies
+that the results of empirical studies of the term structure should depend on the
+"operating procedures followed by the central bank. McCallum (1994b), Rudebusch"
+"(1995), Fuhrer (1996), and Balduzzi et al. (1998) examined the connection between"
+"the Fed’s tendency to target interest rates, the dynamics of short-term interest rates,"
+and empirical tests of the expectations model of the term structure.
+This dependence can be seen most easily by employing a setup similar to that used
+"by McCallum. Consider the following two-period model of nominal interest rates inwhich, as before, Iis the two-period rate and iis the one-period rate:"
+I
+t¼1
+2ðitþEtitþ1Þþxt; ð10:25Þ
+where xis a random variable that represents a time-varying term premium. Equation
+"(10.15) implied that the pure expectations model of the term structure holds exactly,"
+without error; the term premium xintroduced in (10.25) allows for a stochastic devi-
+ation from the exact form of the expectations hypothesis. Variation in risk factorsmight account for the presence of x. Suppose further that the term premium is seri-
+ally correlated:
+x
+t¼rxt/C01þht; ð10:26Þ
+where htis a white noise process.
+Ifetþ1¼itþ1/C0Etitþ1is the expectational error in forecasting the future one-period
+"rate, (10.25) implies that"
+1
+2ðitþ1/C0itÞ¼It/C0it/C0xtþ12e
+tþ1; ð10:27Þ
+which is usually interpreted to mean that the slope coe‰cient in a regression of one-
+half the change in the short rate on the spread between the long rate and the short
+rate should equal 1. It was previously noted that actual estimates of this slope coe‰-
+cient have generally been much less than 1 and have even been negative.470 10 Financial Markets and Monetary Policy

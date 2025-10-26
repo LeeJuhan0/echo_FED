@@ -1,0 +1,35 @@
+﻿Content
+Setting DmcbðeÞequal to the optimal commitment policy DmcðeÞfor all erequires
+that the ﬁrst three terms vanish. They will vanish if tðpÞsatisﬁes
+t0¼qt
+qp¼/C0alk:
+The optimal commitment policy can therefore be implemented by the linear transfer
+function
+t¼t0/C0alkp:
+The constant t0is set to ensure that the expected return to the central bank is su‰-
+cient to ensure its participation. 34Presenting the central bank with this incentive con-
+tract achieves the dual objectives of eliminating the inﬂationary bias while still
+ensuring optimal stabilization policy in response to the central bank’s private infor-
+mation about the aggregate supply shock.
+Why does the transfer function take such a simple linear form? Recall that the
+time-consistent policy under discretion resulted in an inﬂationary bias of alk. The
+"key insight is that this is constant; it does not vary with the realization of the aggre-gate supply shock. Therefore, the incentive structure for the central bank just needs"
+to raise the marginal cost of inﬂation (from the perspective of the central bank) by aconstant amount; that is what the linear transfer function does. Because the bias is
+"independent of the realization of the underlying state of nature, it is not necessary"
+"for the government to actually verify the state, and so the presence of private infor-"
+mation about the state of the economy on the part of the central bank does not a¤ect
+the ability of the linear contract to support the optimal policy. This case contrasts
+sharply with the one in which reputation is relied upon to achieve low average inﬂa-
+tion (Canzoneri 1985).
+One interpretation of the linear inﬂation contract result is that it simply points out
+"that the Barro-Gordon framework is too simple to adequately capture importantaspects of monetary policy design. In this view, there really is a trade-o¤ between"
+"credibility and ﬂexibility, and the fact that this trade-o¤ can be made to disappear"
+so easily represents a methodological criticism of the Barro-Gordon model. 35Several
+authors have explored modiﬁcations to the Barro-Gordon model that allow this
+trade-o¤ to be reintroduced. They do so by making the inﬂation bias state-
+"dependent. In this way, the linear contract, which raises the marginal cost of inﬂation"
+"by a constant amount for all state realizations, cannot achieve the socially optimal"
+"34. This is known as the individual rationality constraint . Since qp=qm¼1, a contract of the form t0/C0akm"
+based on the observed rate of money growth would also work. Chortareas and Miller (2007) analyzed the
+case in which the government also cares about the cost of the contract.
+"35. This argument is made by Canzoneri, Nolan, and Yates (1997).304 7 Discretionary Policy and Time Inconsistency"

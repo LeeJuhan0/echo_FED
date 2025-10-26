@@ -1,0 +1,34 @@
+﻿Content
+"To complete the speciﬁcation of the model, the aggregate demand for labor given"
+by (6.26) must be equated to the aggregate labor supply derived from the outcome of
+"household choices. In the ﬂexible-price models examined so far, labor market equi-"
+librium with competitive factor markets required that the marginal rate of substitu-
+"tion between leisure and consumption be equal to the real wage, which, in turn, was"
+"equal to the marginal product of labor. With imperfect competition, (6.26) showsthat qdrives a wedge between the real wage and the marginal product of labor. 15"
+"Thus, labor market equilibrium requires that"
+Ul
+Uc¼W
+P¼qMPLaMPL : ð6:27Þ
+"If the model is linearized around the steady state, qdrops out of the labor market"
+equilibrium condition because of the way in which it enters multiplicatively.
+This example of a model of monopolistic competition assumed ﬂexible prices (and
+wages). The basic structure of this example is used to explore alternative models ofnominal rigidities.
+6.2.4 Time-Dependent Pricing (TDP) Models
+An important class of models treats the adjustment of prices (and wages) as depend-
+"ing on time but not on the state of the economy. That is, they assume the probability"
+that a ﬁrm adjusts its price does not depend on whether there have been big shocks
+since the price was last changed or whether inﬂation has been high or low since the
+"last adjustment. Instead, this probability may depend simply on how many periods"
+"since the ﬁrm last adjusted its price, or the probability of adjustment might be the"
+"same, regardless of how long it has been since the last price change or how economic"
+conditions may have changed. The Taylor model discussed earlier is an example of a
+time-dependent pricing (TDP) model. Time-dependent models of price adjustment
+"are more tractable than models in which the decision to change price depends onthe state of the economy. As a consequence, time-dependent models are very popular"
+and are the basis of most models employed for policy analysis. State-dependent mod-
+els are discussed in section 6.2.5. 16
+"The Taylor Model RevisitedTaylor (1979; 1980) argued that the presence of multiperiod nominal contracts, with"
+"only a fraction of wages or prices negotiated each period, could generate the type of"
+real output persistence in response to monetary shocks observed in the data. When
+"15. In their calibrations, Chari, Kehoe, and McGrattan used a value of 0.9 for q."
+16. The focus of this section is on models of price adjustment; similar models have been applied to explain
+the adjustment of nominal wages. Chapter 8 examines the implications of incorporating both sticky pricesand sticky wages into a general equilibrium model.6.2 Sticky Prices and Wages 237

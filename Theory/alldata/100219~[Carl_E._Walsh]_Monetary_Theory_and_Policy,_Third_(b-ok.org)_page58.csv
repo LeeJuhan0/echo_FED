@@ -1,0 +1,29 @@
+﻿Content
+2Money-in-the-Utility Function
+2.1 Introduction
+The neoclassical growth model due to Ramsey (1928) and Solow (1956) provides the
+basic framework for much of modern macroeconomics. Solow’s growth model has
+just three key ingredients: a production function allowing for smooth substitutability
+"between labor and capital in the production of output, a capital accumulation pro-"
+"cess in which a ﬁxed fraction of output is devoted to investment each period, and alabor supply process in which the quantity of labor input grows at an exogenously"
+given rate. Solow showed that such an economy would converge to a steady-state
+"growth path along which output, the capital stock, and the e¤ective supply of labor"
+all grew at the same rate.
+When the assumption of a ﬁxed savings rate is replaced by a model of forward-
+"looking households choosing savings and labor supply to maximize lifetime utility,"
+the Solow model becomes the foundation for dynamic stochastic general equilibrium
+(DSGE) models of the business cycle. Productivity shocks or other real disturbances
+"a¤ect output and savings behavior, with the resultant e¤ect on capital accumulationpropagating the e¤ects of the original shock over time in ways that can mimic some"
+features of actual business cycles (see Cooley 1995).
+"The neoclassical growth model is a model of a nonmonetary economy, and al-"
+"though goods are exchanged and transactions must be taking place, there is no me-"
+"dium of exchange—that is, no ‘‘money’’—that is used to facilitate these transactions."
+Nor is there an asset like money that has a zero nominal rate of return and is there-
+fore dominated in rate of return by other interest-bearing assets. To employ the neo-
+"classical framework to analyze monetary issues, a role for money must be speciﬁed"
+so that the agents will wish to hold positive quantities of money. A positive demand
+"for money is necessary if, in equilibrium, money is to have positive value. 1"
+1. This is just another way of saying that the money price of goods should be bounded. If the price of
+"goods in terms of money is denoted by P, then one unit of money will purchase 1 =Punits of goods. If"
+"money has positive value, 1 =P>0 and Pis bounded ð0<P<yÞ. Bewley (1983) refers to the issue of"
+why money has positive value as the Hahn problem (Hahn 1965).

@@ -1,0 +1,34 @@
+﻿Content
+output of both farmers and gatherers increases unexpectedly at time t. If the econ-
+"omy was initially at the steady state, then if Dis the productivity increase for farmers,"
+(10.49) implies
+uðktÞkt¼ðaþDaþqt/C0qssÞkss; ð10:53Þ
+"since qsskss¼Rbssfrom the borrowing constraint, and the required downpayment u"
+is written as a function of k.35Two factors are at work in determining the impact of
+"the productivity shock on the farmers’ demand for land. First, because marketable"
+"output rises by Dakss, this directly increases farmers’ demand for land. Second, the"
+term ðqt/C0qssÞkssrepresents a capital gain on existing holdings of land. Both factors
+act to increase farmers’ net worth and their demand for land.
+One way to highlight the dynamics is to examine a linear approximation to (10.53)
+around the steady state. Letting edenote the elasticity of the user cost of land uðkÞ
+"with respect to k, the left side of (10.53) can be approximated by"
+akss½1þð1þeÞ^k k/C138;
+using the fact that uðkssÞ¼aand letting ^x xdenote the percentage deviation of a vari-
+ablexaround the steady state. 36The right side is approximated by
+ðaþDaþqss^q qtÞkss:
+Equating these two and using the steady-state result that qss¼Ra=ðR/C01Þyields
+ð1þeÞ^k k¼DþR
+R/C01^q qt: ð10:54Þ
+"The capital gain e¤ect on farmers’ land purchases is, as Kiyotaki and Moore empha-"
+"sized, scaled up by R=ðR/C01Þ>1 because farmers are able to leverage their net"
+"worth. This factor can be quite large; if R¼1:05, the coe‰cient on ^q qtis 21."
+The asset price e¤ects of the temporary productivity shock reinforce the original
+"disturbance. These e¤ects also generate a channel for persistence. When more landis purchased in period t, the initial rise in aggregate output persists. 37"
+Agency Costs and General Equilibrium
+Carlstrom and Fuerst (1997) embedded a model of agency costs based on Bernanke
+and Gertler (1989) in a general equilibrium framework that can be used to investigate
+"35. Recall that ut¼G0ðk/C0ktÞ=R, from (10.47)."
+"36. The elasticity eis equal to ½u0ðkssÞkss/C138=uðkssÞ¼u0ðkssÞkss=a, where u0denotes the derivative of uwith"
+"respect to k. Since uis increasing in k/C0k,u0<0."
+"37. Recall that at the margin, farmers are more productive than gatherers; a shift of land from gatherers to"
+farmers raises total output.10.5 Financial Frictions in Credit Markets 497

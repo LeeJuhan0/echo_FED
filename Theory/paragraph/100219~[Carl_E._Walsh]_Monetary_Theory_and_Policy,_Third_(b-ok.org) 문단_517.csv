@@ -1,0 +1,13 @@
+﻿content
+"8 Assume u
+is an exogenous white noise process. Substituting this into the uncovered interest parity condition yields
+Etstþ1 1⁄4 ð1 þ mÞst þ ut þ vt; ð9:27Þ
+the solution to which is9
+st 1⁄4 1
+1 þ m
+4 5ðut þ vtÞ:
+Since this solution implies that Etstþ1 1⁄4 Etðutþ1 þ vtþ1Þ=ð1 þ mÞ 1⁄4 0, the interest parity condition is then given by
+Etstþ1 st 1⁄4 1
+1 þ m
+4 5ðut þ vtÞ 1⁄4 it i505t þ vt
+or it i505t 1⁄4 ðut mvtÞ=ð1 þ mÞ."

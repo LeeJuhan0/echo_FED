@@ -1,0 +1,62 @@
+﻿Content
+so the ﬁrst-order condition becomes
+0¼ð1/C0bÞ½bci
+t/C0bðmi
+t/C0pi
+tÞ/C138
+þbEi½ttþ1/C0ptþ1þpi
+tþW1Dctþ1þW2ðDmtþ1/C0Dptþ1Þ/C138;
+"which can be rearranged to yield (5.29), since ci¼yi."
+The nominal money supply on island iis assumed to evolve according to
+mi
+t¼rmmt/C01þvtþutþui
+t:
+The value of vis announced (or observed) at the start of period t. Individuals on is-
+land iobserve the island-speciﬁc nominal money stock mi
+t. This allows them to infer
+utþui
+"tbut not uanduiseparately. The expectation of the time tþ1 money supply,"
+"conditional on the information available on island i, will be Eimtþ1¼r2"
+mmt/C01þ
+"rmvtþrmEiut. Equating expectations with linear least-squares projections, Eiut¼"
+kðutþui
+"tÞ, where k¼s2"
+u=ðs2
+uþs2
+iÞ.
+"The time ttransfer ttistt¼mt/C0mt/C01¼ðrm/C01Þmt/C01þvtþut,s o"
+Etttþ1¼ðrm/C01ÞEimtþEi½vtþ1þutþ1/C138
+¼ðrm/C01Þ½rmmt/C01þvtþkðutþui
+tÞ/C138:
+"Eliminating output and the expected transfer from (5.27)–(5.29), these equations"
+yield the following two equations for employment and prices:
+ni
+t¼W2
+1þhnss
+lss/C0/C1
+"/C0ð1þW1Þð1/C0aÞ""#"
+ðmi
+t/C0pi
+tÞ¼Aðmi
+t/C0pi
+tÞð 5:32Þ
+mi
+t/C0pi
+t¼ð1/C0aÞni
+tþ1
+b/C18/C19b
+1/C0b/C18/C19
+W2Ei½mtþ1/C0ptþ1/C0mi
+tþpi
+t/C138
+þ1b/C18/C19
+b
+1/C0b/C18/C19
+ð1/C0aÞW1EiDntþ1
+þ1b/C18/C19
+b
+1/C0b/C18/C19
+½ðrm/C01ÞEimt/C0Eiptþ1þpi
+t/C138: ð5:33Þ
+"By substituting (5.32) into (5.33), one obtains a single equation that involves the"
+price process and the exogenous nominal money supply process:5.5 Appendix: An Imperfect-Information Model 221

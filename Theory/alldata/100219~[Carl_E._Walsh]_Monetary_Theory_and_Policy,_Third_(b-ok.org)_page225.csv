@@ -1,0 +1,47 @@
+﻿Content
+¼r2
+mmt/C01þrmvtþrmEiut. If expectations are equated with linear least-squares
+"projections,"
+Eiut¼kðutþui
+tÞ;
+where k¼s2
+u=ðs2
+uþs2
+"iÞ,0aka1. If aggregate money shocks are large relative"
+"to island-speciﬁc shocks (i.e., suis large relative to si),kwill be close to 1; move-"
+ments in uþuiare interpreted as predominantly reﬂecting movements in the aggre-
+"gate shock u. In contrast, if the variance of the island-speciﬁc shocks is large, kwill"
+be close to zero; movements in uþuiare interpreted as predominantly reﬂecting
+island-speciﬁc shocks.
+"Using (5.1)–(5.4), the chapter appendix shows that the equilibrium solutions for"
+the price level and employment are given by
+pt¼rmmt/C01þvtþkþK
+1þK/C18/C19
+ut ð5:6Þ
+and
+nt¼Aðmt/C0ptÞ¼A1/C0k
+1þK/C18/C19
+ut; ð5:7Þ
+where AandKdepend on the underlying parameters of the model.
+"Equation (5.7) reveals Lucas’s basic result; aggregate monetary shocks, repre-"
+"sented by u, have real e¤ects on employment (and therefore output) if and only if"
+"there is imperfect information ðk<1Þ, and their e¤ect depends on the aggregate"
+errors agents make in inferring u:u/C0Ð
+"Eiutdi¼ð1/C0kÞu, whereÐ"
+Eiutdiis the ag-
+gregate average (over all islands) of the expected value of u. Publicly announced
+"changes in the money supply, represented by the vshocks, have no real e¤ects on"
+output ( vdoes not appear in (5.7)) but simply move the price level one-for-one ( vhas
+a coe‰cient equal to 1 in (5.6)). But the ushocks will a¤ect employment and output
+if private agents are unable to determine whether the money stock movements they
+observe on island ireﬂect aggregate or island-speciﬁc movements. Predictable move-
+ments in money (captured here by rmmt/C01) or announced changes (captured by v)
+have no real e¤ects. Only unanticipated changes in the money supply have real e¤ects.
+Equation (5.7) can be rewritten in a form that emphasizes the role of money
+"surprises in producing employment and output e¤ects. From (5.5), ut¼mt/C0"
+"EðmtjGt/C01;vtÞ, where Eð mtjGt/C01;vtÞdenotes the expectation of mtconditional on"
+"aggregate information on variables dated t/C01 or earlier, summarized by the infor-"
+"mation set Gt/C01and the announced money injection vt. Thus,"
+nt¼A1/C0k
+1þK/C18/C19
+½mt/C0EðmtjGt/C01;vtÞ/C138:200 5 Money in the Short Run: Informational and Portfolio Rigidities

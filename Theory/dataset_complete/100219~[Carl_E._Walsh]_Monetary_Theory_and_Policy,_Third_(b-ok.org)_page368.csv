@@ -1,0 +1,34 @@
+﻿Content
+kðdp/C01Þþð1/C0bÞdx>0: ð8:29Þ
+Determinacy now depends on both the policy parameters dpand dx. A policy that
+failed to raise the nominal interest rate su‰ciently when inﬂation rose would lead to
+a rise in aggregate demand and output. This rise in xcould produce a rise in the real
+"interest rate that served to contract spending if dxwere large. Thus, a policy rule with"
+dp<1 could still be consistent with a unique stationary equilibrium. At a quarterly
+"frequency, however, bis about 0 :99, so dxwould need to be very large to o¤set a"
+value of dpmuch below 1.
+The Taylor principle is an important policy lesson that has emerged from the
+new Keynesian model. It has been argued that the failure of central banks suchas the Federal Reserve to respond su‰ciently strongly to inﬂation during the 1970s
+provides an explanation for the rise in inﬂation experiences at the time (Lubik
+"and Schorfheide 2004). Further, Orphanides (2001) argued that estimated Taylor"
+"rules for the Federal Reserve are sensitive to whether real-time data are used, andhe found a much weaker response to inﬂation in the 1987–1999 period based on"
+real-time data. 19Because the Taylor principle is based on the mapping from policy
+"response coe‰cients to eigenvalues in the state space representation of the model,one would expect that the exact restrictions the policy responses must satisfy to"
+ensure determinacy will depend on the speciﬁcation of the model. Two aspects of
+the model have been explored that lead to signiﬁcant modiﬁcations of the Taylor
+principle.
+"First, Ascari and Ropele (2007) and Kiley (2007b) found that the Taylor rule can"
+be insu‰cient to ensure determinacy when trend inﬂation is positive rather than
+zero as assumed when obtaining the standard linearized new Keynesian inﬂation
+"equation. For example, Coibion and Gorodnichenko (2008) showed, in a calibratedmodel, that the central bank’s response to inﬂation would need to be over ten-to-one"
+"to ensure determinacy if steady-state inﬂation exceeded 6 percent. However, many"
+"models assume some form of indexation (see chapter 6), and for these models the"
+Taylor principle would continue to hold even in the face of a positive steady-state
+rate of inﬂation.
+"Second, the Taylor principle can be signiﬁcantly a¤ected when interest rates have"
+"direct e¤ects on real marginal cost. Such an e¤ect, usually referred to as the cost"
+"channel of monetary policy, is common in models in which ﬁrms need to ﬁnance"
+"wage payments, as in Christiano, Eichenbaum, and Evans (2005) or Ravenna andWalsh (2006), or in which search frictions in the labor market introduce an intertem-"
+poral aspect to the ﬁrm’s labor demand condition (Ravenna and Walsh 2008). For
+19. Other papers employing real-time data to estimate policy rules include Rudebusch (2006) for the
+"United States and Papell, Molodtsova, and Nikolsko-Rzhevskyy (2008) for the United States and Germany.8.3 A Linearized New Keynesian Model 343"

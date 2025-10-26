@@ -1,0 +1,39 @@
+﻿Content
+^l lt¼W1^c ctþW2^m mt; ð2:65Þ
+"where W1¼½ ðb/C0FÞg/C0b/C138,W2¼ðb/C0FÞð1/C0gÞ, and the parameter gis equal to"
+aðcssÞ1/C0b=½aðcssÞ1/C0bþð1/C0aÞðmssÞ1/C0b/C138.
+"Then, in linearized form, the equilibrium conditions include (2.65) and (see the"
+chapter appendix):
+xss
+kss/C18/C19
+^x xt¼^k kt/C0ð1/C0dÞ^k kt/C01; ð2:66Þ
+^y yt¼a^k kt/C01þð1/C0aÞ^n ntþzt ð2:67Þ
+yss
+kss/C18/C19
+^y yt¼css
+kss/C18/C19
+^c ctþd^x xt ð2:68Þ
+^r rt¼ayss
+kss/C18/C19
+ðEt^y ytþ1/C0^k ktÞð 2:69Þ
+^l lt¼Et^l ltþ1þ^r rt ð2:70Þ
+/C0^l ltþhnss
+1/C0nss/C18/C19
+^n nt¼^y yt/C0^n nt ð2:71Þ
+^{ {t¼^r rtþEt^p ptþ1 ð2:72Þ
+^m mt/C0^c ct¼/C01
+b/C18/C191
+iss/C18/C19
+^{ {t ð2:73Þ
+^m mt¼^m mt/C01/C0^p ptþut: ð2:74Þ
+"Consistent with the real-business-cycle literature, a stochastic disturbance to total"
+factor productivity is incorporated that follows an AR(1) process:
+zt¼rzzt/C01þet: ð2:75Þ
+Assume that etis a serially uncorrelated mean zero process and jrzj<1. Note the
+"timing convention in (2.67): the capital carried over from period t/C01,Kt/C01, is avail-"
+able for use in producing output during period t.
+It is also necessary to specify the process followed by the nominal stock of money.
+"In previous sections, ydenoted the growth rate of the nominal money supply. As-"
+"sume then that the average growth rate is yss, and let ut1yt/C0yssbe the deviation"
+in period tof the growth rate from its unconditional average value. This deviation
+will be treated as a stochastic process given by68 2 Money-in-the-Utility Function

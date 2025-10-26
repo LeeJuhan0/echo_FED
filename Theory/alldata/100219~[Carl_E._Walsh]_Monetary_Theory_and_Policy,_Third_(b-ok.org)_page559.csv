@@ -1,0 +1,32 @@
+﻿Content
+opportunity available when the rate paid on borrowed funds was below the rate to be
+"obtained by lending funds, discount borrowing was rationed through nonprice mech-"
+anisms that limited a bank’s ability to borrow. Such models have become less rele-
+"vant as many central banks, including the Fed, pay interest on reserves and impose"
+penalty rates on borrowing that allow central banks to eliminate nonprice mecha-
+"nisms for limiting borrowing. For example, the Federal Reserve established a penaltyborrowing rate in 2003 28and began paying interest on reserve balances on October"
+"6, 2008. 29In addition, the use of sweep accounts has reduced the level of required"
+"reserves, and in some countries banks are not required to hold reserves. These institu-"
+tional changes have led to new models of the reserve market to study the determina-
+"tion of the overnight interbank interest rate, models that focus on banks’ need to"
+hold reserves because of the volatility of payment balances rather than to meet re-
+"serve requirements. Furﬁne (2000), for example, stated that banks active in the pay-"
+ment system might send and receive payments that total more than 30 times their
+"reserve balance on a typical day. Thus, section 11.4.3 presents a simple model that"
+"incorporates stochastic variability in bank reserve balances, interest on reserves, and"
+"a penalty rate on reserves borrowed from the central bank. The following section,however, begins with a traditional model."
+A Traditional Model of the Reserve Market
+The demand for reserves will depend on the costs of reserves and on any factors that
+"inﬂuence money demand—aggregate income, for example. In order to focus on the"
+"very short-run determination of reserve aggregates and the funds rate, factors such as"
+aggregate income and prices are simply treated as part of the error term in the total
+"reserve demand relationship, resulting in"
+TR
+d¼/C0aifþvd; ð11:25Þ
+"where TRdrepresents total reserve demand, ifis the funds rate (the rate at which a"
+"bank can borrow reserves in the private market), and vdis a demand disturbance."
+28. The Federal Reserve set the discount rate 100 basis points above the federal funds rate target begin-
+"ning on January 6, 2003. This spread was maintained at this level until early 2007. (It was reduced to 75basis points on June 30, 2005, but increased back to 100 basis points the following month.) From August17, 2007, the spread was cut to 50 basis points and then was reduced further to 25 basis points on March"
+"18, 2008."
+29. Authority for the Federal Reserve to pay interest was originally scheduled to come into e¤ect in 2011
+"but accelerated authority was granted as part of the Emergency Economic Stabilization Act of 2008. Thisact’s primary purpose was to establish the Troubled Asset Relief Program (TARP). Coincidentally, an ear-lier major change in Fed operating procedures also took place on an October 6. On this date in 1979, theVolcker Fed shifted to a reserve aggregates operating procedure that saw interest rates rise signiﬁcantly asthe Fed moved to bring inﬂation down. For a discussion of monetary policy implementation when interestis paid on reserves, see Goodfriend (2002).534 11 Monetary Policy Operating Procedures"

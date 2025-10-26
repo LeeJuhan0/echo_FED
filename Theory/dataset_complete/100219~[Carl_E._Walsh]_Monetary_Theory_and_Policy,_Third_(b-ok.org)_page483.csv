@@ -1,0 +1,39 @@
+﻿Content
+"the distortion on capital accumulation, an interest rate peg Pareto-dominates a ﬁxed"
+"money rule, and for any interest rate peg, there exists a money growth process that"
+"replicates the real equilibrium in the ﬂexible-price version of their model. That is, an"
+appropriate movement in the nominal money growth rate can undo the e¤ects of the
+one-period price stickiness.
+"To illustrate the basic issues in a simple manner, consider the following ﬁve equi-"
+librium conditions for a basic CIA economy with a positive nominal interest rate:
+uc;t
+1þit¼bEtRtuc;tþ1
+1þitþ1/C18/C19
+ul;t
+uc;t¼MPL t
+1þit
+Rt¼1þEtðMPK tþ1Þ
+mt¼Mt
+Pt¼ct
+1þitþ1¼EtRtPtþ1
+Pt/C18/C19
+;
+"where uc;tis the marginal utility of consumption at time t,bis the subjective rate of"
+"time preference, Rtis 1 plus the real rate of return, ul;tis the marginal utility of lei-"
+"sure at time t,itis the nominal interest rate, MPL tðMPK tÞis the marginal product"
+"of labor (capital), Ptis the price level, and mtis the level of realmoney balances. The"
+ﬁrst of these ﬁve equations can be derived from a basic CIA model by recalling thatu
+"c;t¼ð1þitÞlt, where ltis the time tmarginal value of wealth. (This assumes asset"
+"markets open before goods markets; see chapter 3.) Since lt¼bEtRtltþ1(see (3.26)),"
+it follows that uc;t=ð1þitÞ¼lt¼bEtRtuc;tþ1=ð1þitþ1Þ. The second equation
+equates the marginal rate of substitution between leisure and wealth to the marginal
+"product of labor, again using the result that lt¼uc;t=ð1þitÞ. The third equation is"
+the deﬁnition of the real return on capital. The fourth equation is the binding CIAconstraint that determines the demand for money as a function of the level of con-
+sumption. The ﬁnal equation is simply the Fisher relationship linking nominal and
+"real returns. The fourth and ﬁfth equations of this system, as Woodford (1999b)"
+"emphasized, are traditionally interpreted as determining the price level and the nom-"
+inal interest rate for an exogenous nominal money supply process. The model could
+be completed by adding the production function and the economywide resource
+constraint.
+Rebelo and Xie (1999) argued that this CIA economy will replicate the behavior of
+a nonmonetary real economy under any nominal interest rate peg. To demonstrate458 10 Financial Markets and Monetary Policy

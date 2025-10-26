@@ -1,0 +1,17 @@
+﻿content
+"Then (9.24) implies
+st 1⁄4 ðct c505t Þ þ 1
+1 þ d
+Xy
+i1⁄40
+d
+1 þ d
+4 5i
+1⁄2m0 m5050 þ ðm m505Þðt þ iÞ
+1⁄4 s0 þ ðm m505Þt ðct c505t Þ;
+where s0 1⁄4 m0 m5050 þ dðm m505Þ.6 In this case, the nominal exchange rate has a deterministic trend equal to the di¤erence in the trend of money growth rates in the two economies (also equal to the inflation rate di¤erentials since p 1⁄4 m and p505 1⁄4 m505).
+If domestic money growth exceeds foreign money growth ðm > m505Þ, s will rise over time to reflect the falling value of the home currency relative to the foreign currency.
+Uncovered Interest Parity
+Real rates of return in the two countries have been assumed to be equal, so the Euler conditions for the optimal consumption paths (9.16) and (9.17) imply the same expected consumption growth in each economy. It follows from the equality of real returns that nominal interest rates must satisfy it ptþ1 1⁄4 rt 1⁄4 i505t p505tþ1, and this means, using (9.22), that
+it i505t 1⁄4 ptþ1 p505tþ1 1⁄4 stþ1 st:
+The nominal interest rate di¤erential is equal to the actual change in the exchange rate in a perfect-foresight equilibrium. This equality would not hold in the presence of uncertainty because variables dated t þ 1 would need to be replaced with their expected values, conditional on the information available at time t."

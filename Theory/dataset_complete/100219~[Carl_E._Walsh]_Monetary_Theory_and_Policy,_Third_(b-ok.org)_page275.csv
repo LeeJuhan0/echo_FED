@@ -1,0 +1,32 @@
+﻿Content
+"SDP models allow for time variation in the size of price changes, conditional on"
+"the ﬁrm changing its price (the intensive margin), variation in the number of ﬁrms"
+"that change their price in a given period (the extensive margin), and variation in the"
+composition of ﬁrms that adjust (the selection e¤ect). Costain and Nakov (2008)
+developed a generalized SDP model that nests both the TDP model of Calvo and
+the menu cost model of Golosov and Lucas. They did so by assuming the probabilitythat a ﬁrm adjusts is a nondecreasing function of the value of adjusting. If this prob-
+"ability is constant, they obtained the Calvo model; if the probability is zero when the"
+"value of adjusting is nonpositive and 1 when the value is positive, they obtained the"
+Golosov and Lucas model. They found that the best ﬁt to the microeconomic data is
+obtained when the degree of state dependence is low.
+6.3 Assessing Alternatives
+"In this section, the microeconomic and aggregate time series evidence on price adjust-"
+ment and the behavior of inﬂation is brieﬂy reviewed.
+6.3.1 Microeconomic Evidence
+One important consequence of the popularity of DSGE models based on sticky
+prices is that new work has been generated that employs microeconomic data on
+prices and wages. This work has employed evidence from surveys used to construct
+"consumer price indexes to measure the frequency with which prices adjust. In turn,"
+this evidence provides grounds for evaluating alternative models of price adjustment.
+Bils and Klenow (2004) investigated price behavior for the United States for a
+large fraction of the goods and services that households purchase. They reportedthat the median duration between price changes is 4.3 months. 27This median ﬁgure
+"masks wide variation in the typical frequency with which prices of di¤erent catego-ries of goods and services adjust. At one end, gasoline prices adjusted with high fre-"
+"quency, remaining unchanged for less then a month on average. In contrast, more"
+"than a year separated price changes for driver’s licenses, vehicle inspections, and"
+coin-operated laundry and dry cleaning.
+Based on an analysis of the U.S. data used in the consumer and producer price
+"indexes, Nakamura and Steinsson (2008) presented ﬁve facts that they argue charac-terize price adjustment. First, sales have a signiﬁcant e¤ect on estimates of the me-"
+dian duration between price changes for items in the U.S. CPI. Excluding price
+changes associated with sales roughly doubles the estimated median duration be-
+27. Bils and Klenow focused on the nonshelter component of the consumer price index and weighted indi-
+vidual price durations by the good’s expenditure share to obtain this median ﬁgure.250 6 Money in the Short Run: Nominal Price and Wage Rigidities

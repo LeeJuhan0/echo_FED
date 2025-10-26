@@ -1,0 +1,37 @@
+﻿Content
+"in equilibrium, t¼ym). Solve for the agent’s demand for money. What is the welfare"
+cost of inﬂation?
+8.Suppose money is a productive input into production so that the aggregate pro-
+duction function becomes y¼fðk;mÞ. Incorporate this modiﬁcation into the model
+of section 2.2. Is money still superneutral? Explain.9.Consider the following two alternative speciﬁcations for the demand for money
+"given by (2.37) and (2.38).a.Using (2.37), calculate the welfare cost as a function of h."
+"b.Using (2.38), calculate the welfare cost as a function of x."
+"10.In Sidrauski’s MIU model augmented to include a variable labor supply, money"
+is superneutral if the representative agent’s preferences are given by
+X
+b
+iuðctþi;mtþi;ltþiÞ¼X
+biðctþimtþiÞbld
+tþi
+but not if they are given byX
+b
+iuðctþi;mtþi;ltþiÞ¼X
+biðctþiþkmtþiÞbld
+tþi:
+Discuss. (Assume output depends on capital and labor and the aggregate production
+function is Cobb-Douglas.)
+"11.In the limiting case with F¼b¼1, preferences over consumption and money"
+holdings are log linear ( u¼alnctþð1/C0aÞlnmtþCl1/C0h
+t=ð1/C0hÞ). S. Fischer
+(1979b) showed that the transition paths are independent of the money supply in
+this case since the marginal rate of substitution between leisure and consumption is
+"independent of real money balances. Write down the equilibrium conditions for thiscase, and show that the model dichotomizes into a real sector that determines output,"
+"consumption, and investment, and a monetary sector that determines the price level"
+and the nominal interest rate.
+"12.For the model of section 2.5, is the response of output and employment to u"
+t
+increasing or decreasing in b? Explain. (Use the programs available at hhttp://people
+.ucsc.edu/~walshc/mtp3e ito answer this question.)
+"13.For the model of section 2.5, is the response of output and employment to ut"
+increasing or decreasing in a? Explain. (Use the programs available at hhttp://people
+.ucsc.edu/~walshc/mtp3e ito answer this question.)2.8 Problems 89

@@ -1,0 +1,38 @@
+﻿Content
+"for domestic goods inﬂation in the home country, with inﬂation in the foreign coun-"
+try satisfying a similar equation. The spillover e¤ect of the output gap on inﬂation in
+"the other country gives rise, in general, to gains from policy coordination."
+9.5.2 The Relationship to the Closed-Economy NK Model
+The small-open-economy model consisting of (9.89) and (9.90) is identical in form to
+the closed-economy new Keynesian model of chapter 8. Output satisﬁes an Euler
+"condition with the real interest rate deﬁned in terms of domestically produced goods,"
+and inﬂation of domestically produced goods is forward-looking and depends on anoutput gap measure. The parameters in these relationships di¤er from those in the
+close-economy model because they depend on factors related to the openness of the
+economy.
+"To further draw the parallel with the closed-economy model, deﬁne the output gap"
+as
+x
+t1yt/C0~y yt: ð9:91Þ
+Then rewrite (9.89) and (9.90) as
+xt¼Etxtþ1/C01
+sg/C18/C19
+ðit/C0Etph
+tþ1/C0~r rtÞð 9:92Þ
+ph
+t¼bEtph
+tþ1þkðhþsgÞxt; ð9:93Þ
+where
+~r rt¼r/C3þsgEtð~y ytþ1/C0~y ytÞ: ð9:94Þ
+"Thus, the small-open-economy model has been reduced to a form that exactly par-"
+allels that of the closed-economy model ifone can show that the output gap xt¼
+"yt/C0~y ytis the gap between output and the ﬂexible-price equilibrium price. That is,"
+"one needs to show that with ﬂexible prices, ~y ytis the equilibrium output."
+The ﬂexible-price equilibrium output is deﬁned as the output level consistent with
+real marginal cost equaling its constant steady-state value. Since
+mct¼ðhþsgÞytþðs/C0sgÞy/C3
+t/C0ð1þhÞet;
+it follows that the ﬂexible-price output is
+yﬂex
+t¼ðsg/C0sÞy/C3
+tþð1þhÞet
+hþsg;440 9 Money and the Open Economy

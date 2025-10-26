@@ -1,0 +1,47 @@
+﻿Content
+2.7.3 Solving Linear Rational-Expectations Models with Forward-Looking Variables
+This sections provides a brief overview of the approach used to solve linear rational-
+expectations models numerically. The basic reference is Blanchard and Kahn (1980).
+"General discussions can be found in Farmer (1993, ch. 3) or the user’s guide in"
+"Hoover, Hartley, and Salyer (1998). See also Turnovsky (1995); Wickens (2008,"
+app. 15.8); and Cochrane (2007).
+"Following the solutions methods of Blanchard and Kahn (1980), the basic speciﬁ-"
+cation of a linear rational-expectations model can be written in the form
+A1Xtþ1
+Etxtþ1/C20/C21
+¼A2Xt
+xt/C20/C21
+þctþ1
+0/C20/C21
+;
+where Xare predetermined variables ( n1in number) and xare nonpredetermined
+(forward-looking) variables ( n2in number). Predetermined means that Xtis known
+"at time tand not jointly determined with xt, whereas xtare endogenously determined"
+"at time t. Premultiplying both sides by A1inverse, one obtains"
+Xtþ1
+Etxtþ1/C20/C21
+¼AXt
+xt/C20/C21
+þA/C01
+1ctþ1
+0/C20/C21
+;
+where A¼A/C01
+1A2. R. King and Watson (1998) consider the case in which A1is
+singular.
+Blanchard and Kahn showed that the number of eigenvalues of Athat are outside
+the unit circle must equal the number of forward-looking variables. Decompose Aas
+"Q/C01LQ, where Lis a diagonal matrix of the eigenvalues of A, and Qis the corre-"
+"sponding matrix of eigenvectors, and order Lso that l1is the smallest and ln1þn2is"
+"the largest eigenvalue. Then, the Blanchard and Kahn conditions require that the"
+ﬁrstn1eigenvalues must be inside the unit circle and the last n2must be outside the
+unit circle if the system is to have a unique stationary rational-expectations equilib-
+"rium. If there are fewer than n2eigenvalues outside the unit circle, multiple equilibria"
+"exist, and the system is said to be characterized by indeterminacy. If there are toomany eigenvalues outside the unit circle, then no solution exists."
+"If a unique equilibrium exists, then the solution takes the form"
+X
+tþ1¼MX tþNctþ1
+and
+xt¼CXt:
+Further details on solving the linearized forward-looking rational-expectations
+model of this chapter can be found at hhttp://people.ucsc.edu/~walshc/mtp3e i.86 2 Money-in-the-Utility Function

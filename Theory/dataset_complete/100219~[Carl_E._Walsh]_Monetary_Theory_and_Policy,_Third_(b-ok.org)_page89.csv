@@ -1,0 +1,32 @@
+﻿Content
+"Updating (2.52) one period and using (2.51), one obtains"
+Vkðatþ1;ktÞ¼Etf½1/C0dþfkðkt;ntþ1;ztþ1Þ/C138Vaðatþ1;ktÞg:
+Now substituting this for Vkðatþ1;ktÞin (2.47) yields
+ucðct;mt;1/C0ntÞ/C0bEtf½1/C0dþfkðkt;ntþ1;ztþ1Þ/C138Vaðatþ1;ktÞg ¼ 0: ð2:53Þ
+"When it is recognized that ucðct;mt;1/C0ntÞ¼bEtVkðatþ1;ktÞ, (2.50), (2.53), and"
+"(2.51) take the same form as (2.8), (2.6), and (2.10), the ﬁrst-order conditions for the"
+"basic Sidrauski model, which did not include a labor-leisure choice. The only new"
+"condition is (2.48), which can be written, using (2.47), as"
+ulðct;mt;1/C0ntÞ
+ucðct;mt;1/C0ntÞ¼fnðkt/C01;nt;ztÞ:
+"This states that at an optimum, the marginal rate of substitution between consump-"
+tion and leisure must equal the marginal product of labor.
+"The equilibrium values of consumption, capital, money holdings, and labor supply"
+"must satisfy the conditions given in (2.47)–(2.51). These conditions can be simpliﬁed,"
+"however. Note that (2.47), (2.49), and (2.51) imply that"
+ucðct;mt;1/C0ntÞ¼bð1þitÞEtucðctþ1;mtþ1;1/C0ntþ1Þ
+1þptþ1/C20/C21
+:
+"Using this relationship and (2.47), one can now write (2.50), (2.48), and (2.53) as"
+umðct;mt;1/C0ntÞ¼ucðct;mt;1/C0ntÞit
+1þit/C18/C19
+ð2:54Þ
+ulðct;mt;1/C0ntÞ¼ucðct;mt;1/C0ntÞfnðkt/C01;nt;ztÞð 2:55Þ
+ucðct;mt;1/C0ntÞ¼bEtð1þrtÞucðctþ1;mtþ1;1/C0ntþ1Þ; ð2:56Þ
+"where, in (2.56),"
+rt¼fkðkt;ntþ1;ztþ1Þ/C0d ð2:57Þ
+"is the marginal product of capital net of depreciation. In addition, the economy’s ag-"
+"gregate resource constraint, expressed in per capita terms, requires that"
+kt¼ð1/C0dÞkt/C01þyt/C0ct; ð2:58Þ
+and the production function is
+yt¼fðkt/C01;nt;ztÞ: ð2:59Þ64 2 Money-in-the-Utility Function

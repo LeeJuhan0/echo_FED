@@ -1,0 +1,77 @@
+﻿id,paragraph
+1,"positively on disposable income. Investment depends negatively on the real interest rate. Government purchases and taxes are the exogenous variables of fiscal policy. 4. The real interest rate adjusts to equilibrate the supply and demand for the economy’s output—or, equivalently, the supply of loanable funds (saving) and the demand for loanable funds (investment). A decrease in national saving, perhaps because of an increase in government purchases or a decrease in taxes, decreases the supply of loanable funds, reduces the equilibrium amount of investment, and raises the interest rate. An increase in investment demand, perhaps because of a technological innovation or a tax incentive for investment, increases the demand for loanable funds and also raises the interest rate. An increase in investment demand increases the quantity of investment only if a higher interest rate stimulates additional saving."
+2,"KEY CONCEPTS Factors of production Production function Constant returns to scale Factor prices Competitive firm Profit Marginal product of labor (MPL) Diminishing marginal product Real wage Marginal product of capital (MPK ) Real rental price of capital Economic profit versus accounting profit Cobb–Douglas production function Disposable income Consumption function Marginal propensity to consume (MPC) Interest rate Nominal interest rate Real interest rate National saving (saving) Private saving Public saving Loanable funds Crowding out QUESTIONS FOR REVIEW 1. What determines the amount of output an economy produces? 2. Explain how a competitive, profit-maximizing firm decides how much of each factor of production to demand. 3. What is the role of constant returns to scale in the distribution of income? 4. Write a Cobb–Douglas production function for which capital earns one-fourth of total income. 5. What determines consumption and investment? 6. Explain the difference between government purchases and transfer payments. Give two examples of each."
+3,"78 | PART II Classical Theory: The Economy in the Long Run 1. Use the neoclassical theory of distribution to predict the impact on the real wage and the real rental price of capital of each of the following events: a. A wave of immigration increases the labor force. b. An earthquake destroys some of the capital stock. c. A technological advance improves the production function. d. High inflation doubles the prices of all factors and outputs in the economy. 2. • Suppose the production function in medieval Europe is Y  K 0.5L 0.5, where K is the amount of land and L is the amount of labor. The economy begins with 100 units of land and 100 units of labor. Use a calculator and equations in the chapter to find a numerical answer to each of the following questions. a. How much output does the economy produce? b. What are the wage and the rental price of land? c. What share of output does labor receive? d. If a plague kills half the population, what is the new level of output? e. What is the new wage and rental price of land? f. What share of output does labor receive now?"
+4,"3. If a 10 percent increase in both capital and labor causes output to increase by less than 10 percent, the production function is said to exhibit decreasing returns to scale. If it causes output to increase by more than 10 percent, the production function is said to exhibit increasing returns to scale. Why might a production function exhibit decreasing or increasing returns to scale? 4. Suppose that an economy’s production function is Cobb–Douglas with parameter a  0.3. a. What fractions of income do capital and labor receive? b. Suppose that immigration increases the labor force by 10 percent. What happens to total output (in percent)? The rental price of capital? The real wage? c. Suppose that a gift of capital from abroad raises the capital stock by 10 percent. What happens to total output (in percent)? The rental price of capital? The real wage? d. Suppose that a technological advance raises the value of the parameter A by 10 percent. What happens to total output (in percent)? The rental price of capital? The real wage?"
+5,"5. Figure 3-5 shows that in U.S. data, labor’s share of total income is approximately a constant over time. Table 3-1 shows that the trend in the real wage closely tracks the trend in labor productivity. How are these facts related? Could the first fact be true without the second also being true? Use the mathematical expression for labor’s share to justify your answer. 6. According to the neoclassical theory of distribution, a worker’s real wage reflects her productivity. Let’s use this insight to examine the incomes of two groups of workers: farmers and barbers. Let Wf and Wb be the nominal wages of farmers and barbers, Pf and Pb be the prices of food and haircuts, and Af and Ab be the marginal productivity of farmers and barbers. a. For each of the six variables defined above, state as precisely as you can the units in which they are measured. (Hint: Each answer takes the form “X per unit of Y.”) b. Over the past century, the productivity of farmers Af has risen substantially because of technological progress. According to the neoclassical theory, what should have happened to farmers’ real wage, Wf/Pf? In what units is this real wage measured? c. Over the same period, the productivity of barbers Ab has remained constant. What should have happened to barbers’ real wage, Wb/Pb? In what units is this real wage measured?"
+6,"7. What makes the demand for the economy’s output of goods and services equal the supply? 8. Explain what happens to consumption, investment, and the interest rate when the government increases taxes. CHAPTER 3 National Income: Where It Comes From and Where It Goes | 79 d. Suppose that, in the long run, workers can move freely between being farmers and being barbers. What does this mobility imply for the nominal wages of farmers and barbers, Wf and Wb? e. What do your previous answers imply for the price of haircuts relative to the price of food, Pb/Pf? f. Suppose that barbers and farmers consume the same basket of goods and services. Who benefits more from technological progress in farming—farmers or barbers? Explain how your answer is consistent with the results on real wages in parts (b) and (c)."
+7,"7. (This problem requires the use of calculus.) Consider a Cobb–Douglas production function with three inputs. K is capital (the number of machines), L is labor (the number of workers), and H is human capital (the number of college degrees among the workers). The production function is Y  K 1/3 L 1/3 H 1/3 . a. Derive an expression for the marginal product of labor. How does an increase in the amount of human capital affect the marginal product of labor? b. Derive an expression for the marginal product of human capital. How does an increase in the amount of human capital affect the marginal product of human capital? c. What is the income share paid to labor? What is the income share paid to human capital? In the national income accounts of this economy, what share of total income do you think workers would appear to receive? (Hint: Consider where the return to human capital shows up.) d. An unskilled worker earns the marginal product of labor, whereas a skilled worker earns the marginal product of labor plus the marginal product of human capital. Using your answers to parts (a) and (b), find the ratio of the skilled wage to the unskilled wage. How does an increase in the amount of human capital affect this ratio? Explain. e. Some people advocate government funding of college scholarships as a way of creating a more egalitarian society. Others argue that scholarships help only those who are able to go to college. Do your answers to the preceding questions shed light on this debate?"
+8,"8. The government raises taxes by $100 billion. If the marginal propensity to consume is 0.6, what happens to the following? Do they rise or fall? By what amounts? a. Public saving b. Private saving c. National saving d. Investment 9. Suppose that an increase in consumer confidence raises consumers’ expectations about their future income and thus increases the amount they want to consume today. This might be interpreted as an upward shift in the consumption function. How does this shift affect investment and the interest rate? 10. • Consider an economy described as follows: Y  C 1 I 1 G. Y 5 8,000. G 5 2,500. T 5 2,000. C 5 1000 1 2/3(Y2T ). I 5 1,200 2 100r. a. In this economy, compute private saving, public saving, and national saving. b. Find the equilibrium interest rate. c. Now suppose that G is reduced by 500. Compute private saving, public saving, and national saving. d. Find the new equilibrium interest rate."
+9,"11. Suppose that the government increases taxes and government purchases by equal amounts. What happens to the interest rate and investment in response to this balanced-budget change? Explain how your answer depends on the marginal propensity to consume. 12. When the government subsidizes investment, such as with an investment tax credit, the subsidy often applies to only some types of investment. This question asks you to consider the effect of such a change. Suppose there are two types of investment in the economy: business investment and residential investment. The interest rate adjusts to equilibrate national saving and total investment, which is the sum of business investment and residential investment. Now suppose that the government institutes an investment tax credit only for business investment. a. How does this policy affect the demand curve for business investment? The demand curve for residential investment? b. Draw the economy’s supply and demand curves for loanable funds. How does this policy affect the supply and demand for loanable funds? What happens to the equilibrium interest rate?"
+10,"The Monetary System:
+What It Is and How It Works
+There have been three great inventions since the beginning of time: fire, the
+wheel, and central banking.
+—Will Rogers
+The two arms of macroeconomic policy are monetary and fiscal policy.
+Fiscal policy encompasses the government’s decisions about spending
+and taxation, as we saw in the previous chapter. Monetary policy refers
+to decisions about the nation’s system of coin, currency, and banking. Fiscal policy is usually made by elected representatives, such as the U.S. Congress, British
+Parliament, or Japanese Diet. Monetary policy is made by central banks, which
+are typically set up by elected representatives but allowed to operate independently. Examples include the U.S. Federal Reserve, the Bank of England, and the
+Bank of Japan. Will Rogers was exaggerating when he said that central banking
+was one of the three greatest inventions of all time, but he was right in implying that these policymaking institutions have a great influence over the lives and
+livelihoods of citizens of all nations around the world.
+Much of this book is aimed at explaining the effects and proper role of
+monetary and fiscal policy. This chapter begins our analysis of monetary policy.
+We address three related questions. First, what is money? Second, what is the
+role of a nation’s banking system in determining the amount of money in the
+economy? Third, how does a nation’s central bank influence the banking system
+and the money supply?
+This chapter’s introduction to the monetary system provides the foundation for understanding monetary policy. In the next chapter, consistent with
+the long-run focus of this part of book, we examine the long-run effects of
+monetary policy. The short-run effects of monetary policy are more complex.
+We start discussing that topic in Chapter 10, but it will take several chapters
+to develop a complete explanation. This chapter gets us ready. Both the long-run and short-run analysis of monetary policy must be grounded in a firm
+understanding of what money is, how banks affect it, and how central banks
+control it."
+11,"The Types of Money
+Money takes many forms. In the U.S. economy we
+make transactions with an item whose sole function
+is to act as money: dollar bills. These pieces of green
+paper with small portraits of famous Americans
+would have little value if they were not widely
+accepted as money. Money that has no intrinsic
+value is called fiat money because it is established
+as money by government decree, or fiat.
+Fiat money is the norm in most economies today,
+but most societies in the past have used a commodity with some intrinsic value for money. This type
+of money is called commodity money. The most
+widespread example is gold. When people use gold as
+money (or use paper money that is redeemable for gold), the economy is said to be
+on a gold standard. Gold is a form of commodity money because it can be used for
+various purposes—jewelry, dental fillings, and so on—as well as for transactions. The
+gold standard was common throughout the world during the late nineteenth century."
+12,"CASE STUDY
+Money in a POW Camp
+An unusual form of commodity money developed in some Nazi prisoner of war
+(POW) camps during World War II. The Red Cross supplied the prisoners with
+various goods—food, clothing, cigarettes, and so on. Yet these rations were allocated without close attention to personal preferences, so the allocations were often
+inefficient. One prisoner might have preferred chocolate, while another might
+have preferred cheese, and a third might have wanted a new shirt. The differing
+tastes and endowments of the prisoners led them to trade with one another.
+Barter proved to be an inconvenient way to allocate these resources, however,
+because it required the double coincidence of wants. In other words, a barter
+system was not the easiest way to ensure that each prisoner received the goods
+he valued most. Even the limited economy of the POW camp needed some form
+of money to facilitate transactions.
+Eventually, cigarettes became the established “currency” in which prices were
+quoted and with which trades were made. A shirt, for example, cost about 80
+cigarettes. Services were also quoted in cigarettes: some prisoners offered to do
+other prisoners’ laundry for two cigarettes per garment. Even nonsmokers were
+happy to accept cigarettes in exchange, knowing they could trade the cigarettes
+in the future for some good they did enjoy. Within the POW camp the cigarette
+became the store of value, the unit of account, and the medium of exchange.1 n
+1R. A. Radford, “The Economic Organisation of a P.O.W. Camp,” Economica (November 1945):
+189–201. The use of cigarettes as money is not limited to this example. In the Soviet Union in
+the late 1980s, packs of Marlboros were preferred to the ruble in the large underground economy."

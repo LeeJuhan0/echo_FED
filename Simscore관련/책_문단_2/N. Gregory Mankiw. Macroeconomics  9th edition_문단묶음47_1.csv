@@ -1,0 +1,92 @@
+﻿id,paragraph
+1,"The Mundell–Fleming Model: Summary of Policy Effect EXCHANGE-RATE REGIME FLOATING FIXED IMPACT ON: Policy Y e NX Y e NX Fiscal expansion 0 ↑ ↓ ↑ 0 0 Monetary expansion ↑ ↓ ↑ 0 0 0 Import restriction 0 ↑ 0 ↑ 0 ↑ Note: This table shows the direction of impact of various economic policies on income Y, the exchange rate e, and the trade balance NX. A “↑” indicates that the variable increases; a “↓” indicates that it decreases; a “0’’ indicates no effect. Remember that the exchange rate is defined as the amount of foreign currency per unit of domestic currency (for example, 100 yen per dollar)."
+2,"TABLE 13-1 13-4 Interest Rate Differentials So far, our analysis has assumed that the interest rate in a small open economy is equal to the world interest rate: r 5 r∗. To some extent, however, interest rates differ around the world. We now extend our analysis by considering the causes and effects of international interest rate differentials."
+3,"Country Risk and Exchange-Rate Expectations When we assumed earlier that the interest rate in our small open economy is determined by the world interest rate, we were applying the law of one price. We reasoned that if the domestic interest rate was above the world interest rate, people from abroad would lend to that country, driving the domestic interest rate down. And if the domestic interest rate was below the world interest rate, domestic residents would lend abroad to earn a higher return, driving the domestic interest rate up. In the end, the domestic interest rate would equal the world interest rate."
+4,"Why doesn’t this logic always apply? There are two reasons. One reason is country risk. When investors buy U.S. government bonds or make loans to U.S. corporations, they are fairly confident that they will be repaid with interest. By contrast, in some less-developed countries, it is plausible to fear that a revolution or other political upheaval might lead to a default on loan repayments. Borrowers in such countries often have to pay higher interest rates to compensate lenders for this risk."
+5,"Another reason interest rates differ across countries is expected changes in the exchange rate. For example, suppose that people expect the Mexican peso to fall in value relative to the U.S. dollar. Then loans made in pesos will be repaid in a less valuable currency than loans made in dollars. To compensate for this expected fall in the Mexican currency, the interest rate in Mexico will be higher than the interest rate in the United States."
+6,"Thus, because of country risk and expectations about future exchange-rate changes, the interest rate of a small open economy can differ from interest rates in other economies around the world. Let’s see how this fact affects our analysis."
+7,"Differentials in the Mundell–Fleming Model Consider again the Mundell–Fleming model with a floating exchange rate. To incorporate interest rate differentials into the model, we assume that the interest rate in our small open economy is determined by the world interest rate plus a risk premium u: r 5 r∗  u. The risk premium is determined by the perceived political risk of making loans in a country and the expected change in the real exchange rate. For our purposes here, we can take the risk premium as exogenous in order to examine how changes in the risk premium affect the economy."
+8,"The model is largely the same as before. The two equations are Y 5 C (Y 2 T)  I (r∗  u)  G  NX (e) IS∗, M/P 5 L (r∗  u, Y) LM∗. For any given fiscal policy, monetary policy, price level, and risk premium, these two equations determine the level of income and exchange rate that equilibrate the goods market and the money market. Holding constant the risk premium, the tools of monetary, fiscal, and trade policy work as we have already seen."
+9,"Now suppose that political turmoil causes the country’s risk premium u to rise. Because r 5 r∗  u, the most direct effect is that the domestic interest rate r rises. The higher interest rate, in turn, has two effects. First, the IS∗ curve shifts to the left because the higher interest rate reduces investment. Second, the LM∗ curve shifts to the right because the higher interest rate reduces the demand for money, which in turn implies a higher level of income for any given money supply. [Recall that Y must satisfy the equation M/P 5 L (r∗  u, Y).]"
+10,"As Figure 13-11 shows, these two shifts cause income to rise and the currency to depreciate. This analysis has an important implication: expectations about the exchange rate are partially self-fulfilling. For example, suppose that for some reason people reduce their expectations of the future value of the Mexican peso. Investors will place a larger risk premium on Mexican assets: u will rise in Mexico. This expectation will drive up Mexican interest rates and, as we have just seen, will drive down the value of the Mexican currency. Thus, the expectation that a currency will lose value in the future causes it to lose value today."
+11,"One surprising—and perhaps inaccurate—prediction of this analysis is that an increase in country risk as measured by u will cause the economy’s income to increase. This occurs in Figure 13-11 because of the rightward shift in the LM∗ curve. Although higher interest rates depress investment, the depreciation of the currency stimulates net exports by an even greater amount. As a result, aggregate income rises."
+12,"There are three reasons why, in practice, such a boom in income does not occur. First, the central bank might want to avoid the large depreciation of the domestic currency and, therefore, may respond by decreasing the money supply M. Second, the depreciation of the domestic currency may suddenly increase the price of imported goods, causing an increase in the price level P. Third, when some event increases the country risk premium u, residents of the country might respond to the same event by increasing their demand for money (for any given income and interest rate) because money is often the safest asset available. All three of these changes would tend to shift the LM ∗ curve toward the left, which mitigates the fall in the exchange rate but also tends to depress income."
+13,"Thus, increases in country risk are not desirable. In the short run, they typically lead to a depreciating currency and, through the three channels just described, falling aggregate income. In addition, because a higher interest rate reduces investment, the long-run implication is reduced capital accumulation and lower economic growth."
+14,"FIGURE 13-11 Exchange rate, e Income, output, Y 3. ... resulting in a depreciation. 1. When an increase in the risk premium drives up the interest rate, the IS* curve shifts to the left ... 2. ... and the LM* curve shifts to the right, ... IS*2 IS*1 LM*2 LM*1 An Increase in the Risk Premium An increase in the risk premium associated with a country drives up its interest rate. Because the higher interest rate reduces investment, the IS* curve shifts to the left. Because it also reduces money demand, the LM* curve shifts to the right. Income rises, and the currency depreciates."
+15,"International Financial Crisis: Mexico 1994–1995 In August 1994, a Mexican peso was worth 30 cents. A year later, it was worth only 16 cents. What explains this massive fall in the value of the Mexican currency? Country risk is a large part of the story."
+16,"At the beginning of 1994, Mexico was a country on the rise. The recent passage of the North American Free Trade Agreement (NAFTA), which reduced trade barriers among the United States, Canada, and Mexico, made many people confident about the future of the Mexican economy. Investors around the world were eager to make loans to the Mexican government and to Mexican corporations."
+17,"Political developments soon changed that perception. A violent uprising in the Chiapas region of Mexico made the political situation in Mexico seem precarious. Then Luis Donaldo Colosio, the leading presidential candidate, was assassinated. The political future looked less certain, and many investors started placing a larger risk premium on Mexican assets."
+18,"At first, the rising risk premium did not affect the value of the peso because Mexico was operating with a fixed exchange rate. As we have seen, under a fixed exchange rate, the central bank agrees to trade the domestic currency (pesos) for a foreign currency (dollars) at a predetermined rate. Thus, when an increase in the country risk premium put downward pressure on the value of the peso, the Mexican central bank had to accept pesos and pay out dollars. This automatic exchange-market intervention contracted the Mexican money supply (shifting the LM∗ curve to the left) when the currency might otherwise have depreciated."
+19,"Yet Mexico’s foreign-currency reserves were too small to maintain its fixed exchange rate. When Mexico ran out of dollars at the end of 1994, the Mexican government announced a devaluation of the peso. This decision had repercussions, however, because the government had repeatedly promised that it would not devalue. Investors became even more distrustful of Mexican policymakers and feared further Mexican devaluations."
+20,"Investors around the world (including those in Mexico) avoided buying Mexican assets. The country risk premium rose once again, adding to the upward pressure on interest rates and the downward pressure on the peso. The Mexican stock market plummeted. When the Mexican government needed to roll over some of its debt that was coming due, investors were unwilling to buy the new debt. Default appeared to be the government’s only option. In just a few months, Mexico had gone from being a promising emerging economy to being a risky economy with a government on the verge of bankruptcy."
+21,"388 | PART IV Business Cycle Theory: The Economy in the Short Run which allowed the Mexican government to refinance the debt that was coming due. These loan guarantees helped restore confidence in the Mexican economy, thereby reducing to some extent the country risk premium."
+22,"Although the U.S. loan guarantees may well have stopped a bad situation from getting worse, they did not prevent the Mexican meltdown of 1994–1995 from being a painful experience for the Mexican people. Not only did the Mexican currency lose much of its value, but Mexico also went through a deep recession. Fortunately, by the late 1990s, the worst was over, and aggregate income was growing again. But the lesson from this experience is clear and could well apply again in the future: changes in perceived country risk, often attributable to political instability, are an important determinant of interest rates and exchange rates in small open economies. n"
+23,"ncy. In Indonesia, for instance,
+short-term nominal interest rates rose above 50 percent, the stock market lost
+about 90 percent of its value (measured in U.S. dollars), and the rupiah fell against
+the dollar by more than 80 percent. The crisis led to rising inflation in these
+countries (because the depreciating currency made imports more expensive) and
+to falling GDP (because high interest rates and reduced confidence depressed
+spending). Real GDP in Indonesia fell about 13 percent in 1998, making the
+downturn larger than any U.S. recession since the Great Depression of the 1930s.
+What sparked this firestorm? The problem began in the Asian banking systems.
+For many years, the governments in the Asian nations had been more involved
+in managing the allocation of resources—in particular, financial resources—than
+is true in the United States and other developed countries. Some commentators
+had applauded this “partnership” between government and private enterprise
+and had even suggested that the United States should follow the example. Over
+time, however, it became clear that many Asian banks had been extending loans
+to those with the most political clout rather than to those with the most profitable investment projects. Once rising default rates started to expose this “crony
+capitalism,” as it was then called, international investors started to lose confidence
+in the future of these economies. The risk premiums for Asian assets rose, causing
+interest rates to skyrocket and currencies to collapse.
+International crises of confidence often involve a vicious circle that can
+amplify the problem. Here is a brief account about what happened in Asia:
+1. Problems in the banking system eroded international confidence in these
+economies.
+2. Loss of confidence raised risk premiums and interest rates.
+CASE STUDY
+CHAPTER 13 The Open Economy Revisited: The Mundell–Fleming Model and the Exchange-Rate Regime | 389
+3. Rising interest rates, together with the loss of confidence, depressed the
+prices of stock and other assets.
+4. Falling asset prices reduced the value of collateral being used for bank loans.
+5. Reduced collateral increased default rates on bank loans.
+6. Greater defaults exacerbated problems in the banking system. Now return
+to step 1 to complete and continue the circle.
+Some economists have used this vicious-circle argument to suggest that the
+Asian crisis was a self-fulfilling prophecy: bad things happened merely because
+people expected bad things to happen. Most economists, however, thought the
+political corruption of the banking system was a real problem, which was then
+compounded by this vicious circle of reduced confidence."
+24,"iah. As a result, they had assets denominated in the domestic currency but
+liabilities denominated in a foreign currency. When the domestic currency depreciated in value on foreign-exchange markets, the value of the banks’ assets fell
+relative to their liabilities, making the problems of the banking system even worse.
+As the Asian crisis developed, the IMF and the United States tried to restore
+confidence, much as they had with Mexico a few years earlier. In particular,
+the IMF made loans to the Asian countries to help them through the crisis; in
+exchange for these loans, it exacted promises that the governments would reform
+their banking systems and eliminate crony capitalism. The IMF’s hope was that
+the short-term loans and longer-term reforms would restore confidence, lower
+the risk premium, and turn the vicious circle into a virtuous one. This policy
+seems to have worked: the Asian economies recovered quickly from their crisis. n
+13-5 Should Exchange Rates Be Floating
+or Fixed?"
+25,"CHAPTER 13 The Open Economy Revisited: The Mundell–Fleming Model and the Exchange-Rate Regime | 391
+San Francisco dollars is so irrevocably fixed that you may not even know that
+there is a difference between the two. (What’s the difference? Each dollar bill is
+issued by one of the dozen local Federal Reserve Banks. Although the bank of
+origin can be identified from the bill’s markings, you don’t care which type of
+dollar you hold because everyone else, including the Federal Reserve system, is
+ready to trade any dollar from one bank for a dollar from another.)
+If you made a similar 3,000-mile trip across Europe during the 1990s,
+however, your experience was very different. You didn’t have to travel far before
+needing to exchange your French francs for German marks, Dutch guilders,
+Spanish pesetas, or Italian lira. The large number of currencies in Europe made
+traveling less convenient and more expensive. Every time you crossed a border,
+you had to wait in line at a bank to get the local money, and you had to pay the
+bank a fee for the service.
+Today, however, the situation in Europe is more like that in the United States.
+Many European countries have given up having their own currencies and have
+formed a monetary union that uses a common currency called the euro. As a
+result, the exchange rate between France and Germany is now as fixed as the
+exchange rate between New York and California."

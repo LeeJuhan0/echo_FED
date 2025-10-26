@@ -1,0 +1,32 @@
+﻿Content
+interest rate movements represents an optimal response to the central bank’s fore-
+casts of the underlying economic disturbances.
+11.3.3 Intermediate Targets
+The previous section showed how the optimal response coe‰cients in the policy rule
+could be related to the central bank’s forecast of the underlying disturbances. This
+interpretation of the policy rule parameter is important because it captures a very
+general way of thinking about policy. When the central bank faces imperfect in-
+"formation about the shocks to the economy, it should respond based on its bestforecasts of these shocks. 9In the present example, the only information variable"
+"available was the interest rate, so forecasts of the underlying shocks were based oni. In more general settings, information on other variables may be available on a fre-"
+"quent basis, and this should also be used in forecasting the sources of economic dis-turbances. Examples of such information variables include (besides market interest"
+"rates) exchange rates, commodity prices, and asset prices. 10"
+Because the central bank must respond to partial and incomplete information
+"about the true state of the economy, monetary policy is often formulated in practice"
+in terms of intermediate targets. Intermediate targets are variables whose behaviorprovides information useful in forecasting the goal variables. 11Deviations in the in-
+"termediate targets from their expected paths indicate a likely deviation of a goal vari-able from its target and signal the need for a policy adjustment. For example, if"
+"money growth, which is observed weekly, is closely related to subsequent inﬂation,"
+"which is observed only monthly, then faster than expected money growth signals the"
+need to tighten policy. When action is taken to keep the intermediate target variable
+"equal to its target, the hope is that policy will be adjusted automatically to keep the"
+goal variables close to their targets as well. 12
+"To see the role of intermediate targets in a very simple framework, consider the"
+"following aggregate supply, aggregate demand, and money demand system, ex-"
+pressed in terms of the rate of inﬂation:
+9. Brainard (1967) showed that this statement is no longer true when there is uncertainty about the model
+parameters in additional to the additive uncertainty considered here. Parameter uncertainty may make itoptimal to adjust less than completely. See section 8.4.7.
+"10. As discussed in chapter 1, commodity prices eliminate the price puzzle in VAR estimates of monetary"
+policy e¤ects because of the informational role they appear to play.
+"11. See Kareken, Muench, and Wallace (1973) and B. Friedman (1975; 1977b; 1990) for early treatments"
+"of the informational role of intermediate targets. More recently, Svensson (1997a; 1999b) stressed the role"
+"of inﬂation forecasts as an intermediate target. Bernanke and Woodford (1997) showed, however, howmultiple equilibria may arise if policy is based on private sector forecasts, which are, in turn, based onexpectations of future policy."
+12. B. Friedman (1990) and McCallum (1990b) provided discussions of the intermediate target problem.11.3 The Instrument Choice Problem 521

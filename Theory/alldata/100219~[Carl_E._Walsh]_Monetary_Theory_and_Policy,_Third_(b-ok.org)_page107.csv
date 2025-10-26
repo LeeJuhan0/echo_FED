@@ -1,0 +1,33 @@
+﻿Content
+"Hence,"
+^q qt¼gð1/C0bÞ^c ctþð1/C0gÞð1/C0bÞ^m mt:
+"Combining these results,"
+^l lt¼W1^c ctþW2^m mt; ð2:85Þ
+"where W1¼bðg/C01Þ/C0gFandW2¼ðb/C0FÞð1/C0gÞ. Note that if b¼F,^l lt¼/C0b^c ct."
+Euler Condition
+The Euler condition is
+lt¼bEtð1þrtÞltþ1;
+"which, because b¼ð1þrssÞ/C01, can be written as"
+lssð1þ^l ltÞ¼blssð1þrtÞEtð1þ^l ltþ1Þ¼lss1þrt
+1þrss/C18/C19
+Etð1þ^l ltþ1Þ:
+"Dividing both sides by lss, recalling that ^r rt1rt/C0rss, and using (2.78),"
+ð1þ^l ltÞAð1þ^r rtþEt^l ltþ1Þ:
+Then
+^l lt¼^r rtþEt^l ltþ1:
+"Marginal Product, Real Return Condition"
+Start with
+1þrt¼1/C0dþaEtytþ1
+kt/C18/C19
+:
+"Using the same general approach as applied to the other equations,"
+1þrtA1/C0dþayss
+kss/C18/C19
+Etð1þ^y ytþ1/C0^k ktÞ:
+"Since rss¼aðyss=kssÞ/C0d,"
+^r rt¼rt/C0rss¼ayss
+kss/C18/C19
+Etð^y ytþ1/C0^k ktÞ: ð2:86Þ
+It is convenient to eliminate E t^y ytþ1from this equation. This can be done by noting
+that the linearized production function implies that
+Et^y ytþ1¼a^k ktþð1/C0aÞEt^n ntþ1þrzzt;82 2 Money-in-the-Utility Function

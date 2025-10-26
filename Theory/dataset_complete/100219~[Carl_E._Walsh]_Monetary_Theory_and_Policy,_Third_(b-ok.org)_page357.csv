@@ -1,0 +1,55 @@
+﻿Content
+where pjtis the price of good j. Letting ctbe the Lagrangian multiplier on the con-
+"straint, the ﬁrst-order condition for good jis"
+pjt/C0ctð1
+0cðy/C01Þ=y
+jt dj/C20/C21 1=ðy/C01Þ
+c/C01=y
+jt¼0:
+"Rearranging, cjt¼ðpjt=ctÞ/C0yCt. From the deﬁnition of the composite level of con-"
+"sumption (8.2), this implies"
+"Ct¼""ð1"
+0pjt
+ct/C18/C19/C0y
+"Ct""#ðy/C01Þ=y"
+dj#y=ðy/C01Þ
+¼1
+ct/C18/C19/C0yð1
+0p1/C0y
+jtdj/C20/C21 y=ðy/C01Þ
+Ct:
+"Solving for ct,"
+ct¼ð1
+0p1/C0y
+jtdj/C20/C21 1=ð1/C0yÞ
+1Pt: ð8:4Þ
+The Lagrangian multiplier is the appropriately aggregated price index for consump-
+tion. The demand for good jcan then be written as
+cjt¼pjt
+Pt/C18/C19/C0y
+Ct: ð8:5Þ
+"The price elasticity of demand for good jis equal to y.A s y!y, the individual"
+"goods become closer and closer substitutes, and consequently individual ﬁrms will"
+have less market power.
+"Given the deﬁnition of the aggregate price index in (8.4), the budget constraint of"
+"the household is, in real terms,"
+CtþMt
+PtþBt
+Pt¼Wt
+Pt/C18/C19
+NtþMt/C01
+Ptþð1þit/C01ÞBt/C01
+Pt/C18/C19
+þPt; ð8:6Þ
+where MtðBtÞis the household’s nominal holdings of money (one-period bonds).
+Bonds pay a nominal rate of interest it. Real proﬁts received from ﬁrms are equal to
+Pt.
+"In the second stage of the household’s decision problem, consumption, labor sup-"
+"ply, money, and bond holdings are chosen to maximize (8.1) subject to (8.6). This"
+"leads to the following conditions, which, in addition to the budget constraint, must"
+hold in equilibrium:
+C/C0s
+t¼bð1þitÞEtPt
+Ptþ1/C18/C19
+C/C0s
+tþ1 ð8:7Þ332 8 New Keynesian Monetary Economics

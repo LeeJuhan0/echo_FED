@@ -1,0 +1,51 @@
+"of legacy contracts to mature naturally.
+By the time ISDA’s IBOR Fallbacks Protocol took effect on January/uni00A025, 2021, almost all major deriva-
+tives market participants had adhered to the new protocol, helping to ensure a successful rollout, and 
+adherence has continued to grow since the effective date. ISDA conﬁ rmed that the March/uni00A05 announce-
+ment ﬁ xed the spreads to be used in the Fallbacks Protocol. The announcement likewise had the effect 
+of ﬁ xing the spreads for LIBOR-based contracts with fallback language recommended by the ARRC.2 
+However, there is no comparable protocol mechanism for cash products, and, in many cases, there are 
+no effective ways to update fallback language in legacy contracts.
+1 The announced consultation followed a mid-November proposal to cease publication of sterling, yen, Swiss franc, and euro LIBors at 
+the end of 2021.
+2 ISDa’s spread adjustments are based on the historical five-year median difference between each specific LIBor currency and tenor 
+and the associated fallback rate, which, in the case of uSD LIBor, will be a compound average of SoFr. The arrC has stated that 
+its recommended spread adjustments for cash products will match those of ISDa, although certain technical adjustments will be made 
+to the arrC’s recommendations for consumer products to ensure that consumers do not see a jump in rates at the time of the uSD 
+LIBor cessation.
+(continued on next page)
+
+52 4. FuNDING rISk
+Legislation
+The regulatory clarity provided by the March/uni00A05, 2021, announcement still leaves many market par-
+ticipants, including retail borrowers, exposed to contractual uncertainty when USD LIBOR ceases in 
+mid-2023. To promote a smooth transition, New York State recently enacted legislation clarifying that, 
+by operation of law, a SOFR-based rate will replace LIBOR in legacy LIBOR contracts that are ambig-
+uous or silent regarding fallback rates. Most U.S. securities are governed by New York law, so the New 
+York State legislation will reduce transition risks related to inadequate contractual language. Legislation 
+has also been proposed at the federal level to address contracts without a workable fallback that, if 
+enacted, would reduce transition risks on a nationwide basis.
+The recently enacted New York State legislation is primarily aimed at securities, which are difﬁ cult to 
+amend due to the complexities in reaching agreement among the holders of these instruments, but it 
+also includes a safe harbor that would encourage the use of ARRC fallbacks for consumer products 
+(where the lender tends to have discretion to name a successor rate). Table A illustrates the challenges 
+in replacing LIBOR in legacy contracts that, in many cases, envision a polling process similar to that 
+used to create LIBOR. It is unlikely, however, that the current LIBOR banks would choose to respond to 
+private polling after stepping away from the LIBOR panels.
+(continued)
+LIBOR Transition Update (continued)
+Table A. Legacy Contract Provisions in the Absence of LIBOR
+Financial instruments Typical existing fallbacks
+Typical consent requirements
+to change fallbacks
+oTC uncleared derivatives Bank poll Consent of counterparties
+Cleared derivatives CCP designated successor rate
+(key CCPs have indicated that they will 
+match ISDa)
+None
+Floating-rate Notes Bank poll. If n.a., then fixed rate at last 
+quoted LIBor
+unanimous consent among bond-
+holders
+Securitizations • Bank poll. If n.a., then fixed rate at last 
+quoted "

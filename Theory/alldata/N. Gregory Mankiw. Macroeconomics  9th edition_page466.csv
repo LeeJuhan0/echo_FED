@@ -1,0 +1,74 @@
+﻿Content
+458 | PART V Topics in Macroeconomic Theory
+The Numerical Calibration and Simulation
+The text presents some numerical simulations of 
+the dynamic AD –AS model. When inter
+preting 
+"these results, it is easiest to think of each period "
+as representing one year. We examine the impact 
+of the change in the year of the shock (period t) 
+and over the subsequent 12 years.
+The simulations use these parameter values:
+Y–
+t 5 100.
+pt* 5 2.0.
+a 5 1.0.
+r 5 2.0.
+f 5 0.25.
+up 5 0.5.
+uY 5 0.5.
+Here is how to interpret these numbers. The natu -
+ral level of output Y–
+t is 100; as a result of choosing 
+"this convenient number, ﬂuctuations in Yt 2 Y–"
+t can 
+be viewed as percentage deviations of output from 
+its natural level. The central bank’s inﬂation target 
+pt* is 2 percent. The parameter a 5 1.0 implies 
+that a 1-percentage-point increase in the real 
+"interest rate reduces output demand by 1, which "
+is 1 percent of its natural level. The economy’s 
+natural rate of interest r is 2 percent. The Phillips curve parameter f 5 0.25 implies that when out -
+put is 1 percent above its natural le
+"vel, inﬂation "
+rises by 0.25 percentage point. The parameters for 
+the monetary policy rule u p 5 0.5 and u Y 5 0.5 
+are those suggested by John Taylor and are rea -
+sonable approximations of the Federal Reserve’s 
+behavior.
+"In all cases, the simulations assume a change "
+of 1 percentage point in the exogenous variable 
+of interest. Larger shocks would have qualitative-
+"ly similar effects, but the magnitudes would be "
+"proportionately greater. For example, a shock of "
+3 percentage points would affect all the variables 
+"in the same way as a shock of 1 percentage point, "
+but the movements would be three times as large 
+as those in the simulation shown.
+The graphs of the time paths of the variables 
+"after a shock (shown in Figures 15-7, 15-9, "
+and 15-11) are called impulse response functions. 
+"The word “impulse” refers to the shock, and "
+“response function” refers to how the endog-
+enous variables respond to the shock over time. 
+These simulated impulse response functions are 
+one way to illustrate how the model works. They 
+show how the endogenous variables move when 
+"a shock hits the economy, how these variables "
+"adjust in subsequent periods, and how they are "
+correlated with one another over time.FYIThese ﬁgures illustrate the phenomenon of stagﬂation in the dynamic AD –AS 
+model. 
+"A supply shock causes inﬂation to rise, which in turn increases expected "
+inﬂation. As the central bank applies its rule for monetary policy and responds by 
+"raising interest rates, it gradually squeezes inﬂation out of the system, but only at "
+the cost of a prolonged downturn in economic  activity.
+A Shock to Aggregate Demand
+"Now let’s consider a shock to aggregate demand. T o be realistic, the shock is "
+assumed to persist o
+"ver several periods. In particular, suppose that et 5 1 for ﬁve "
+periods and then returns to its normal value of zero. This positive shock et might 
+"represent, for example, a war that increases government purchases or a stock mar -"
+"ket bubble that increases wealth and thereby consumption spending. In general, "
+the demand shock captures any event that inﬂuences the demand for goods and 
+services for given values of the natural level of output Y–
+t and the real interest rate rt.

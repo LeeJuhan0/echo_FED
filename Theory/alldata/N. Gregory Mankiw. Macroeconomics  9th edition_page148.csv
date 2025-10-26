@@ -1,0 +1,38 @@
+﻿Content
+The Cagan Model: How Current 
+and Future Mone
+y Affect the  
+Price Level
+APPENDIX
+In this chapter we sho
+wed that if the quantity of real money balances demanded 
+"depends on the cost of holding money, the price level depends on both the "
+current money supply and the future money supply. This appendix develops the 
+Cagan model to show more explicitly how this relationship works.11
+"T o keep the math as simple as possible, we posit a money demand function "
+that is linear in the natural logarithms of all the variables. The money demand 
+function is
+" mt  pt 5 2(  pt 11 2 pt), (A1)"
+"where mt is the log of the quantity of money at time t, pt is the log of the price "
+"level at time t, and  is a parameter that governs the sensitivity of money demand "
+"to the rate of inﬂation. By the property of logarithms, mt 2 p t is the log of real "
+"money balances, and p t 11 2 p t is the inﬂation rate between period t and period "
+"t 1 1. This equation states that if inﬂation goes up by 1 percentage point, real "
+money balances fall by  percent.
+We have made a number of assumptions in writing the money demand func-
+"tion in this way. First, by excluding the level of output as a determinant of money "
+"demand, we are implicitly assuming that it is constant. Second, by including "
+"the rate of inﬂation rather than the nominal interest rate, we are assuming that "
+"the real interest rate is constant. Third, by including actual inﬂation rather than "
+"expected inﬂation, we are assuming perfect foresight. All of these assumptions are "
+made to keep the analysis as simple as possible.
+We want to solve Equation A1 to express the price level as a function of cur-
+"rent and future money. T o do this, note that Equation A1 can be rewritten as"
+ pt 5  (   1 ____ 1 1    )  mt 1  (    ____ 1 1    ) pt11. (A2)
+This equation states that the current price level p t is a weighted average of the 
+current money supply m t and the next period’s price level p t 11. The next period’s 
+price level will be determined the same way as this period’s price level:
+ pt 11 5  (   1 ____ 1 1    )  mt 11 1  (    ____ 1 1    ) pt 12. (A3)
+"11This model is der ived from Phillip Cagan, “The Monetary Dynamics of Hyperinﬂation,” in "
+" Studies in the Quantity Theory of Money , edited by Milton Friedman (Chicago: University of "
+"Chicago Press, 1956): 25–117."

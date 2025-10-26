@@ -1,0 +1,34 @@
+﻿Content
+ﬁrms will have small costs and therefore adjust price even when they are already
+close to the optimal price. However this model is not consistent with three of the
+"other facts (ﬂat hazard rates, size of price change does not increase with duration"
+"since last change, and intensive margin accounts for most of the variance of inﬂa-"
+"tion). The Taylor model cannot match the ﬂat hazard rates, nor does it imply that"
+"the size of price changes increases with the duration since the last change. This lastfact is also not captured by the Calvo model. Surprisingly, this is the only one of"
+"the six facts with which the Calvo model, augmented with idiosyncratic ﬁrm shocks,"
+"is inconsistent. SDP models with idiosyncratic shocks and small menu costs, such as"
+"the model of Gertler and Leahy, or DKW augmented with idiosyncratic shocks"
+"(Dotsey, King, and Wolman 2006), seem most promising for matching the stylized"
+facts found in the microeconomic evidence. 28
+"Hobjin, Ravenna, and Tambalotti (2006) provided a direct test of models that as-"
+sume price stickiness is attributable to menu costs by using the natural experiment
+provided by the switch to the euro in January 2002. They found that ﬁrms concen-
+trated price changes around the time of the currency switch; prior to the changeover
+prices did not fully reﬂect increased marginal costs expected to occur after the adop-tion of the euro. They showed that a menu cost model augmented to allow for a
+state-dependent decision on when to adopt the euro successfully captured the behav-
+ior of restaurant prices.
+While the work examining microeconomic evidence on pricing behavior has helped
+"in assessing alternative models, it is not yet clear which aspects of that evidence are"
+of greatest relevance for understanding macroeconomic phenomena such as the im-
+pact of monetary policy on aggregate inﬂation and real output. The development of
+"microeconomic data sets has, however, greatly expanded our knowledge about the"
+behavior of individual prices.
+6.3.2 Evidence on the New Keynesian Phillips Curve
+A large body of research has used time series methods to estimate the basic new
+Keynesian Phillips curve based on the Calvo model of price adjustment. This litera-
+ture originated with the work of Galı ´and Gerter (1999) and is surveyed in Galı ´
+(2008). Three issues have been the focus of this work: measuring real marginal cost;reconciling time series estimates of the frequency of price adjustment with the micro-
+economic evidence; and accounting for persistence in the rate of inﬂation.
+28. A ´lvarez et al. (2005) summarized microeconomic evidence from the European Inﬂation Persistence
+Network (IPN) project of the European Central Bank. Angeloni et al. (2006) compared this evidence
+"with several models of price adjustment and concluded that ‘‘a basic Calvo model (possibly extended toallow for sectors with di¤erent degrees of price stickiness) may not be a bad approximation.’’ See alsoAltissimo, Ehrmann, and Smets (2006) and Dhyne et al. (2006) for a comparison of micro evidence fromthe Euro area and the United States.252 6 Money in the Short Run: Nominal Price and Wage Rigidities"

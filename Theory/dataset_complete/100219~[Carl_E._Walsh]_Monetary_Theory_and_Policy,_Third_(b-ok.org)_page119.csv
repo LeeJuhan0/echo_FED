@@ -1,0 +1,34 @@
+﻿Content
+"suggest whether this assumption was reasonable. From (3.2), the assumption of"
+diminishing marginal utility of leisure ðvlla0Þandgma0 implies that vllgcgmb0.
+If greater consumption raises the marginal productivity of money in reducing shop-ping time ðg
+"cma0Þ, then /C0vlgcmb0 as well. Wang and Yip (1992) characterized the"
+"situation in which these two dominate, so that ucmb0 as the transaction services ver-"
+"sion of the MIU model. In this case, the MIU model implies that a rise in expectedinﬂation would lower mandu"
+"c, and this would lower consumption, labor supply,"
+and output (see section 2.3.2). The reduction in labor supply is reinforced by thefact that u
+"lm¼/C0vllgm<0, so that the reduction in mraises the marginal utility of"
+"leisure. 5If consumption and leisure are strong substitutes so that vcla0, then ucm"
+"could be negative, a situation Wang and Yip described as corresponding to an asset"
+"substitution model. With ucm<0, a monetary injection that raises expected inﬂation"
+"will increase consumption, labor supply, and output."
+The household’s intertemporal problem analyzed in chapter 2 for the MIU model
+can be easily modiﬁed to incorporate a shopping time role for money. The house-hold’s objective is to maximize
+X
+y
+i¼0biv½ctþi;1/C0ntþi/C0gðctþi;mtþiÞ/C138; 0<b<1
+subject to
+fðkt/C01;ntÞþttþð1/C0dÞkt/C01þð1þit/C01Þbt/C01þmt/C01
+1þpt¼ctþktþbtþmt; ð3:3Þ
+"where fis a standard neoclassical production function, kis the capital stock, dis"
+"the depreciation rate, bandmare real bond and money holdings, and tis a real"
+lump-sum transfer from the government.6 Deﬁning at¼ttþ½ ð1þit/C01Þbt/C01þmt/C01/C138=
+"ð1þptÞ, the household’s decision problem can be written in terms of the value func-"
+tionVðat;kt/C01Þ:
+Vðat;kt/C01Þ¼maxfv½ct;1/C0nt/C0gðct;mtÞ/C138 þbVðatþ1;ktÞg;
+where the maximization is subject to the constraints fðkt/C01;ntÞþð1/C0dÞkt/C01þat
+¼ctþktþbtþmtand atþ1¼ttþ1þ½ ð1þitÞbtþmt/C138=ð1þptþ1Þ. Proceeding as in
+chapter 2 by using these two constraints to eliminate ktandatþ1from the expression
+5. I thank Henrik Jensen for pointing this out.
+6. Note that it is assumed that transaction services are needed only for the purchase of consumption goods
+"and not for the purchase of capital goods. In the next section, alternative treatments of investment and thetransaction technology are shown to have implications for the steady state.94 3 Money and Transactions"

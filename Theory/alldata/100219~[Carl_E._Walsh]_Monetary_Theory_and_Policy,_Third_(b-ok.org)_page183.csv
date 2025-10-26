@@ -1,0 +1,36 @@
+﻿Content
+rate as a function of the money growth rate: pe¼p¼y/C0m. The two points of inter-
+section labeled AandDare the two solutions to (4.26).
+"What determines whether, for a given deﬁcit, the economy ends up at the high-"
+inﬂation equilibrium or the low-inﬂation equilibrium? Which equilibrium is picked
+out depends on the stability properties of the economy. Determining this in turn
+requires a more complete speciﬁcation of the dynamics of the model. Recall that thedemand for money depends on expected inﬂation through the nominal rate of in-
+"terest, whereas the inﬂation tax rate depends on actual inﬂation. In considering the"
+"e¤ects of variations in the inﬂation rate, one needs to determine how expectations"
+will adjust. Cagan (1956) addressed this by assuming that expectations adjust adap-
+tively to actual inﬂation:
+qpe
+qt¼_p pe¼hðp/C0peÞ; ð4:27Þ
+where hcaptures the ‘‘speed of adjustment’’ of expectations. A low himplies that
+"expectations respond slowly to inﬂation forecast errors. Since h¼expð/C0apeÞ, di¤er-"
+"entiate this expression with respect to time, obtaining"
+_h h
+h¼y/C0m/C0p¼/C0a_p pe:
+"Solving for pusing (4.27) yields p¼y/C0mþa_p pe¼y/C0mþahðp/C0peÞ,o r p¼ðy/C0"
+m/C0ahpeÞ=ð1/C0ahÞ. Substituting this back into the expectations adjustment equation
+gives
+_p pe¼hðy/C0m/C0peÞ
+1/C0ah; ð4:28Þ
+which implies that the low-inﬂation equilibrium will be stable as long as ah<1. This
+requires that expectations adjust su‰ciently slowly ( h<1=a).
+"If expectations adjust adaptively and su‰ciently slowly, what happens when the"
+deﬁcit is increased? Since the demand for real money balances depends on expected
+"inﬂation, and because the adjustment process does not allow the expected inﬂation"
+"rate to jump immediately, the higher deﬁcit can be ﬁnanced by an increase in the"
+rate of inﬂation (assuming the new deﬁcit is still below the maximum that can be
+"ﬁnanced, D/C3). Since actual inﬂation now exceeds expected inﬂation, _p pe>0 and pe"
+begins to rise. The economy converges into a new equilibrium at a higher rate of
+inﬂation.
+"In terms of ﬁgure 4.2, an increase in the deﬁcit shifts the SRline to the right to"
+"S0R0(for a given expected rate of inﬂation, money growth must rise in order to gen-"
+"erate more revenue). Assume that initially the economy is at point A, the low-158 4 Money and Public Finance"

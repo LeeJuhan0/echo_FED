@@ -1,0 +1,40 @@
+﻿Content
+Persistence
+While the new Keynesian Phillips curve was derived under the assumption that prices
+"are sticky, the inﬂation rate is a purely forward-looking variable and is allowed to"
+jump in response to any change in either current or expected future real marginal
+"cost (see (6.41)). Thus, as noted in discussing Chari, Kehoe, and McGrattan (2000),"
+"the NKPC is unable to match the persistence inﬂation displays in actual data (Nelson1998; Estrella and Fuhrer 2002). For example, suppose real marginal cost follows an"
+exogenous AR(1) process: ^v v
+t¼r^v vt/C01þet. To solve for the equilibrium process for in-
+"ﬂation using (6.41), assume that pt¼Axt, where Ais an unknown parameter. Then"
+"Etptþ1¼AEt^v vtþ1¼Ar^v vt, and"
+pt¼A^v vt¼bAr^v vtþk^v vt)A¼k
+1/C0br:
+"Ifptis multiplied by ð1/C0rLÞ, where L is the lag operator, ð1/C0rLÞpt¼ð1/C0rLÞA^v vt"
+"¼Aet,s o pt¼rpt/C01þAet. The dynamics characterizing inﬂation depend solely on"
+the serial correlation in ^v vtin the form of the parameter r. The fact that prices are
+"sticky makes no additional contribution to the resulting dynamic behavior of inﬂa-tion. In addition, e"
+"t, the innovation to ^v vt, has its maximum impact on inﬂation imme-"
+"diately, with inﬂation then reverting to its steady-state value at a rate governed by r."
+"In order to capture the inﬂation persistence found in the data, it is common to aug-"
+ment the basic forward-looking inﬂation adjustment equation with the addition of
+"lagged inﬂation, yielding an equation of the form"
+pt¼ð1/C0fÞbEtptþ1þk^v vtþfpt/C01: ð6:42Þ
+"In this formulation, the parameter fis often described as a measure of the degree"
+of backward-looking behavior in price setting. Fuhrer (1997b) found little role for
+future inﬂation once lagged inﬂation is added to the inﬂation adjustment equation.
+Rudebusch (2002a) estimated (6.42) using U.S. data and argued that fis on the
+"order of 0 :7, suggesting that inﬂation is predominantly backward-looking. Both"
+Rudebusch and Fuhrer employed a statistically based measure of the output gap—detrended real GDP. 29
+Galı´and Gertler (1999) modiﬁed the basic Calvo model of sticky prices to intro-
+duce lagged inﬂation into the Phillips curve. They assumed that a fraction lof the
+ﬁrms that are allowed to adjust each period simply set p
+jt¼pp/C3
+"t/C01, where pis the av-"
+erage inﬂation rate and p/C3
+t/C01is the price chosen by optimizing ﬁrms in the previous
+period. They showed that the inﬂation adjustment equation then becomes
+"29. Linde ´(2005) also questioned the empirical robustness of the new Keynesian Phillips curve. Galı ´, Ger-"
+"tler, and Lo ´pez-Salido (2005) responded to the criticisms of both Rudd and Whelan (2005) and Linde ´"
+(2005) and argued that forward-looking behavior plays the dominant role in inﬂation determination.254 6 Money in the Short Run: Nominal Price and Wage Rigidities

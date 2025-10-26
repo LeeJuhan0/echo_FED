@@ -1,0 +1,41 @@
+﻿Content
+"In the Ricardian case ðc¼1Þ, all terms involving the government’s debt drop out;"
+"only the stock of money matters. If c<1, however, debt does not drop out. The"
+"budget constraint can then be written as yþRt/C01wt/C01¼ctþwtþit/C01mt/C01=ð1þptÞ,"
+"where w¼mþð1/C0cÞb, showing that the relevant measure of household income"
+"isyþRt/C01wt/C01and this is then used to purchase consumption, ﬁnancial assets, or"
+money balances (where the opportunity cost of money is i=ð1þpÞ). With asset de-
+"mand depending on cthrough wt/C01, the equilibrium price level and nominal rate of"
+interest will generally depend on c.13
+Having derived the representative agent’s budget constraint and shown how it is
+"a¤ected by the means the government uses to back its debt, in order to actually de-"
+"termine the e¤ects on the equilibrium price level and nominal interest rate, one must"
+determine the agent’s demand for money and bonds and then equate these demands
+"to the (exogenous) supplies. To illustrate the role of debt policy, assume log-"
+"separable utility, ln ctþdlnmt, and consider a perfect foresight equilibrium. From"
+"chapter 2, the marginal rate of substitution between money and consumption will beset equal to i"
+"t=ð1þitÞ. With log utility, this implies mt¼dctð1þitÞ=it. The Euler"
+condition for the optimal consumption path yields ctþ1¼bð1þrtÞct. Using these in
+"the agent’s budget constraint,"
+yþRt/C01wt/C01¼ctþwtþit/C01
+1þpt/C18/C19
+d1þit/C01
+it/C01/C18/C19ct
+bð1þrt/C01Þ
+¼1þd
+b/C18/C19
+ctþwt:
+"In equilibrium, ct¼y, so this becomes Rt/C01wt/C01¼ðd=bÞyþwt. In the steady state,"
+"wt¼wt/C01¼wss¼dy=bðR/C01Þ. But w¼½Mþð1/C0cÞB/C138=P, so the equilibrium"
+steady-state price level is equal to
+Pss¼brss
+dy/C18/C19
+½Mþð1/C0cÞB/C138: ð4:18Þ
+"If government debt is entirely backed by taxes ðc¼1Þ, one gets the standard result;"
+the price level is proportional to the nominal stock of money. The stock of debt has
+"no e¤ect on the price level. With 0 <c<1, however, both the nominal money sup-"
+ply and the nominal stock of debt play a role in price level determination. Propor-tional changes in M and B produce proportional changes in the price level.
+"In a steady state, all nominal quantities and the price level must change at the"
+"same rate because real values are constant. Thus, if Mgrows, then Bmust also"
+"13. In this example, c¼yin equilibrium because there is no capital good that would allow the endown-"
+ment to be transferred over time.4.4 Deﬁcits and Inﬂation 149

@@ -1,0 +1,5 @@
+﻿content
+"What determines whether, for a given deficit, the economy ends up at the high-inflation equilibrium or the low-inflation equilibrium? Which equilibrium is picked out depends on the stability properties of the economy. Determining this in turn requires a more complete specification of the dynamics of the model. Recall that the demand for money depends on expected inflation through the nominal rate of interest, whereas the inflation tax rate depends on actual inflation. In considering the e¤ects of variations in the inflation rate, one needs to determine how expectations will adjust. Cagan (1956) addressed this by assuming that expectations adjust adaptively to actual inflation:
+qpe
+qt 1⁄4 p_ e 1⁄4 hðp peÞ; ð4:27Þ where h captures the ‘speed of adjustment’ of expectations. A low h implies that expectations respond slowly to inflation forecast errors. Since h 1⁄4 expðapeÞ, di¤erentiate this expression with respect to time, obtaining _h
+h 1⁄4 y m p 1⁄4 ap_ e:"

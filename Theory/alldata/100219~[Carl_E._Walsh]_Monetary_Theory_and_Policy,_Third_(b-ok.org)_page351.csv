@@ -1,0 +1,37 @@
+﻿Content
+5.Verify that the optimal commitment rule that minimizes the unconditional
+expected value of the loss function given by (7.10) is Dmc¼/C0ale=ð1þa2lÞ.
+6.Suppose the central bank acts under discretion to minimize the expected value of
+"(7.2). The central bank can observe eprior to setting Dm, but vis observed only after"
+"policy is set. Assume, however, that eandvare correlated and that the expected"
+"value of v, conditional on e,i sE ½vje/C138¼qe, where q¼sv;e=s2"
+eand sv;eis the co-
+variance between eandv.
+a.Find the optimal policy under discretion. Explain how policy depends on q.
+b.What is the equilibrium rate of inﬂation? Does it depend on q?
+"7.Since the tax distortions of inﬂation are related to expected inﬂation, suppose the"
+loss function (7.2) is replaced by
+L¼lðy/C0yn/C0kÞ2þðpeÞ2;
+where y¼ynþaðp/C0peÞ. How is ﬁgure 7.2 modiﬁed by this change in the central
+bank’s loss function? Is there an equilibrium inﬂation rate? Explain.
+8.(Based on Jonsson 1995 and Svensson 1997b) Suppose (7.3) is modiﬁed to incor-
+porate persistence in the output process:
+yt¼ð1/C0yÞynþyyt/C01þaðpt/C0pe
+tÞþe; 0<y<1:
+Suppose the policymaker has a two-period horizon with objective function given by
+L¼min E½ LtþbLtþ1/C138;
+where Li¼1
+2½lðyi/C0yn/C0kÞ2þp2
+i/C138.
+a.Derive the optimal commitment policy.
+b.Derive the optimal policy under discretion without commitment.
+c.How does the presence of persistence ðy>0Þa¤ect the inﬂation bias?
+9.Suppose the central bank’s objective is to minimize
+V¼1
+2lðu/C0kunÞ2þ12p
+2;
+"where uis the unemployment rate and unis the natural rate of unemployment, with"
+k<1. If the economy is described by
+u¼un/C0aðp/C0peÞ;
+what is the equilibrium rate of inﬂation under discretion? How does a fall in una¤ect
+the equilibrium rate of inﬂation?326 7 Discretionary Policy and Time Inconsistency

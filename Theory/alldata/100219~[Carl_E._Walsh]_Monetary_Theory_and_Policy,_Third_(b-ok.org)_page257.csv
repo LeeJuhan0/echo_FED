@@ -1,0 +1,35 @@
+﻿Content
+pt¼1
+2pt/C01þ12E
+tptþ1þkðytþyt/C01Þþ12h
+t: ð6:16Þ
+The basic Taylor speciﬁcation leads to inertia in the aggregate price level. The value
+ofptis inﬂuenced both by expectations of future prices and by the price level in the
+previous period.
+"Expressed in terms of the rate of inﬂation pt¼pt/C0pt/C01, (6.16) implies"
+pt¼Etptþ1þ2kðytþyt/C01Þþht: ð6:17Þ
+"The key implication of (6.17) is that while prices display inertia, the inﬂation rateneed not exhibit inertia, that is, it depends on expected future inﬂation but not on"
+"past inﬂation. This is important, as can be seen by considering the implications of"
+"Taylor’s model for a policy of disinﬂation. Suppose that the economy is in an initial,"
+perfect-foresight equilibrium with a constant inﬂation rate p
+1. Now suppose that in
+period t/C01 the policymaker announces a policy that will lower the inﬂation rate to
+p2in period tand then maintain inﬂation at this new lower rate. Using (6.17) and the
+"deﬁnition of ht, it can be shown that this disinﬂation has no impact on total output."
+"As a consequence, inﬂation can be costlessly reduced. The price level is sticky in Tay-lor’s speciﬁcation, but the rate at which it changes, the rate of inﬂation, is not. The"
+backward-looking aspect of price behavior causes unanticipated reductions in the
+level of the money supply to cause real output declines. Prices set previously are too
+high relative to the new path for the money supply; only as contracts expire can theirreal value be reduced to levels consistent with the new lower money supply. How-
+"ever, as Ball (1994a) has shown, price rigidities based on such backward-looking be-"
+havior need not imply that policies to reduce inﬂation by reducing the growth rate of
+"money will cause a recession. Since mcontinues to grow, just at a slower rate, the"
+"real value of preset prices continues to be eroded, unlike the case of a level reductioninm.10"
+Quadratic Costs of Price ChangesRotemberg (1982) modeled the sluggish adjustment of prices by assuming that ﬁrms
+"faced quadratic costs of making price changes. Unlike the Taylor model, the Rotem-"
+"berg model assumed all ﬁrms could adjust their price each period, but because of the"
+"adjustment costs, they would only close partially any gap between their current price"
+and the optimal price. 11
+"10. For example, when the policy to reduce inﬂation from p1top2is announced in period t/C01, E t/C01pt"
+"falls. For a given level of output, this decline would reduce pt/C01. If the policymaker acts to keep inﬂation"
+"at the time of the announcement (i.e., pt/C01) unchanged, output must rise."
+11. Ireland (2004) provided a recent example of a model employing quadratic costs of adjusting prices.232 6 Money in the Short Run: Nominal Price and Wage Rigidities

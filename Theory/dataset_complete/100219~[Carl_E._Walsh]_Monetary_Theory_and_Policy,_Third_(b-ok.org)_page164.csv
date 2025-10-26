@@ -1,0 +1,42 @@
+﻿Content
+The second term in (4.6) is normally the focus of analyses of seigniorage because it
+can be nonzero even in the steady state. To maintain a constant level of real money
+"holdings, the private sector needs to increase its nominal holdings of money at the"
+rate p(approximately) to o¤set the e¤ects of inﬂation on real holdings. By supplying
+"money to meet this demand, the government is able to obtain goods and services orreduce other taxes."
+Denote the growth rate of the nominal monetary base Hbyy; the growth rate of h
+"will equal ðy/C0pÞ=ð1þpÞAy/C0p.4In a steady state, hwill be constant, implying"
+"that p¼y. In this case, (4.6) shows that seigniorage will equal"
+p
+1þp/C18/C19
+h¼y
+1þy/C18/C19
+h: ð4:7Þ
+"For small values of the rate of inﬂation, p=ð1þpÞis approximately equal to p,s o s"
+"can be thought of as the product of a tax rate of p, the rate of inﬂation, and a tax"
+"base of h, the real stock of base money. Since base money does not pay interest, its"
+real value is depreciated by inﬂation whether or not inﬂation is anticipated.
+The deﬁnition of swould appear to imply that the government receives no revenue
+"if inﬂation is zero. But this inference neglects the real interest savings to the govern-ment of issuing h, which is non-interest-bearing debt, as opposed to b, which is"
+"interest-bearing debt. That is, for a given level of the government’s total real liabil-"
+"itiesd¼bþh, interest costs will be a decreasing function of the fraction of this total"
+that consists of h. A shift from interest-bearing to non-interest-bearing debt would
+allow the government to reduce total tax revenues or increase transfers or purchases.
+This observation suggests that one should consider the government’s budget con-
+straint expressed in terms of the total liabilities of the government. Using (4.5) and
+"(4.6), the budget constraint can be rewritten as 5"
+g
+tþrt/C01dt/C01¼ttþðdt/C0dt/C01Þþpt/C0pe
+t
+1þpt/C18/C19
+ð1þrt/C01Þdt/C01þit/C01
+1þpt/C18/C19
+ht/C01: ð4:8Þ
+"Seigniorage, deﬁned as the last term in (4.8), becomes"
+s¼i
+1þp/C18/C19
+h: ð4:9Þ
+"This shows that the relevant tax rate on high-powered money depends directly onthe nominal rate of interest. Thus, under the Friedman rule for the optimal rate of"
+4. Problem 1 at the end of this chapter deals with the case in which there is population and real per capita
+income growth.
+"5. To obtain this, add rt/C01ht/C01to both sides of (4.5).4.2 Budget Accounting 139"

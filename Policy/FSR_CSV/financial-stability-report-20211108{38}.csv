@@ -1,0 +1,68 @@
+"tem in response to the 
+Global Financial Crisis. The Dodd-Frank wall Street reform and Consumer Protection act of 2010 created a process for the designa-
+tion of CCPs as systemically important by the Financial Stability oversight Council; these designated CCPs are subject to enhanced 
+supervision, including by the Federal reserve, and have all been permitted to open Federal reserve accounts to hold cash.
+2 In march 2020, Cme Clearing auctioned the portfolio of clearing member ronin Capital, and the Fixed Income Clearing Corporation 
+ceased to act for ronin Capital. ronin Capital was not a large clearing member at either CCP .
+3 For more information on the march 2020 turmoil in the Treasury market and the roles of other market participants, including hedge 
+funds, mortgage real estate investment trusts, principal trading firms, and dealers, see the box “a retrospective on the march 2020 
+Turmoil in Treasury and mortgage-Backed Securities markets” in Board of Governors of the Federal reserve System (2020), Financial 
+Stability Report (washington: Board of Governors, November), pp. 32–38, https://www.federalreserve.gov/publications/files/financial-
+stability-report-20201109.pdf. 
+4 For example, if a clearing member has posted collateral with a market value of $100 million and defaults before making a required 
+variation margin payment of $100 million, the CCP may not realize any credit loss when the defaulter’s portfolio is liquidated. However, 
+the CCP still would need $100 million in cash in the correct currency, usually on the same day and potentially within a few hours after 
+the default, to meet payment obligations to nondefaulting clearing members.
+(continued on next page)
+
+52 FuNDING rISk
+clearing member and its afﬁ liates under extreme but plausible market conditions. Each CCP is required 
+to maintain liquid resources—including cash as well as highly reliable tools for monetizing noncash 
+assets—sufﬁ cient to cover this need. Securities CCPs, shown in the top panel of ﬁ gure A, generally 
+have larger potential payment obligations than derivatives CCPs, shown in the bottom panel, because 
+securities CCPs need to settle the full net notional value of securities trades, whereas derivatives CCPs 
+generally need to cover only the net change in the value of a portfolio over a short period. Neverthe-
+less, liquidity needs are material even at some derivatives CCPs.
+A CCP’s vulnerability to collateral illiquidity depends not only on the size of its potential payment obli-
+gations, but also on the amount of noncash collateral it would need to monetize to meet those obli-
+gations. To limit exposure to collateral illiquidity, some CCPs require that a certain percentage of initial 
+margin be posted in cash or limit their acceptance of certain types of noncash collateral. Subject to 
+these restrictions, clearing members are generally free to substitute one type of collateral for another.
+(continued)
+Liquidity Vulnerabilities from Noncash Collateral (continued)
+Derivatives Central Counterparties
+CME Clearing
+Options Clearing Corporation
+ICE Clear Credit LLC
+2017 2018 2019 2020 2021
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Q2
+Quarterly
+Billions of dollars
+Source: Clarus Financial Technology Ltd., CCPView.
+Fixed Income Clearing Corporation
+National Securities Clearing Corporation
+2017 2018 2019 2020 2021
+0
+20
+40
+60
+80
+100
+120
+140
+160
+Q2
+Quarterly
+Billions of dollars
+Figure a. Largest Liquidity Need in the event of a Single member’s Default, in extreme but Plau"

@@ -1,0 +1,37 @@
+﻿Content
+central banks have adopted inﬂation targeting as a framework for the conduct of
+policy. 10
+"Before considering these solutions, however, it is important to note that the tradi-"
+tion in the monetary policy literature has been to assume that the underlying cause of
+"the bias, the desire for economic expansions captured either by the presence of out-"
+put in the case of the linear objective function (7.1) or by the parameter kin the qua-
+"dratic loss function (7.2), is given. Clearly, policies that might eliminate the factors"
+that create a wedge between the economy’s equilibrium output and the central bank’s
+desired level would lead to the ﬁrst-best outcome in the Barro-Gordon model.
+7.3.1 Reputation
+One potential solution to an inﬂationary bias is to force the central bank to bear
+"some cost if it deviates from its announced policy of low inﬂation, thereby raising"
+the marginal cost of inﬂation as perceived by the central bank. One form such a
+"cost might take is a lost reputation. The central bank might, perhaps through its"
+"past behavior, demonstrate that it will deliver zero inﬂation despite the apparent in-"
+"centive to inﬂate. If the central bank then deviates from the low-inﬂation solution, its"
+"credibility is lost and the public expects high inﬂation in the future. That is, the pub-lic employs a trigger strategy. The folk theorem for inﬁnite horizon repeated games"
+(Fudenberg and Maskin 1986) suggests that equilibria exist in which inﬂation re-
+mains below the discretionary equilibrium level as long as the central bank’s discount
+"rate is not too high. Hence, as long as the central bank cares enough about the fu-"
+"ture, a low-inﬂation equilibrium can be supported."
+An alternative approach is to consider situations in which the public may be un-
+certain about the true preferences of the central bank. In the resulting imperfect in-
+"formation game, the public’s expectations concerning inﬂation must be based on its"
+"beliefs about the central bank’s preferences or type. Based on observed outcomes,"
+"these beliefs evolve over time, and central banks may have incentives to a¤ect thesebeliefs through their actions. A central bank willing to accept some inﬂation in returnfor an economic expansion may still ﬁnd it optimal initially to build a reputation as"
+an anti-inﬂation central bank.
+A Repeated Game
+The basic Barro-Gordon model is a one-shot game; even if the central bank’s objec-
+tive is to maximize E
+tP
+"i¼0biUtþi, where Utis deﬁned by (7.1) and bis a discount"
+"factor ð0<b<1Þ, nothing links time tdecisions with future periods. 11Thus, the"
+"10. More than 20 countries have adopted inﬂation targeting. For evaluations of inﬂation targeting, see"
+Mishkin and Schmidt-Hebbel (2002; 2007); Carare and Stone (2002); Batinit and Laxton (2007); andWalsh (2009).
+11. The same clearly applies to the case of a quadratic objective function of the form (7.2).284 7 Discretionary Policy and Time Inconsistency

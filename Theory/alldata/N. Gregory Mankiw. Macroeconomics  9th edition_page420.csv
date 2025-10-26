@@ -1,0 +1,43 @@
+﻿Content
+412 | PART IV Business Cycle Theory: The Economy in the Short Run
+pr
+ices: they announce their prices in advance based on what they expect eco-
+nomic conditions to be. Firms with sticky prices set prices according to
+"p 5 EP 1 a(EY 2 EY–),"
+"where, as before, E represents the expected value of a variable. For simplicity, "
+"assume that these ﬁrms expect output to be at its natural level, so that the last "
+"term, a(EY 2 EY–), is zero. Then these ﬁrms set the price"
+p 5 EP
+"That is, ﬁrms with sticky prices set their prices based on what they expect other "
+ﬁrms to charge.
+We can use the pricing rules of the two groups of ﬁrms to derive the aggre-
+"gate supply equation. T o do this, we ﬁnd the overall price level in the economy, "
+which is the weighted average of the prices set by the two groups. If s is the 
+"fraction of ﬁrms with sticky prices and 1 2 s is the fraction with ﬂexible prices, "
+then the overall price level is
+P 5 sEP 1 (1 2 s)[P 1 a(Y 2 Y–)].
+The ﬁrst term is the price of the sticky-price ﬁrms weighted by their frac-
+tion in the economy; the second term is the price of the ﬂexible-price ﬁrms 
+weighted by their fraction. Now subtract (1 2 s)P from both sides of this 
+equation to obtain
+sP 5 sEP 1 (1 2 s)[a(Y 2 Y–)].
+Divide both sides by s to solve for the overall price level:
+P 5 EP 1 [(1 2 s)a/s](Y 2 Y–).
+The two terms in this equation are explained as follows:
+"n When ﬁrms expect a high price level, they expect high costs. Those ﬁrms "
+that ﬁx prices in adv
+ance set their prices high. These high prices cause 
+"the other ﬁrms to set high prices also. Hence, a high expected price level "
+EP leads to a high actual price level P. This effect does not depend on the 
+fraction of ﬁrms with sticky prices.
+"n When output is high, the demand for goods is high. Those ﬁrms with "
+ﬂexible pr
+"ices set their prices high, which leads to a high price level. The "
+effect of output on the price level depends on the fraction of ﬁrms with 
+"sticky prices. The more ﬁrms that have sticky prices, the less the price "
+level responds to the level of economic activity.
+"Hence, the overall price level depends on the expected price level and on the "
+level of output.
+Algebraic rearrangement puts this aggregate pricing equation into a more 
+familiar form:
+"Y 5 Y– 1 a(P 2 EP),"

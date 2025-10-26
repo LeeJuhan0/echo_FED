@@ -1,0 +1,46 @@
+﻿Content
+"of meeting the target against achieving its other objectives. Often, however, targeting"
+is analyzed in terms of strict targets; the central bank is required to achieve a speciﬁc
+target outcome regardless of the implications for its other objectives. For an early
+"analysis of strict targeting regimes, see Aizenman and Frankel (1986)."
+"As an example, consider a strict money growth rate target under which the cen-"
+tral bank is required to set the growth rate of the money supply equal to someconstant: 47
+Dm¼Dm
+T:
+"Since the desired rate of inﬂation is p/C3, it makes sense to set DmT¼p/C3, and the pub-"
+"lic will set pe¼p/C3. With this rule in place, the social loss function can be evaluated."
+If social loss is given by
+V¼1
+2lEtðyt/C0yn/C0kÞ2þ12E
+tðpt/C0p/C3Þ2;
+then under a strict money growth rate target it takes the value
+VðDmTÞ¼1
+2½lk2þls2
+eþð1þa2lÞs2
+v/C138:
+"Recall that under pure discretion the expected value of the loss function was, from"
+"(7.9),"
+Vd¼1
+2lð1þa2lÞk2þ12 l
+1þa2l/C18/C19
+s2
+eþð1þa2lÞs2
+v/C20/C21
+:
+"Comparing these two, one obtains"
+VðDmTÞ/C0Vd¼/C01
+2ðalkÞ2þ12 a2l2
+1þa2l !
+s2
+e:
+Notice that this can be either positive or negative. It is more likely to be negative
+(implying that the strict money growth rate target is superior to discretion) if the un-
+"derlying inﬂationary bias under discretion, alk, is large. Since the strict targeting rule"
+"ensures that average inﬂation is p/C3, it eliminates any inﬂationary bias, so the gain is"
+"larger, the larger the bias that arises under discretion. However, discretion is more"
+likely to be preferred to the strict rule when s2
+eis large. The strict targeting rule elim-
+inates any stabilization role for monetary policy. The cost of doing so will depend on
+"47. Alternatively, the targeting rule could require the central bank to minimize E ðDm/C0DmTÞ2. However,"
+"this occurs if the central bank sets policy such that E ðDmÞ¼DmT.I fD mis controlled exactly, this is"
+equivalent to Dm¼DmT.314 7 Discretionary Policy and Time Inconsistency

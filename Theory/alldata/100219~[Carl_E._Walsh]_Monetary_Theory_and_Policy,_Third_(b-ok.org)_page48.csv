@@ -1,0 +1,33 @@
+﻿Content
+with the price puzzle. One solution is to include commodity prices or other asset pri-
+ces in the VAR. Since these prices tend to be sensitive to changing forecasts of future
+"inﬂation, they serve as a proxy for some of the Fed’s additional information (Sims"
+"1992; Chari, Christiano, and Eichenbaum 1995; Bernanke and Mihov 1998). Sims"
+(1992) showed that the price puzzle is not conﬁned to U.S. studies. He reported
+"VAR estimates of monetary policy e¤ects for France, Germany, Japan, and theUnited Kingdom as well as for the United States, and in all cases a positive shock"
+to the interest rate led to a positive price response. These price responses tended to
+"become smaller, but did not in all cases disappear, when a commodity price index"
+and a nominal exchange rate were included in the VAR.
+An alternative interpretation of the price puzzle is provided by Barth and Ramey
+(2002). They argued that contractionary monetary policy operates on aggregate sup-
+"ply as well as aggregate demand. For example, an increase in interest rates raises the"
+cost of holding inventories and thus acts as a positive cost shock. This negative sup-
+ply e¤ect raises prices and lowers output. Such an e¤ect is called the cost channel
+"of monetary policy. In this interpretation, the price puzzle is simply evidence of thecost channel rather than evidence that the VAR is misspeciﬁed. Barth and Rameycombined industry-level data with aggregate data in a VAR and reported evidence"
+supporting the cost channel interpretation of the price puzzle (see also Ravenna and
+Walsh 2006).
+One di‰culty in measuring the impact of monetary policy shocks arises when
+operating procedures change over time. The best measure of policy during one period
+may no longer accurately reﬂect policy in another period if the implementation of
+"policy has changed. Many authors have argued that over most of the past 35 years,"
+"the federal funds rate has been the key policy instrument in the United States, sug-"
+"gesting that unforecasted changes in this interest rate may provide good estimates ofpolicy shocks. This view has been argued, for example, by Bernanke and Blinder"
+(1992) and Bernanke and Mihov (1998). While the Fed’s operating procedures have
+"varied over time, the funds rate is likely to be the best indicator of policy in the"
+United States during the pre-1979 and post-1982 periods. 23Policy during the period
+1979–1982 is less adequately characterized by the funds rate. 24
+"While researchers have disagreed on the best means of identifying policy shocks,"
+there has been a surprising consensus on the general nature of the economic re-sponses to monetary policy shocks. A variety of VARs estimated for a number of
+23. Chapter 11 provides a brief history of Fed operating procedures.
+"24. During this period, nonborrowed reserves were set to achieve a level of interest rates consistent with"
+"the desired monetary growth targets. In this case, the funds rate may still provide a satisfactory policy in-dicator. Cook (1989) found that most changes in the funds rate during the 1979–1982 period reﬂected pol-icy actions. See chapter 11 for a discussion of operating procedures and the reserve market.1.3 Estimating the E¤ect of Money on Output 23"

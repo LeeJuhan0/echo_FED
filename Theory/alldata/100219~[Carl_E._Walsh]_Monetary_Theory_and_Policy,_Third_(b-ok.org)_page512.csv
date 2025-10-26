@@ -1,0 +1,39 @@
+﻿Content
+borrower pays the lender the ﬁxed amount K. Since Kis independent of the realiza-
+"tion of x, no monitoring is necessary. The presence of monitoring costs and imperfect"
+information leads to the endogenous determination of the optimal loan contract.
+The proof that RðxÞ¼xwhenever monitoring takes place is straightforward. In
+"equilibrium, the constraint given by (10.36) will be satisﬁed with equality. Otherwise,"
+"the payment to the lender could be reduced in some states, which would increase theexpected return to the borrower. Hence,"
+E½RðxÞ/C0 cjRðxÞ<
+K/C138Pr½RðxÞ<K/C138þKPr½RðxÞbK/C138¼r:
+Any contract that called for RðxÞ<xfor some realizations of xcould be replaced by
+another contract that increases repayment slightly when monitoring occurs but low-
+ersKto decrease the range of xfor which monitoring actually takes place. This can
+be done such that the lender’s expected proﬁt is unchanged. 28Using the constraint
+"for the lender’s expected return, the expected return to the borrower can be written as"
+E½Rb/C138¼E½x/C0RðxÞjRðxÞ<K/C138Pr½RðxÞ<K/C138þfE½xjRðxÞbK/C138/C0KgPr½RðxÞbK/C138
+¼E½x/C0RðxÞjRðxÞ<K/C138Pr½RðxÞ<K/C138þE½xjRðxÞbK/C138Pr½RðxÞbK/C138
+/C0fr/C0E½RðxÞ/C0cjRðxÞ<K/C138Pr½RðxÞ<K/C138g
+¼E½x/C0cjRðxÞ<K/C138Pr½RðxÞ<K/C138þE½xjRðxÞbK/C138Pr½RðxÞbK/C138/C0r
+¼E½x/C138/C0cPr½RðxÞ<K/C138/C0r; ð10:37Þ
+where Pr½ RðxÞ<K/C138is the probability that monitoring occurs. Equation (10.37)
+shows that the expected return to the borrower is decreasing in K. Any contract
+that lowers Kand reduces the probability of monitoring while leaving the lender
+with an expected return of rwill be strictly preferred by the borrower. Such a con-
+tract can be constructed if RðxÞ<x.29
+"To make the example more speciﬁc, suppose xis uniformly distributed on ½0;x/C138."
+The expected return to the lender is equal to
+ðK
+0ðx/C0cÞ1
+xdxþðx
+KK1
+xdx:
+28.RðxÞ>xis ruled out by the assumption that the borrower has no other resources. If RðxÞ<xfor
+"some xfor which monitoring occurs, then the new contract, which increases RðxÞin those states, increases"
+"RðxÞ/C0 cwhen monitoring does occur. For a given K, this increases E ½RðxÞ/C0 cjRðxÞ <K/C138, making the"
+"lender’s expected proﬁt greater than r. Since Kis then lowered, monitoring occurs in fewer states, thereby"
+reducing the lender’s expected proﬁt so that it again equals r.
+29. One implication of (10.37) is that the borrower bears the cost of monitoring; the expected return to the
+borrower is equal to the total expected project return net of the opportunity cost of funds ðrÞand expected
+monitoring costs ðcPr½RðxÞ <K/C138Þ.10.5 Financial Frictions in Credit Markets 487

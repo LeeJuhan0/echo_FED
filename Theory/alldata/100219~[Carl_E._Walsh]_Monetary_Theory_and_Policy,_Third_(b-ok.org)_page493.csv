@@ -1,0 +1,36 @@
+﻿Content
+"long and short rates, as well as the way in which interest rates react to monetary pol-"
+"icy, is shown to depend on the manner in which policy is conducted."
+10.3.2 Policy and the Term Structure
+"In this section, a simple model illustrates how the behavior of nominal interest rates"
+depends on the money supply process. Consider the following model:
+Rt¼qt ð10:17Þ
+Rt¼1
+2½it/C0Etptþ1þEtðitþ1/C0ptþ2Þ/C138 ð10:18Þ
+mt/C0pt¼/C0aitþvt ð10:19Þ
+mt¼gmt/C01þjt; 0<g<1; ð10:20Þ
+where pt¼pt/C0pt/C01. This model incorporates the assumption that output and the
+"long-term (in this case, two-period) real interest rate are exogenous, with the gross"
+long-term real rate Rtequal to a stochastic mean zero random variable qt.Rtis equal
+to the average of the current real short-term rate it/C0Etptþ1and the expected future
+real short-term rate E tðitþ1/C0ptþ2Þ. The real demand for money is decreasing in the
+"nominal short-term interest rate and is subject to a random shock vt. Finally, the"
+"nominal money supply is assumed to follow a ﬁrst-order autoregressive process, sub-"
+ject to a control error jt. Note that this process implies that E tmtþ1¼gmt.
+"By using (10.19) to eliminate itand E titþ1from (10.18), this system of four equa-"
+tions implies that the equilibrium process for the price level must satisfy the following
+expectations di¤erence equation:
+2aqt¼ð1þaÞptþEtptþ1/C0aEtptþ2/C0ð1þgÞmtþvt: ð10:21Þ
+"To ﬁnd the solution for the short-term interest rate, one can employ the method of"
+"undetermined coe‰cients. Since the relevant state variables in (10.21) are mt,qt,"
+"andvt, it is possible to guess a solution of the form"
+pt¼b1mtþb2qtþb3vt:
+This implies that E tptþ1¼b1gmtand E tptþ2¼b1Etmtþ2¼b1g2mt. Using these in
+"(10.21), the equilibrium solution for the price level is"
+pt¼1
+1það1/C0gÞ/C20/C21
+mtþ1
+1þa/C18/C19
+ð2aqt/C0vtÞ: ð10:22Þ
+"From the money demand equation, it¼ðvtþpt/C0mtÞ=a, so, given the equilibrium"
+"process for pt,468 10 Financial Markets and Monetary Policy"

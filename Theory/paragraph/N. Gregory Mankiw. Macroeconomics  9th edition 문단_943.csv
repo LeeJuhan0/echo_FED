@@ -1,0 +1,18 @@
+﻿content
+"CHAPTER 15 A Dynamic Model of Economic Fluctuations | 473
+PROBLEMS AND APPLICATIONS
+1. Derive the long-run equilibrium for the dynamic AD –AS model. Assume there are no shocks to demand or supply (et 5 yt 5 0) and inflation has stabilized (pt 5 pt21), and then use the five equations in Table 15-1 to derive the value of each variable in the model. Be sure to show each step you follow.
+2. Suppose the monetary-policy rule has the wrong natural rate of interest. That is, the central bank follows this rule:
+i
+t 5 pt 1 r 1 up(pt 2 pt
+* ) 1 uY (Yt 2 Y
+–
+t
+)
+where r does not equal r, the natural rate of interest in the goods demand equation. The rest of the dynamic AD –AS model is the same as in the chapter. Solve for the long-run equilibrium under this policy rule. Explain in words the intuition behind your solution.
+3. “If a central bank wants to achieve lower nominal interest rates, it has to raise the nominal interest rate.” Explain in what way this statement makes sense.
+4. The sacrifice ratio is the accumulated loss in output that results when the central bank lowers its target for inflation by 1 percentage point. For the parameters used in the text simulation (see the FYI box), what is the implied sacrifice ratio? Explain.
+5. The text analyzes the case of a temporary shock to the demand for goods and services. Suppose, however, that et
+were to increase permanently. What would happen to the economy over time? In particular, would the inflation rate return to its target in the long run? Why or why not?
+(Hint: It might be helpful to solve for the long-run equilibrium without the assumption that et
+equals zero.) How might the central bank alter its policy rule to deal with this issue?"

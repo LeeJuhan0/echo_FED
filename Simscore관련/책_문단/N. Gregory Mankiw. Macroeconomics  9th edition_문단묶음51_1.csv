@@ -1,0 +1,142 @@
+﻿id,paragraph
+1,"where the maximization is subject to (9.100). Letting l denote the Lagrangian multiplier associate with the budget constraint, first-order conditions are 1 C j t lt 1⁄4 0 ð9:101Þ b M j t þ bV2ðBj t ; M j t Þ lt Pt 1⁄4 0 ð9:102Þ kytðjÞ þ ltqytðjÞ q1 ðCw t Þ 1q 1⁄4 0 ð9:103Þ bV1ðBj t ; M j t Þ lt 1⁄4 0 ð9:104Þ 446 9 Money and the Open Economy V1ðBj t1; M j t1Þ 1⁄4 ltRt1 ð9:105Þ V2ðBj t1; M j t1Þ 1⁄4 lt Pt : ð9:106Þ There is also the transversality condition limi!y Qi k1⁄40 Rtþs1ðBj tþi þ M j tþi =PtþiÞ 1⁄4 0. These first-order conditions lead to the standard Euler condition for consumption with log utility: C j tþ1 1⁄4 bRtC j t ; which is obtained using (9.101), (9.104), and (9.105). Equations (9.103) and (9.101) imply that the optimal production level the individual chooses satisfies ytðjÞ 2q 1⁄4 q k ðCw t Þ 1q C j t : ð9:107Þ Equation (9.102) yields an expression for the real demand for money, M j t Pt 1⁄4 bC j t 1 þ it it ð1 þ itÞ 1⁄4 Rtþ1Ptþ1=Pt is the gross nominal rate of interest from period t to t þ 1. This expression should look familiar from chapter 2."
+2,"9.7.2 The Small-Open-Economy Model This appendix employs the method of undetermined coe‰cients to obtain the equilibrium exchange rate and price level processes consistent with (9.49)–(9.57). The equations of the model are repeated here, where the real exchange rate rt has been replaced by st þ p t pt, rt by r ðst þ p t ptÞ þ Etðstþ1 þ p tþ1 ptþ1Þ, it by i t þ Etstþ1 st, and qt by pt þ ð1 hÞðst þ p t ptÞ: yt 1⁄4 b1ðst þ p t ptÞ þ b2ðpt Et1ptÞ þ et ð9:108Þ yt 1⁄4 a1ðst þ p t ptÞ a21⁄2r ðst þ p t ptÞ þ Etðstþ1 þ p tþ1 ptþ1Þ þ ut ð9:109Þ mt 1⁄2 pt þ ð1 hÞðst þ p t ptÞ 1⁄4 yt cði t þ Etstþ1 stÞ þ vt ð9:110Þ mt 1⁄4 m þ mt1 þ jt gjt1; 0a g a 1 ð9:111Þ p t 1⁄4 p þ p t1 þ ft: ð9:112Þ 9.7 Appendix 447 Substituting the aggregate demand relationship (9.109), the money supply process (9.111), and the foreign price process (9.112) into the money demand equation (9.110) yields, after some rearrangement, A1pt þ A2st 1⁄4 C0 þ m þ mt1 þ jt gjt1 ð1 h þ a1Þðp t1 þ ftÞ a2Etptþ1 þ ða2 þ cÞEtstþ1 ut vt; ð9:113Þ where A1 1⁄4 h a1 a2, A2 1⁄4 1 h þ a1 þ a2 þ c > 0 and C0 1⁄4 ðc þ a2Þr ð1 h þ a1 a2 cÞp. In deriving (9.113), two additional results have been used: from (9.112), Etp tþ1 1⁄4 2p þ p t1 þ ft, and i t 1⁄4 r þ Etp tþ1 p t 1⁄4 r þ p."
+3,"Using the aggregate supply and demand relationships (9.108) and (9.109), B1pt þ B2st 1⁄4 b2Et1pt þ a2ðEtstþ1 Etptþ1Þða1 þ b1Þp þ a2ðr þ p Þ þ et ut ða1 þ b1Þðp t1 þ ftÞ; (9.114) where B1 1⁄4 ða1 þ a2 þ b1 þ b2Þ < 0, and B2 1⁄4 a1 þ a2 þ b1 > 0. The state variables at time t are mt1, p t and the various random disturbances. To rule out possible bubble solutions, follow McCallum (1983a) and hypothesize minimum state variable solutions of the form:30 pt 1⁄4 k0 þ mt1 þ k1p t1 þ k2jt þ k3jt1 þ k4ut þ k5et þ k6vt þ k7ft st 1⁄4 d0 þ mt1 þ d1p t1 þ d2jt þ d3jt1 þ d4ut þ d5et þ d6vt þ d7ft: These imply Et1pt 1⁄4 k0 þ mt1 þ k1p t1 þ k3jt Etptþ1 1⁄4 k0 þ mt þ k1p t þ k3jt 1⁄4 k0 þ m þ mt1 þ ð1 þ k3Þjt gjt1 þ k1ðp þ p t1 þ ftÞ and Etstþ1 1⁄4 d0 þ m þ mt1 þ ð1 þ d3Þjt gjt1 þ d1ðp þ p t1 þ ft):"
+4,"11. Using the first-order conditions derived in question 10a, derive the Euler equations and obtain the uncovered interest rate parity condition. Can you provide economic intuition to explain this equation. 9.8 Problems 451 10 Financial Markets and Monetary Policy 10.1 Introduction Central banks in the major industrialized economies implement policy by intervening in the money market to achieve a target level for a short-term interest rate.1 The focus in this chapter is on the role of financial markets and the linkages between the interest rate a¤ected directly by monetary policy and the broad range of market interest rates and credit conditions that a¤ect investment and consumption spending. After consideration of price level determinacy and liquidity traps in section 10.2, the term structure of interest rates and the relationship between short-term and longterm interest rates are discussed in section 10.3. Recent work has linked the term structure models commonly used in the finance literature to the types of macroeconomic models commonly used to investigate monetary policy issues. These models are the topic of section 10.4. If, however, credit markets are imperfect, interest rates (i.e., prices) may not be su‰cient to capture the impact of monetary policy on the economy. Instead, there may be credit e¤ects that arise when frictions are present in financial markets. Section 10.5 examines these frictions and their implications for macroeconomic equilibrium and the impact of monetary policy. Section 10.6 concludes by providing a brief review of the evidence on whether credit matters."
+5,"10.2 Interest Rates and Monetary Policy This section explores three issues: (1) the connection between interest rate policies and price level determinacy (in chapter 8, the new Keynesian model was used to explore issues of determinacy, but this related to the existence of a unique rationalexpectations equilibrium for the inflation rate, not the price level); (2) interest rate policies in flexible-price general equilibrium models; and (3) the implications of liquidity traps. 1. Monetary policy operating procedures are discussed in chapter 11. 10.2.1 Interest Rate Rules and the Price Level Monetary policy can a¤ect nominal rates, both in the short run and in the long run, but the Fisher relationship links the real rate, expected inflation, and the nominal rate of interest. Targets for nominal interest rates and inflation cannot be independently chosen, and controlling the nominal interest rate has important implications for the behavior of the aggregate price level."
+6,"10 Financial Markets and Monetary Policy
+10.1 Introduction
+Central banks in the major industrialized economies implement policy by intervening
+in the money market to achieve a target level for a short-term interest rate.1 The
+focus in this chapter is on the role of financial markets and the linkages between the
+interest rate a¤ected directly by monetary policy and the broad range of market interest rates and credit conditions that a¤ect investment and consumption spending.
+After consideration of price level determinacy and liquidity traps in section 10.2,
+the term structure of interest rates and the relationship between short-term and longterm interest rates are discussed in section 10.3. Recent work has linked the term
+structure models commonly used in the finance literature to the types of macroeconomic models commonly used to investigate monetary policy issues. These models
+are the topic of section 10.4. If, however, credit markets are imperfect, interest rates
+(i.e., prices) may not be su‰cient to capture the impact of monetary policy on the
+economy. Instead, there may be credit e¤ects that arise when frictions are present in
+financial markets. Section 10.5 examines these frictions and their implications for
+macroeconomic equilibrium and the impact of monetary policy. Section 10.6 concludes by providing a brief review of the evidence on whether credit matters."
+7,"10.2 Interest Rates and Monetary Policy
+This section explores three issues: (1) the connection between interest rate policies
+and price level determinacy (in chapter 8, the new Keynesian model was used to explore issues of determinacy, but this related to the existence of a unique rationalexpectations equilibrium for the inflation rate, not the price level); (2) interest rate
+policies in flexible-price general equilibrium models; and (3) the implications of liquidity traps.
+1. Monetary policy operating procedures are discussed in chapter 11."
+8,"l, and r and i are the real and nominal rates of interest. Although central banks
+may closely control the nominal rate i, it is the expected real rate of interest r that
+influences consumption and investment decisions and therefore aggregate demand.2
+This distinction has important implications for the feasibility of an interest targeting
+rule.
+Suppose that the central bank conducts policy by pegging the nominal interest rate
+at some targeted value:
+it 1⁄4 i
+T : ð10:5Þ
+Under an interest rate peg, the basic aggregate demand and supply system given by
+(10.1), (10.2), and (10.4) become
+yt 1⁄4 yc þ aðpt Et1ptÞ þ et ð10:6Þ
+yt 1⁄4 a0 a1rt þ ut ð10:7Þ
+i
+T 1⁄4 rt þ ðEtptþ1 ptÞ: ð10:8Þ
+The money demand equation, (10.3), is no longer relevant because the central bank
+must allow the nominal money stock to adjust to the level of money demand at the
+targeted interest rate and the equilibrium level of output."
+9,"2. Term structure considerations are postponed until section 10.3.
+454 10 Financial Markets and Monetary Policy
+Note that the price level only appears in the form of an expectation error (i.e., as
+pt Et1pt in the aggregate supply equation) or as an expected rate of change (i.e.,
+as Etptþ1 pt in the Fisher equation). This structure implies that the price level is
+indeterminate. That is, if the sequence fp
+tþi
+g
+i1⁄40 is an equilibrium, so is any sequence
+fp^tþigy
+i1⁄40 where p^ di¤ers from p by any constant k: p^t 1⁄4 p
+t þ k for all t. Since k is
+an arbitrary constant, p
+t Et1p
+t 1⁄4 p^t Et1 p^t; hence, yt is the same under either
+price sequence. From (10.7), the equilibrium real interest rate is equal to ða0 yt þ
+utÞ=a1, so it too is the same. With expected inflation the same under either price sequence, the only restriction on the price path is that the expected rate of inflation be
+such that iT 1⁄4 ða0 yt þ utÞ=a1 þ Etp
+tþ1 p
+t ."
+10,"The indeterminacy of the price level is perhaps even more apparent if (10.6)–(10.8)
+are rewritten explicitly in terms of the rate of inflation. By adding apt1 and subtracting it from the supply function, the equilibrium conditions become
+yt 1⁄4 yc þ aðpt Et1ptÞ þ et
+yt 1⁄4 a0 a1rt þ ut
+i
+T 1⁄4 rt þ Etptþ1:
+These three equations can be solved for output, the real rate of interest, and the rate
+of inflation. Since the price level does not appear, it is formally indeterminate.3 In a
+forward-looking model, an interest rate peg would also leave the inflation rate indeterminate (see chapter 8)."
+11,"e sequence p is associated
+with the sequence m
+t 1⁄4 p
+t þ yt ciT
+t þ vt, while p^ is associated with m^t 1⁄4 p^t þ
+yt ciT
+t þ vt 1⁄4 m þ k. The price sequences p and p^ will be associated with di¤erent paths for the nominal money stock.
+Intuitively, if all agents expect the price level to be 10 percent higher permanently,
+such an expectation is completely self-fulfilling. To peg the nominal rate of interest,
+3. Employing McCallum’s (1983a) minimum state solution method, the equilibrium inflation rate is
+pt 1⁄4 iT þ ðyc a0Þ=a1 þ ðut etÞ=a when u and e are serially uncorrelated and the target nominal interest
+rate is expected to remain constant. In this case, Etptþ1 1⁄4 iT þ ð yc a0Þ=a1, so permanent changes in the
+target rate i T do not a¤ect the real interest rate: rt 1⁄4 iT Etptþ1 1⁄4 ðyc a0Þ=a1."
+12,"10.2 Interest Rates and Monetary Policy 455
+the central bank simply lets the nominal money supply jump by 10 percent. This
+stands in contrast to the case in which the central bank controls the nominal quantity
+of money; a jump of 10 percent in the price level would reduce the real quantity of
+money, thereby disturbing the initial equilibrium. Under a rule such as (10.5), which
+has the policymaker pegging the nominal interest rate, the central bank lets the
+nominal quantity of money adjust as the price level does, leaving the real quantity
+unchanged."
+13,"Price level indeterminacy is often noted as a potential problem with pure interest
+rate pegs; if private agents don’t care about the absolute price level—and under
+pure interest rate control, neither does the central bank—nothing pins down the
+price level. Simply pegging the nominal interest rate does not provide a nominal
+anchor to pin down the price level. However, this problem will not arise if the central
+bank’s behavior does depend on a nominal quantity such as the nominal money
+supply."
+14,"For example, suppose the nominal money supply (or a narrow reserve aggregate)
+is the actual instrument used to a¤ect control of the interest rate, and assume it is
+adjusted in response to interest rate movements (Canzoneri, Henderson, and Rogo¤
+1983; McCallum 1986):
+mt 1⁄4 m0 þ mt1 þ mðit i
+TÞ: ð10:9Þ
+Under this policy rule, the monetary authority adjusts the nominal money supply
+growth rate, mt mt1, in response to deviations of the nominal interest rate from
+its target value. If it fluctuates randomly around the target iT, then the average rate
+of money growth will be m0. As m ! y, the variance of the nominal rate around the
+targeted value iT will shrink to zero, but the price level can remain determinate (see
+problem 1 at the end of this chapter)."
+15,"The nominal money stock is Ið1Þ under the policy rule given by (10.9). That is, mt
+is nonstationary and integrated of order 1. This property of m causes the price level
+to be nonstationary also.5 One implication is that the error variance of price level
+forecasts increases with the forecast horizon."
+16,"As McCallum (1986) demonstrated, a di¤erent equilibrium describing the stocha
+stic behavior of the nominal interest rate and the price level is obtained if the money
+supply process takes the trend stationary form
+mt 1⁄4 m0 þ m0t þ mðit i
+TÞ ð10:10Þ
+4. See Patinkin (1965) for an early discussion of price level indeterminacy and Schmitt-Grohe ́ and Uribe
+(2000a) for a more recent discussion."
+17,"5. In contrast, the nominal interest rate is stationary because both the real rate of interest and the inflation
+rate (and therefore expected inflation) are stationary.
+456 10 Financial Markets and Monetary Policy
+It is not surprising that (10.9) and (10.10) lead to di¤erent solutions for the price
+level. Under (10.9), the nominal money supply is a nontrend stationary process; random target misses have permanent e¤ects on the future level of the money supply
+and therefore on the future price level. In contrast, (10.10) implies that the nominal
+money supply is trend stationary. Deviations of money from the deterministic growth
+path m0 þ m0t are temporary, so the price level is also trend stationary."
+18,"This discussion leads to two conclusions. First, monetary policy can be implemented to reduce fluctuations in the nominal interest rate without leading to price
+level indeterminacy. Canzoneri, Henderson, and Rogo¤ (1983) and McCallum
+(1986) showed that by adjusting the money supply aggressively in response to interest
+rate movements, a central bank can reduce the variance of the nominal rate around
+its target level while leaving the price level determinate. However, the level at which
+the nominal rate can be set is determined by the growth rate of the nominal money
+supply because the latter equals the expected rate of inflation. The choice of m0 determines the feasible value of iT (or equivalently, the choice of iT determines m0). Targets for the nominal interest rate and rate of inflation cannot be independently
+determined."
+19,"Second, the underlying behavior of the nominal money supply is not uniquely determined by the assumption that the nominal rate is to be fixed at iT; this target can
+be achieved with di¤erent money supply processes. And the di¤erent processes for mwill lead to di¤erent behaviors of the price level. A complete description of policy,
+even under a nominal interest rate targeting policy, requires a specification of the underlying money supply process."

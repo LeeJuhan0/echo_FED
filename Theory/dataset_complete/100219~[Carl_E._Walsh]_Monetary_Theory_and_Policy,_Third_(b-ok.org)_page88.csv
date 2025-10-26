@@ -1,0 +1,40 @@
+﻿Content
+The household’s decision problem is deﬁned by
+Vðat;kt/C01Þ¼maxfuðct;mt;1/C0ntÞþbEtVðatþ1;ktÞg; ð2:44Þ
+where the maximization is over ðct;mt;bt;kt;ntÞand is subject to
+fðkt/C01;nt;ztÞþð 1/C0dÞkt/C01þatbctþktþbtþmt ð2:45Þ
+atþ1¼ttþ1þ1þit
+1þptþ1/C18/C19
+btþmt
+1þptþ1: ð2:46Þ
+Note that the presence of uncertainty arising from the stochastic productivity and
+money growth rate shocks means that it is the expected value of Vðatþ1;ktÞthat
+appears in the value function (2.44). The treatment of atas a state variable assumes
+"that the money growth rate is known at the time the household decides on ct,kt,bt,"
+andmtbecause it determines the current value of the transfer tt. It is also assumed
+that the productivity disturbance ztis known at the start of period t.
+Equation (2.45) will always hold with equality (as long as uc>0); it can be used to
+"eliminate kt, and (2.46) can be used to substitute for atþ1, allowing the value function"
+to be rewritten as
+Vðat;kt/C01Þ¼ max
+ct;nt;bt;mt/C26
+uðct;mt;1/C0ntÞþbEtV/C18
+ttþ1þ1þit
+1þptþ1/C18/C19
+btþmt
+1þptþ1;
+fðkt/C01;nt;ztÞþð1/C0dÞkt/C01þat/C0ct/C0bt/C0mt/C19/C27
+;
+where this is now an unconstrained maximization problem. The ﬁrst-order necessary
+"conditions with respect to ct,nt,bt, and mtare"
+ucðct;mt;1/C0ntÞ/C0bEtVkðatþ1;ktÞ¼0 ð2:47Þ
+/C0ulðct;mt;1/C0ntÞþbEtVkðatþ1;ktÞfnðkt/C01;nt;ztÞ¼0 ð2:48Þ
+bEt1þit
+1þptþ1/C18/C19
+Vaðatþ1;ktÞ/C0bEtVkðatþ1;ktÞ¼0 ð2:49Þ
+umðct;mt;1/C0ntÞþbEtVaðatþ1;ktÞ
+1þptþ1/C20/C21
+/C0bEtVkðatþ1;ktÞ¼0 ð2:50Þ
+and the envelope theorem yields
+Vaðat;kt/C01Þ¼bEtVkðatþ1;ktÞð 2:51Þ
+Vkðat;kt/C01Þ¼bEtVkðatþ1;ktÞ½1/C0dþfkðkt/C01;nt;ztÞ/C138: ð2:52Þ2.5 Dynamics in an MIU Model 63

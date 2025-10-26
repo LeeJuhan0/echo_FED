@@ -1,0 +1,33 @@
+﻿content
+"402 9 Money and the Open Economy
+Equation (9.20) shows that inflation a¤ects the real demand for money. Changes in nominal money growth rates produce changes in the inflation rate and nominal interest rates, thereby a¤ecting the opportunity cost of holding money and, in equilibrium, the real stock of money. The price level and the nominal exchange rate jump to ensure that the real supply of money is equal to the new real demand for money.
+Equation (9.21) can be subtracted from (9.20), yielding
+mt m505t ðpt p505t Þ1⁄4ðct c505t Þ dðptþ1 p505tþ1Þ;
+which, using (9.22), implies5
+mt m505t st 1⁄4 ðct c505t Þ dðstþ1 stÞ: ð9:23Þ
+Solving this forward for the nominal exchange rate, the no-bubbles solution is
+st 1⁄4 1
+1 þ d
+Xy
+i1⁄40
+d
+1 þ d
+4 5i
+1⁄2ðmtþi m505tþi
+Þðctþi c505tþi
+Þ: ð9:24Þ
+Since (9.16) and (9.17) imply that ctþi c505tþi 1⁄4 ct c505t , the expression for the nominal exchange rate can be rewritten as
+st 1⁄4 ðct c505t Þ þ 1
+1 þ d
+Xy
+i1⁄40
+d
+1 þ d
+4 5i
+ðmtþi m505tþi
+Þ:
+The current nominal exchange rate depends on the current and future path of the nominal money supplies in the two countries and on consumption di¤erentials. The exchange rate measures the price of one money in terms of the other, and as (9.24) shows, this depends on the relative supplies of the two monies. An increase in one country’s money supply relative to the other’s depreciates that country’s exchange rate. From the standard steady-state condition that bRss 1⁄4 1 and the definition of d as b=ðP bÞ, the discount factor in (9.24), d=ð1 þ dÞ, is equal to b=P 1⁄4 1=RssP 1⁄4 1=ð1 þ i
+ssÞ. Future nominal money supply di¤erentials are discounted by the steadystate nominal rate of interest. Because agents are forward-looking in their decision making, it is only the present discounted value of the relative money supplies that matters. In other words, the nominal exchange rate depends on a measure of the permanent money supply di¤erential. Letting xtþi 1 ðmtþi m505tþi
+Þðctþi c505tþi
+Þ, the equilibrium condition for the nominal exchange rate can be written as
+5. This uses the fact that ptþ1 p505tþ1 1⁄4 ðptþ1 p505tþ1Þð pt p505t Þ 1⁄4 stþ1 st."

@@ -1,0 +1,37 @@
+﻿Content
+The original Friedman-Meiselman result generated responses by Modigliani and
+"Ando (1976) and De Prano and Mayer (1965), among others. This debate empha-"
+sized that an equation such as (1.1) is misspeciﬁed if mis endogenous. To illustrate
+"the point with an extreme example, suppose that the central bank is able to manipu-late the money supply to o¤set almost perfectly shocks that would otherwise generate"
+"ﬂuctuations in nominal income. In this case, y"
+nwould simply reﬂect the random
+"control errors the central bank had failed to o¤set. As a result, mandynmight be"
+"completely uncorrelated, and a regression of ynonmwould not reveal that money"
+actually played an important role in a¤ecting nominal income. If policy is able to re-
+"spond to the factors generating the error term ut,t h e n mtandutwill be correlated,"
+"ordinary least-squares estimates of (1.1) will be inconsistent, and the resulting esti-mates will depend on the manner in which policy has induced a correlation between"
+uandm. Changes in policy that altered this correlation would also alter the least-
+squares regression estimates one would obtain in estimating (1.1).
+1.3.2 Granger Causality
+The St. Louis equation related nominal output to the past behavior of money. Simi-
+lar regressions employing realoutput have also been used to investigate the connec-
+"tion between real economic activity and money. In an important contribution, Sims"
+(1972) introduced the notion of Granger causality into the debate over the real e¤ects
+of money. A variable Xis said to Granger-cause Yif and only if lagged values of X
+"have marginal predictive content in a forecasting equation for Y. In practice, testing"
+whether money Granger-causes output involves testing whether the a
+icoe‰cients
+equal zero in a regression of the form
+yt¼y0þX
+i¼1aimt/C0iþX
+i¼1biyt/C0iþX
+i¼1cizt/C0iþet; ð1:2Þ
+"where key issues involve the treatment of trends in output and money, the choice oflag lengths, and the set of other variables (represented by z) that are included in the"
+equation.
+Sims’s original work used log levels of U.S. nominal GNP and money (both M1
+"and the monetary base). He found evidence that money Granger-caused GNP. Thatis, the past behavior of money helped to predict future GNP. However, using the in-"
+"dex of industrial production to measure real output, Sims (1980) found that the frac-"
+tion of output variation explained by money was greatly reduced when a nominal
+interest rate was added to the equation (so that zconsists of the log price level and
+"an interest rate). Thus, the conclusion seemed sensitive to the speciﬁcation of z."
+"Eichenbaum and Singleton (1987) found that money appeared to be less importantif the regressions were speciﬁed in log ﬁrst di¤erence form rather than in log levels14 1 Empirical Evidence on Money, Prices, and Output"

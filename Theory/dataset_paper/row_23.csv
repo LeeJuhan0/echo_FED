@@ -1,0 +1,13 @@
+### PAPER
+Extended Nonlinear Feedback Model for Describing Episodes of High Inflation
+
+### SUMMARY
+The thesis titled Extended Nonlinear Feedback Model for Describing Episodes of High Inflation by Martin A. Szybisz and Leszek Szybisz proposes an extension to the nonlinear feedback (NLF) model to better describe hyper- and high-inflation regimes in economies. The original NLF model predicts a blow-up of the economy at a critical time \( t_c \) using a finite time singularity in the consumer price index (CPI) of the form \( 1/(t_c - t)^{(1-\beta)/\beta} \)  with \( \beta > 0 \). However  this model struggles to determine \( t_c \) in weak hyperinflation scenarios  such as in Israel  where \( \beta \) approaches zero  leading to a linear feedback model that lacks information on \( t_c \).
+
+To address this limitation  the authors introduce a parameter \( \gamma \) that modifies the past growth rate index (GRI) contributions  allowing the model to account for stabilization efforts like those in Israel. This extension results in an analytic solution for CPI proportional to the Gaussian hypergeometric function \( 2F1(1/\beta  1/\beta  1 + 1/\beta; z) \)  where \( z \) is a function of \( \beta \)  \( \gamma \)  and \( t_c \). As \( z \) approaches 1  the hypergeometric function diverges  indicating a finite time singularity from which \( t_c \) can be determined. This singularity also appears in the GRI  and the interaction between \( \beta \) and \( \gamma \) can lead to multiple equilibria phenomena.
+
+The robustness of the extended model is demonstrated through its application to the severe hyperinflation in Hungary and the weaker hyperinflation in Israel  as well as high-inflation episodes in Mexico and Iceland. The model successfully describes these cases  providing reasonable estimates for \( t_c \) and capturing the dynamics of multiple equilibria.
+
+The thesis highlights the complex relationship between inflation and real economic activities  noting that high inflation can disrupt tax revenues  relative price perceptions  and resource allocation  while also affecting currency functions and labor markets. The authors emphasize the importance of understanding these dynamics to inform government policies aimed at preventing and mitigating high inflation.
+
+Overall  the extended NLF model offers a more comprehensive framework for analyzing high-inflation episodes  accounting for stabilization efforts and providing insights into the interplay of economic parameters that can lead to different economic outcomes.

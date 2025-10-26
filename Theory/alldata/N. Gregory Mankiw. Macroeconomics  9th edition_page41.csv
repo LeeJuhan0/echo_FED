@@ -1,0 +1,65 @@
+﻿Content
+26 | PART I Introduction
+With these ne
+"w measures, the base year changes continuously over time. "
+"In essence, average prices in 2014 and 2015 are used to measure real growth "
+"from 2014 to 2015, average prices in 2015 and 2016 are used to measure real "
+"growth from 2015 to 2016, and so on. These various year-to-year growth rates "
+are then put together to form a “chain” that can be used to compare the output 
+of goods and services between any two dates.
+This new chain-weighted measure of real GDP is better than the more 
+traditional measure because it ensures that the prices used to compute real 
+"GDP are never far out of date. For most purposes, however, the differences "
+are not signiﬁcant. It turns out that the two measures of real GDP are highly 
+"correlated with each other. As a practical matter, both measures of real GDP "
+reﬂect the same thing: economy-wide changes in the production of goods 
+and services.
+For manipulating many relationships in econom-
+"ics, there is an arithmetic trick that is useful to "
+know
+: The percentage change of a product of two vari-
+ables is approximately the sum of the percentage changes 
+in each of the variables .
+"To see how this trick works, consider an "
+example. Let P denote the GDP deﬂator and Y 
+denote real GDP. Nominal GDP is P  Y. The 
+trick states that
+Percentage Change in (P  Y) 
+ (Percentage Change in P) 
+ (Percentage Change in Y ).
+"For instance, suppose that in one year, real GDP "
+"is 100 and the GDP deﬂator is 2; the next year, "
+real GDP is 103 and the GDP deﬂator is 2.1. 
+We can calculate that real GDP rose by 3 percent 
+and that the GDP deﬂator rose by 5 percent. 
+Nominal GDP rose from 200 the ﬁrst year to 
+"216.3 the second year, an increase of 8.15 per-"
+cent. Notice that the growth in nominal GDP Two Arithmetic Tricks for Working with 
+Per
+centage Changes
+(8.15 percent) is approximately the sum of the 
+growth in the GDP deﬂator (5 percent) and the 
+gr
+owth in real GDP (3 percent).1
+A second arithmetic trick follows as a corol-
+lary to the ﬁrst: The percentage change of a ratio is 
+approximately the percentage change in the numera-
+tor minus the percentage change in the denominator. 
+"Again, consider an example. Let Y denote GDP "
+"and L denote the population, so that Y/L is GDP "
+per person. The second trick states that
+Percentage Change in (Y/L)  
+   (Percentage Change in Y )  
+   (Percentage Change in L).
+"For instance, suppose that in the ﬁrst year, Y is "
+"100,000 and L is 100, so Y/L is 1,000; in the "
+"second year, Y is 110,000 and L is 103, so Y/L is "
+"1,068. Notice that the growth in GDP per person "
+(6.8 percent) is approximately the growth in 
+income (10 percent) minus the growth in popu-
+lation (3 percent).FYI
+1Mathematical note: The proof that this trick works begins with the product rule from calculus:
+d(PY)  Y dP  P dY .
+Now divide both sides of this equation by PY to obtain:
+d(PY)/(PY )  dP/P  dY/Y .
+Notice that all three terms in this equation are percentage changes.

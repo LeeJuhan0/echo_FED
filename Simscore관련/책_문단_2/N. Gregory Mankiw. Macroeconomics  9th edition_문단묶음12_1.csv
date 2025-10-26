@@ -1,0 +1,173 @@
+﻿id,paragraph
+1,"5On the case for greater capital requirements, see Anat Admati and Martin Hellwig, The Bankers’ New Clothes: What’s Wrong with Banking and What to Do About It (Princeton NJ: Princeton University Press, 2013). 94 | PART II Classical Theory: The Economy in the Long Run n The reserve–deposit ratio rr is the fraction of deposits that banks hold in reserve. It is determined by the business policies of banks and the laws regulating banks. n The currency–deposit ratio cr is the amount of currency C people hold as a fraction of their holdings of demand deposits D. It reflects the preferences of households about the form of money they wish to hold. By showing how the money supply depends on the monetary base, the reserve–deposit ratio, and the currency–deposit ratio, this model is useful for understanding how Fed policy and the choices of banks and households influence the money supply. We begin with the definitions of the money supply and the monetary base: M 5 C 1 D, B 5 C 1 R. The first equation states that the money supply is the sum of currency and demand deposits. The second equation states that the monetary base is the sum of currency and bank reserves. To solve for the money supply as a function of the three exogenous variables (B, rr, and cr), we divide the first equation by the second to obtain __M B 5 C ______ 1 D C 1 R . We then divide both the top and bottom of the expression on the right by D. __M B 5 C/D 1 1 ___________ C/D 1 R/D . Note that C/D is the currency–deposit ratio cr and that R/D is the reserve–deposit ratio rr. Making these substitutions, and bringing the B from the left to the right side of the equation, we obtain M 5 cr 1 1 ______ cr 1 rr 3 B. This equation shows how the money supply depends on the three exogenous variables. We can now see that the money supply is proportional to the monetary base. The factor of proportionality, (cr 1 1)/(cr 1 rr), is denoted m and is called the money multiplier. We can write M 5 m 3 B. Each dollar of the monetary base produces m dollars of money. Because the monetary base has a multiplied effect on the money supply, the monetary base is sometimes called high–powered money."
+2,"ces the money supply. The Instruments of Monetary Policy Although it is often convenient to make the simplifying assumption that the Federal Reserve controls the money supply directly, in fact the Fed controls the money supply indirectly using a variety of instruments. These instruments can be classified into two broad groups: those that influence the monetary base and those that influence the reserve–deposit ratio and thereby the money multiplier. How the Fed Changes the Monetary Base As we discussed earlier in the chapter, open–market operations are the purchases and sales of government bonds by the Fed. When the Fed buys bonds from the public, the dollars it pays for the bonds increase the monetary base and thereby increase the money supply. When the Fed sells bonds to the public, the dollars it receives reduce the monetary base and thus decrease the money supply. Open–market operations are the policy instrument that the Fed uses most often. In fact, the Fed conducts open–market operations in New York bond markets almost every weekday."
+3,"The Instruments of Monetary Policy
+Although it is often convenient to make the simplifying assumption that the
+Federal Reserve controls the money supply directly, in fact the Fed controls
+the money supply indirectly using a variety of instruments. These instruments
+can be classified into two broad groups: those that influence the monetary
+base and those that influence the reserve–deposit ratio and thereby the money
+multiplier."
+4,"How the Fed Changes the Monetary Base As we discussed earlier in
+the chapter, open–market operations are the purchases and sales of government
+bonds by the Fed. When the Fed buys bonds from the public, the dollars
+it pays for the bonds increase the monetary base and thereby increase the
+money supply. When the Fed sells bonds to the public, the dollars it receives
+reduce the monetary base and thus decrease the money supply. Open–market
+operations are the policy instrument that the Fed uses most often. In fact,
+the Fed conducts open–market operations in New York bond markets almost
+every weekday."
+5,"The Fed can also alter the monetary base and the money supply by lending
+reserves to banks. Banks borrow from the Fed when they think they do not
+have enough reserves on hand, either to satisfy bank regulators, meet depositor
+withdrawals, make new loans, or satisfy some other business requirement. When
+the Fed lends to a bank that is having trouble obtaining funds from elsewhere, it
+is said to act as the lender of last resort."
+6,"There are various ways in which banks can borrow from the Fed. Traditionally,
+banks have borrowed at the Fed’s so-called discount window; the discount rate
+is the interest rate that the Fed charges on these loans. The lower the discount
+rate, the cheaper are borrowed reserves, and the more banks borrow at the Fed’s
+discount window. Hence, a reduction in the discount rate raises the monetary
+base and the money supply."
+7,"In response to the financial crisis of 2008–2009, the Federal Reserve set up
+a variety of new mechanisms for banks to borrow from it. For example, under
+the Term Auction Facility, the Fed set a quantity of funds it wants to lend to
+banks, and eligible banks then bid to borrow those funds. The loans went to
+the highest eligible bidders—that is, to the banks that had acceptable collateral
+and offered to pay the highest interest rate. Unlike at the discount window,
+where the Fed sets the price of a loan and the banks determine the quantity of
+borrowing, at the Term Auction Facility the Fed set the quantity of borrowing
+and a competitive bidding process among banks determined the price. The last
+Term Auction Facility auction was conducted in 2010, but this policy illustrates
+that the Federal Reserve has various ways to alter the monetary base and the
+money supply."
+8,"pply. The money multiplier depends on
+the reserve–deposit ratio, which in turn is influenced by various Fed policy
+instruments."
+9,"Reserve requirements are Fed regulations that impose a minimum
+reserve–deposit ratio on banks. An increase in reserve requirements tends
+to raise the reserve–deposit ratio and thus lower the money multiplier and
+the money supply. Changes in reserve requirements are the least frequently
+used of the Fed’s policy instruments. Moreover, in recent years, this particular
+tool has become less effective because many banks hold more reserves
+than are required. Reserves above the minimum required are called excess
+reserves."
+10,"In October 2008, the Fed started paying interest on reserves. That is, when
+a bank holds reserves on deposit at the Fed, the Fed now pays the bank interest
+on those deposits. This change gives the Fed another tool with which to influence
+the economy. The higher the interest rate on reserves, the more reserves
+banks will choose to hold. Thus, an increase in the interest rate on reserves will
+tend to increase the reserve–deposit ratio, lower the money multiplier, and lower
+the money supply. Because the Fed has paid interest on reserves for a relatively
+short time, it is not yet clear how important this new instrument will be in the
+conduct of monetary policy."
+11,"CHAPTER 4 The Monetary System: What It Is and How It Works | 97
+CASE STUDY
+Quantitative Easing and the Exploding Monetary Base
+Figure 4-1 shows the monetary base from 1960 to 2014. You can see that something extraordinary happened in the last few years of this period. From 1960 to
+2007, the monetary base grew gradually over time. But then from 2007 to 2014
+it spiked up substantially, increasing about fivefold over just a few years."
+12,"This huge increase in the monetary base is attributable to actions the Federal Reserve took during the financial crisis and economic downturn of this
+period. With the financial markets in turmoil, the Fed pursued its job as a
+lender of last resort with historic vigor. It began by buying large quantities of
+mortgage-backed securities. Its goal was to restore order to the mortgage market
+so that would-be homeowners could borrow. Later, the Fed pursued a policy
+of buying long-term government bonds to keep their prices up and long-term
+interest rates down. This policy, called quantitative easing, is a kind of open-market
+operation. But rather than buying short-term Treasury bills, as the Fed normally
+does in an open-market operation, it bought longer-term and somewhat riskier
+securities. These open-market purchases led to the substantial increase in the
+monetary base."
+13,"FIGURE 4-1
+The Monetary Base The monetary base has historically grown relatively
+smoothly over time, but from 2007 to 2014 it increased approximately fivefold.
+The huge expansion in the monetary base, however, was not accompanied by
+similar increases in M1 and M2."
+14,"Data from: U.S. Federal Reserve.
+Monetary base
+(billions of
+dollars)
+1960 1965 1970 1975
+Year
+1980 1985 1990
+1995 2005 2010 2000
+1,000
+1,500
+2,000
+2,500
+3,000
+4,000
+4,500
+3,500
+500
+0"
+15,"98 | PART II Classical Theory: The Economy in the Long Run
+The huge expansion in the monetary base, however, did not lead to a similar
+increase in broader measures of the money supply. While the monetary base
+increased about 400 percent from 2007 to 2014, M1 increased by only 100 percent and M2 by only 55 percent. These figures show that the tremendous expansion in the
+monetary base was accompanied by a large decline in the money multiplier. Why did this decline occur?"
+16,"The model of the money supply presented earlier in this chapter shows that a
+key determinant of the money multiplier is the reserve ratio rr. From 2007 to 2014,
+the reserve ratio increased substantially because banks chose to hold substantial
+quantities of excess reserves. That is, rather than making loans, the banks kept much
+of their available funds in reserve. (Excess reserves rose from about $1.5 billion in
+2007 to about $2.5 trillion in 2014.) This decision prevented the normal process of
+money creation that occurs in a system of fractional-reserve banking."
+17,"Why did banks choose to hold so much in excess reserves? Part of the reason
+is that banks had made many bad loans leading up to the financial crisis; when
+this fact became apparent, bankers tried to tighten their credit standards and make
+loans only to those they were confident could repay. In addition, interest rates had
+fallen to such low levels that making loans was not as profitable as it normally is.
+Banks did not lose much by leaving their financial resources idle as excess reserves."
+18,"Although the explosion in the monetary base did not lead to a similar
+explosion in the money supply, some observers feared that it still might. As the
+economy recovered from the economic downturn and interest rates rose to
+normal levels, they argued, banks could reduce their holdings of excess reserves
+by making loans. The money supply would start growing, perhaps too quickly.
+Policymakers at the Federal Reserve, however, thought they could handle this
+problem if and when it arose. One possibility would be to drain the banking system
+of reserves by engaging in the opposite open-market operation that had created
+them in the first place—that is, by selling the Treasury bonds and other securities
+in the Fed’s portfolio. Another policy option for the Fed would be to increase
+the interest rate it pays on reserves. A higher interest rate on reserves would make
+holding reserves more profitable for banks, thereby discouraging bank lending and
+keeping the money multiplier low. Which of these “exit strategies” the Fed would
+use was still to be determined as this book was going to press.6 n
+6To read more about quantitative easing, see Arvind Krishnamurthy and Annette Vissing-Jorgensen,
+“The Ins and Outs of LSAPs,” Economic Policy Symposium – Jackson Hole, Federal Reserve Bank
+of Kansas, 2013."
+19,"Problems in Monetary Control
+The various instruments give the Fed substantial power
+to influence the money
+supply. Nonetheless, the Fed cannot control the money supply perfectly. Bank
+discretion in conducting business can cause the money supply to change in
+ways the Fed did not anticipate. For example, banks may choose to hold more
+excess reserves, a decision that increases the reserve–deposit ratio and lowers the
+money supply. As another example, the Fed cannot precisely control the amount
+banks borrow from the discount window. The less banks borrow, the smaller
+the monetary base, and the smaller the money supply. Hence, the money supply
+sometimes moves in ways the Fed does not intend."
+20,"CASE STUDY
+Bank Failures and the Money Supply in the 1930s
+Between August 1929 and March 1933, the money supply fell 28 percent. As
+we will discuss in Chapter 12, some economists believe that this large decline in
+the money supply was the primary cause of the Great Depression of the 1930s,
+when unemployment reached unprecedented levels, prices fell precipitously, and
+economic hardship was widepread. In light of this hypothesis, one is naturally
+drawn to ask why the money supply fell so dramatically."
+21,"The three variables that determine the money supply—the monetary base, the
+reserve–deposit ratio, and the currency–deposit ratio—are shown in Table 4–2 for
+1929 and 1933. You can see that the fall in the money supply cannot be attributed
+to a fall in the monetary base: in fact, the monetary base rose 18 percent
+over this period. Instead, the money supply fell because the money multiplier fell
+38 percent. The money multiplier fell because the currency–deposit and reserve–
+deposit ratios both rose substantially."
+22,"Most economists attribute the fall in the money multiplier to the large number
+of bank failures in the early 1930s. From 1930 to 1933, more than 9,000 banks suspended operations, often defaulting on their depositors. The bank failures caused
+the money supply to fall by altering the behavior of both depositors and bankers.
+Bank failures raised the currency–deposit ratio by reducing public confidence
+in the banking system. People feared that bank failures would continue, and they
+began to view currency as a more desirable form of money than demand deposits.
+When they withdrew their deposits, they drained the banks of reserves. The
+process of money creation reversed itself, as banks responded to lower reserves
+by reducing their outstanding balance of loans."

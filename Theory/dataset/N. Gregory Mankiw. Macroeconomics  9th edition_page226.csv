@@ -1,0 +1,43 @@
+﻿Content
+214 | PART III Growth Theory: The Economy in the Very Long Run
+This equation is the per-work
+er version of the national income accounts identity 
+for an economy. Notice that it omits government purchases (which for present pur -
+poses we can ignore) and net exports (because we are assuming a closed economy).
+The Solow model assumes that each year people save a fraction s of their 
+income and consume a fraction (1 2 s). We can express this idea with the fol-
+lowing consumption function:
+"c 5 (1 2 s)y,"
+"where s, the saving rate, is a number between zero and one. Keep in mind that "
+"various gover nment policies can potentially inﬂuence a nation’s saving rate, so "
+"one of our goals is to ﬁnd what saving rate is desirable. For now, however, we just "
+take the saving rate s as given.
+"T o see what this consumption function implies for investment, substitute (1 2 s)y "
+for c in the national income accounts identity:
+y 5 (1 2 s)y 1 i.
+Rearrange the terms to obtain
+i 5 sy.
+"This equation shows that investment equals saving, as we ﬁrst saw in Chapter 3. "
+"Thus, the rate of saving s is also the fraction of output devoted to investment."
+We have now introduced the two main ingredients of the Solow model—
+the production function and the consumption function—which describe the 
+"economy at any moment in time. For any given capital stock k, the production "
+"function y 5 f (k) determines how much output the economy produces, and the FIGURE 8-1"
+The Production Function The 
+pr
+oduction function shows how 
+the amount of capital per work -
+er k determines the amount of 
+output per worker y  5 f (k). The 
+slope of the production func-
+tion is the marginal product of 
+"capital: if k  increases by 1 unit, "
+y increases by MPK units. The 
+production function becomes 
+"ﬂatter as k  increases, indicating "
+diminishing marginal product 
+of capital.Output 
+"per worker, y"
+MPK
+Capital 
+"per worker, k1Output, f (k)"

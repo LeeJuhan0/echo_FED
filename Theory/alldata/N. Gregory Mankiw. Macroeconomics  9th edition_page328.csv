@@ -1,0 +1,41 @@
+﻿Content
+318 | PART IV Business Cycle Theory: The Economy in the Short Run
+The go
+vernment-purchases multiplier is
+DY/DG  1 1 MPC 1 MPC2 1 MPC3 1 . . . .
+This expression for the multiplier is an example of an inﬁnite geometric series. 
+A result from algebra allows us to write the multiplier as2
+DY/DG  1/(1 2 MPC ).
+"For example, if the marginal propensity to consume is 0.6, the multiplier is"
+DY/DG  1 1 0.6 1 0.62 1 0.63 1 . . .
+ 5 1/(1 2 0.6)
+ 5 2.5.
+"In this case, a $1.00 increase in government purchases raises equilibrium income "
+by $2.50.3
+Fiscal Policy and the Multiplier: Taxes  Now consider how changes in 
+taxes affect equilibr
+ium income. A decrease in taxes of DT immediately raises 
+"disposable income Y  2 T by D T and, therefore, increases consumption by "
+"MPC 3 DT. For any given level of income Y, planned expenditure is now "
+"higher. As Figure 11-6 shows, the planned-expenditure schedule shifts upward "
+by MPC 3 DT. The equilibrium of the economy moves from point A to 
+point B.
+"2Mathematical note: We prove this algebraic result as follows. For | x| , 1, let"
+z  1 1 x 1 x2 1 . . . .
+Multiply both sides of this equation by x:
+xz 5 x 1 x2 1 x3 1 . . . .
+Subtract the second equation from the ﬁrst:
+z 2 xz 5 1.
+Rearrange this last equation to obtain
+"z(1 2 x) 5 1,"
+which implies
+z 5 1/(1 2 x).
+This completes the proof.
+3Mathematical note: The government-purchases multiplier is most easily derived using a little 
+calculus. Begin with the equation
+Y 5 C(Y 2 T) 1 I 1 G. 
+"Holding T and I ﬁxed, differentiate to obtain"
+"dY 5 CdY 1 dG,"
+and then rearrange to ﬁnd
+dY/dG 5 1/(1 2 C).
+This is the same as the equation in the text.

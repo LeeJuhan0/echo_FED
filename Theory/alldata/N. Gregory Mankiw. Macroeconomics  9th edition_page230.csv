@@ -1,0 +1,46 @@
+﻿Content
+218 | PART III Growth Theory: The Economy in the Very Long Run
+"Because y 5 Y/L and k 5 K/L, this equation becomes"
+y
+" 5 k1/2,"
+which can also be written as
+y 5 k.
+This form of the production function states that output per worker equals the 
+square root of the amount of capital per worker.
+"T o complete the example, let’s assume that 30 percent of output is saved ( s 5 0.3), "
+"that 10 percent of the capital stock depreciates every year ( d 5 0.1), and that the "
+"economy starts off with 4 units of capital per worker ( k 5 4). Given these numbers, "
+we can now examine what happens to this economy over time.
+"We begin by looking at the pr oduction and allocation of output in the ﬁrst year, "
+when the economy has 4 units of capital per worker. Here are the steps we follow.
+"n According to the production function y 5 k, the 4 units of capital per "
+worker (k) produce 2 units of output per worker ( y).
+n Because 30 percent of output is saved and invested and 70 percent is con-
+"sumed, i"
+ 5 0.6 and c 5 1.4.
+"n Because 10 percent of the capital stock depreciates, dk 5 0.4."
+"n With investment of 0.6 and depreciation of 0.4, the change in the capital "
+stock is Dk 5 0.2.
+"Thus, the econom"
+y begins its second year with 4.2 units of capital per worker.
+We can do the same calculations for each subsequent year. Table 8-2 shows how 
+"the economy progresses. Every year, because investment exceeds depreciation, new "
+"capital is added and output grows. Over many years, the economy approaches a steady "
+"state with 9 units of capital per worker. In this steady state, investment of 0.9 exactly "
+"offsets depreciation of 0.9, so the capital stock and output are no longer growing."
+Following the progress of the economy for many years is one way to ﬁnd the 
+"steady-state capital stock, but there is another way that requires fewer calcula-"
+tions. Recall that
+Dk 5 sf (k) 2 dk.
+This equation shows how k evolves over time. Because the steady state is (by 
+"deﬁnition) the value of k at which Dk 5 0, we know that"
+"0 5 sf (k∗) 2 dk∗,"
+"or, equivalently,"
+ k∗
+f (k∗) 5 s
+d.
+This equation pro
+vides a way of ﬁnding the steady-state level of capital per worker k∗. 
+"Substituting in the numbers and production function from our example, we obtain"
+ k∗
+k∗ 5   0.3 ___ 0.1   .

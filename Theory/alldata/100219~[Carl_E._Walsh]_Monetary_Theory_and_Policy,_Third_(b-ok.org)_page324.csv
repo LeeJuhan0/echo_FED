@@ -1,0 +1,48 @@
+﻿Content
+"ﬁcient on the aggregate supply shock is also reduced; stabilization policy is distorted,"
+"and the central bank responds too little to e. As a consequence, output ﬂuctuates"
+more than is socially optimal in response to supply shocks. The ﬁrst e¤ect (lower av-erage inﬂation) makes it optimal to appoint a central banker who places more weight
+on inﬂation than does society; this is usually interpreted to mean that society should
+appoint a conservative to head the central bank. But the second e¤ect (less outputstabilization) limits how conservative the central banker should be.
+"Using (7.18), one can evaluate the government’s loss function Vas a function of d."
+"By then minimizing the government’s expected loss function with respect to d, one"
+can ﬁnd the optimal preferences for a central banker. The expected value of the gov-
+ernment’s objective function is
+E½V/C138¼
+1
+2Eðlfa½pdðdÞ/C0pe/C138þe/C0kg2þ½pdðdÞ/C1382Þ
+¼12lk
+2þl1þd
+1þdþa2l/C18/C192
+s2
+eþa2ls2
+"v""#"
+þ12 alk
+1þd/C18/C192
+þal
+1þdþa2l/C18/C192
+s2
+eþs2
+"v""#"
+;
+where (7.18) is used to replace pewith alk=ð1þdÞunder the assumption that the
+public knows dwhen forming its expectations. Minimizing this expression with re-
+"spect to dyields, after some manipulation, the following condition that must be sat-"
+isﬁed by the optimal value of d:
+d¼k2
+s2
+e !
+1þdþa2l
+1þd/C18/C19 3
+1gðdÞ: ð7:19Þ
+The function gðdÞis shown in ﬁgure 7.4. 30Equation (7.19) is satisﬁed where gðdÞ
+crosses the 45/C14line. Since gð0Þ>0 and lim d!ygðdÞ¼k2=s2
+"e>0, the intersection al-"
+ways occurs in the range dAð0;y/C138; given the trade-o¤ between distorting the re-
+"sponse of policy to aggregate supply shocks and reducing the average inﬂation bias,"
+it is always optimal to appoint a central banker who places more weight ðd>0Þon
+inﬂation objectives than the government itself does.
+Rogo¤’s solution is often characterized as involving the appointment of a conser-
+"vative to head an independent central bank. The concept of independence means that,"
+"30. See Eij‰nger, Hoeberichts, and Schaling (1995) for a discussion of this graphical representation of the"
+determinants of the optimal degree of conservatism. Eij‰nger and Schaling (1995) extended the frameworkto an open-economy context.7.3 Solutions to the Inﬂation Bias 299

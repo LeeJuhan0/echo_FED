@@ -1,0 +1,45 @@
+﻿Content
+"(8.45), the policy problem under discretion can be written in terms of the value func-"
+tion deﬁned by
+Vðpt/C01;etÞ¼min
+pt;xt/C261
+2/C18/C19
+ðp2
+tþlx2
+tÞþbEtVðpt;etþ1Þ
+þyt½pt/C0ð1/C0fÞbEtptþ1/C0fpt/C01/C0kxt/C0et/C138/C27
+: ð8:62Þ
+The value function depends on lagged inﬂation because it is an endogenous state
+variable.
+"Because the objective function is quadratic and the constraints are linear, the value"
+"function will be quadratic, and one can hypothesize that it takes the form"
+Vðpt/C01;etÞ¼a0þa1etþ1
+2a2e2
+tþa3etpt/C01þa4pt/C01þ12a
+5p2
+t/C01: ð8:63Þ
+"As Vestin demonstrated, this guess is only needed to evaluate E tVpðpt;etþ1Þ, and"
+EtVpðpt;etþ1Þ¼a3Etetþ1þa4þa5pt. If one assumes that the cost shock is serially
+"uncorrelated, E tetþ1¼0 and, as a consequence, the only unknown coe‰cients in"
+(8.63) that will play a role are a4anda5.
+The solution for inﬂation will take the form
+pt¼b1etþb2pt/C01: ð8:64Þ
+"Using this proposed solution, one obtains E tptþ1¼b2pt. This expression for expected"
+future inﬂation can be substituted into (8.61) to yield
+pt¼kxtþfpt/C01þet
+1/C0ð1/C0fÞbb2; ð8:65Þ
+which implies qpt=qxt¼k=½1/C0ð1/C0fÞbb2/C138.
+"Collecting these results, the ﬁrst-order condition for the optimal choice of xtby a"
+central bank whose decision problem is given by (8.62) is
+k
+1/C0ð1/C0fÞbb2/C20/C21
+½ptþbEtVpðpt;etþ1Þ/C138 þlxt¼0: ð8:66Þ
+"Using (8.65) to eliminate xtfrom (8.66) and recalling that E tVpðpt;etþ1Þ¼a4þa5pt,"
+one obtains
+pt¼C
+k2ð1þba5ÞþlC2/C20/C21
+lfp t/C01þlet/C0bk2
+C/C18/C19
+a4/C20/C21
+; ð8:67Þ
+where C11/C0ð1/C0fÞbb2.8.4 Monetary Policy Analysis in New Keynesian Models 367

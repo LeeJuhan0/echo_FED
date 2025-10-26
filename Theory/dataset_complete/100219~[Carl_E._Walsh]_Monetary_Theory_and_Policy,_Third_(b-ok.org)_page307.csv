@@ -1,0 +1,41 @@
+﻿Content
+"growth rate rule for the nominal supply of money, or whether central banks should"
+"have the ﬂexibility to respond with discretion. With the question posed in this form,"
+"the answer is clearly that discretion is better. After all, if following a simple rule is"
+"optimal, under discretion one could always choose to follow such a rule. Thus, one"
+"could do no worse under discretion, and one might do better. But as the Barro-"
+"Gordon model illustrates, one might actually do worse under discretion. Restrictingthe ﬂexibility of monetary policy may result in a superior outcome. To see this, sup-"
+pose the central bank is forced (somehow) to set Dm¼0. This avoids any average
+"inﬂation bias, but it also prevents the central bank from engaging in any stabilizationpolicy. With the loss function given by (7.2), the unconditional expected loss under"
+such a policy rule is
+1
+2lðs2
+eþk2Þþ12ð1þa2lÞs2
+v. If this is compared to the uncondi-
+"tional expected loss under discretion, E ½Vd/C138, given in (7.8), the zero money growth"
+rule will be preferred if
+a2l2
+1þa2l !
+s2
+e<ðalkÞ2:
+The left side measures the gains from stabilization policy under discretion; the right
+side measures the cost of the inﬂation bias that arises under discretion. If the latter is
+"greater, expected loss is lower if the central bank is forced to follow a ﬁxed money"
+growth rule.
+By focusing on the strategic interaction of the central bank’s actions and the pub-
+"lic’s formation of expectations, the Barro-Gordon model provides a simple but rich"
+game-theoretic framework for studying monetary policy outcomes. The approach
+emphasizes the importance of understanding the incentives faced by the central
+"bank in order to understand policy outcomes. It also helps to highlight the role ofcredibility, illustrating why central bank promises to reduce inﬂation may not be"
+believed. The viewpoint provided by models of time inconsistency contrasts sharply
+with the traditional analysis of policy outcomes as either exogenous or as determined
+by a rule that implicitly assumes an ability to precommit.
+A more formal treatment of the economic structure that could motivate the ad hoc
+speciﬁcations provided by (7.1) or (7.2) and the aggregate supply function (7.3) is
+"contained in Albanesi, Chari, and Christiano (2003). They assumed imperfect com-"
+petition in the goods market and that a fraction of ﬁrms set prices before current pe-
+riod information is revealed. The presence of sticky prices provides the central bankwith a means of a¤ecting aggregate output; imperfect competition implies average
+"output is ine‰ciently low, and this provides the central bank with an incentive to"
+"boost output. In addition, Albanesi, Chari, and Christiano introduced the distinction"
+between cash and credit goods (see chapter 3). Cash goods can only be purchased
+"with money. As a consequence, the relative price of cash and credit goods depends282 7 Discretionary Policy and Time Inconsistency"

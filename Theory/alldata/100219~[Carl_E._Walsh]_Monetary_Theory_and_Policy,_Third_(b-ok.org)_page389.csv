@@ -1,0 +1,36 @@
+﻿Content
+"sidering the inﬂation adjustment equation given by (8.41). Under discretion, the cen-"
+tral bank’s only tool for o¤setting the e¤ects on inﬂation of a cost shock is the output
+"gap. In the face of a positive realization of et,xtmust fall to help stabilize inﬂation."
+"Under commitment, however, the central bank has two instruments; it can a¤ectboth x"
+"tand E tptþ1. By creating expectations of a deﬂation at tþ1, the reduction in"
+"the output gap does not need to be as large. Of course, under commitment a promise"
+"of future deﬂation must be honored, so actually inﬂation falls below the baseline be-"
+"ginning in period tþ1 (see ﬁgure 8.3). Consistent with producing a deﬂation, the"
+output gap remains negative for several periods.
+"The analysis so far has focused on the goal variables, inﬂation and the output gap."
+"Using (8.40), the associated setting for the interest rate can be derived. For example,under optimal discretion, the output gap is given by"
+x
+t¼/C0k
+lð1/C0brÞþk2/C20/C21
+et;
+and inﬂation is given by (8.56). Using these to evaluate E txtþ1and E tptþ1and then
+solving for itfrom (8.40) yields
+it¼Etptþ1þsðEtxtþ1/C0xtþutÞ
+¼lrþð1/C0rÞsk
+lð1/C0brÞþk2/C20/C21
+etþsut: ð8:57Þ
+Equation (8.57) is the reduced-form solution for the nominal rate of interest. The
+nominal interest rate is adjusted to o¤set completely the impact of the demand dis-
+"turbance uton the output gap. As a result, it a¤ects neither inﬂation nor the output"
+gap. Section 8.3.3 illustrated how a policy that commits to a rule that calls forresponding to the exogenous shocks renders the new Keynesian model’s equilibrium
+"indeterminate. Thus, it is important to recognize that (8.57) describes the equilibrium"
+behavior of the nominal interest rate under optimal discretion; (8.57) is not an instru-ment rule (see Svensson and Woodford 1999).
+8.4.4 Commitment to a Rule
+In the Barro-Gordon model (examined in chapter 7) optimal commitment was inter-
+preted as commitment to a policy that was a (linear) function of the state variables.
+"In the present model, consisting of (8.40) and (8.41), the only state variable is the cur-rent realization of the cost shock e"
+t. Suppose then that the central bank can commit
+to a rule of the form 33
+33. This commitment does not raise the same uniqueness of an equilibrium problem that would arise
+under a commitment to an instrument rule of the form it¼biet. See problem 9 at the end of this chapter.364 8 New Keynesian Monetary Economics

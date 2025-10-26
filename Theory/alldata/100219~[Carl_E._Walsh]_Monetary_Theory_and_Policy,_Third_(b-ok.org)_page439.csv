@@ -1,0 +1,42 @@
+﻿Content
+specify how each national policy authority interacts strategically with the other pol-
+"icy authority. Two possibilities are considered. Coordinated policy is considered ﬁrst,"
+meaning that inﬂation rates in the two economies are chosen jointly to maximize a
+weighted sum of the objective functions of the two policy authorities. Noncoordi-
+"nated policy is considered second, with the policy authorities interacting in a Nash"
+"equilibrium. In this setting, each policy authority sets its own inﬂation rate to max-imize its objective function, taking as given the inﬂation rate in the other economy."
+These clearly are not the only possibilities. One economy may act as a Stackelberg
+"leader, recognizing the impact its choice has on the inﬂation rate set by the other"
+economy. Reputational considerations along the lines studied in chapter 7 can also
+be incorporated into the analysis (see Canzoneri and Henderson 1989).
+9.3.1 The Basic Model
+The two-country model is speciﬁed as a linear system in log deviations around a
+steady state and represents an extension to the open-economy environment of the
+sticky wage AS-IS model (see chapter 6). The LM relationship is dispensed with by
+assuming that the monetary policy authorities in the two countries set the inﬂation
+"rate directly. An asterisk will denote the foreign economy, and rwill be the real ex-"
+"change rate, deﬁned as the relative price of home and foreign output, expressed in"
+terms of the home currency; a rise in rrepresents a real depreciation for the home
+economy. If sis the nominal exchange rate and pðhÞand p
+/C3ðfÞare the prices of
+"home and foreign output, then r¼sþp/C3ðfÞ/C0pðhÞ. The model should be viewed"
+as an approximation that is appropriate when nominal wages are set in advance sothat unanticipated movements in inﬂation a¤ect real output. In addition to aggregate
+"supply and demand relationships for each economy, an interest parity condition links"
+the real interest rate di¤erential to anticipated changes in the real exchange rate:
+y
+t¼/C0b1rtþb2ðpt/C0Et/C01ptÞþet ð9:35Þ
+y/C3
+t¼b1rtþb2ðp/C3
+t/C0Et/C01p/C3
+tÞþe/C3
+t ð9:36Þ
+yt¼a1rt/C0a2rtþa3y/C3
+tþut ð9:37Þ
+y/C3
+t¼/C0a1rt/C0a2r/C3
+tþa3ytþu/C3
+t ð9:38Þ
+rt¼r/C3
+t/C0rtþEtrtþ1: ð9:39Þ
+Equations (9.35) and (9.36) relate output to inﬂation surprises and the real exchangerate. A real exchange rate depreciation reduces home aggregate supply by raising the
+price of imported materials and by raising consumer prices relative to producer414 9 Money and the Open Economy

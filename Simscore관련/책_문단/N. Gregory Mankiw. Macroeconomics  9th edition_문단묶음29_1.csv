@@ -1,0 +1,80 @@
+﻿id,paragraph
+1,"Gertler and Leahy’s Ss Model
+Gertler and Leahy (2008) developed an Ss model with monopolistically competitive
+firms located on separate islands, of which there exists a continuum of mass unity.
+Each island has a continuum of households that can supply labor only on the island
+on which they live. An island receives a productivity shock with probability 1 a.
+These shocks a¤ect all firms on the island but are independent across islands. There
+is, however, perfect consumption insurance, so consumption is the same across all
+islands, and firm profits are distributed to households via lump-sum transfers.
+Suppose island z is hit by such a shock. Then, a randomly chosen fraction
+1 t of
+the firms on the island disappear. These firms are replaced by new entrants to maintain a constant number of firms on the island. New entrants can optimally set their
+price. The surviving old firms (there are a fraction t of such firms) experience independent and identically distributed productivity shocks. These shocks are uniformly
+distributed.
+Gertler and Leahy incorporated two types of fixed costs of adjusting. First, there
+is a decision cost. If the firm pays this cost, it can then decide whether to adjust
+its price. The cost can be thought of as capturing the time and e¤ort necessary to
+evaluate the firm’s pricing strategy. If this cost is paid, and the firm decides to adjust
+its price, then there is a fixed menu cost associated with changing price. Optimal pricing policy takes the form of an Ss rule.
+An exact solution is not possible, but an approximate analytical solution can be
+obtained as a local expansion around a zero inflation steady state. Obtaining a loglinear approximation is di‰cult because there is a discontinuity in the adjustment of
+6.2 Sticky Prices and Wages 247
+firms near the Ss boundary. For a firm near the top that does not receive an idiosyncratic shock, an aggregate shock of one sign would push it to the barrier and result in
+an adjustment while the same size aggregate shock with opposite sign would move
+the firm into the interior of the region of inaction. The role of the decision cost is
+to deal with this problem. Given the necessity of paying this cost, and if aggregate
+shocks are also small relative to idiosyncratic shocks, the a fraction of firms that do
+not receive an idiosyncratic shock do not adjust price. This leads to smooth behavior
+around the boundaries of the Ss region."
+2,"250 6 Money in the Short Run: Nominal Price and Wage Rigidities
+
+the frequency of price increases is
+positively correlated with the inflation rate, whereas the frequency of price decreases
+and the size of price changes is not correlated with inflation. In fact, Nakamura and
+Steinsson concluded that most of the variation in the aggregate inflation rate can be
+accounted for by variations in the frequency of price increases. Fourth, the frequency
+of price changes follows a seasonal pattern. Price changes are more common during
+the first quarter of the year. Fifth, the probability that the price of an item changes
+(the hazard function) declines during the first few months after a change in price.
+This last fact is inconsistent with the Calvo model, which implies the probability
+that a firm changes its price is constant, independent of the time since the price was
+last changed. Nakamura and Steinsson concluded that while facts one through three
+are consistent with a standard menu cost models of price adjustment, facts four and
+five are not.
+Klenow and Kryvtsov (2008) found, based on U.S. CPI data, somewhat greater
+frequency of price change (about seven months when sales are excluded) than did
+Nakamura and Steinsson. They also found that despite the tendency for price
+changes to be large on average, a significant fraction of the changes are small. This
+finding is inconsistent with a basic menu cost model with fixed cost of adjustment.
+Nakamura and Steinsson (2008) reported that the distribution of price change frequency is not symmetric; the average frequency is much higher than the median, suggesting that while many prices change frequently, there are some prices that remain
+unchanged for sizable periods of time. Klenow and Kryvtsov also found that variations in the size of price changes, rather than variations in the fraction of prices that
+change, can account for most of the variance of aggregate inflation. As Nakamura
+and Steinsson argued, this result is consistent with their finding that the variance of
+aggregate inflation is attributable to changes in the frequency of price increases, since
+the average size of price changes is a weighted average of the sizes of price increases
+and decreases with weights equal to the frequency of each type of change. Thus, the
+average size of price changes increases with an increase in the frequency of price
+increases or an increase in the average size of price increases."
+3,"Klenow and Kryvtsov (2007) compared the ability of the Calvo and Taylor TDP
+models and the Dotsey, King, and Wolman (DKW ) and Golosov and Lucas SDP
+models to match the empirical evidence from the CPI microeconomic data. Of six
+microeconomic facts they considered, the Golosov-Lucas model matched all except
+the presence of many small price changes. The DKW model was able to match this
+fact because it allows for a stochastic menu cost that varies across firms. Thus, some
+firms will have small costs and therefore adjust price even when they are already
+close to the optimal price. However this model is not consistent with three of the
+other facts (flat hazard rates, size of price change does not increase with duration
+since last change, and intensive margin accounts for most of the variance of
+inflation). The Taylor model cannot match the flat hazard rates, nor does it imply that
+the size of price changes increases with the duration since the last change. This last
+fact is also not captured by the Calvo model. Surprisingly, this is the only one of
+the six facts with which the Calvo model, augmented with idiosyncratic firm shocks,
+is inconsistent. SDP models with idiosyncratic shocks and small menu costs, such as
+the model of Gertler and Leahy, or DKW augmented with idiosyncratic shocks
+(Dotsey, King, and Wolman 2006), seem most promising for matching the stylized
+facts found in the microeconomic evidence.28
+Hobjin, Ravenna, and Tambalotti (2006) provided a direct test of models that assume price stickiness is attributable to menu costs by using the natural experiment
+provided by the switch to the euro in January 2002. They found that firms concentrated price changes around the time of the currency switch; prior to the changeover
+prices did not fully reflect increased marginal costs expected to occur after the adoption of the euro. They showed that a menu cost model augmented to allow for a
+state-dependent decision on when to adopt the euro successfully captured the behavior of restaurant prices."

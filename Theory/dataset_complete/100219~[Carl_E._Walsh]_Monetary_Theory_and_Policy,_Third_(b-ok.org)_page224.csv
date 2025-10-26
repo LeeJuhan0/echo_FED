@@ -1,0 +1,43 @@
+﻿Content
+ual agent’s holdings of real money balances. This ﬁrst-order condition requires that
+"reducing consumption at time tslightly, thereby carrying higher money balances into"
+"period tþ1 and then consuming them, must, at the margin, have no e¤ect on total"
+"utility over the two periods. In the present context, the cost of reducing consumption"
+in period tis the marginal utility of consumption; the additional money balances
+yield the marginal utility of money in period tand a gross return of Ttþ1=Ptþ1in pe-
+"riodtþ1, where Ttþ1is the gross nominal transfer per dollar on money holdings and"
+"Ptþ1is 1 plus the inﬂation rate from ttotþ1. This return can be consumed at tþ1,"
+"yielding, in terms of period tutility, bðTtþ1=Ptþ1Þtimes the marginal utility of con-"
+"sumption, where bis the representative household’s discount factor. Linearizing the"
+"result around the steady state leads to (5.3). Finally, (5.4) deﬁnes the marginal utilityof consumption as a function of output (consumption) and real money balances; see"
+the chapter appendix (section 5.5).
+"If agents are reallocated randomly across islands in each period, then the relevant"
+period tþ1 variables in (5.3) are the aggregate price level p
+"tþ1, marginal utility of"
+"consumption ltþ1, and nominal transfer ttþ1."
+The ﬁnal component of the model is the speciﬁcation of the nominal money supply
+process. Assume the aggregate average nominal money supply evolves as 10
+mt¼rmmt/C01þvtþut: ð5:5Þ
+"The aggregate supply is assumed to depend on two serially uncorrelated shocks, v"
+"andu, assumed to have zero means and variances s2"
+vands2
+u. The di¤erence between
+the two is that vis public information whereas uis not. Including both will help to
+illustrate how imperfect information (in this case about u) will inﬂuence the real
+e¤ects of money shocks. The nominal money stock on island iis given by
+mi
+t¼rmmt/C01þvtþutþui
+t;
+where uiis a serially uncorrelated island-speciﬁc money shock that averages to zero
+across all islands and has variance s2
+"i. If the aggregate money stock at time t/C01, as"
+"well as v, is public information, then observing the island-speciﬁc nominal money"
+stock mi
+tallows individuals on island ito infer utþui
+tbut not uanduiseparately.
+"This is important because only ua¤ects the aggregate money stock (see (5.5)), and"
+"as long as rm00, knowledge about uwould be useful in forecasting mtþ1."
+"Since mtþ1¼rmmtþvtþ1þutþ1, the expectation of the time tþ1 money supply,"
+"conditional on the information available on island i, will be Eimtþ1¼rmEimt"
+"10. With money supply changes engineered via transfers,"
+tt¼mt/C0mt/C01¼ðg/C01Þmt/C01þvtþut:5.2 Informational Frictions 199

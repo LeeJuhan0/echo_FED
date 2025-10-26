@@ -1,0 +1,35 @@
+﻿Content
+"contrasts with the case of normal goods, where the marginal beneﬁt must balance the"
+costs of the marginal impact on the government’s revenue andthe marginal resource
+"cost of producing the goods. Money, in contrast, is assumed to be costless to pro-duce. At the satiation point, the marginal beneﬁt of money is zero. The conditions"
+studied by Correia and Teles ensure that the marginal revenue e¤ect is also zero.
+Friedman’s rule for the optimal rate of inﬂation can be recovered even in the ab-
+"sence of lump-sum taxes. But it is important to recognize that the restrictions onpreferences necessary to restore Friedman’s rule are very strong and, as discussed by"
+"Braun (1991), di¤erent assumptions about preferences will lead to di¤erent conclu-"
+sions. The assumption that the ratio of the marginal utilities of consumption and
+"money is independent of leisure can certainly be questioned. However, it is very"
+"common in the literature to assume separability between leisure, consumption, and"
+"money holdings. The standard log utility speciﬁcation, for example, displays this"
+property and so would imply that a zero nominal interest rate is optimal.
+A CIA Model
+The examples so far have involved MIU speciﬁcations. Suppose instead that the con-
+"sumer faces a CIA constraint on a subset of its purchases. Speciﬁcally, assume thatc"
+"1represents cash goods, and c2represents credit goods. Let ldenote leisure. The"
+household’s objective is to maximize
+EtXy
+i¼0biUðc1;tþi;c2;tþi;ltþiÞ
+subject to the budget constraint
+ð1þtc
+tÞQtðc1;tþc2;tÞþMtþBt¼ð1/C0th
+tÞQtð1/C0ltÞþð 1þit/C01ÞBt/C01þMt/C01;
+"where variables are as deﬁned previously. In addition, the CIA constraint requires"
+that
+c1;tamt/C01
+1þpt:
+"Before considering when the optimal inﬂation tax might be positive, ignore the"
+credit good c2for the moment so that the model is similar to the basic CIA model
+studied in chapter 3. Recall that inﬂation served as a tax on labor supply in that
+"model. But according to the budget constraint, the government already has, in th,a"
+"tax on labor supply. Thus, the inﬂation tax is redundant.36 Because it is redundant,"
+the government can achieve an optimal allocation without using the inﬂation tax.
+"36. See Chari, Christiano, and Kehoe (1996).182 4 Money and Public Finance"

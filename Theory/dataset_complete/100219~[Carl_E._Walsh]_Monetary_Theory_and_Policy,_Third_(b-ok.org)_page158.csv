@@ -1,0 +1,36 @@
+﻿Content
+12.Suppose the representative household enters period twith nominal money
+"balances Mt/C01and receives a lump-sum transfer Tt. During period t, the bond market"
+"opens ﬁrst, and the household receives interest payments and purchases nominal"
+"bonds in the amount Bt. With its remaining money ( Mt/C01þTtþð1þit/C01ÞBt/C01/C0Bt),"
+the household enters the goods market and purchases consumption goods subject to
+PtctaMt/C01þTtþð1þit/C01ÞBt/C01/C0Bt:
+The household receives income at the end of the period and ends period twith nom-
+"inal money holdings Mt, given by"
+Mt¼PteztKa
+t/C01N1/C0a
+tþð1/C0dÞPtKt/C01/C0PtKtþMt/C01
+þTtþð1þit/C01ÞBt/C01/C0Bt/C0Ptct:
+If the household’s objective is to maximize
+E0Xy
+i¼0biuðctþi;1/C0NtþiÞ¼E0Xy
+i¼0bic1/C0F
+tþi
+1/C0FþCð1/C0NtþiÞ1/C0h
+"1/C0h""#"
+;
+do the equilibrium conditions di¤er from (3.37)–(3.41)?
+13.Trejos and Wright (1993) found that if no search is allowed while bargaining
+"takes place, output tends to be too low (the marginal utility of output exceeds the"
+marginal production costs). Show that output is also too low in a basic CIA model.
+"(For simplicity, assume that only labor is needed to produce output according to the"
+production function y¼n.) Does the same hold true in an MIU model?
+"14.For the bargaining problem of section 3.4, the buyer and seller exchange qford,"
+where these two values maximize (3.57). Verify that when money holdings are not aconstraint
+f
+td/C3¼ycðq/C3Þþð 1/C0yÞuðq/C3Þ:
+15.Equation (3.62) shows how the nominal interest rate acts as a positive tax on
+consumption. Discuss how this condition compares to (3.33) from the basic CIA
+model. If the CIA model is interpreted as one in which trading takes place with
+"certainty and always involves a single coincidence of wants, can the CIA model be"
+viewed as a special case of the search model?3.7 Problems 133

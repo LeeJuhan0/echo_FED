@@ -1,0 +1,38 @@
+﻿Content
+3.2.2 Real Resource Costs
+An alternative approach to the CIA or shopping-time models is to assume that trans-
+action costs take the form of real resources that are used up in the process of ex-
+change (Brock 1974; 1990). An increase in the volume of goods exchanged leads to
+"a rise in transaction costs, whereas higher average real money balances for a given"
+"volume of transactions lower costs. In a shopping-time model, these costs are timecosts and so enter the utility function indirectly by a¤ecting the time available for"
+leisure.
+"If goods must be used up in transacting, the household’s budget constraint must be"
+"modiﬁed, for example, by adding a transaction cost term 1ðc;mÞthat depends on the"
+volume of transactions (represented by c) and the level of money holdings. The bud-
+get constraint (3.18) then becomes
+fðk
+t/C01Þþð 1/C0dÞkt/C01þttþð1þrt/C01Þbt/C01þmt/C01
+1þptbctþmtþbtþktþ1ðct;mtÞ:
+Feenstra (1986) considered a variety of transaction costs formulations and showed
+that they all lead to the presence of a function involving candmappearing on the
+right side of the budget constraint. He also showed that transaction costs satisfy the
+following condition for all c;mb0:1is twice continuously di¤erentiable and 1b0;
+1ð0;mÞ¼0;1cb0;1ma0;1cc;1mmb0;1cma0; and cþ1ðc;mÞis quasi-
+"convex, with expansion paths having a non-negative slope. These conditions all"
+have intuitive meaning: 1ð0;mÞ¼0 means that the consumer bears no transaction
+costs if consumption is zero. The sign restrictions on the partial derivatives reﬂectthe assumptions that transaction costs rise at an increasing rate as consumption
+increases and that money has positive but diminishing marginal productivity in
+reducing transaction costs. The assumption that 1
+cma0 means that the marginal
+transaction costs of additional consumption do not increase with money holdings.
+Expansion paths with non-negative slopes imply that cþ1increases with in-
+come. Positive money holdings can be ensured by the additional assumption thatlim
+"m!01mðc;mÞ¼/C0y; that is, money is essential."
+Now consider how the MIU approach compares to a transaction cost approach.
+Suppose a function Wðx;mÞhas the following properties: for all x;mb0;Wis
+twice continuously di¤erentiable and satisﬁes Wb0;Wð0;mÞ¼0;Wðx;mÞ!y
+asx!yfor ﬁxed m;Wmb0; 0aWxa1;Wxxa0;Wmma0;Wxmb0;Wis
+quasi-concave with Engel curves with a non-negative slope.
+Now simplify by dropping capital and consider the following two static problems
+representing simple transaction cost and MIU approaches:
+max UðcÞsubject to cþ1ðc;mÞþbþm¼y ð3:13Þ3.2 Resource Costs of Transacting 97

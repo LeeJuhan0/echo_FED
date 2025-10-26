@@ -1,0 +1,37 @@
+﻿Content
+with a time trend. Stock and Watson (1989) provided a systematic treatment of the
+trend speciﬁcation in testing whether money Granger-causes real output. They con-
+cluded that money does help to predict future output (they actually used industrial
+production) even when prices and an interest rate are included.
+A large literature has examined the value of monetary indicators in forecasting
+"output. One interpretation of Sims’s ﬁnding was that including an interest ratereduces the apparent role of money because, at least in the United States, a short-"
+term interest rate rather than the money supply provides a better measure of mone-
+tary policy actions (see chapter 11). B. Friedman and Kuttner (1992) and Bernanke
+"and Blinder (1992), among others, looked at the role of alternative interest rate mea-"
+sures in forecasting real output. Friedman and Kuttner examined the e¤ects of alter-
+native deﬁnitions of money and di¤erent sample periods and concluded that the
+relationship in the United States is unstable and deteriorated in the 1990s. Bernanke
+and Blinder found that the federal funds rate ‘‘dominates both money and the bill
+and bond rates in forecasting real variables.’’
+Regressions of real output on money were also popularized by Barro (1977; 1978;
+"1979b) as a way of testing whether only unanticipated money matters for real out-put. By dividing money into anticipated and unanticipated components, Barro ob-"
+tained results suggesting that only the unanticipated part a¤ects real variables (see
+also Barro and Rush 1980 and the critical comment by Small 1979). Subsequent
+work by Mishkin (1982) found a role for anticipated money as well. Cover (1992)
+employed a similar approach and found di¤erences in the impacts of positive and
+negative monetary shocks. Negative shocks were estimated to have signiﬁcant e¤ects
+"on output, whereas the e¤ect of positive shocks was usually small and statistically"
+insigniﬁcant.
+1.3.3 Policy Uses
+"Before reviewing other evidence on the e¤ects of money on output, it is useful to ask"
+"whether equations such as (1.2) can be used for policy purposes. That is, can a re-gression of this form be used to design a policy rule for setting the central bank’s pol-"
+"icy instrument? If it can, then the discussions of theoretical models that form the bulk"
+"of this book would be unnecessary, at least from the perspective of conducting mon-"
+etary policy.
+Suppose that the estimated relationship between output and money takes the form
+y
+t¼y0þa0mtþa1mt/C01þc1ztþc2zt/C01þut: ð1:3Þ
+"According to (1.3), systematic variations in the money supply a¤ect output. Considerthe problem of adjusting the money supply to reduce ﬂuctuations in real output. If"
+this objective is interpreted to mean that the money supply should be manipulated
+to minimize the variance of y
+"taround y0, then mtshould be set equal to1.3 Estimating the E¤ect of Money on Output 15"

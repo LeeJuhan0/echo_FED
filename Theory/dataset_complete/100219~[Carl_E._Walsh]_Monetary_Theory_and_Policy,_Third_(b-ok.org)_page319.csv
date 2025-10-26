@@ -1,0 +1,47 @@
+﻿Content
+the true identity of the bank. A mixed-strategy equilibrium would involve type W
+"mimicking type D, with a positive probability less than 1."
+"Since a separating equilibrium is a bit simpler to construct, that case is considered"
+"ﬁrst. With ﬁrst-period behavior revealing the bank’s type, the public in period 2"
+"knows the identity of the central bank. Since type Dis able to commit, its optimal"
+"policy is to announce a zero rate of inﬂation for period 2. The public, knowing that"
+"a type Dis truthful, expects a zero inﬂation rate, and in equilibrium pD"
+2¼0.
+"In the ﬁrst period of a separating equilibrium, the public is uncertain about the"
+type of central bank actually in power. Suppose the public assigns an initial probabil-
+ityqto the central bank being type D. In a separating equilibrium in which the W
+"type reveals itself by inﬂating at a rate that di¤ers from the announced rate, thetype Wwill choose to inﬂate at the rate albecause this value maximizes its utility"
+function. 22So if the type Dannounces p
+"a, then the public will expect an inﬂation"
+rate of pe
+1¼qpaþð1/C0qÞal.23The last step to fully characterize the separating
+equilibrium is to determine the optimal announcement (since the Dtype actually
+inﬂates at the announced rate and the Wtype inﬂates at the rate al).
+"If future utility is discounted at the rate b, the utility of the type Dcentral bank is"
+given by
+UD
+sep¼lðy1/C0ynÞ/C01
+2p2
+1þblðy2/C0ynÞ/C012p
+2
+2/C20/C21
+¼alðp1/C0pe
+1Þ/C012p
+2
+1;
+"since, in period 2, y2¼ynandpD"
+2¼0. The type Dpicks ﬁrst-period inﬂation subject
+top1¼paandpe
+1¼qpaþð1/C0qÞal. This yields
+pD
+1¼ð1/C0qÞalaal:
+The role of credibility is clearly illustrated in this result. If the central bank were
+"known to be of type D, that is, if q¼1, it could announce and deliver a zero rate of"
+"inﬂation. The possibility that the central bank might be of type W, however, forces"
+theDtype to actually announce and deliver a positive rate of inﬂation. The public’s
+uncertainty leads it to expect a positive rate of inﬂation; the type Dcentral bank
+"could announce and deliver a zero rate of inﬂation, but doing so would create a re-cession whose cost outweighs the gain from a lower inﬂation rate."
+"22. Recall that with the utility function (7.1), the central bank’s optimal period 1 inﬂation rate is indepen-"
+dent of the expected rate of inﬂation.
+23. The Wtype will also announce the same inﬂation rate as the type Dbecause doing otherwise would
+immediately raise the public’s expectations about ﬁrst-period inﬂation and lower type W0sutility.294 7 Discretionary Policy and Time Inconsistency

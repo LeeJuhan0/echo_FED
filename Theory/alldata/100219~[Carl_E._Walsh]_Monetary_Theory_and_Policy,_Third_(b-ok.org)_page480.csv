@@ -1,0 +1,47 @@
+﻿Content
+"Note that the price level only appears in the form of an expectation error (i.e., as"
+"pt/C0Et/C01ptin the aggregate supply equation) or as an expected rate of change (i.e.,"
+as E tptþ1/C0ptin the Fisher equation). This structure implies that the price level is in-
+"determinate. That is, if the sequence fp/C3"
+tþigy
+"i¼0is an equilibrium, so is any sequence"
+f^p ptþigyi¼0where ^p pdi¤ers from p/C3by any constant k:^p pt¼p/C3
+tþkfor all t. Since kis
+"an arbitrary constant, p/C3"
+t/C0Et/C01p/C3
+"t¼^p pt/C0Et/C01^p pt; hence, ytis the same under either"
+"price sequence. From (10.7), the equilibrium real interest rate is equal to ða0/C0ytþ"
+"utÞ=a1, so it too is the same. With expected inﬂation the same under either price se-"
+"quence, the only restriction on the price path is that the expected rate of inﬂation be"
+such that iT¼ða0/C0ytþutÞ=a1þEtp/C3
+tþ1/C0p/C3
+t.
+The indeterminacy of the price level is perhaps even more apparent if (10.6)–(10.8)
+are rewritten explicitly in terms of the rate of inﬂation. By adding apt/C01and subtract-
+"ing it from the supply function, the equilibrium conditions become"
+yt¼ycþaðpt/C0Et/C01ptÞþet
+yt¼a0/C0a1rtþut
+iT¼rtþEtptþ1:
+"These three equations can be solved for output, the real rate of interest, and the rateof inﬂation. Since the price level does not appear, it is formally indeterminate. 3In a"
+"forward-looking model, an interest rate peg would also leave the inﬂation rate inde-terminate (see chapter 8)."
+"As stressed by McCallum (1986), the issue of indeterminacy di¤ers from the prob-"
+lem of multiple equilibria. The latter involves situations in which multiple equilib-
+rium price paths are consistent with a given path for the nominal supply of money.
+One example of such a multiplicity of equilibria is the model of hyperinﬂation stud-
+"ied in chapter 4. With indeterminacy, neither the price level nor the nominal supply"
+of money is determined by the equilibrium conditions of the model. If the demand
+"for real money balances is given by (10.3), then the price sequence p"
+/C3is associated
+with the sequence m/C3
+t¼p/C3
+tþyt/C0ciT
+"tþvt, while ^p pis associated with ^m mt¼^p ptþ"
+yt/C0ciT
+tþvt¼m/C3þk. The price sequences p/C3and ^p pwill be associated with di¤er-
+ent paths for the nominal money stock.
+"Intuitively, if all agents expect the price level to be 10 percent higher permanently,"
+"such an expectation is completely self-fulﬁlling. To peg the nominal rate of interest,"
+"3. Employing McCallum’s (1983a) minimum state solution method, the equilibrium inﬂation rate is"
+pt¼iTþðyc/C0a0Þ=a1þðut/C0etÞ=awhen uandeare serially uncorrelated and the target nominal interest
+"rate is expected to remain constant. In this case, E tptþ1¼iTþðyc/C0a0Þ=a1, so permanent changes in the"
+target rate iTdo not a¤ect the real interest rate: rt¼iT/C0Etptþ1¼/C0 ð yc/C0a0Þ=a1.10.2 Interest Rates and Monetary Policy 455

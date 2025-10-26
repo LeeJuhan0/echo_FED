@@ -1,0 +1,45 @@
+﻿Content
+"If, in addition to consumption by households, the government purchases ﬁnal out-"
+"putGt, the goods market equilibrium condition becomes Yt¼CtþGt. When this is"
+"expressed in terms of percentage deviations around the steady state, one obtains"
+^y yt¼C
+Y/C18/C19ss
+^c ctþG
+Y/C18/C19ss
+^g gt:
+Using this equation to eliminate ^c ctfrom (8.32) and then replacing ^y ytwith xtþ^y yf
+t
+yields an expression for the output gap ð^y yt/C0^y yf
+"tÞ,"
+xt¼Etxtþ1/C0~s s/C01ð^{ {t/C0Etptþ1Þþxt; ð8:33Þ
+where ~s s/C01¼s/C01ðC=YÞssand
+xt1s/C01
+s/C18/C19C
+Y/C18/C19ss
+ðEtctþ1/C0ctÞ/C0G
+Y/C18/C19ss
+ðEt^g gtþ1/C0^g gtÞþð Et^y yf
+tþ1/C0^y yf
+tÞ:
+Equation (8.33) represents the Euler condition consistent with the representative
+household’s intertemporal optimality condition linking consumption levels over time.
+It is also consistent with the resource constraint Yt¼CtþGt. The disturbance term
+"arises from taste shocks that alter the marginal utility of consumption, shifts in gov-ernment purchases, and shifts in the ﬂexible-price equilibrium output. In each case, it"
+"is expected changes in c,g, and ^y y"
+"fthat matter. For example, an expected rise in"
+government purchases implies that future consumption must fall. This reduces cur-rent consumption.
+The source of a disturbance term in the inﬂation adjustment equation is both more
+critical for policy analysis and more controversial (section 8.4 takes up policy analy-sis). It is easy to see why exogenous shifts in (8.20) can have important implications
+for policy. Two commonly assumed objectives of monetary policy are to maintain a
+low and stable average rate of inﬂation and to stabilize output around full employ-
+ment. These two objectives are often viewed as presenting central banks with a trade-
+"o¤. A supply shock, such as an increase in oil prices, increases inﬂation and reduces"
+output. To keep inﬂation from rising calls for contractionary policies that would ex-
+acerbate the decline in output; stabilizing output calls for expansionary policies that
+"would worsen inﬂation. However, if the output objective is interpreted as mean-"
+"ing that output should be stabilized around its ﬂexible-price equilibrium level, then(8.20) implies that the central bank can always achieve a zero output gap (i.e., keep"
+output at its ﬂexible-price equilibrium level) and simultaneously keep inﬂation equal
+to zero. Solving (8.20) forward yields
+p
+t¼kXy
+i¼0biEtxtþi:348 8 New Keynesian Monetary Economics

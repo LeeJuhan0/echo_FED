@@ -1,0 +1,38 @@
+﻿Content
+Equation (8.44) looks like the standard quadratic loss function employed in
+"chapter 7 to represent the objectives of the monetary policy authority. There are,"
+"however, two critical di¤erences. First, the output gap is measured relative to equilib-"
+rium output under ﬂexible prices. In the traditional literature the output variable was
+more commonly interpreted as output relative to trend or output relative to the nat-
+"ural rate of output, which in turn was often deﬁned as output in the absence of pricesurprises (see section 6.2.1)."
+A second di¤erence between (8.44) and a standard quadratic loss function arises
+"from the reason inﬂation variability enters the loss function. When prices are sticky,"
+"and ﬁrms do not all adjust simultaneously, inﬂation results in an ine‰cient dispersion"
+of relative prices and production among individual producers. The representative
+household’s utility depends on its consumption of a composite good; faced with a
+"dispersion of prices for the di¤erentiated goods produced in the economy, the house-"
+hold buys more of the relatively cheaper goods and less of the relatively more expen-
+"sive goods. Because of diminishing marginal utility, the increase in utility derived"
+from consuming more of some goods is less than the loss in utility due to consuming
+"less of the more expensive goods. Hence, price dispersion reduces utility. Similarly,if one assumes diminishing returns to labor in the production process rather than"
+"constant returns to scale, dispersion on the production side will also be costly. The"
+increased cost of producing more of some goods is greater than the cost saving from
+"reducing production of other goods. For these reasons, price dispersion reduces util-"
+"ity, and when each ﬁrm does not adjust its price every period, price dispersion is"
+caused by inﬂation. These welfare costs can be eliminated under a zero inﬂation
+policy.
+"In chapter 7, the e‰ciency distortion represented by x"
+/C3was used to motivate an
+overly ambitious output target in the central bank’s objective function. The presenceofx
+/C3>0 implies that a central bank acting under discretion to maximize (8.44)
+"would produce a positive average inﬂation bias. However, with average rates of in-ﬂation in the major industrialized economies remaining low during the 1990s, many"
+authors now simply assume that x
+"/C3¼0. In this case, the central bank is concerned"
+"with stabilizing the output gap xt, and no average inﬂation bias arises. 28If tax sub-"
+"sidies can be used to o¤set the distortions associated with monopolistic competition,"
+"one could assign ﬁscal policy the task of ensuring that x/C3¼0. In this case, the central"
+"bank has no incentive to create inﬂationary expansions, and average inﬂation will be"
+zero under discretion. Dixit and Lambertini (2002) showed that when both the mon-
+"etary and ﬁscal authorities are acting optimally, the ﬁscal authority will use its tax"
+"28. In addition, the inﬂation equation was derived by linearizing around a zero inﬂation steady state. It"
+would thus be inappropriate to use it to study situations in which the average is positive.354 8 New Keynesian Monetary Economics

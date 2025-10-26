@@ -1,0 +1,41 @@
+﻿Content
+"ible policy expected to reduce inﬂation. In countries with high-inﬂation experiences,"
+increases in short rates were not associated with decreases in forward rates.
+A key maintained hypothesis in the view that movements in interest rates reveal
+"information about inﬂation expectations is that the Fisher hypothesis, the hypothesis"
+"that nominal interest rates will incorporate a premium for expected inﬂation, holds."
+"Suppose that the real rate is stationary around an average value of r. Then, since it¼"
+rtþpe
+"tþ1¼rtþptþ1þetþ1, where etþ1is the inﬂation forecast error (which is station-"
+"ary under rational expectations), the ex post real rate it/C0ptþ1is stationary. Thus, if"
+"the nominal interest rate and the inﬂation rate are nonstationary, they must be coin-"
+tegrated under the Fisher hypothesis. This is the sense in which long-term movements
+in inﬂation should be reﬂected in the nominal interest rate. Mishkin (1992) adopted
+this cointegrating interpretation of the Fisher relationship to test for the presence of a
+long-term relationship between inﬂation and nominal interest rates in the United
+States. If over a particular time period neither inorpis integrated of order 1 but in-
+"stead are both stationary, there is no real meaning to the statement that permanentshifts in the level of inﬂation should cause similar movements in nominal rates be-"
+"cause such permanent shifts have not occurred. If either iorpisIð1Þ, they should"
+"both be Ið1Þ, and they should be cointegrated. Mishkin found the evidence to be con-"
+sistent with the Fisher relationship.
+10.4 Macroﬁnance
+A recent literature has developed that identiﬁes the latent factors employed in ﬁnance
+"models of the term structure to macroeconomic variables such as inﬂation, real eco-"
+"nomic activity, and monetary policy. The term structure is represented using a‰ne"
+"no-arbitrage models, as in Dai and Singleton (2000). The unobserved latent variables"
+"that determine bond prices in these models are linked to macroeconomic variables,"
+"either through nonstructural statistical models such as a VAR (e.g., Ang and Piazzesi"
+2003) or by using a new Keynesian model to represent macroeconomic and monetary
+"policy outcomes (e.g., Rudebusch and Wu 2007; 2008). Diebold, Piazzesi, and Rude-"
+busch (2005) provided an overview of this research area and discussed some of the
+issues that arise in linking ﬁnance models and macroeconomic models.
+Suppose there are two latent (unobserved) factors that determine bond prices. 17
+"Following Rudebusch and Wu (2007), denote these factors by L"
+tandStand assume
+they follow a VAR process given by
+Ft1Lt
+St/C20/C21
+¼rLt/C01
+St/C01/C20/C21
+þSet¼rFt/C01þSet; ð10:30Þ
+17. Rudebusch and Wu (2008) found that two-factor models are rich enough to ﬁt the data adequately.10.4 Macroﬁnance 475

@@ -1,0 +1,37 @@
+﻿Content
+14.Consider a basic new Keynesian model with Calvo adjustment of prices and ﬂex-
+ible nominal wages.
+"a.In this model, inﬂation volatility reduces the welfare of the representative agent."
+"Explain why.b.In the absence of cost shocks, optimal policy would ensure that inﬂation and the"
+output gap both remain equal to zero. What does this imply for the behavior of out-
+put? Why can output ﬂuctuate e‰ciently despite sticky prices?
+c.Suppose both prices and nominal wages are sticky (assume a Calvo model for
+wages). Will volatility in the rate of wage inﬂation be welfare reducing? Explain.d.Are zero inﬂation and a zero output gap still feasible? Explain.
+15.A key issue in the analysis of policy trade-o¤s is the source of the stochastic
+shocks in the model. Consider two examples: (1) The utility function takes the form
+C1/C0s
+t
+1/C0s/C0wN1þhtt
+1þht;
+where htis stochastic. (2) There is a labor tax ttsuch that the after-tax wage is
+ð1/C0ttÞWt. Assume a standard model of monopolistic competition.
+a.Derive the condition for labor market equilibrium under ﬂexible prices for each of
+"the two cases.b.Linearize the conditions found in part (a), and for each case, derive the ﬂexible-"
+price equilibrium output in terms of percent deviations from the steady state. Clearly
+state any assumptions you need to make on the hand tprocesses or about other
+aspects of the model.
+"c.Assume sticky prices, as in the Calvo model. Express real marginal cost in terms"
+of an output gap.d.Does either h
+torttappear as a cost shock?
+e.Do you think either htorttcauses a wedge between the ﬂexible-price output level
+and the e‰cient output level?
+16.Suppose inﬂation adjustment is given by (8.61). The central bank’s objective is to
+minimize
+1
+2/C18/C19
+EtXy
+i¼0biðp2
+tþiþlx2
+tþiÞ
+"subject to (8.61). Use the programs available from Paul So ¨derlind’s web site, hhttp://"
+"www.hhs.se/personal/Psoderlind/Software/Software.htm i, to answer this question.392 8 New Keynesian Monetary Economics"

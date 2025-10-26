@@ -1,0 +1,15 @@
+### PAPER
+Interest Rates and Inflation
+
+### SUMMARY
+The thesis Interest Rates and Inflation by Michael Coopersmith from the University of Virginia explores the relationship between interest rates and inflation through a simplified economic model. Coopersmith  a physicist  approaches economics similarly to physical systems  using models for mathematical analysis to produce real-world results. The model consists of two components: manufacturers (M) and bankers (B). Manufacturers earn profit by producing and selling objects  while bankers earn by lending money at a higher interest rate than they borrow. The model initially assumes that the incomes of manufacturers and bankers are equal  a proposition termed the Principle of Equality. This assumption is later relaxed to a proportional relationship  leading to a fundamental equation that relates interest rates and inflation.
+
+The model introduces the concept of inflation rates as logarithmic derivatives of price indices. Assuming a linear relationship between prices and costs  a single inflation rate is derived. The model's fundamental equation is used to analyze various economic conditions  showing that the equation holds under more relaxed assumptions where the incomes of manufacturers and bankers are merely proportional.
+
+Real-world considerations are addressed by modifying the model to account for the finite speed of economic processes  similar to the concept of retarded potentials in physics. This leads to a delay in the effect of interest rate changes on inflation  resulting in a modified equation that includes a delay time. This equation is used to analyze past and present macroeconomic situations  demonstrating its validity and making recommendations for future monetary policy.
+
+The model predicts that the inflation rate cannot remain constant or increase indefinitely without causing an unsustainable increase in the interest rate difference. Historical data from the 1970s and 1980s is used to illustrate this point  showing how inflation rates and interest rate differences interacted during that period. The model also considers changes in the money supply  concluding that a constant historical inflation rate is a result of an ever-increasing money supply.
+
+The thesis draws parallels with the Thornton-Wicksell scheme  which relates inflation to interest rate differences through dynamic arguments. However  Coopersmith's model derives this relationship from a general principle of income proportionality without reference to process dynamics. The model implies a restriction on the ability to control inflation through interest rate manipulation  as the relationship between interest rates and inflation is mathematically determined by the model.
+
+Overall  the thesis presents a simplified yet insightful model that captures the complex interactions between interest rates and inflation  providing a basis for understanding macroeconomic behavior and informing monetary policy decisions.

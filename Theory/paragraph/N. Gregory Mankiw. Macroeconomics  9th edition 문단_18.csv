@@ -1,0 +1,20 @@
+﻿content
+"The art in economics lies in judging when a simplifying assumption (such as
+assuming a single price of pizza) clarifies our thinking and when it misleads us.
+All economic models express relationships among
+economic variables. Often, these relationships
+are expressed as functions. A function is a mathematical concept that shows how one variable
+depends on a set of other variables. For example,
+in the model of the pizza market, we said that the
+quantity of pizza demanded depends on the price
+of pizza and on aggregate income. To express
+this, we use functional notation to write
+Q
+d 5 D(P, Y).
+This equation says that the quantity of pizza
+demanded Q d
+is a function of the price of pizza P
+and aggregate income Y. In functional notation,
+the variable preceding the parentheses denotes
+the function. In this case, D( ) is the function expressing how the variables in parentheses
+determine the quantity of pizza demanded."

@@ -1,0 +1,31 @@
+﻿Content
+"Combining the ﬁrst and second of these equations,"
+½1þbissþaðbissþFÞ/C138pt
+¼bissmtþaðbissþFÞEt/C01pt/C0ð1þaÞðbissþFÞetþEtptþ1: ð6:48Þ
+Guess a solution of the form pt¼g1mt/C01þg2stþg3et. Then E t/C01pt¼g1mt/C01and
+"Etptþ1¼g1mt¼g1mt/C01þg1st. Substituting these expressions into (6.48),"
+½1þbissþaðbissþFÞ/C138ðg1mt/C01þg2stþg3etÞ
+¼bissðmt/C01þstÞþaðbissþFÞg1mt/C01/C0ð1þaÞðbissþFÞetþg1mt/C01þg1st:
+"Equating the coe‰cients on either side, g1,g2, and g3must satisfy"
+½1þbissþaðbissþFÞ/C138g1¼bissþaðbissþFÞg1þg1)g1¼1
+½1þbissþaðbissþFÞ/C138g2¼bissþg1)g2¼1þbiss
+1þbissþaðbissþFÞ
+½1þbissþaðbissþFÞ/C138g3¼ð1þaÞðbissþFÞ) g3¼/C0ð1þaÞðbissþFÞ
+1þbissþaðbissþFÞ/C20/C21
+:
+"To determine the impact of a money shock ston output, note that pt/C0Et/C01pt¼"
+"g2stþg3et,s o"
+yt¼aðpt/C0Et/C01ptÞþð 1þaÞet
+¼ag2stþðag3þa/C01Þet:
+"From the deﬁnitions of g2andg3,"
+yt¼að1þbissÞ
+1þbissþaðbissþFÞ/C20/C21
+stþð1þaÞ1þbiss
+1þbissþaðbissþFÞ/C20/C21
+et:
+"Using the parameter values from section 2.5.4, ( a¼0:36,b¼3,F¼2) and a steady-"
+"state nominal interest rate of 0 :011 (since average money growth, and hence inﬂa-"
+"tion, equals zero), the coe‰cient on stis equal to 0: 40. Letting b!yyields (6.14)."
+6.6 Problems
+1.An increase in average inﬂation lowers the real demand for money. Demonstrate
+"this by using the steady-state version of the model given by (6.1)–(6.7), assuming that264 6 Money in the Short Run: Nominal Price and Wage Rigidities"

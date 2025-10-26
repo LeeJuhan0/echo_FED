@@ -1,0 +1,17 @@
+﻿content
+"enefits from attempting to produce unexpected inflation. Altering the specification of the central bank’s objective function in (7.2) or
+(7.1) to depend only on output and expected inflation would, given (7.3), then imply
+that the equilibrium inflation rate could be infinite (see Auernheimer 1974; Calvo
+1978; and problem 7 at the end of this chapter).
+The rest of the model is a simple link between inflation and the policy authority’s
+actual policy instrument:
+p 1⁄4 Dm þ v; ð7:4Þ
+where Dm is the growth rate of the money supply (the first di¤erence of the log nominal money supply), assumed to be the central bank’s policy instrument, and v is a
+velocity disturbance. The private sector’s expectations are assumed to be determined
+prior to the central bank’s choice of a growth rate for the nominal money supply.
+Thus, in setting Dm, the central bank will take pe as given. Also assume that the central bank can observe e (but not v) prior to setting Dm; this assumption generates a
+role for stabilization policy. Finally, assume e and v are uncorrelated.
+The sequence of events is important. First, the private sector sets nominal wages
+based on its expectations of inflation. Thus, in the first stage, pe is set. Then the supply shock e is realized. Because expectations have already been determined, they do
+not respond to the realization of e. Policy can respond, however, and the policy instrument Dm is set after the central bank has observed e. The velocity shock v is then
+realized, and actual inflation and output are determined."

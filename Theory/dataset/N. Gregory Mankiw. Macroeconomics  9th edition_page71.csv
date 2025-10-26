@@ -1,0 +1,43 @@
+﻿Content
+CHAPTER 3 National Income: Where It Comes From and Where It Goes | 57
+the real r
+ental price paid to each owner of capital equals the MPK. The total real 
+"wages paid to labor are therefore MPL  L, and the total real return paid to "
+capital owners is MPK  K.
+The income that remains after the ﬁrms have paid the factors of production 
+is the economic proﬁt of the owners of the ﬁrms:
+Economic Proﬁt  Y 2 (MPL 3 L) 2 (MPK 3 K ).
+Note that income Y and economic proﬁt are here being expressed in real 
+"terms—that is, in units of output rather than in dollars. Because we want to "
+"examine the distribution of income, we rearrange the terms as follows:"
+Y 5 (MPL 3 L) 1 (MPK 3 K ) 1 Economic Proﬁt.
+"T otal income is divided among the return to labor, the return to capital, and "
+economic proﬁt.
+How large is economic proﬁt? The answer is surprising: if the production function 
+"has the property of constant returns to scale, as is often thought to be the case, then "
+"economic proﬁt must be zero. That is, nothing is left after the factors of production "
+are paid. This conclusion follows from a famous mathematical result called Euler’s 
+"theorem,2 which states that if the production function has constant returns to scale, then"
+"F (K, L ) 5 (MPK 3 K) 1 (MPL 3 L)."
+"If each factor of production is paid its marginal product, then the sum of these "
+"factor payments equals total output. In other words, constant returns to scale, "
+"proﬁt maximization, and competition together imply that economic proﬁt is zero."
+"If economic proﬁt is zero, how can we explain the existence of “proﬁt” in the "
+economy? The answer is that the term “proﬁt” as normally used is different from 
+economic proﬁt. We have been assuming that there are three types of agents: work -
+"ers, owners of capital, and owners of ﬁrms. T otal income is divided among wages, "
+"return to capital, and economic proﬁt. In the real world, however, most ﬁrms own "
+rather than rent the capital they use. Because ﬁrm owners and capital owners 
+"are the same people, economic proﬁt and the return to capital are often lumped "
+"together. If we call this alternative deﬁnition accounting proﬁt, we can say that"
+Accounting Proﬁt 5 Economic Proﬁt 1 (MPK 3 K ).
+"Under our assumptions—constant returns to scale, proﬁt maximization, and "
+competition—economic proﬁt is zero. If these assumptions approximately 
+"describe the world, then the “proﬁt” in the national income accounts must be "
+mostly the return to capital.
+"2Mathematical note:  T o prove Euler’s theorem, we need to use some multivariate calculus. Begin with the "
+"deﬁnition of constant returns to scale: zY 5 F (zK, zL). Now differentiate with respect to z to obtain:"
+"Y 5 F1(zK, zL) K 1 F2(zK, zL) L,"
+where F1 and F 2 denote partial derivatives with respect to the ﬁrst and second arguments of the 
+"function. Evaluating this expression at z 5 1, and noting that the partial derivatives equal the "
+"marginal products, yields Euler’s theorem."

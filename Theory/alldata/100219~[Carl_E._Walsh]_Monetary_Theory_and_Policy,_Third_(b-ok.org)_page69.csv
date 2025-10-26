@@ -1,0 +1,39 @@
+﻿Content
+nominal return is ½ð1þrtÞPtþ1/C0Pt/C138=Pt¼ð1þrtÞð1þptþ1Þ/C011it. In the steady
+"state, 1 þrss¼1=b, and pss¼y, so the steady-state nominal rate of interest is given"
+by½ð1þyÞ=b/C138/C01 and varies (approximately) one for one with inﬂation. 14
+Existence of the Steady State
+"To ensure that a steady-state monetary equilibrium exists, there must exist a positive"
+"but ﬁnite level of real money balances mssthat satisﬁes (2.12), evaluated at the"
+steady-state level of consumption. If utility is separable in consumption and money
+"balances, say uðc;mÞ¼vðcÞþfðmÞ, this condition can be written as fmðmssÞ¼"
+1ssvcðcssÞ. The right side of this expression is a non-negative constant; the left side
+"approaches yasm!0. If fmðmÞa0 for all mgreater than some ﬁnite level, a"
+steady-state equilibrium with positive real money balances is guaranteed to exist.This was the role of the earlier assumption that the marginal utility of money even-
+tually becomes negative. Note that this assumption is not necessary; fðmÞ¼logm
+yields a positive solution to (2.12) as long as 1
+ssvcðcssÞ>0. When utility is not sepa-
+"rable, one can still write (2.12) as umðcss;mssÞ¼1ssucðcss;mssÞ.I fu cm<0 so that the"
+"marginal utility of consumption decreases with increased holdings of money, both um"
+anducdecrease with mand the solution to (2.12) may not be unique; multiple steady-
+"state equilibria may exist. 15Note, however, that it may be more plausible to assume"
+"money and consumption are complements in utility, an assumption that would implyu"
+cmb0.
+"When uðc;mÞ¼vðcÞþfðmÞ, the dynamics of real balances around the steady state"
+can be described easily by multiplying both sides of (2.12) by Mtand noting that
+Mtþ1¼ð1þyÞMt:
+Bðmtþ1Þ1b
+1þyvcðcssÞmtþ1¼½vcðcssÞ/C0fmðmtÞ/C138mt1AðmtÞ; ð2:23Þ
+which gives a di¤erence equation in m. The properties of this equation have been
+examined by Brock (1974) and Obstfeld and Rogo¤ (1983; 1986). A steady-state
+value for msatisﬁes BðmssÞ¼AðmssÞ. The functions BðmÞandAðmÞare illustrated
+in ﬁgure 2.1. BðmÞis a straight line with slope bvcðcssÞ=ð1þyÞ.AðmÞhas slope
+"ðvc/C0fm/C0fmmmÞ. For the case drawn, lim m!0fmm¼0, so there are two steady-"
+"state solutions to (2.23), one at m0and one at zero. Only one of these involves posi-"
+"tive real money balances (and a positive value for money). If lim m!0fmm¼~m m>0,"
+then lim m!0AðmÞ<0 and there is only one solution. Paths for mtoriginating to the
+"14. Outside of the steady state, the nominal rate can still be written as the sum of the expected real rate"
+"plus the expected rate of inﬂation, but there is no longer any presumption that short-run variations in in-"
+ﬂation will leave the real rate una¤ected.
+"15. For more on the conditions necessary for the existence of monetary equilibria, see Brock (1974; 1975)"
+and Bewley (1983).44 2 Money-in-the-Utility Function

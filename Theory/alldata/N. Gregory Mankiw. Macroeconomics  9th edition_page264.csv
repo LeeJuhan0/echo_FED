@@ -1,0 +1,41 @@
+﻿Content
+252 | PART III Growth Theory: The Economy in the Very Long Run
+T
+"o make this comparison for a real economy, such as the U.S. economy, we "
+need an estimate of the growth rate of output ( n  g) and an estimate of the 
+net marginal product of capital ( MPK  ). Real GDP in the United States 
+"grows an average of 3 percent per year, so n  g  0.03. We can estimate the net "
+marginal product of capital from the following three facts:
+ 1. The capital stock is about 2.5 times one year’s GDP .
+ 2. Depreciation of capital is about 10 percent of GDP .
+ 3. Capital income is about 30 percent of GDP .
+Using the notation of our model (and the result from Chapter 3 that capital 
+"owners earn income of MPK for each unit of capital), we can write these facts as"
+ 1. k  2.5y.
+ 2. k  0.1y.
+ 3. MPK  k  0.3y.
+We solve for the rate of depreciation  by dividing equation 2 by equation 1:
+ k/k  (0.1y)/(2.5y)
+  0.04.
+And we solve for the marginal product of capital MPK by dividing equation 3 
+by equation 1:
+(MPK  k)/k  (0.3y)/(2.5y)
+ MPK  0.12.
+"Thus, about 4 percent of the capital stock depreciates each year, and the marginal "
+product of capital is about 12 percent per year. The net marginal product of 
+"capital, MPK  , is about 8 percent per year."
+We can now see that the return to capital ( MPK    8 percent per year) 
+is well in excess of the economy’s average growth rate ( n  g  3 percent per 
+"year). This fact, together with our previous analysis, indicates that the capital "
+"stock in the U.S. economy is well below the Golden Rule level. In other words, "
+"if the United States saved and invested a higher fraction of its income, it would "
+grow more rapidly and eventually reach a steady state with higher consumption.
+This conclusion is not unique to the U.S. economy. When calculations similar to 
+"those above are done for other economies, the results are similar. The possibility of "
+excessive saving and capital accumulation beyond the Golden Rule level is intrigu -
+"ing as a matter of theory, but it appears not to be a problem that actual economies "
+"face. In practice, economists are more often concer ned with insufﬁcient saving. It is "
+this kind of calculation that provides the intellectual foundation for this concern.5
+"5For more on this topic and some international evidence, see Andrew B. Abel, N. Gregory Mankiw, "
+"Lawrence H. Summers, and Richard J. Zeckhauser, “Assessing Dynamic Efﬁciency: Theory and "
+"Evidence,”  Review of Economic Studies  56 (1989):  1–19."

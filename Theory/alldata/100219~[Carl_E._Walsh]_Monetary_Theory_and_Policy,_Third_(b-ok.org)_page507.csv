@@ -1,0 +1,40 @@
+﻿Content
+EpL¼1
+2½ð1þrlÞL/C138þ12½CþR
+0/C0x/C138/C0ð 1þrÞL;
+where ris the opportunity cost of funds to the lender. The lender’s expected proﬁt
+"decreases with x. Because the lender receives a ﬁxed amount in the good state, the"
+lender’s expected return is a concave function of the project’s return and therefore
+decreases with an increase in risk.
+"Now suppose there are two groups of borrowers, those with x¼xgand those with"
+"x¼xb, with xg<xb. Type xgborrowers have lower-risk projects. From (10.33), if"
+"the loan rate rlis low enough such that xb>xgbx/C3ðrl;L;CÞ, then both types will"
+"ﬁnd it proﬁtable to borrow. If each type is equally likely, the lender’s expected returnis"
+Ep
+L¼1
+4½ð1þrlÞLþCþR0/C0xg/C138þ14½ð1þr
+lÞLþCþR0/C0xb/C138/C0ð1þrÞL
+¼12½ð1þr
+lÞLþCþR0/C138/C014ðx
+gþxbÞ/C0ð 1þrÞL; x/C3ðrl;L;CÞaxg;
+which is increasing in rl. But as soon as rlincreases to the point where x/C3ðrl;L;CÞ¼
+"xg, any further increase causes all xgtypes to stop borrowing. Only xbtypes will still"
+"ﬁnd it proﬁtable to borrow, and the lender’s expected proﬁt falls to"
+EpL¼1
+2½ð1þrlÞLþCþR0/C138/C012x
+b/C0ð1þrÞL; xgax/C3ðrl;L;CÞaxb:
+"As a result, the lender’s expected proﬁt as a function of the loan rate is increasing for"
+x/C3ðrl;L;CÞaxgand then falls discretely at 1 þrl¼½xg/C0CþR0/C138=Las all low-risk
+"types exit the market. This is illustrated in ﬁgure 10.2, where r/C3denotes the loan rate"
+"that tips the composition of the pool of borrowers. For loan rates between r1andr/C3,"
+both types borrow and the lender’s expected proﬁt is positive. Expected proﬁts are
+"again positive for loan rates above r2, but in this region only xbtypes borrow."
+The existence of a local maximum in the lender’s proﬁt function at r/C3introduces
+the possibility that credit rationing will occur in equilibrium. Suppose at r/C3there re-
+mains an excess demand for loans. Type xgwould not be willing to borrow at a rate
+"above r/C3, but type xbwould. If the lender responds to the excess demand by raising"
+"the loan rate, expected proﬁts fall. Equilibrium may involve a loan rate of r/C3, with"
+"some potential borrowers being rationed. 24Thus, adverse selection provides one"
+rationale for a lender’s proﬁt function that is not monotonic in the loan rate. Equi-
+"24. As ﬁgure 10.2 suggests, if the demand for loans is strong enough, the lender may be able to raise the"
+loan rate su‰ciently so that expected proﬁts do rise.482 10 Financial Markets and Monetary Policy

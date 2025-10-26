@@ -1,0 +1,10 @@
+﻿content
+"To find what outcome we would obtain under discretionary policy, we must examine what level of inflation the Fed would choose. By substituting the Phillips curve into the Fed’s loss function, we obtain
+L(u, p) 5 u
+n 2 a(p 2 Ep) 1 gp
+2.
+Notice that the Fed’s loss is negatively related to unexpected inflation (the second term in the equation) and positively related to actual inflation (the third term). To find the level of inflation that minimizes this loss, differentiate with respect to p to obtain
+dL/d p 5 2a 1 2gp.
+The loss is minimized when this derivative equals zero.9
+Solving for p, we get
+p 5 a/(2g)."

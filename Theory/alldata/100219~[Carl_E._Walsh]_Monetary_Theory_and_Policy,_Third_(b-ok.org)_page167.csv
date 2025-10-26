@@ -1,0 +1,37 @@
+﻿Content
+lim
+i!ybtþi
+ð1þrÞi¼0: ð4:11Þ
+"In this case, the right side of (4.10) becomes the present discounted value of all cur-"
+"rent and future tax and seigniorage revenues, and this is equal to the left side, which"
+is the present discounted value of all current and future expenditures plus current
+"outstanding debt (principal plus interest). In other words, the government must plan"
+"to raise su‰cient revenue, in present value terms, to repay its existing debt and ﬁ-"
+"nance its planned expenditures. Deﬁning the primary deﬁcit as D¼g/C0t/C0s, inter-"
+"temporal budget balance implies, from (4.10), that"
+ð1þrÞbt/C01¼/C0Xy
+i¼0Dtþi
+ð1þrÞi: ð4:12Þ
+"Thus, if the government has outstanding debt ðbt/C01>0Þ, the present value of future"
+"primary deﬁcits must be negative (i.e., the government must run a primary surplus in"
+"present value). This surplus can be generated through adjustments in expenditures,"
+"taxes, or seigniorage."
+Is (4.12) a constraint on the government? Must the government (the combined
+"monetary and ﬁscal authorities) pick expenditures, taxes, and seigniorage to ensure"
+that (4.12) holds for all possible values of the initial price level and interest rates? Or
+is it an equilibrium condition that need only hold at the equilibrium price level and
+interest rate? Buiter (2002) argued strongly that the intertemporal budget balance
+"condition represents a constraint on government behavior, and this is the perspec-"
+"tive generally adopted here. However, Sims (1994), Woodford (1995; 2001a), andCochrane (1999) argued that (4.12) is an equilibrium condition; this alternative per-"
+spective is taken up in section 4.5.
+4.3 Money and Fiscal Policy Frameworks
+"Most analyses of monetary phenomena and monetary policy assume, usually without"
+"statement, that variations in the stock of money matter but that how a variation"
+occurs does not. The nominal money supply could change because of a shift from
+tax-ﬁnanced government expenditures to seigniorage-ﬁnanced expenditures. Or it
+could change as the result of an open market operation in which the central bank
+"purchases interest-bearing debt, ﬁnancing the purchase by an increase in non-"
+"interest-bearing debt, holding other taxes constant (see (4.2)). Because these two"
+means of increasing the money stock have di¤ering implications for taxes and the
+"stock of interest-bearing government debt, they may lead to di¤erent e¤ects on prices"
+and/or interest rates.142 4 Money and Public Finance

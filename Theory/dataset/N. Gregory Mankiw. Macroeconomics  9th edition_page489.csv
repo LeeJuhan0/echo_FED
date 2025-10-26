@@ -1,0 +1,48 @@
+﻿Content
+CHAPTER 16 Understanding Consumer Behavior | 481
+consumption in period tw
+"o. Because there is no third period, the consumer does "
+not save in the second period.
+Note that the variable S can represent either saving or borrowing and that 
+these equations hold in both cases. If ﬁrst-period consumption is less than ﬁrst-
+"period income, the consumer is saving, and S is greater than zero. If ﬁrst-period "
+"consumption exceeds ﬁrst-period income, the consumer is borrowing, and S is "
+"less than zero. For simplicity, we assume that the interest rate for borrowing is "
+the same as the interest rate for saving.
+"T o derive the consumer’s budget constraint, combine the two preceding "
+equations. Substitute the ﬁrst equation for S into the second equation to obtain
+C2 5 (1  r)(Y1 2 C1)  Y2.
+"T o make the equation easier to interpret, we must rearrange terms. T o place all "
+"the consumption terms together, bring (1  r)C1 from the right-hand side to "
+the left-hand side of the equation to obtain
+(1  r)C1  C2 5 (1  r)Y1  Y2.
+Now divide both sides by 1  r to obtain
+C1  C2
+1  r 5 Y1  Y2
+1  r .
+This equation relates consumption in the tw
+o periods to income in the two 
+periods. It is the standard way of expressing the consumer’s intertemporal budget 
+constraint.
+"The consumer’s budget constraint is easily interpreted. If the interest rate is zero, "
+the budget constraint shows that total consumption in the two periods equals total 
+income in the two periods. In the usual case in which the interest rate is greater 
+"than zero, future consumption and future income are discounted by a factor 1  r. "
+"This discounting arises from the interest earned on savings. In essence, because the "
+"consumer earns interest on current income that is saved, future income is worth less "
+"than current income. Similarly, because future consumption is paid for out of savings "
+"that have earned interest, future consumption costs less than current consumption. "
+The factor 1/(1   r) is the price of second-period consumption measured in terms 
+of ﬁrst-period consumption: it is the amount of ﬁrst-period consumption that the 
+consumer must forgo to obtain 1 unit of second-period consumption.
+Figure 16-3 graphs the consumer’s budget constraint. Three points are 
+"marked on this ﬁgure. At point A, the consumer consumes exactly his income "
+"in each period ( C1 5 Y1 and C2 5 Y2), so there is neither saving nor borrow -"
+"ing between the two periods. At point B, the consumer consumes nothing in "
+"the ﬁrst period ( C1 5 0) and saves all income, so second-period consumption "
+"C2 is (1  r)Y1  Y2. At point C, the consumer plans to consume nothing in "
+the second period ( C2 5 0) and borrows as much as possible against second-
+"period income, so ﬁrst-period consumption C1 is Y 1  Y2/(1  r). These are "
+only three of the many combinations of ﬁrst- and second-period consumption 
+that the consumer can afford: all the points on the line from B to C are available 
+to the consumer.

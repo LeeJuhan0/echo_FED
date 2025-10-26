@@ -1,0 +1,36 @@
+﻿Content
+"Assuming standard restrictions on the gatherers’ production function, (10.51) deﬁnes"
+a convergent path for the land held by farmers. 34The steady-state value of kis then
+given as the solution kssto
+1
+RG0ðk/C0kssÞ¼a: ð10:52Þ
+"Multiplying through by R,G0ðk/C0kssÞ¼Ra. From (10.47) this implies"
+uss¼a:
+"Equation (10.52) can be compared with (10.46), which gives the condition for an"
+"e‰cient allocation of land between farmers and gatherers. The e‰cient allocation ofland to farmers, k"
+"/C3, was such that G0ðk/C0k/C3Þ¼aþc>Ra¼G0ðk/C0kssÞ, where the"
+"inequality sign is implied by (10.50). Since the marginal product of gatherers’ outputis positive but declines with the amount of land held by gatherers, it follows thatk"
+ss<k/C3. The market equilibrium is characterized by too little land in the hands of
+"farmers. As a consequence, aggregate output is too low."
+"Using the deﬁnition of u, the steady-state price of land is equal to qss¼Ra="
+"ðR/C01Þ, and steady-state debt is equal to bss¼qsskss=R¼akss=ðR/C01Þ. The farm-"
+er’s debt repayments each period are then equal to Rbss¼½R=ðR/C01Þ/C138akss>akss.
+Kiyotaki and Moore extended this basic model to allow for reproducible capital
+"and were able to study the dynamics of the more general model. The simple version,"
+"though, allows the key channels through which credit a¤ects the economy’s equilib-"
+"rium to be highlighted. First, output is ine‰ciently low because of borrowing restric-"
+tions; even though farmers have access to a technology that at the steady state is
+"more productive than that of gatherers, they cannot obtain the credit necessary topurchase additional land. Second, the ability of farmers to obtain credit is limited"
+by their net worth. Equation (10.49) shows how the borrowing constraint makes
+land holdings at time tdependent on net worth (marketable output plus the value of
+"existing land holdings minus debt). Third, land purchases by farmers will depend onasset prices. A fall in the value of land that is expected to persist (so q"
+tandqtþ1both
+"fall) reduces the farmers’ net worth and demand for land. This follows from (10.49),which can be written as k"
+t¼ðqtkt/C01=utÞþðakt/C01/C0Rbt/C01Þ=ut. A proportional fall in
+"qtandqtþ1leaves the ﬁrst term, qtkt/C01=ut, unchanged. The second term increases in"
+"absolute value, but at the steady state, Rb>ak, so this term is negative. Thus, farm-"
+ers’ net worth declines with a fall in land prices.
+"These mechanisms capture the ﬁnancial accelerator e¤ects, as can be seen by con-"
+sidering the e¤ects of an unexpected but transitory productivity shock. Suppose the
+"34. As long as G0ðk/C0kÞis monotonically increasing in k,G0ðkÞ<a, and G0ð0Þ>a, there will be a single"
+stable equilibirum.496 10 Financial Markets and Monetary Policy

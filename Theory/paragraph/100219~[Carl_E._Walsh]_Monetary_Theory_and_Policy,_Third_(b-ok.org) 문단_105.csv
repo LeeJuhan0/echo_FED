@@ -1,0 +1,33 @@
+﻿content
+"2.5.3 The Linear Approximation
+To further explore the e¤ects of money outside the steady state, it is useful to approximate the model’s equilibrium conditions around the steady state. The steps involved
+in obtaining the linear approximation around the steady state follow the approach of
+Campbell (1994) and Uhlig (1999). Details on the approach used to linearize (2.54)–
+(2.60) are discussed in the appendix to this chapter (section 2.7). With the exception
+66 2 Money-in-the-Utility Function
+of interest rates and inflation, variables will be expressed as percentage deviations
+around the steady state. Percentage deviations of a variable qt around its steady-state
+value will be denoted by q^t, where qt 1 qssð1 þ q^tÞ. For interest rates and inflation, ^rt,
+^{t, and p^t will denote rt rss, it i
+ss, and pt pss, respectively.38 In what follows,
+uppercase letters denote economywide variables, lowercase letters denote random
+disturbances and
+variables expressed in per capita terms, and the superscript ss indicates the steady-state value of a variable. However, m, mss, and m^ refer to real money
+balances per capita, whereas M represents the aggregate nominal stock of money.
+As is standard, the production function is taken to be Cobb-Douglas with constant
+returns to scale, so
+yt 1⁄4 ezt
+ka
+t1n1a t ð2:63Þ
+with 0 < a < 1. For the utility function, it is assumed that
+uðct; mt; 1 ntÞ 1⁄4 1⁄2ac1b t þ ð1 aÞm1b t
+ð1FÞ=ð1bÞ
+1 F þ C ð1 ntÞ
+1h
+1 h : ð2:64Þ
+R. King, Plosser, and Rebelo (1988) demonstrated that with the exception of the log
+case, utility must be multiplicatively separable in labor to be consistent with steadystate growth, in which the share of time devoted to work remains constant as real
+wages rise. Equation (2.64) does not have this property. However, we will abstract
+from growth factors, and the assumption of linear separability in leisure is common
+in the recent literature on business cycles. The end-of-chapter problems present an
+example using a utility function that is consistent with growth."

@@ -1,0 +1,40 @@
+﻿Content
+"the conditions under which their result holds, assume that the nominal interest rate is"
+"pegged at a value {for all t. Under an interest rate peg, the ﬁrst two equations of the"
+basic CIA model become
+uc;t
+1þ{¼bEtRtuc;t
+1þ{/C18/C19
+)uc;t¼bEtRtuc;tþ1
+and
+ul;t
+uc;t¼MPL t
+1þ{:
+"The Euler condition is now identical to the form obtained in a real, nonmonetaryeconomy, an economy not facing a CIA constraint. 6The level at which the nominal"
+"interest rate is pegged only appears in the labor market equilibrium condition. Thus,Rebelo and Xie concluded that if labor supply is inelastic, the equilibrium with an"
+interest rate peg is the same as the equilibrium in the corresponding nonmonetary
+real economy. Any equilibrium of the purely real economy can be achieved by a
+CIA model with a nominal interest rate peg if labor supply is inelastic. If labor sup-
+"ply is elastic, however, the choice of"
+{does have e¤ects on the real equilibrium.
+"Under an interest rate peg, the price level process must satisfy"
+EtRtPtþ1
+Pt/C18/C19
+¼1þ{;
+and the nominal money supply must satisfy
+Mt¼Ptct:
+"These requirements do not, however, uniquely determine the nominal money supply"
+"process. For example, suppose the utility of consumption is ln ct. Then uc;t¼1=ct,"
+and the Euler condition under an interest rate peg can be written as
+1
+ct¼Pt
+Mt¼bEtRtPtþ1
+Mtþ1/C18/C19
+:
+Rearranging this equation yields
+1¼bEtRtPtþ1
+PtMt
+Mtþ1/C18/C19
+:
+"6. If output follows an exogenous process and all output is perishable, equilibrium requires that ctequal"
+output; the Euler condition then determines the real rate of return.10.2 Interest Rates and Monetary Policy 459

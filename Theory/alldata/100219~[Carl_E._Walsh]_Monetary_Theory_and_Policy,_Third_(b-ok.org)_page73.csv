@@ -1,0 +1,40 @@
+﻿Content
+Rather than characterize the steady state in terms of the growth rate of the nomi-
+"nal stock of money, Reis (2007) examined the behavior of the nominal interest rate"
+"directly, since central banks today generally employ a nominal interest rate and not a"
+nominal quantity as their policy instrument. The equilibrium condition (2.26) implic-
+itly deﬁnes a money demand function of the form
+mt¼fðit;c/C3Þ;
+so (2.29) implies the path of the nominal rate must satisfy
+fðitþ1;c/C3Þ
+fðit;c/C3Þ¼1
+b½fkðk/C3Þþ1/C0d/C138/C26/C271=ð1/C0gð1/C0hÞÞ
+:
+"With kconstant, (2.25) implies the real interest rate, given by ð1þitÞ=ð1þptþ1Þ,i s"
+"constant, so the required path for the nominal rate also pins down the path followed"
+by the inﬂation rate. Advancing (2.27) one period then determines the growth rate of
+the nominal money stock consistent with the speciﬁed equilibrium path. Reis (2007)
+"discussed how the monetary authority could, through a policy of declining nominal"
+"interest rates, sustain a steady state in which consumption and output remain above"
+the levels that would be reached under a constant growth rate of money policy.
+2.2.3 The Interest Elasticity of Money Demand
+"Returning to (2.12), this equation characterizes the demand for real money balances"
+"as a function of the nominal rate of interest and real consumption. For example, sup-"
+pose that the utility function in consumption and real balances is of the constant elas-
+ticity of substitution (CES) form:
+uðct;mtÞ¼½ac1/C0b
+tþð1/C0aÞm1/C0b
+t/C1381=ð1/C0bÞ; ð2:30Þ
+"with 0 <a<1 and b>0,b01. Then"
+um
+uc¼1/C0a
+a/C18/C19ct
+mt/C18/C19b
+;
+and (2.12) can be written as 21
+mt¼1/C0a
+a/C18/C191=bi
+1þi/C18/C19/C01=b
+ct: ð2:31Þ
+"21. In the limit, as b!y, (2.31) implies that m¼c. This is then equivalent to the cash-in-advance"
+models examined in chapter 3.48 2 Money-in-the-Utility Function

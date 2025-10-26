@@ -1,0 +1,43 @@
+﻿Content
+pt/C01¼lXy
+i¼0ð1/C0lÞiEt/C01/C0izt/C01
+¼lEt/C01zt/C01þlð1/C0lÞEt/C02zt/C01þlð1/C0lÞ2Et/C03zt/C01þ/C1/C1/C1:
+Subtracting the second equation from the ﬁrst yields
+pt¼pt/C0pt/C01¼lztþlXy
+i¼1ð1/C0lÞiEt/C0iDzt/C0l2Xy
+i¼0ð1/C0lÞiEt/C01/C0izt; ð5:10Þ
+"where Dzt1zt/C0zt/C01. Recalling that zt¼ptþaxt, (5.9) also implies"
+pt¼l
+1/C0l/C18/C19
+axtþl
+1/C0l/C18/C19Xy
+i¼1ð1/C0lÞiEt/C0izt
+¼l
+1/C0l/C18/C19
+axtþlXy
+i¼0ð1/C0lÞiEt/C01/C0izt:
+This means that the last term in (5.10) is equal to lpt/C0l2
+1/C0l/C16/C17
+axt. Making this sub-
+"stitution, (5.10) becomesp"
+t¼lztþlXy
+i¼1ð1/C0lÞiEt/C0iDzt/C0lptþl2
+1/C0l !
+axt
+¼l
+1/C0l/C18/C19
+axtþlXy
+i¼1ð1/C0lÞiEt/C0iðptþaDxtÞ: ð5:11Þ
+Equation (5.11) is the sticky information Phillips curve (SIPC). The coe‰cient
+on the current output gap is increasing in l; the more frequently ﬁrms update their
+"information, the more sensitive current pricing decisions are to current economic"
+conditions. The key aspect of the SIPC is the presence of expectations of current vari-
+ables based on lagged information sets. The presence of these terms means that a
+shock that occurs at time twill only gradually a¤ect inﬂation as the information on
+"which expectations are based is only gradually updated. The faster information isupdated (the larger is l), the more rapidly will inﬂation respond to current move-"
+ments in real output.
+"To complete the determination of inﬂation and the output gap, Mankiw and Reis"
+(2002) assumed a simple quantity theory equation and an exogenous AR(1) process
+"for the growth rate of the money supply. In log terms, the quantity theory relation is"
+m
+"tþvt¼ptþxt. Taking ﬁrst di¤erences, this becomes5.2 Informational Frictions 205"

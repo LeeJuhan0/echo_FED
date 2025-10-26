@@ -1,0 +1,45 @@
+﻿id,paragraph
+1,"a. Derive the policy plans of each of the two types, when in o‰ce, in the second period. What is the intuition underlying your answer? b. Let p2 be the reputation of policymakers at the beginning of the second period. Find (and motivate) an expression for the public’s (rational) expectation of inflation for that period. c. Derive the policy plans of each of the two types, when in o‰ce, in the first period, and explain your results intuitively. d. What is the relationship between second- and first-period reputations in equilibrium? Why? 7.6 Problems 327 e. How does the discount factor, b, a¤ect the rates of inflation planned by each of the two types in the first period? Why? 13. Assume that nominal wages are set at the start of each period but that wages are partially indexed against inflation. Suppose wc is the contract nominal wage and the actual nominal wage is w 1⁄4 wc þ kðpt pt1Þ, where k is the indexation parameter. Show how indexation a¤ects the equilibrium rate of inflation under pure discretion. What is the e¤ect on average inflation of an increase in k? Explain. 14. (Beetsma and Jensen 1998) Suppose the social loss function is equal to V s 1⁄4 1 2 E1⁄2lðy yn kÞ 2 þ p2 ; and the central bank’s loss function is given by V cb 1⁄4 1 2 E1⁄2ðl yÞðy yn kÞ 2 þ ð1 þ yÞðp pTÞ 2 þ tp; where y is a mean zero stochastic shock to the central bank’s preferences, pT is an inflation target assigned by the government, and tp is a linear inflation contract with t a parameter chosen by the government. Assume that the private sector forms expectations before observing y. Let y 1⁄4 yn þ ðp pe Þ þ e and p 1⁄4 Dm þ v. Finally, assume that y and the supply shock e are uncorrelated."
+2,"These modern DSGE models with nominal frictions are commonly labeled new Keynesian models because, like older versions of models in the Keynesian tradition, aggregate demand plays a central role in determining output in the short run, and there is a presumption that some fluctuations both can be and should be dampened by countercylical monetary or fiscal policy.2 Early examples of models with these properties include those of Yun (1996); Goodfriend and King (1998); Rotemberg and Woodford (1995; 1998); and McCallum and Nelson (1999). Galı ́ (2002) discusses the derivation of the model’s equilibrium conditions, and book-length treatments of the new Keynesian model are provided by Woodford (2003a) and Galı ́ (2008). The first section of this chapter shows how a basic money-in-the-utility function (MIU ) model, combined with the assumption of monopolistically competitive goods markets and price stickiness, can form the basis for a simple linear new Keynesian model.3 The model is a consistent general equilibrium model in which all agents face well-defined decision problems and behave optimally, given the environment in which they find themselves."
+3,"To obtain a canonical new Keynesian model, three key modifications will be made to the MIU model of chapter 2. First, endogenous variations in the capital stock are ignored. This follows McCallum and Nelson (1999), who showed that, at least for the United States, there is little relationship between the capital stock and output at business cycle frequencies. Endogenous capital stock dynamics play a key role in equilibrium business cycle models in the real business cycle tradition, but as Cogley and Nason (1995) showed, the response of investment and the capital stock to productivity shocks actually contributes little to the dynamics implied by such models. For simplicity, then, the capital stock will be ignored.4 Second, the single final good in the MIU model is replaced by a continuum of differentiated goods produced by monopolistically competitive firms. These firms face constraints on their ability to adjust prices, thus introducing nominal price stickiness into the model. In the basic model, nominal wages will be allowed to fluctuate freely, although section 8.3.6 explores the implications of assuming that both prices and wages are sticky."
+4,"Third, monetary policy is represented by a rule for setting the nominal rate of interest. Most central banks today use a short-term nominal interest rate as their instrument for implementing monetary policy. The nominal quantity of money is then endogenously determined to achieve the desired nominal interest rate. Important issues are involved in choosing between money supply policy procedures and interest rate procedures; these are discussed in chapter 11. These three modifications yield a new Keynesian framework that is consistent with optimizing behavior by private agents and incorporates nominal rigidities yet is simple enough to use for exploring a number of policy issues. It can be linked directly to the more traditional aggregate supply-demand (AS-IS-LM) model that long served as one of the workhorses for monetary policy analysis and is still common in most undergraduate texts. Once the basic framework has been developed, section 8.4 considers optimal policy as well as a variety of policy issues."
+5,"To summarize, (8.7)–(8.10), (8.12), (8.14), and (8.16) represent a system in Ct, Nt,
+M=Pt, Yt, jt, Pt, p¡
+t, Wt=Pt, and it that can be combined with the aggregate production function, Yt 1⁄4 ZtNt, and a specification of monetary policy to determine the
+economy’s equilibrium.
+8.2 The Basic Model 335
+8.3 A Linearized New Keynesian Model
+One reason for the popularity of the new Keynesian model is that it allows for a simple linear representation in terms of an inflation adjustment equation, or Phillips
+curve, and an output and real interest rate relationship that corresponds to the IS
+curve of undergraduate macroeconomics. To derive this linearized version of the
+model, let x^t denote the percentage deviation of a variable Xt around its steady state
+and let the superscript f denote the flexible-price equilibrium. The equilibrium
+conditions in the model will be linearized around a steady state in which the inflation
+rate is zero.
+8.3.1 The Linearized Phillips Curve
+Equations (8.12) and (8.16) can be approximated around a zero average inflation,
+steady-state equilibrium to obtain an expression for aggregate inflation (see section
+8.6.1 of the chapter appendix) of the form
+pt 1⁄4 bEtptþ1 þ k~j^t; ð8:17Þ
+where
+k~ 1⁄4 ð1 oÞð1 boÞ
+o
+is an increasing function of the fraction of firms able to adjust each period and j^t
+is real marginal cost, expressed as a percentage deviation around its steady-state
+value.8
+Equation (8.17) is often referred to as the new Keynesian Phillips curve. Unlike
+more traditional Phillips curve equations, the new Keynesian Phillips curve implies
+that real marginal cost is the correct driving variable for the inflation process. It
+also implies that the inflation process is forward-looking, with current inflation a
+function of expected future inflation. When a firm sets its price, it must be concerned
+with inflation in the future because it may be unable to adjust its price for several
+periods. Solving (8.17) forward,
+pt 1⁄4 k~
+Xy
+i1⁄40
+bi
+Etj^tþi;
+which shows that inflation is a function of the present discounted value of current
+and future real marginal costs.
+8. Ascari (2004) showed that the behavior of inflation in the Calvo model can be significantly a¤ected if
+steady-state inflation is not zero."

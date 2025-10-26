@@ -1,0 +1,45 @@
+﻿Content
+utility of leisure nor the marginal utility of consumption depend on the household’s
+holdings of real money balances. Then (2.62) becomes
+ulðfnss;1/C0nssÞ
+ucðfnss;1/C0nssÞ¼fkss
+nss/C18/C19
+/C0kss
+nss/C18/C19
+f0kss
+nss/C18/C19
+;
+which determines the steady-state supply of labor. Steady-state consumption is then
+"given by fnss. Thus, separable preferences imply superneutrality. Changes in the"
+"steady-state rate of inﬂation will alter nominal interest rates and the demand forreal money balances (see (2.54)), but di¤erent inﬂation rates have no e¤ect on the"
+"steady-state values of the capital stock, labor supply, or consumption."
+"If utility is nonseparable, so that either u"
+"loruc(or both) depend on mss, then"
+money is not superneutral. Variations in average inﬂation that a¤ect the opportunitycost of holding money will a¤ect m
+ss. Di¤erent levels of msswill change the value
+"ofnssthat satisﬁes (2.62). Since 1 þiss¼ð1þrssÞð1þpssÞ¼b/C01ð1þyssÞ, equation"
+(2.54) can be rewritten as
+umðfnss;mss;1/C0nssÞ
+ucðfnss;mss;1/C0nssÞ¼iss
+1þiss/C18/C19
+¼1þyss/C0b
+1þyss:
+"This equation, together with (2.62) must be jointly solved for mssandnss. Even in"
+"this case, however, the ratios of output, consumption, and capital to labor are inde-pendent of the rate of money growth. The steady-state levels of the capital stock, out-"
+"put, and consumption will depend on the money growth rate through the e¤ects ofinﬂation on labor supply, with inﬂation-induced changes in n"
+"ssa¤ecting yss,css, and"
+kssequiproportionally.
+"The e¤ect of faster money growth will depend on how uc, and ulare a¤ected by m."
+"For example, suppose money holdings do not a¤ect the marginal utility of leisure"
+ðulm¼0Þbut money and consumption are Edgeworth complements; higher inﬂa-
+tion that reduces real money balances decreases the marginal utility of consumptionðu
+"cm>0Þ. In this case, faster money growth reduces mssand decreases the marginal"
+"utility of consumption. Households substitute away from labor and toward leisure.Steady-state employment, output, and consumption fall. These e¤ects go in the op-"
+posite direction if consumption and money are Edgeworth substitutes ðu
+cm<0Þ.
+2.5.3 The Linear Approximation
+"To further explore the e¤ects of money outside the steady state, it is useful to approx-"
+imate the model’s equilibrium conditions around the steady state. The steps involved
+in obtaining the linear approximation around the steady state follow the approach of
+Campbell (1994) and Uhlig (1999). Details on the approach used to linearize (2.54)–
+(2.60) are discussed in the appendix to this chapter (section 2.7). With the exception66 2 Money-in-the-Utility Function

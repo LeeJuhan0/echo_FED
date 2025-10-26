@@ -1,0 +1,52 @@
+﻿Content
+"where g¼sþh. Using this result, the inﬂation adjustment equation (8.17) becomes"
+pt¼bEtptþ1þkxt; ð8:20Þ
+where k¼g~k k¼gð1/C0oÞð1/C0boÞ=oandxt1^y yt/C0^y yf
+tis the gap between actual out-
+put and ﬂexible-price equilibrium output.
+"The preceding assumed that ﬁrms face constant returns to scale. If, instead, each"
+ﬁrm’s production function is cjt¼ZtNa
+"jt, where 0 <aa1, then the results must be"
+"modiﬁed slightly. When a<1, ﬁrms with di¤erent production levels will face di¤er-"
+"ent marginal costs, and real marginal cost for ﬁrm jwill equal"
+jjt¼Wt=Pt
+aZtNa/C01
+jt¼Wt=Pt
+acjt=Njt:
+Linearizing this expression for ﬁrm j0sreal marginal cost and using the production
+function yields
+^j jjt¼ð ^w wt/C0^p ptÞ/C0ð ^c cjt/C0^n njtÞ¼ð ^w wt/C0^p ptÞ/C0a/C01
+a/C18/C19
+^c cjt/C01
+a/C18/C19
+^z zt: ð8:21Þ
+"Marginal cost for the individual ﬁrm can be related to average marginal cost, jt¼"
+"ðWt=PtÞ=ðaCt=NtÞ, where"
+Nt¼ð1
+0Njtdj¼ð1
+0cjt
+Zt/C18/C191=a
+dj¼Ct
+Zt/C18/C191=að1
+0pjt
+Pt/C18/C19/C0y=a
+dj:
+"When this last expression is linearized around a zero inﬂation steady state, the ﬁnal"
+"term involving the dispersion of relative prices turns out to be of second order, 10so"
+one obtains
+^n nt¼1
+a/C18/C19
+ð^c ct/C0^z ztÞ
+and
+^j jt¼ð ^w wt/C0^p ptÞ/C0ð ^c ct/C0^n ntÞ¼ð ^w wt/C0^p ptÞ/C0a/C01
+a/C18/C19
+^c ct/C01a/C18/C19
+^z z
+t: ð8:22Þ
+Subtracting (8.22) from (8.21) gives
+"10. When linearized, the last term becomes"
+/C0y
+a/C18/C19ð
+ð^p pjt/C0^p ptÞdj;
+"but to a ﬁrst-order approximation,Ð^p pjtdj¼^p pt, so the price dispersion term is approximately equal to"
+zero.338 8 New Keynesian Monetary Economics

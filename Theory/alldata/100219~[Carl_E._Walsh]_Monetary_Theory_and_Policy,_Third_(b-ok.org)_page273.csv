@@ -1,0 +1,35 @@
+﻿Content
+ﬁrms near the Ss boundary. For a ﬁrm near the top that does not receive an idiosyn-
+"cratic shock, an aggregate shock of one sign would push it to the barrier and result in"
+an adjustment while the same size aggregate shock with opposite sign would move
+the ﬁrm into the interior of the region of inaction. The role of the decision cost is
+"to deal with this problem. Given the necessity of paying this cost, and if aggregate"
+"shocks are also small relative to idiosyncratic shocks, the afraction of ﬁrms that do"
+not receive an idiosyncratic shock do not adjust price. This leads to smooth behavior
+around the boundaries of the Ss region.
+"All ﬁrms that change their price choose the same markup over real marginal cost,"
+and they do so to ensure that the expected (log) markup is equal to the steady-state
+markup:
+EtXy
+i¼0ðabÞilnmtþi¼lnm;
+where mis the steady-state markup and mtþiis the actual markup in period tþi.26
+"Notice that, as in the Calvo model, the future expected markups are discounted by"
+"band the probability of not adjusting a, since only if the ﬁrm has not adjusted will"
+future markups be inﬂuenced by the current pricing choice.
+"Aggregating across islands, Gertler and Leahy showed that the economywide in-"
+ﬂation rate is given by
+pt¼bEtptþ1þk^v vt; ð6:38Þ
+"where ^v vtis, as before, the log deviation of real marginal cost from its steady-state"
+level. The elasticity of inﬂation with respect to real marginal cost is
+k¼ð1/C0aÞð1/C0abÞ
+am/C01
+ð1þjÞm/C01/C20/C21
+; ð6:39Þ
+where jis the inverse of the wage elasticity of labor supply. Comparing (6.38) and
+(6.39) to (6.36) and (6.37) reveals their close parallel. The ﬁrst term in (6.39) is iden-
+"tical in form to the marginal cost elasticity of inﬂation in the Calvo model, with a,"
+"the probability that an island (and its ﬁrms) do not receive a productivity shock,replacing o, the probability that a ﬁrm does not receive an opportunity to adjust"
+price. The second term in (6.39) arises because of the assumption of local island-speciﬁc labor markets in Gertler and Leahy’s model; if a similar assumption about
+"the labor market were incorporated into the Calvo model, a similar term would ap-"
+pear in (6.37).
+"26. In terms of the notation employed earlier in the discussion of TDP models, m¼1=q.248 6 Money in the Short Run: Nominal Price and Wage Rigidities"

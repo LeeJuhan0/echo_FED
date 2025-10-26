@@ -1,0 +1,62 @@
+﻿content
+"vt þ ut þ ui
+t þ Bða1mt1 þ a2vt þ a3ut þ a4ui
+tÞ;
+where B 1⁄4 ðb=bð1 bÞÞ1⁄2W2 ð1 aÞW1A, and
+1
+b
+
+b
+1 b
+
+ðrm 1Þ1⁄2rmmt1 þ vt þ kðut þ ui
+tÞ
+1
+b
+
+b
+1 b
+
+1⁄2a1ðrmmt1 þ vt þ kðut þ ui
+tÞ ða1mt1 þ a2vt þ a3ut þ a4ui
+tÞ:
+222 5 Money in the Short Run: Informational and Portfolio Rigidities
+For the two sides of (5.34) to be equal for all possible realizations of mt1, vt, ut, and
+ui
+t requires that the following hold. First, the coe‰cient on mt1 on the right side
+must be equal to the coe‰cient on the left side, which holds if a1 1⁄4 rm. Second, the
+coe‰cient of vt on the right side must be equal to the coe‰cient of vt on the left side,
+or a2 1⁄4 1 (since a1 1⁄4 rm). Third, the coe‰cient of ut on the right side must be equal
+to the coe‰cient of ut on the left side, or
+a3 1⁄4 k þ K
+1 þ K < 1;
+where
+K 1⁄4 b 1 b
+b
+
+1⁄21 ð1 aÞA þ B:
+Finally, the coe‰cient on ui
+t on the right side must be equal to its coe‰cient on the
+left side, or a4 1⁄4 a3.
+Combining these results, one obtains the expressions for the equilibrium economywide price level and employment given by (5.6) and (5.7).
+5.6 Problems
+1. Using (5.1)–(5.4), show that if W2 1⁄4 0, then yt 1⁄4 yi
+t 1⁄4 ni
+t 1⁄4 nt 1⁄4 0.
+2. Suppose the central bank becomes more transparent in that s2
+u falls, so that the
+aggregate money stock becomes more predictable. Using the Lucas model of section
+5.2.2, explain how the variance of the price level and the variance of employment
+would be a¤ected by this change.
+3. According to the sticky information model of section 5.2.3, the impact of the output gap on inflation (holding constant expectations) is equal to al=ð1 lÞ, where l
+is the fraction of firms that update their information. Explain why the impact of the
+output gap on inflation is increasing in l.
+4. Using the model of section 5.2.3 and the calibrated values used to obtain figures
+5.1 and 5.2, construct impulse responses for inflation and output to innovations to
+the money growth rate for r 1⁄4 0; 0:25; 0:5, and 0:75. How are the responses a¤ected
+by the degree of serial correlation in the growth rate of money?
+5. Assume aggregate output is given by Yt 1⁄4 ZtNt, where Z is a productivity shock
+and N is employment. Using the limited-participation model of section 5.3.1, show
+that when the household makes its portfolio decision, it anticipates that the marginal
+rate of substitution between leisure and consumption will equal the marginal product
+of labor. (Hint: Linearize (5.25), and take expectations based on the household’s information set.)"

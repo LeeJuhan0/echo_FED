@@ -1,0 +1,31 @@
+﻿Content
+"ters, will change the parameters estimated in an equation such as (1.6) (or in a St."
+Louis–type regression). This is an example of the Lucas (1976) critique: empirical
+relationships are unlikely to be invariant to changes in policy regimes.
+"Of course, as Sargent stressed, it may be that (1.3) is the true structure that re-"
+"mains invariant as policy changes. In this case, (1.5) will not be invariant to changes"
+"in policy. To demonstrate this point, note that (1.4) implies"
+mt¼ð1/C0p1LÞ/C01ðp2zt/C01þvtÞ;
+"where L is the lag operator. 15Hence, we can write (1.3) as"
+yt¼y0þa0mtþa1mt/C01þc1ztþc2zt/C01þut
+¼y0þa0ð1/C0p1LÞ/C01ðp2zt/C01þvtÞ
+þa1ð1/C0p1LÞ/C01ðp2zt/C02þvt/C01Þþc1ztþc2zt/C01þut
+¼ð1/C0p1Þy0þp1yt/C01þa0vtþa1vt/C01þc1zt
+þðc2þa0p2/C0c1p1Þzt/C01þða1p2/C0c2p1Þzt/C02þut/C0p1ut/C01; ð1:7Þ
+"where output is now expressed as a function of lagged output, the zvariable, and"
+money surprises (the vrealizations). If this were interpreted as a policy-invariant ex-
+"pression, one would conclude that output is independent of any predictable or sys-"
+tematic feedback rule for monetary policy; only unpredicted money appears to
+"matter. Yet, under the hypothesis that (1.3) is the true invariant structure, changes"
+in the policy rule (the p1coe‰cients) will cause the coe‰cients in (1.7) to change.
+"Note that starting with (1.5) and (1.4), one derives an expression for output that is"
+"observationally equivalent to (1.3). But starting with (1.3) and (1.4), one ends up withan expression for output that is not equivalent to (1.5); (1.7) contains lagged values"
+"of output, v, and u, and two lags of z, whereas (1.5) contains only the contemporane-"
+ous values of vanduand one lag of z. These di¤erences would allow one to dis-
+"tinguish between the two, but they arise only because this example placed a priori"
+"restrictions on the lag lengths in (1.3) and (1.5). In general, one would not have the"
+type of a priori information that would allow this.
+The lesson from this simple example is that policy cannot be designed without a
+theory of how money a¤ects the economy. A theory should identify whether the coef-ﬁcients in a speciﬁcation of the form (1.3) or in a speciﬁcation such as (1.5) will re-
+main invariant as policy changes. While output equations estimated over a single
+"15. That is, Lixt¼xt/C0i.1.3 Estimating the E¤ect of Money on Output 17"

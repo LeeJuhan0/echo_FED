@@ -1,0 +1,54 @@
+﻿Content
+it/C0i/C3
+t¼mstþut; m>0;
+where utcaptures any other factors a¤ecting the interest rate di¤erential. 8Assume u
+is an exogenous white noise process. Substituting this into the uncovered interest par-
+ity condition yields
+Etstþ1¼ð1þmÞstþutþvt; ð9:27Þ
+the solution to which is 9
+st¼/C01
+1þm/C18/C19
+ðutþvtÞ:
+"Since this solution implies that E tstþ1¼/C0Etðutþ1þvtþ1Þ=ð1þmÞ¼ 0, the interest"
+parity condition is then given by
+Etstþ1/C0st¼1
+1þm/C18/C19
+ðutþvtÞ¼it/C0i/C3
+tþvt
+orit/C0i/C3
+t¼ðut/C0mvtÞ=ð1þmÞ.
+What does this imply for tests of uncovered interest parity? From the solution for
+st;stþ1/C0st¼/C0 ð utþ1/C0utþvtþ1/C0vtÞ=ð1þmÞ. The probability limit of the interest
+rate coe‰cient in the regression of stþ1/C0stonit/C0i/C3
+tis equal to
+covðstþ1/C0st;it/C0i/C3
+tÞ
+varðit/C0i/C3
+tÞ¼1
+ð1þmÞ2ðs2
+u/C0ms2
+vÞ
+1
+ð1þmÞ2ðs2
+uþm2s2
+vÞ¼s2
+u/C0ms2
+v
+s2
+uþm2s2
+v;
+"which will not generally equal 1, the standard null in tests of interest parity. If u10,"
+"the probability limit of the regression coe‰cient is /C01=m. That is, the regression esti-"
+mate uncovers the policy parameter m. Not only would a regression of the change in
+the exchange rate on the interest di¤erential not yield the value of 1 predicted by the
+uncovered interest parity condition but the estimate would be negative.
+McCallum (1994a) developed more fully the argument that rejections of uncovered
+interest parity may arise because standard tests compound the parity condition withthe manner in which monetary policy is conducted. Although uncovered interest
+parity is implied by the model independently of the manner in which policy is
+8. The rationale for such a policy is clearly not motivated within the context of a model with perfectly
+ﬂexible prices in which monetary policy has no real e¤ects. The general point is to illustrate how empiricalrelationships such as (9.26) can depend on the conduct of policy.
+"9. From (9.27), the equilibrium exchange rate process must satisfy E"
+"tstþ1¼ð1þmÞstþutþvt, so that the"
+"state variables are utandvt. Following McCallum (1983a), the minimal state solution takes the form st¼"
+b0þb1ðutþvtÞ. This implies that E tstþ1¼b0. So the interest parity condition becomes b0¼ð1þmÞðb0þ
+"b1ðutþvtÞÞ þutþvt, which will hold for all realizations of uandvifb0¼0 and b1¼/C01=ð1þmÞ.9.2 The Obstfeld-Rogo¤ Two-Country Model 407"

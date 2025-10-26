@@ -1,0 +1,74 @@
+﻿Content
+leisure divided by the marginal utility of consumption must equal the marginal prod-
+uct of labor. Equation (5.29) is derived from the ﬁrst-order condition that for an
+"agent on island i,"
+ui
+cðtÞ¼ui
+mðtÞþbEiTtþ1
+Ptþ1/C18/C19
+ucðtþ1Þ; ð5:30Þ
+where the left side is the utility cost of reducing consumption marginally in order to
+"hold more money, and the right side is the return from higher money holdings. This"
+return consists of the direct utility yield ui
+"mðtÞ, plus the utility from using the real bal-"
+ances to increase consumption in period tþ1. With transfers viewed as proportional
+"to money holdings, the individual treats money as if it yielded a real return of"
+"Ttþ1=Ptþ1. Given the assumed utility function, both sides of (5.30) can be divided"
+byui
+cðtÞand written as
+1¼1/C0a
+a/C18/C19Mi
+t=Pi
+t
+Ci
+t !/C0b
+þbEiTtþ1
+Ptþ1/C18/C19Xðb/C0FÞ=ð1/C0bÞ
+tþ1C/C0b
+tþ1
+Xðb/C0FÞ=ð1/C0bÞ
+t C/C0b
+t !
+;
+where
+Xt¼aC1/C0b
+tþð1/C0aÞMt
+Pt/C18/C191/C0b
+:
+Expressed in terms of percentage deviations around the steady state (denoted by
+"lowercase letters), the two terms on the right side become"
+1/C0a
+a/C18/C19Mi
+t=Pi
+t
+Ci
+t !/C0b
+A1/C0a
+a/C18/C19M=P
+C/C18/C19ss/C20/C21 /C0b
+½1þbci
+t/C0bðmi
+t/C0pi
+tÞ/C138
+and
+bEiTtþ1
+Ptþ1/C18/C19Xðb/C0FÞ=ð1/C0bÞ
+tþ1C/C0b
+tþ1
+Xðb/C0FÞ=ð1/C0bÞ
+t C/C0b
+t !
+AbEi½1þttþ1/C0ptþ1þpi
+tþW1Dctþ1þW2ðDmtþ1/C0Dptþ1Þ/C138;
+where Dis the ﬁrst di¤erence operator ðDctþ1¼ctþ1/C0ci
+tÞand the fact that in the
+"steady state, Tss¼Psshas been used. This condition also implies"
+1¼1/C0a
+a/C18/C19M=P
+C/C18/C19ss/C20/C21 /C0b
+þbTss
+Pss/C18/C19
+¼1/C0a
+a/C18/C19M=P
+C/C18/C19ss/C20/C21 /C0b
+þb; ð5:31Þ220 5 Money in the Short Run: Informational and Portfolio Rigidities

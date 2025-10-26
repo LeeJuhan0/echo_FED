@@ -1,0 +1,42 @@
+﻿Content
+EpA¼pa½Ra/C0ð1þrlÞL/C138/C0ð 1/C0paÞC;
+where the borrower loses collateral Cif the project fails. The expected return from
+project Bis
+EpB¼pb½Rb/C0ð1þrlÞL/C138/C0ð 1/C0pbÞC:
+The expected returns on the two projects depend on the interest rate on the loan rl.
+It is straightforward to show that
+EpA>EpB
+if and only if
+paRa/C0pbRb
+pa/C0pb>ð1þrlÞL/C0C:
+"The left side of this condition is independent of the loan rate, but the right side is"
+increasing in rl. Deﬁne r/C3
+las the loan rate at which the expected returns to the bor-
+rower from the two projects are equal. This occurs when
+ð1þr/C3
+lÞL/C0C¼paRa/C0pbRb
+pa/C0pb:
+For loan rates less than r/C3
+"l, the borrower will prefer to invest in project A; for loan"
+rates above r/C3
+"l, the riskier project Bis preferred. The expected payment to the lender,"
+"therefore, will be pað1þrlÞLþð1/C0paÞCifrl<r/C3"
+"l, and pbð1þrlÞLþð1/C0pbÞC"
+forrl>r/C3
+l. Since
+pað1þr/C3
+lÞLþð1/C0paÞC>pbð1þr/C3
+lÞLþð1/C0pbÞC; ð10:34Þ
+the lender’s proﬁts fall as the loan rate rises above r/C3; the lender’s proﬁts are not
+"monotonic in the loan rate. 25Just as in the example of the previous section, this"
+leads to the possibility that credit rationing may characterize the loan market’s
+equilibrium.
+10.5.3 Monitoring Costs
+The previous analysis illustrated how debt contracts in the presence of adverse selec-
+tion or moral hazard could lead to credit rationing as an equilibrium phenomenon.
+"25. To see this, note that using the deﬁnition of r/C3"
+limplies that the left side of (10.34) is equal to
+pa½ð1þr/C3
+"lÞL/C0C/C138¼paððpaRa/C0pbRbÞ=ðpa/C0pbÞÞ, and the right side is equal to pb½ð1þr/C3"
+lÞL/C0C/C138¼
+pbððpaRa/C0pbRbÞ=ðpa/C0pbÞÞ. The direction of the inequality follows because pa>pb.484 10 Financial Markets and Monetary Policy

@@ -1,0 +1,64 @@
+﻿Content
+"country produces an economic expansion in the foreign country. But as (9.42) shows,"
+a surprise inﬂation by both countries leaves the real exchange rate una¤ected. It is
+this link that opens the possibility that outcomes will depend on the extent to which
+the two countries coordinate their policies.
+9.3.2 Equilibrium with Coordination
+"To focus on the implications of policy coordination, attention is restricted to the case"
+"of a common aggregate supply shock, common in the sense that it a¤ects both coun-"
+"tries. That is, suppose et¼e/C3"
+"t1et, where etis the common disturbance. For the rest"
+"of this section, assume u1u/C310, so that erepresents the only disturbance."
+"In solving for equilibrium outcomes under alternative policy interactions, the ob-"
+jective functions (9.40) and (9.41) simplify to a sequence of one-period problems (the
+problem is a static one with no link between periods). Assuming that the policy au-
+"thority is able to set the inﬂation rate after observing the supply shock et, the decision"
+problem under a coordinated policy is
+min
+p;p/C31
+2½ly2
+tþp2
+t/C138þ12½lðy
+/C3
+tÞ2þðp/C3
+tÞ2/C138/C26/C27
+subject to (9.43) and (9.44).16 The ﬁrst-order conditions are
+0¼lb2A1ytþptþlb2A2y/C3
+t
+¼ð1þlb2
+2A2
+1þlb2
+2A2
+2Þptþ2lb2
+2A1A2p/C3
+tþlb2et
+0¼lb2A2ytþlb2A1y/C3
+tþp/C3
+t
+¼ð1þlb2
+2A2
+1þlb2
+2A2
+2Þp/C3
+tþ2lb2
+2A1A2ptþlb2et;
+which used the fact that A1þA2¼1 and the result that the ﬁrst-order conditions im-
+ply E t/C01pt¼Et/C01p/C3
+t¼0.17Solving these two equations yields the equilibrium inﬂa-
+tion rates under coordination:
+pc;t¼p/C3
+c;t¼/C0lb2
+1þlb2
+2 !
+et1/C0ycet: ð9:45Þ
+"16. In deﬁning the objective function under coordinated policy, it is assumed that each country’s utility"
+receives equal weight.
+"17. Writing out the ﬁrst-order condition for ptin full, 0 ¼ptþlb2"
+2ðA2
+1þA2
+2Þðpt/C0Et/C01ptÞþ
+2lb2
+2A1A2ðp/C3
+t/C0Et/C01p/C3
+"tÞþ2lb2et. Taking expectations conditional on time t/C01 information (i.e., prior to"
+"the realization of et), one obtains E t/C01pt¼0.418 9 Money and the Open Economy"

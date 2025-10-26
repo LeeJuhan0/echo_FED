@@ -1,0 +1,13 @@
+﻿content
+"For example, suppose the nominal money supply (or a narrow reserve aggregate)
+is the actual instrument used to a¤ect control of the interest rate, and assume it is
+adjusted in response to interest rate movements (Canzoneri, Henderson, and Rogo¤
+1983; McCallum 1986):
+mt 1⁄4 m0 þ mt1 þ mðit i
+TÞ: ð10:9Þ
+Under this policy rule, the monetary authority adjusts the nominal money supply
+growth rate, mt mt1, in response to deviations of the nominal interest rate from
+its target value. If it fluctuates randomly around the target iT, then the average rate
+of money growth will be m0. As m ! y, the variance of the nominal rate around the
+targeted value iT will shrink to zero, but the price level can remain determinate (see
+problem 1 at the end of this chapter)."

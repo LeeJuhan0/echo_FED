@@ -1,0 +1,37 @@
+﻿Content
+It is apparent from (7.27) that the parameter hplays exactly the same role that Rog-
+"o¤’s degree of conservatism played. From the analysis of Rogo¤ ’s model, the opti-"
+"mal value of his positive, so the total weight placed on the inﬂation objective exceeds"
+"society’s weight, which is equal to 1. A ﬂexible inﬂation target, interpreted here as avalue for hthat is positive, leads to an outcome that dominates pure discretion. 46"
+The connection between an inﬂation targeting rule and Rogo¤ ’s conservative cen-
+tral banker approach has just been highlighted. Svensson (1997b) showed that asimilar connection exists between inﬂation targeting and the optimal linear inﬂation
+contract. Svensson demonstrated that the optimal linear inﬂation contract can be
+implemented if the central bank is required to target an inﬂation rate p
+Tthat is actu-
+"ally less than the socially optimal rate of inﬂation. To see how this result is obtained,letH¼1þh, replace p"
+"/C3with pTin (7.27), and expand the resulting second term so"
+that the expression becomes
+Vcb¼1
+2lEðyt/C0yn/C0kÞ2þ12HEðp/C0p
+/C3þp/C3/C0pTÞ2
+¼12lEðy
+t/C0yn/C0kÞ2þ12HEðp/C0p
+/C3Þ2þDEðp/C0p/C3ÞþC;
+where D¼Hðp/C3/C0pTÞandC¼1
+"2Hðp/C3/C0pTÞ2. Since Cis a constant, it does not"
+a¤ect the central bank’s behavior. Notice that Vcbis equal to Vþ12hEðp/C0p/C3Þ2þ
+DEðp/C0p/C3ÞþC. This is exactly equivalent to the incentive structure established
+under the optimal linear inﬂation contract if and only if h¼0 and D¼alk. The
+condition h¼0 is achieved if the central banker is not weight-conservative but in-
+stead shares society’s preferences (so H¼1); the condition D¼alkis then achieved
+if
+pT¼p/C3/C0alk<p/C3:
+"Thus, the optimal linear contract can be implemented by assigning to the central"
+bank an inﬂation target that is actually below the rate that is socially preferred. But
+"at the same time, policy should be assigned to an agent who has the same preferences"
+between inﬂation and output stabilization as society in general.
+Strict Targeting Rules
+The preceding analysis considered a ﬂexible targeting rule. The central bank was
+penalized for deviations of paround a targeted level but was not required to achieve
+the target precisely. This ﬂexibility allowed the central bank to trade o¤ the objective
+"46. That is, of course, unless his too large.7.3 Solutions to the Inﬂation Bias 313"

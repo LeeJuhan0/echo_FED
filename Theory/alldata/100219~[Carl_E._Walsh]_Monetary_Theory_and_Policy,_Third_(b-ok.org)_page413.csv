@@ -1,0 +1,38 @@
+﻿Content
+b.Derive an expression for the ﬂexible-price equilibrium output ^y yf
+tfor this
+economy .
+"c.Does the taste shock a¤ect the ﬂexible-price equilibrium? If it does, explain how"
+and why.
+d.The household’s Euler condition for optimal consumption choice (expressed in
+terms of the output gap and in percent deviations around the steady state) can be
+written as
+xt¼Etxtþ1/C01
+s/C18/C19
+ðit/C0Etptþ1/C0rn
+tÞ:
+How does rndepend on the behavior of the ﬂexible-price equilibrium output? Does it
+depend on the taste shock x? Explain intuitively whether a positive realization of x
+"raises, lowers, or leaves unchanged the ﬂexible-price equilibrium real interest rate."
+4.Suppose the economy is characterized by
+xt¼Etxtþ1/C01
+s/C18/C19
+ðit/C0Etptþ1/C0rn
+tÞ
+and
+pt¼bEtptþ1þkxt:
+What problems might arise if the central bank decides to set its interest rate instru-
+ment according to the rule it¼rn
+t?
+5.Suppose the economy is described by the basic new Keynesian model consisting of
+xt¼Etxtþ1/C0s/C01ðit/C0Etptþ1Þ
+pt¼bEtptþ1þkxt
+it¼fpptþfxxt:
+"a.Iffx¼0, explain intuitively why fp>1 is needed to ensure that the equilibrium"
+will be unique.
+"b.If both fpandfxare non-negative, the condition given by (8.29) implies that the"
+economy can still have a unique stable equilibrium even when
+1/C0ð1/C0bÞfx
+k<fp<1:
+Explain intuitively why some values of fp<1 are still consistent with uniqueness
+when fx>0.388 8 New Keynesian Monetary Economics

@@ -1,0 +1,17 @@
+### PAPER
+Repo Haircuts and Economic Capital: A Theory of Repo Pricing
+
+### SUMMARY
+The thesis titled Repo Haircuts and Economic Capital: A Theory of Repo Pricing by Wujiang Lou explores the intricacies of repurchase agreements (repos)  which are financial instruments allowing investors to borrow cash using securities as collateral. The study focuses on the dual pricing measures of repos: the repo haircut and the repo spread. The repo haircut is a discount applied to the market value of the securities  serving as a risk management cushion for the lender. The repo spread is the interest rate charged on the loan.
+
+Lou develops a model to determine optimal repo haircuts that meet high credit criteria and identifies economic capital for default risk as a key factor in repo pricing. The model proposes a simple formula linking the repo spread to haircuts  suggesting a negative linear relationship. Investors can minimize their overall funding costs by finding an optimal balance between the haircut and the repo rate.
+
+The model is validated by its ability to replicate the increase in repo haircuts for asset-backed securities during the financial crisis. It also explains the differences in haircuts between tri-party and bilateral repos  quantifies the risk reduction from shortening the repo tenor  and sets limits on the excess liquidity that intermediating dealers can extract between money market funds and hedge funds.
+
+The thesis further delves into the mechanics of repos  describing them as secured loans where the initial purchase price is the loan principal  and the repurchase price includes the principal plus interest. The repo market operates on a delivery versus payment basis  ensuring simultaneous exchange of securities and cash.
+
+Lou's work addresses the lack of a comprehensive pricing model for repos  which are typically negotiated based on both the haircut and the repo rate. The study combines credit risk management with derivatives pricing to establish a target haircut level based on credit risk metrics like probability of default and economic capital. This approach allows for negotiation of haircuts while compensating through the repo rate.
+
+The thesis identifies a repo pricing puzzle  where conventional credit risk models fail to explain repo spreads due to the presence of haircuts. Lou introduces a shadow capital account to account for unhedgeable and undiversifiable repo losses  which necessitates an economic reserve. This reserve is financed by agents who warehouse the risk  leading to a shadow cost of capital that influences the repo spread.
+
+Overall  the thesis provides a comprehensive framework for understanding and pricing repos  emphasizing the importance of economic capital and the interplay between haircuts and repo spreads in determining the cost of repo transactions.

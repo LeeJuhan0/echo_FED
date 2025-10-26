@@ -1,0 +1,35 @@
+﻿Content
+"Several important assumptions have been made here. First, as with most models"
+"involving expectations, the exact speciﬁcation of the information structure is impor-"
+"tant. Most critically, it is assumed that private agents must commit to nominal wage"
+contracts before the central bank has to set the rate of growth of the nominal money
+supply. This means that the central bank has the opportunity to surprise the private
+"sector by acting in a manner that di¤ers from what private agents had expected whenthey locked themselves into nominal contracts. Second, in keeping with the literature"
+"based on Barro and Gordon (1983a), it is assumed the central bank sets money"
+growth as its policy instrument. If the main objective is to explain the determinants
+"of average inﬂation rates, the distinction between money and interest rates as the pol-"
+"icy instrument is not critical. Third, the basic model assumes that the central bank"
+can react to realization of the supply shock ewhile the public commits to wage con-
+tracts prior to observing this shock. This informational advantage on the part of thecentral bank introduces a role for stabilization policy and is meant to capture the fact
+that policy decisions can be made more frequently than are most wage and price
+decisions. It means the central bank can respond to economic disturbances before
+private agents have had the chance to revise nominal contracts.
+The assumption that vis observed after Dmis set is not critical. It is easy to show
+that the central bank will always adjust Dmto o¤set any observed or forecastable
+"component of the velocity shock, and this is why the rate of inﬂation itself is often"
+treated as the policy instrument. Output and inﬂation will only be a¤ected by the
+component of the velocity disturbance that was unpredictable at the time policy was
+set.
+7.2.3 Equilibrium Inﬂation
+"Since the central bank is assumed to act before observing the disturbance v, its objec-"
+"tive will be to maximize the expected value of U, where the central bank’s expecta-"
+tion is deﬁned over the distribution of v. Substituting (7.3) and (7.4) into the central
+bank’s objective function yields
+U¼l½aðDmþv/C0p
+eÞþe/C138/C01
+2ðDmþvÞ2:
+"The ﬁrst-order condition for the optimal choice of Dm, conditional on eand taking"
+"peas given, is"
+al/C0Dm¼0;
+or
+Dm¼al>0: ð7:5Þ7.2 Inﬂation under Discretionary Policy 275

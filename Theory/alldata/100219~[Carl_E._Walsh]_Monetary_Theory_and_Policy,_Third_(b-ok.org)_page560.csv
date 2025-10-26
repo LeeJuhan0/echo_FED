@@ -1,0 +1,36 @@
+﻿Content
+This disturbance will reﬂect variations in income or other factors that produce ﬂuctu-
+ations in deposit demand. One interpretation of (11.25) is that it represents a rela-
+tionship between the innovations in total reserve demand and the funds rate after
+"the lagged e¤ects of all other factors have been removed. For example, Bernanke"
+and Mihov (1998) attempted to identify policy shocks by focusing on the relation-
+"ships among the innovations to reserve demand, reserve supply, and the funds rateobtained as the residuals from a VAR model of reserve market variables. They char-"
+acterized alternative operating procedures in terms of the parameters linking these
+innovations. 30
+The total supply of reserves held by the banking system can be expressed as the
+sum of the reserves that banks have borrowed from the Federal Reserve System
+plus nonborrowed reserves:
+TR
+s
+t¼BRtþNBR t:
+The Federal Reserve can control the stock of nonborrowed reserves through open
+"market operations; by buying or selling government securities, the Fed a¤ects the"
+"stock of nonborrowed reserves. For example, a purchase of government debt by theFed raises the stock of nonborrowed reserves when the Fed pays for its purchase by"
+crediting the reserve account of the seller’s bank with the amount of the purchase.
+Open market sales of government debt by the Fed reduce the stock of nonborrowed
+"reserves. So the Fed can, even over relatively short time horizons, exercise close con-"
+trol over the stock of nonborrowed reserves.
+The stock of borrowed reserves depends on the behavior of private banks and on
+their decisions about borrowing from the Fed (borrowing from the discount win-
+dow). Bank demand for borrowed reserves will depend on the opportunity cost of
+borrowing from the Fed (the discount rate) and the cost of borrowing reserves inthe federal funds market (the federal funds rate). An increase in the funds rate rela-
+tive to the discount rate makes borrowing from the Fed more attractive and leads to
+an increase in bank borrowing. The elasticity of borrowing with respect to the spread
+between the funds rate and the discount rate will depend on the Fed’s management
+"of the discount window. Traditionally, the Fed maintained the discount rate below"
+the federal funds rate. This created an incentive for banks to borrow reserves at the
+discount rate and then lend these reserves at the higher market interest rates. To pre-
+"vent banks from exploiting this arbitrage opportunity, the Fed used nonprice meth-"
+ods to ration bank borrowing. Nonprice rationing a¤ects the degree to which banks
+"30. Kasa and Popper (1995) employed a similar approach to study monetary policy in Japan. Leeper,"
+"Sims, and Zha (1996) developed a more general formulation of the links between reserve market variablesin an identiﬁed VAR framework.11.4 Operating Procedures and Policy Measures 535"

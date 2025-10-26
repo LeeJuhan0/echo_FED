@@ -1,0 +1,46 @@
+﻿Content
+involves a randomly chosen fraction 1 /C0oof all ﬁrms optimally adjusting price each
+"period. Deﬁne Pt1EjlogpjtandDt1varjlogpjt. Then, since varjPt/C01¼0,"
+Dt¼varj½logpjt/C0Pt/C01/C138
+¼Ej½logpjt/C0Pt/C01/C1382/C0½Ejlogpjt/C0Pt/C01/C1382
+¼oEj½logpjt/C01/C0Pt/C01/C1382þð1/C0oÞðlogp/C3
+t/C0Pt/C01Þ2/C0ðPt/C0Pt/C01Þ2;
+where p/C3
+tis the price set at time tby the fraction 1 /C0oof ﬁrms that reset their price.
+Given that Pt¼ð1/C0oÞlogp/C3
+"tþoPt/C01,"
+logp/C3
+t/C0Pt/C01¼1
+1/C0o/C18/C19
+ðPt/C0Pt/C01Þ:
+"Using this result,"
+Dt¼oDt/C01þo
+1/C0o/C18/C19
+ðPt/C0Pt/C01Þ2
+AoDt/C01þo
+1/C0o/C18/C19
+p2
+t:
+This implies
+EtXy
+i¼0biDtþi¼o
+ð1/C0oÞð1/C0obÞ/C20/C21
+EtXy
+i¼0bip2
+tþiþt:i:p:;
+where the terms independent of policy include the initial degree of price dispersion.
+"Combining this with (8.83), the present discounted value of the utility of the repre-"
+sentative household can be approximated by
+EtXy
+i¼0biVtþiA/C0WEtXy
+i¼0bi½p2
+tþiþlðxtþi/C0x/C3Þ2/C138;
+where
+W¼1
+2UYYo
+ð1/C0oÞð1/C0obÞ/C20/C21
+ðy/C01þhÞy2
+and
+l¼ð1/C0oÞð1/C0obÞ
+o/C20/C21ðsþhÞ
+ð1þhyÞy:386 8 New Keynesian Monetary Economics

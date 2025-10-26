@@ -1,0 +1,35 @@
+﻿Content
+no longer be independent of the inﬂation rate. Gomme (1993) and Dotsey and Ire-
+land (1996) examined the e¤ects of inﬂation in general equilibrium frameworks
+that allow for the supply of labor and the average rate of economic growth to be af-
+fected (in models that do not display superneutrality; see section 2.4.2). Gomme
+"found that even though inﬂation reduces the supply of labor and economic growth,"
+the welfare costs are small due to the increased consumption of leisure that house-holds enjoy. 33Dotsey and Ireland found much larger welfare costs of inﬂation in a
+model that generates an interest elasticity of money demand that matches estimatesfor the United States. (See also De Gregorio 1993 and Imrohorog ˘lu and Prescott
+1991.)
+2.4 Extensions
+2.4.1 Interest on Money
+If the welfare costs of inﬂation are related to the positive private opportunity costs of
+"holding money, paying explicit interest on money would be an alternative to deﬂa-"
+tion as a means of eliminating these costs. There are obvious technical di‰culties in
+"paying interest on cash, but ignoring these, assume that the government pays a nom-"
+inal interest rate of i
+mon money balances. Assume further that these interest pay-
+"ments are ﬁnanced by lump-sum taxes s. The household’s budget constraint, (2.4),"
+now becomes (setting n¼0)
+fðkt/C01Þ/C0stþttþð1/C0dÞkt/C01þð1þrt/C01Þbt/C01þ1þim
+t
+1þptmt/C01¼ctþktþmtþbt
+ð2:39Þ
+and the ﬁrst-order condition (2.8) becomes
+/C0ucðct;mtÞþumðct;mtÞþbð1þim
+tÞVoðotþ1Þ
+ð1þptþ1Þ¼0; ð2:40Þ
+whereas (2.12) is now
+umðct;mtÞ
+ucðct;mtÞ¼it/C0im
+t
+1þit:
+"The opportunity cost of money is related to the interest rate gap i/C0im, which repre-"
+sents the di¤erence between the nominal return on bonds and the nominal return on
+33. The e¤ect of money (and inﬂation) on labor supply is discussed in section 2.4.2.58 2 Money-in-the-Utility Function

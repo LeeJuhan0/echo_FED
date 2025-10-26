@@ -1,0 +1,44 @@
+﻿Content
+"CHAPTER 9 Economic Growth II: Technology, Empirics, and Policy | 261"
+This old joke tak
+es aim at how economists use assumptions to simplify—and 
+sometimes oversimplify—the problems they face. It is particularly apt when 
+evaluating the theory of economic growth. One goal of growth theory is to 
+explain the persistent rise in living standards that we observe in most parts of the 
+world. The Solow growth model shows that such persistent growth must come 
+from technological progress. But where does technological progress come from? 
+"In the Solow model, it is just assumed!"
+"T o fully understand the process of economic growth, we need to go beyond "
+the Solow model and develop models that explain technological advance. 
+ Models that do this often go by the label endogenous growth theory  because 
+they reject the Solow model’s assumption of exogenous technological change. 
+Although the ﬁeld of endogenous growth theory is large and sometimes com-
+"plex, here we get a quick taste of this modern research.12"
+The Basic Model
+"T o illustrate the idea behind endogenous growth theory, let’s start with a particu-"
+larly simple production function:
+Y
+" 5 AK,"
+"where Y is output, K is the capital stock, and A is a constant measuring the "
+amount of output produced for each unit of capital. Notice that this production 
+function does not exhibit the property of diminishing returns to capital. One 
+"extra unit of capital produces A extra units of output, regardless of how much "
+capital there is. This absence of diminishing returns to capital is the key difference 
+between this endogenous growth model and the Solow model.
+Now let’s see what this production function says about economic growth. 
+"As before, we assume a fraction s of income is saved and invested. We therefore "
+describe capital accumulation with an equation similar to those we used previously:
+DK 5 sY  K.
+This equation states that the change in the capital stock ( DK) equals investment 
+(sY) minus depreciation ( K). Combining this equation with the Y 5 AK pro -
+"duction function, we obtain, after a bit of manipulation,"
+DY/Y 5 DK/K 5 sA  .
+This equation shows what determines the growth rate of output DY/Y. Notice 
+"that, as long as sA  , the economy’s income grows forever, even without the "
+assumption of exogenous technological progress.
+12This section provides a brief introduction to the large and fascinating literature on endogenous 
+"growth theory. Early and important contributions to this literature include Paul M. Romer, "
+"“Increasing Returns and Long-Run Growth,” Journal of Political Economy 94 (October 1986): "
+"1002–1037; and Robert E. Lucas, Jr., “On the Mechanics of Economic Development,” Journal of "
+Monetary Economics 22 (1988): 3–42. The reader can learn more about this topic in the undergradu-
+"ate textbook by David N. Weil, Economic Growth, 3rd ed. (Pearson, 2013)."

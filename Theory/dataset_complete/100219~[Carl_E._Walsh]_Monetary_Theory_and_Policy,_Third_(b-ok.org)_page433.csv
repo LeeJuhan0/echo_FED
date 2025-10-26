@@ -1,0 +1,37 @@
+﻿Content
+"conducted, the outcomes of statistical tests may in fact be dependent on the behavior"
+of monetary policy because policy may inﬂuence the time series properties of the
+nominal interest rate di¤erential.
+"As noted earlier, tests of interest parity often report negative regression coe‰cients"
+on the interest rate di¤erential in (9.26). This ﬁnding is also consistent with the em-
+pirical evidence reported by Eichenbaum and Evans (1995). They estimated the im-pact of monetary shocks on nominal and real exchange rates and interest rate
+"di¤erentials between the United States and France, Germany, Italy, Japan, and the"
+United Kingdom. A contractionary U.S. monetary policy shock leads to a persistent
+nominal and real appreciation of the dollar and a fall in i
+/C3
+"t/C0itþstþ1/C0st, where iis"
+the U.S. interest rate and i/C3is the foreign rate. Uncovered interest parity implies that
+"this expression should have expected value equal to zero, yet it remains predictably"
+low for several months. Rather than leading to an expected depreciation that o¤sets
+"the rise in i, excess returns on U.S. dollar securities remain high for several months"
+following a contractionary U.S. monetary policy shock. 10
+9.2.3 Sticky Prices
+"Just as was the case with the closed economy, ﬂexible-price models of the open econ-"
+omy appear unable to replicate the size and persistence of monetary shocks on real
+"variables. And just as with closed-economy models, this can be remedied by the"
+"introduction of nominal rigidities. Obstfeld and Rogo¤ (1996, ch. 10) provided an"
+analysis of their basic two-country model under the assumption that prices are set
+one period in advance. 11The presence of nominal rigidities leads to real e¤ects of
+"monetary disturbances through the channels discussed in chapter 6, but in an openeconomy new channels through which monetary disturbances have real e¤ects are"
+now also present.
+"Suppose pðhÞ, the domestic currency price of domestically produced goods, is set"
+one period in advance and ﬁxed for one period. A similar assumption is made for the
+"foreign currency price of foreign-produced goods, p"
+/C3ðfÞ. Although pðhÞandp/C3ðfÞ
+"are preset, the aggregate price indices in each country will ﬂuctuate with the nominal"
+"exchange rate according to (9.11) and (9.12). Nominal depreciation, for example,"
+raises the domestic price index pby increasing the domestic currency price of
+"foreign-produced goods. This introduces a new channel, one absent in a closed econ-omy, through which monetary disturbances can have an immediate impact on the"
+10. Eichenbaum and Evans measured monetary policy shocks in a variety of ways (VAR innovations to
+"nonborrowed reserves relative to total reserves, VAR innovations to the federal funds rate, and Romer andRomer’s 1989 measures of policy shifts). However, the identiﬁcation scheme used in their VARs assumesthat policy does not respond contemporaneously to the real exchange rate. This means that the speciﬁc il-lustrative policy response to the exchange rate that led to (9.27) is ruled out by their framework."
+11. They also considered the case in which nominal wages are preset.408 9 Money and the Open Economy

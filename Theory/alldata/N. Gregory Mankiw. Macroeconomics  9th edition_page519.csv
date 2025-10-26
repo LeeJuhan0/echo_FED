@@ -1,0 +1,43 @@
+﻿Content
+512 | PART V Topics in Macroeconomic Theory
+This equation states that the real cost of capital depends on the r
+elative price of 
+"a capital good PK/P, the real interest rate r, and the depreciation rate d."
+The Determinants of Investment
+Now consider a rental ﬁrm’s decision about whether to increase or decrease its 
+capital stock. F
+"or each unit of capital, the ﬁrm earns real revenue R/P and bears "
+the real cost (P K/P )(r 1 d). The real proﬁt per unit of capital is
+Proﬁt Rate 5 Revenue 2 Cost
+5 R/P 2 (P K/P )(r 1 d).
+Because the real rental price in equilibrium equals the marginal product of capi-
+"tal, we can write the proﬁt rate as"
+Proﬁt Rate 5 MPK 2 (P K/P )(r 1 d).
+The rental ﬁrm makes a proﬁt if the marginal product of capital is greater than 
+the cost of capital. It incurs a loss if the marginal product is less than the cost of 
+capital.
+We can now see the economic incentives that lie behind the rental ﬁrm’s 
+"investment decision. The ﬁrm’s decision regarding its capital stock—that is, "
+whether to add to it or to let it depreciate—depends on whether owning and 
+"renting out capital is proﬁtable. The change in the capital stock, called net "
+"investment, depends on the difference between the marginal product of capital "
+"and the cost of capital. If the marginal product of capital exceeds the cost of capital, ﬁrms "
+ﬁnd it proﬁtable to add to their capital stock. If the marginal product of capital falls short 
+"of the cost of capital, they let their capital stock shrink ."
+We can also now see that the separation of economic activity between pro-
+"duction and rental ﬁrms, although useful for clarifying our thinking, is not nec-"
+essary for our conclusion regarding how ﬁrms choose how much to invest. For 
+"a ﬁrm that both uses and owns capital, the beneﬁt of an extra unit of capital is "
+"the marginal product of capital, and the cost is the cost of capital. Like a ﬁrm "
+"that owns and rents out capital, this ﬁrm adds to its capital stock if the marginal "
+"product exceeds the cost of capital. Thus, we can write"
+"DK 5 In [MPK 2 (P K/P )(r 1 d)],"
+where In( ) is the function showing how net investment responds to the incentive 
+to invest. How much the capital stock responds (and thus the precise form of this 
+function) depends on how costly the adjustment process is.
+We can now derive the investment function. T otal spending on business ﬁxed 
+investment is the sum of net investment and the replacement of depreciated 
+capital. The investment function is
+I 5 In [MPK 2 (P K/P )(r 1 d)] 1 dK.
+"Business ﬁxed investment depends on the marginal product of capital, the cost "
+"of capital, and the amount of depreciation."

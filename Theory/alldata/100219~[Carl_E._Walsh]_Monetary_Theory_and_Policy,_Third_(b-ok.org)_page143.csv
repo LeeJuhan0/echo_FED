@@ -1,0 +1,39 @@
+﻿Content
+equilibrium can also exist; agents accept money with some probability as long as they
+believe other agents will accept it with the same probability.
+The Kiyotaki-Wright model emphasized the exchange process and the possibility
+"for an intrinsically valueless money to be accepted in trade. It did so, however, by"
+assuming a ﬁxed rate of exchange—one unit of money is exchanged for one unit of
+"goods whenever a trade takes place. The value of money in terms of goods is either0 (in a nonmonetary equilibrium) or 1. In the subsequent literature, however, the"
+goods price of money is determined endogenously as part of the equilibrium. For
+"example, in Trejos and Wright (1995), this price is the outcome of a bargaining"
+process between buyers and sellers who meet through a process similar to that in
+"Kiyotaki and Wright. However, Trejos and Wright assumed money is indivisible,"
+"whereas goods are inﬁnitely divisible (i.e., all trades involve one dollar, but the quan-"
+tity of goods exchanged for that dollar may vary). Shi (1997) extended the Kiyotaki-
+"Wright search model to include divisible goods anddivisible money, and Shi (1999)"
+also analyzed inﬂation and its e¤ects on growth in a search model.
+Lagos and Wright (2005) and Rocheteau and Wright (2005) are good examples of
+search models and the insights about the costs of inﬂation that this literature has pro-
+vided. Money is perfectly divisible and is the only storable good available to agents.
+"Assume each period is divided into subperiods, called day and night. Agents con-"
+sume and supply labor (produce) in both subperiods. The subperiods di¤er in terms
+of their market structure. Night markets are centralized and competitive; day mar-
+kets are decentralized and prices (and quantities) are set via bargaining between indi-
+vidual agents in bilateral meetings.
+The preferences of agents are identical and given by
+U¼Uðx;h;X;HÞ¼uðxÞ/C0 cðhÞþUðXÞ/C0H;
+"where xðXÞis consumption during the day (night), and hðHÞis labor supply during"
+"the day (night). The utility functions u,c, and Uhave standard properties, and it is"
+assumed that there exist q
+/C3andX/C3such that u0ðq/C3Þ¼c0ðq/C3ÞandU0ðX/C3Þ¼1. Util-
+ity is linear in night labor supply H. The technology allows one unit of Hto be trans-
+formed into one unit of X. Hence X/C3is the quantity of the night good such that
+marginal utility equals marginal cost.
+"During the night, trading takes place in a centralized Walrasian market. Consider"
+the decision problem of an agent who enters the night market with nominal moneybalances m. Let f
+"tdenote the price of money in terms of goods (i.e., the price level,"
+"the price of goods in terms of money, is 1= ft). Let WtðmÞbe the value function for an"
+agent at the start of the night market with money holds m. Let Vtþ1ðm0Þbe the value
+function for the agent entering the day market (described later). Then the agent will
+"choose X,H, and m0to maximize118 3 Money and Transactions"

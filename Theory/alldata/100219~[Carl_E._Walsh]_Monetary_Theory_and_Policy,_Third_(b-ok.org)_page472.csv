@@ -1,0 +1,57 @@
+﻿Content
+V1ðBj
+t/C01;Mj
+t/C01Þ¼ltRt/C01 ð9:105Þ
+V2ðBj
+t/C01;Mj
+t/C01Þ¼lt
+Pt: ð9:106Þ
+There is also the transversality condition lim i!yQi
+k¼0Rtþs/C01ðBj
+tþiþMj
+tþi=PtþiÞ¼0.
+These ﬁrst-order conditions lead to the standard Euler condition for consumption
+with log utility:
+Cj
+tþ1¼bRtCj
+t;
+"which is obtained using (9.101), (9.104), and (9.105). Equations (9.103) and (9.101)"
+imply that the optimal production level the individual chooses satisﬁes
+ytðjÞ2/C0q¼q
+kðCw
+tÞ1/C0q
+Cj
+t: ð9:107Þ
+"Equation (9.102) yields an expression for the real demand for money,"
+Mj
+t
+Pt¼bCj
+t1þit
+it/C18/C19
+;
+where ð1þitÞ¼Rtþ1Ptþ1=Ptis the gross nominal rate of interest from period tto
+tþ1. This expression should look familiar from chapter 2.
+9.7.2 The Small-Open-Economy Model
+This appendix employs the method of undetermined coe‰cients to obtain the equi-
+"librium exchange rate and price level processes consistent with (9.49)–(9.57). Theequations of the model are repeated here, where the real exchange rate r"
+thas been
+replaced by stþp/C3
+"t/C0pt,rtbyr/C3/C0ðstþp/C3"
+t/C0ptÞþEtðstþ1þp/C3
+"tþ1/C0ptþ1Þ,itby"
+i/C3
+"tþEtstþ1/C0st, and qtbyptþð1/C0hÞðstþp/C3"
+t/C0ptÞ:
+yt¼/C0b1ðstþp/C3
+t/C0ptÞþb2ðpt/C0Et/C01ptÞþet ð9:108Þ
+yt¼a1ðstþp/C3
+t/C0ptÞ/C0a2½r/C3/C0ðstþp/C3
+t/C0ptÞþEtðstþ1þp/C3
+tþ1/C0ptþ1Þ/C138 þutð9:109Þ
+mt/C0½ptþð1/C0hÞðstþp/C3
+t/C0ptÞ/C138 ¼ yt/C0cði/C3
+tþEtstþ1/C0stÞþvt ð9:110Þ
+mt¼mþmt/C01þjt/C0gjt/C01; 0aga1 ð9:111Þ
+p/C3
+t¼p/C3þp/C3
+t/C01þft: ð9:112Þ9.7 Appendix 447

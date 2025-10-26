@@ -1,0 +1,41 @@
+﻿Content
+"inﬂation targeting as a framework for monetary policy. In general, the announce-"
+"ment of a formal target for inﬂation is a key component, and this is often accompa-"
+nied by publication of the central bank’s inﬂation forecasts. An inﬂation targeting
+regime can be viewed as the assignment to the central bank of an objective function
+of the form
+LIT
+t¼1
+2/C18/C19
+EtXy
+i¼0bi½ðptþi/C0pTÞ2þlITx2
+tþi/C138; ð8:71Þ
+where pTis the target inﬂation rate and lITis the weight assigned to achieving the
+output gap objective relative to the inﬂation objective. lITmay di¤er from the weight
+placed on output gap stabilization in the social loss function (8.45). As long as
+"lIT>0, specifying inﬂation targeting in terms of the loss function (8.71) assumes"
+that the central bank is concerned with output stabilization as well as inﬂation stabi-lization. 38An inﬂation targeting regime in which l
+IT>0 is described as a ﬂexible in-
+ﬂation targeting regime.
+"In the policy problems analyzed so far, the central bank’s choice of its instrument"
+itallows it to a¤ect both output and inﬂation immediately. This absence of any lag
+between the time a policy action is taken and the time it a¤ects output and inﬂationis unrealistic. If policy decisions taken in period tonly a¤ect future output and inﬂa-
+"tion, then the central bank must rely on forecasts of future output and inﬂation whenmaking its policy choices. In analyzing the case of such policy lags, Svensson (1997a)"
+and Svensson and Woodford (1999) emphasized the role of inﬂation forecast target-
+"ing. To illustrate the role of forecasts in the policy process, suppose the central bank"
+must set i
+tprior to observing any time tinformation. This assumption implies that
+the central bank cannot respond to time tshocks contemporaneously; information
+"about shocks occurring in period twill a¤ect the central bank’s choice of itþ1and,"
+"as a consequence, xtþ1and ptþ1can be a¤ected. The model is otherwise given by"
+"(8.40) and (8.41) as before, with the additional assumption that the cost shock fol-lows an AR(1) process: e"
+t¼ret/C01þet. Assume that the demand shock in (8.40) is
+serially uncorrelated. The central bank’s objective is to choose itto minimize
+1
+2/C18/C19
+Et/C01Xy
+i¼0bi½ðptþi/C0pTÞ2þlITx2
+tþi/C138;
+where the subscript on the expectations operator is now t/C01 to reﬂect the informa-
+tion available to the central bank when it sets policy. The choice of itis subject to the
+38. This is the terminology used in section 7.3.5 for inﬂation targeting with the loss function (8.71).8.4 Monetary Policy Analysis in New Keynesian Models 371

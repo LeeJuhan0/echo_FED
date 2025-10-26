@@ -1,0 +1,51 @@
+﻿Content
+Both countries maintain equal inﬂation rates. In response to an adverse supply shock
+"ðe<0Þ, inﬂation in both countries rises to o¤set partially the decline in output. Sub-"
+"stituting (9.45) into the expressions for output and the equilibrium real exchangerate,"
+y
+c;t¼y/C3
+c;t¼1
+1þlb2
+2 !
+et<et
+and
+rt¼0:
+The policy response acts to o¤set partially the output e¤ects of the supply shock. The
+"larger the weight placed on output in the loss function ðlÞ, the larger the inﬂation re-"
+"sponse and the more output is stabilized. Because both economies respond symmet-rically, the real exchange rate is left una¤ected. 18"
+9.3.3 Equilibrium without Coordination
+"When policy is not coordinated, some assumption must be made about the nature of"
+the strategic interaction between the two separate policy authorities. One natural
+case to consider corresponds to a Nash equilibrium; the policy authorities choose in-
+"ﬂation to minimize loss, taking as given the inﬂation rate in the other economy. An"
+"alternative case arises when one country behaves as a Stackelberg leader, taking into"
+account how the other policy authority will respond to the leader’s choice of inﬂa-
+"tion. The Nash case is analyzed, and the Stackelberg case is studied as a problem atthe end of the chapter."
+The home policy authority picks inﬂation to minimize ly
+2
+tþp2
+"t, taking p/C3"
+tas
+given. The ﬁrst-order condition is
+0¼lb2A1ytþpt
+¼ð1þlb2
+2A2
+1Þptþlb2
+2A1A2p/C3
+tþlb2A1et;
+so that the home country’s reaction function is
+pt¼/C0lb2
+2A1A2
+1þlb2
+2A2
+1 !
+p/C3
+t/C0lb2A1
+1þb2
+2A2
+1 !
+et: ð9:46aÞ
+A rise in the foreign country’s inﬂation rate is expansionary for the domestic econ-
+omy (see (9.43)). The domestic policy authority lowers domestic inﬂation to partially
+18. This would not be the case in response to an asymmetric supply shock. See problem 4 at the end of this
+chapter.9.3 Policy Coordination 419

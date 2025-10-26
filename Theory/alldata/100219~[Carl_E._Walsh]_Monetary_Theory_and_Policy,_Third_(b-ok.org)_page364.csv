@@ -1,0 +1,43 @@
+﻿Content
+^j jjt/C0^j jt¼/C0a/C01
+a/C18/C19
+ð^c cjt/C0^c ctÞ:
+"Finally, employing the demand relationship (8.5) to express ^c cjt/C0^c ctin terms of rela-"
+"tive prices,"
+^j jjt¼^j jt/C0yð1/C0aÞ
+a/C20/C21
+ð^p pjt/C0^p ptÞ:
+Firms with relatively high prices (and therefore low output) will have relatively low
+"real marginal costs. In the case of constant returns to scale ða¼1Þ, all ﬁrms face the"
+"same marginal cost. Sbordone (2002) and Galı ´, Gertler, and Lo ´pez-Salido (2001)"
+"showed that when a<1, the new Keynesian inﬂation adjustment equation becomes 11"
+pt¼bEtptþ1þ~k ka
+aþyð1/C0aÞ/C20/C21
+^j jt:
+"In addition, the labor market equilibrium condition under ﬂexible prices becomes"
+Wt
+Pt¼aZtNa/C01
+t
+m¼wNh
+t
+C/C0s
+t;
+which implies ﬂexible-price output is
+^y yf
+t¼1þh
+1þhþaðs/C01Þ/C20/C21
+^z zt:
+"When a¼1, this reduces to (8.18)."
+8.3.2 The Linearized IS Curve
+Equation (8.20) relates output to inﬂation in the form of the deviation around the
+level of output that would occur in the absence of nominal price rigidity. It forms
+one of the two key components of an optimizing model that can be used for mone-
+tary policy analysis. The other component is a linearized version of the household’s
+"Euler condition, (8.7). Because consumption is equal to output in this model (thereis no government or investment because capital has been ignored), (8.7) can be"
+approximated around the zero inﬂation steady state as12
+^y y
+t¼Et^y ytþ1/C01
+s/C18/C19
+ð^{ {t/C0Etptþ1Þ; ð8:23Þ
+11. See the chapter appendix for further details on the derivation.
+12. See the chapter 2 appendix for details on linearizing the Euler condition; ^c ct¼^y ytis used in (8.23).8.3 A Linearized New Keynesian Model 339

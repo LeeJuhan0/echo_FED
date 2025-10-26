@@ -1,0 +1,52 @@
+"lars (real)
+2007 2009 2011 2013 2015 2017 2019 2021
+FHLB advances
+Funding-agreement-backed securities
+Q2
+Quarterly
+0
+20
+40
+60
+80
+100
+Billions of dollars (real)
+2011 2013 2015 2017 2019 2021
+repurchase agreements
+Securities lending Q2
+Quarterly
+4-9. Nontraditional Liabilities of u.S. Life Insurers, by Liability Type
+Source: Bureau of Labor Statistics, consumer price index via Haver analytics; moody’s analytics, Inc., CreditView, asset-Backed Commercial 
+Paper Program Index; Securities and exchange Commission, Forms 10-Q and 10-k; National association of Insurance Commissioners, 
+quarterly and annual statutory filings accessed via S&P Global, Capital IQ Pro; Bloomberg Finance L.P .
+
+FINaNCIaL STaBILITY rePorT: NoVemBer 2021 51
+Liquidity Vulnerabilities from Noncash Collateral at Central 
+Counterparties
+CCPs serve a critical role in managing and reducing risk in many ﬁ nancial markets in the United 
+States.1 A CCP interposes itself between counterparties to ﬁ nancial transactions, becoming the buyer 
+to every seller and the seller to every buyer. The credit and liquidity risk associated with the transac-
+tions is thus managed by the CCP . As part of that risk management, clearing members—the counter-
+parties that directly face the CCP—are required to meet certain ﬁ nancial and operational requirements.
+The CCP is required to complete the daily payments associated with all cleared trades even if one of 
+its clearing members subsequently defaults on its obligations to the CCP . CCPs must therefore ensure 
+they have or can obtain sufﬁ cient cash in the correct currency to meet payment obligations to their 
+participants in the event of a participant default. Participants post collateral to cover potential credit 
+losses on their positions, but, to the extent this collateral is not posted in cash in the required cur-
+rency, CCPs may need to monetize collateral, sometimes within only a few hours and under potentially 
+extremely volatile market conditions.
+At the onset of the COVID-19 pandemic in March/uni00A02020, the CCPs designated as systemically impor-
+tant in the United States endured a real-life stress test when volumes and price volatility of cleared 
+products spiked, leading to signiﬁ cant increases in initial margin and variation margin collection. The 
+designated CCPs performed as designed during that period, but their ability to manage the default of a 
+large clearing member was not tested because no large clearing members defaulted.2
+The turmoil in March/uni00A02020 also stressed the markets on which some CCPs might rely to monetize 
+noncash collateral.3 These experiences raise questions about whether CCPs could successfully use 
+these markets to monetize noncash collateral in the time required. If a CCP were unable to monetize 
+its noncash collateral, clearing members relying on receiving those funds might fail to meet their own 
+obligations, propagating stress through the ﬁ nancial system.
+A CCP’s payment obligations, and hence the need for liquidity if a clearing member defaults, are gen-
+erally larger than the credit losses ultimately realized and are frequently more immediate.4 Each 
+day, a CCP estimates the largest liquidity need it would have in the event of a default by a single 
+1 The expansion of central clearing in the over-the-counter derivatives markets and simultaneous reforms to strengthen the standards 
+applicable to CCPs were key pillars in the regulatory actions that improved the resilience of the u.S. financial sys"

@@ -1,0 +1,53 @@
+﻿Content
+CHAPTER 15 A Dynamic Model of Economic Fluctuations | 443
+pt depends on pre
+"viously expected inﬂation Et /H110021pt, the deviation of output from "
+its natural level (Y t /H11002 Y–
+"t  ), and an exogenous supply shock yt."
+Inﬂation depends on expected inﬂation because some ﬁrms set prices in 
+"advance. When these ﬁrms expect high inﬂation, they anticipate that their costs "
+will be rising quickly and that their competitors will be implementing substan-
+tial price hikes. The expectation of high inﬂation thereby induces these ﬁrms to 
+announce signiﬁcant price increases for their own products. These price increases 
+"in turn cause high actual inﬂation in the overall economy. Conversely, when "
+"ﬁrms expect low inﬂation, they forecast that costs and competitors’ prices will "
+"rise only modestly. In this case, they keep their own price increases down, leading "
+to low actual inﬂation.
+"The parameter f, which is greater than zero, tells us how much inﬂation "
+"responds when output ﬂuctuates around its natural level. Other things equal, "
+when the economy is booming and output rises above its natural level ( Yt .Y–
+"t ), "
+"ﬁrms experience increasing marginal cost, so they raise prices; these price hikes "
+increase inﬂation pt. When the economy is in a slump and output is below its 
+"natural level (Y t , Y–"
+"t ), marginal cost falls, and ﬁrms cut prices; these price cuts "
+reduce inﬂation p t. The parameter f reﬂects both how much marginal cost 
+responds to the state of economic activity and how quickly ﬁrms adjust prices 
+in response to changes in cost.
+"In this model, the state of the business cycle is measured by the deviation "
+of output from its natural level (Y t /H11002 Y–
+t ). The Phillips curves in Chapter 14 
+sometimes emphasized the deviation of unemployment from its natural rate. 
+"This difference is not signiﬁcant, however. Recall Okun’s law from Chap -"
+ter 10: short-run ﬂuctuations in output and unemployment are strongly and 
+"negatively correlated. When output is above its natural level, unemployment "
+"is below its natural rate, and vice versa. As we continue to develop this model, "
+"keep in mind that unemployment ﬂuctuates along with output, but in the "
+opposite direction.
+"The supply shock y t is a random variable that averages to zero but can, in "
+"any given period, be positive or negative. This variable captures all inﬂuences on "
+"inﬂation other than expectations of inﬂation (which is captured in the ﬁrst term, "
+Et /H110021pt ) and short-run economic conditions [which are captured in the second 
+"term, f(Y t /H11002 Y–"
+"t  )]. For example, if an aggressive oil cartel pushes up world oil "
+"prices, thus increasing overall inﬂation, that event would be represented by a pos-"
+itive value of yt. If cooperation within the oil cartel breaks down and world oil 
+"prices plummet, causing inﬂation to fall, yt would be negative. In short, yt reﬂects "
+all exogenous events that directly inﬂuence inﬂation.
+Expected Inflation: Adaptive Expectations
+"As we have seen, expected inﬂation plays a key role in both the Phillips curve "
+equation for inﬂation and the Fisher equation relating nominal and r
+eal interest 
+"rates. T o keep the dynamic AD –AS model simple, we assume that people form "
+their expectations of inﬂation based on the inﬂation they have recently observed. 
+"That is, people expect prices to continue rising at the same rate they have been "

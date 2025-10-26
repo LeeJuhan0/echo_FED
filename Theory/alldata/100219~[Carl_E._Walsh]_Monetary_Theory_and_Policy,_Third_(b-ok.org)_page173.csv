@@ -1,0 +1,36 @@
+﻿Content
+are carried into period tfrom period t/C01. The agent allocates these resources to
+"consumption, real money holdings, and real bond purchases, subject to"
+ctþmtþbt¼yþð1þrt/C01Þbt/C01þmt/C01
+1þpt/C0tt: ð4:16Þ
+Aiyagari and Gertler (1985) asked whether the price level will depend only on the
+stock of money or whether debt policy and the behavior of the stock of debt might
+also be relevant for price level determination. They assumed that the government sets
+"taxes to back a fraction cof its interest-bearing debt liabilities, with 0 aca1. If"
+"c¼1, government interest-bearing debt is completely backed by taxes in the sense"
+that the government commits to maintaining the present discounted value of current
+and future tax receipts equal to its outstanding debt liabilities. Such a ﬁscal policy
+"was called Ricardian by Sargent (1982). 12Ifc<1, Aiyagari and Gertler character-"
+"ized ﬁscal policy as non-Ricardian. To avoid confusion with the more recent inter-pretations of non-Ricardian regimes (see section 4.5.2), let regimes where c<1b e"
+"referred to as traditional non-Ricardian regimes. In such regimes, seigniorage must"
+adjust to maintain the present value of taxes plus seigniorage equal to the govern-ment’s outstanding debt.
+LetT
+tnow denote the present discounted value of taxes. Under the assumed debt
+"policy, the government ensures that Tt¼cð1þrt/C01Þbt/C01because ð1þrt/C01Þbt/C01is the"
+net liability of the government (including its current interest payment). Because Ttis
+"a present value, one can also write"
+Tt¼ttþEtTtþ1
+1þrt/C18/C19
+¼ttþEtcð1þrtÞbt
+ð1þrtÞ/C20/C21
+;
+"orTt¼ttþcbt. Now because Tt¼cð1þrt/C01Þbt/C01, it follows that"
+tt¼cðRt/C01bt/C01/C0btÞ; ð4:17Þ
+"where R¼1þr. Similarly, st¼ð1/C0cÞðRt/C01bt/C01/C0btÞ. With taxes adjusting to en-"
+"sure that the fraction cof the government’s debt liabilities is backed by taxes, the"
+"remaining fraction, 1 /C0c, represents the portion backed by seigniorage."
+"Using (4.17), the household’s budget constraint (4.16) becomes"
+ctþmtþð1/C0cÞbt¼yþð1/C0cÞRt/C01bt/C01þmt/C01
+1þpt:
+12. It is more common for Ricardo’s name to be linked with debt in the form of the Ricardian equivalence
+"theorem, under which shifts between debt and tax ﬁnancing of a given expenditure stream have no reale¤ects. See Barro (1974) or D. Romer (2006). Ricardian equivalence holds in the representative agentframework; the issue is whether debt policy, as characterized by c, matters for price level determination.148 4 Money and Public Finance"

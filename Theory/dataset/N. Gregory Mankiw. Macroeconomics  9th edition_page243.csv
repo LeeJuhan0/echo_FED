@@ -1,0 +1,44 @@
+﻿Content
+CHAPTER 8 Economic Growth I: Capital Accumulation and Population Growth | 231
+"Thus, "
+optimal capital accumulation depends crucially on how we weigh the 
+"interests of current and future generations. The biblical Golden Rule tells us, "
+"“Do unto others as you would have them do unto you.” If we heed this advice, "
+"we give all generations equal weight. In this case, it is optimal to reach the "
+Golden Rule level of capital—which is why it is called the “Golden Rule.”
+ Population Growth
+"The basic Solow model shows that capital accumulation, by itself, cannot explain "
+sustained economic gr
+owth: high rates of saving lead to high growth temporar-
+"ily, but the economy eventually approaches a steady state in which capital and "
+output are constant. T o explain the sustained economic growth that we observe 
+"in most parts of the world, we must expand the Solow model to incorporate the "
+other two sources of economic growth—population growth and technological 
+progress. In this section we add population growth to the model.
+"Instead of assuming that the population is ﬁxed, as we did in Sections 8-1 "
+"and 8-2, we now suppose that the population and the labor force grow at "
+"a constant rate n . For example, the U.S. population grows about 1 percent "
+"per year, so n 5 0.01. This means that if 150 million people are working "
+"one year, then 151.5 million (1.01 3 150) are working the next year, and "
+"153.015  million (1.01 3 151.5) the year after that, and so on."
+The Steady State With Population Growth
+"How does population growth affect the steady state? T o answer this question, we "
+must discuss 
+"how population growth, along with investment and depreciation, "
+"inﬂuences the accumulation of capital per worker. As we noted before, invest-"
+"ment raises the capital stock, and depreciation reduces it. But now there is a "
+third force acting to change the amount of capital per worker: the growth in the 
+number of workers causes capital per worker to fall.
+"We continue to let lowercase letters stand for quantities per worker. Thus, "
+"k 5 K/L is capital per worker, and y 5 Y/L is output per worker. Keep in "
+"mind, however, that the number of workers is growing over time."
+The change in the capital stock per worker is
+Dk 5 i 2 (d 1 n)k.
+"This equation shows how investment, depreciation, and population growth inﬂu-"
+"ence the per-worker capital stock. Investment increases k, whereas depreciation "
+and population growth decrease k. We saw this equation earlier in this chapter 
+for the special case of a constant population ( n 5 0).
+We can think of the term ( d 1 n)k as deﬁning break-even investment—the 
+amount of investment necessary to keep the capital stock per worker constant. 
+"Break-even investment includes the depreciation of existing capital, which equals "
+dk. It also includes the amount of investment necessary to provide new workers 8-3

@@ -1,0 +1,43 @@
+﻿Content
+Now consider a stationary equilibrium in which government expenditures and
+"taxes are constant, as are the real stocks of government interest-bearing debt and"
+"money. In such a stationary equilibrium, the budget constraint becomes"
+gþ1
+b/C01/C18/C19
+b¼tþpt
+1þpt/C18/C19
+m¼tþbRm/C01
+bRm/C18/C19
+fðRmÞ; ð4:21Þ
+"which uses the steady-state results that the gross real interest rate is 1= b,Rm1"
+"ð1þptÞ=b, and real money balances must be consistent with the demand given by"
+(4.19).
+"Suppose the ﬁscal authority sets g,t, and b. Then (4.21) determines the nominal"
+"interest rate Rm. With g,t, and bgiven, the government needs to raise gþð1=b/C0"
+1Þb/C0tin seigniorage. The nominal interest rate is determined by the requirement
+that this level of seigniorage be raised. 15Because the nominal interest rate is equal
+"toð1þpÞ=b, one can alternatively say that ﬁscal policy determines the inﬂation rate."
+"Once the nominal interest rate is determined, the initial price level is given by (4.19)"
+"asP0¼M0=fðRmÞ, where M0is the initial stock of money. In subsequent periods,"
+"the price level is equal to Pt¼P0ðbRmÞt, where bRm¼ð1þpÞis the gross inﬂation"
+rate. The nominal stock of money in each future period is endogenously determinedbyM
+"t¼PtfðRmÞ. In this case, even though the monetary authority has set M0exo-"
+"genously, the initial price level is determined by the need for ﬁscal solvency becausethe ﬁscal authority’s budget requirement (4.21) determines R"
+mand therefore the real
+"demand for money. The initial price level is proportional to the initial money stock,but the factor of proportionality, 1 =fðR"
+"mÞ, is determined by ﬁscal policy, and both"
+the rate of inﬂation and the path of the future nominal money supply are determinedby the ﬁscal requirement that seigniorage equal gþð1=b/C01Þb/C0t.
+"If the ﬁscal authority raises expenditures, holding bandtconstant, then seignior-"
+age must rise. The equilibrium nominal interest rate rises to generate this additionalseigniorage. 16With a higher R
+"m, the real demand for money falls, and this increases"
+"the equilibrium value of the initial price level P0, even though the initial nominal"
+quantity of money is unchanged.
+4.4.3 Equilibrium Seigniorage
+"Suppose that, given its expenditures and other tax sources, the government has a ﬁs-"
+cal deﬁcit of Dfthat must be ﬁnanced by money creation. When will it be feasible
+15. The nominal interest rate that raises seigniorage equal to gþð1=b/C01Þb/C0tmay not be unique. A rise
+"inRmincreases the tax rate on money, but it also erodes the tax base by reducing the real demand for"
+money. A given amount of seigniorage may be raised with a low tax rate and a high base or a high tax
+rate and a low base.
+16. This assumes that the economy is on the positively sloped portion of the La¤er curve so that raising
+the tax rate increases revenue; see sectiones 4.4.3.152 4 Money and Public Finance

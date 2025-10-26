@@ -1,0 +1,28 @@
+﻿content
+"This process of money creation can continue forever, but it does not create
+an infinite amount of money. Letting rr denote the reserve–deposit ratio, the
+amount of money that the original $1,000 creates is
+Original Deposit 5 $1,000
+Firstbank Lending 5 (1 2 rr) 3 $1,000
+Secondbank Lending 5 (1 2 rr)
+2 3 $1,000
+Thirdbank Lending 5 (1 2 rr)
+3 3 $1,000
+Total Money Supply 5 [1 1 (1 2 rr) 1 (1 2 rr)
+2
+1 (1 2 rr)
+3 1 . . . ] 3 $1,000
+5 (1/rr) 3 $1,000.
+Each $1 of reserves generates $(1/rr) of money. In our example, rr 5 0.2, so the
+original $1,000 generates $5,000 of money.4
+The banking system’s ability to create money is the primary difference
+between banks and other financial institutions. As we first discussed in Chapter 3,
+financial markets have the important function of transferring the economy’s
+resources from those households that wish to save some of their income for the
+future to those households and firms that wish to borrow to buy investment
+goods to be used in future production. The process of transferring funds from
+savers to borrowers is called financial intermediation. Many institutions in the
+economy act as financial intermediaries: the most prominent examples are the
+stock market, the bond market, and the banking system. Yet, of these financial
+institutions, only banks have the legal authority to create assets (such as checking accounts) that are part of the money supply. Therefore, banks are the only
+financial institutions that directly influence the money supply."

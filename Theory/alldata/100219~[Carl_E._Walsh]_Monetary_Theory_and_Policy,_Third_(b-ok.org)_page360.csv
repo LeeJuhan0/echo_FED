@@ -1,0 +1,48 @@
+﻿Content
+Each ﬁrm sets its price p/C3
+tequal to a markup m>1 over its nominal marginal cost
+Ptjt. This is the standard result in a model of monopolistic competition. Because
+"price exceeds marginal cost, output will be ine‰ciently low. When prices are ﬂexible,"
+"all ﬁrms charge the same price. In this case, p/C3"
+t¼Ptandjt¼1=m. Using the deﬁni-
+"tion of real marginal cost, this means Wt=Pt¼Zt=m<Ztin a ﬂexible-price equilib-"
+"rium. However, the real wage must also equal the marginal rate of substitutionbetween leisure and consumption to be consistent with household optimization. This"
+"condition implies, from (8.9), that"
+wNh
+t
+C/C0s
+t¼Wt
+Pt¼Zt
+m: ð8:14Þ
+Goods market clearing and the production function imply that Ct¼Ytand
+"Nt¼Yt=Zt. Using these conditions in (8.14), and letting Yf"
+tdenote equilibrium out-
+"put under ﬂexible prices, Yf"
+tis given by
+Yf
+t¼1
+wm/C18/C191=ðsþhÞ
+Zð1þhÞ=ðsþhÞ
+t : ð8:15Þ
+"When prices are ﬂexible, output is a function of the aggregate productivity shock,"
+"reﬂecting the fact that in the absence of sticky prices, the new Keynesian modelreduces to a real business cycle model."
+"When prices are sticky ðo>0Þ, output can di¤er from the ﬂexible-price equilib-"
+"rium level. Because a ﬁrm will not adjust its price every period, (8.12) shows it must"
+take into account expected future marginal cost as well as current marginal cost
+whenever it has an opportunity to adjust its price.
+The aggregate price index is an average of the price charged by the fraction 1 /C0o
+of ﬁrms setting their price in period tand the average of the remaining fraction oof
+"all ﬁrms that do not change their price in period t. However, because the adjusting"
+"ﬁrms were selected randomly from among all ﬁrms, the average price of the non-"
+"adjusters is just the average price of all ﬁrms that prevailed in period t/C01. Thus,"
+"from (8.4), the average price in period tsatisﬁes"
+P
+1/C0y
+t¼ð1/C0oÞðp/C3
+tÞ1/C0yþoP1/C0y
+t/C01: ð8:16Þ
+"To summarize, (8.7)–(8.10), (8.12), (8.14), and (8.16) represent a system in Ct,Nt,"
+"M=Pt,Yt,jt,Pt,p/C3"
+"t,Wt=Pt, and itthat can be combined with the aggregate produc-"
+"tion function, Yt¼ZtNt, and a speciﬁcation of monetary policy to determine the"
+economy’s equilibrium.8.2 The Basic Model 335

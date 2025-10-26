@@ -1,0 +1,19 @@
+### PAPER
+Inflation securities valuation with macroeconomic-based no-arbitrage dynamics
+
+### SUMMARY
+The thesis titled Inflation Securities Valuation with Macroeconomic-Based No-Arbitrage Dynamics by Gabriele Sarais and Damiano Brigo from the Department of Mathematics at Imperial College London presents a model for pricing inflation and interest rate derivatives. This model is grounded in continuous-time dynamics that are linked to macroeconomic monetary DSGE models  which incorporate a Taylor rule. The model emphasizes the central bank's reaction function  bond market liquidity  and inflation and growth expectations. It aims to elucidate the effects of non-standard monetary policies  such as quantitative easing  on the valuation of inflation and interest rate derivatives.
+
+The model is constructed under standard no-arbitrage assumptions and interestingly aligns with a time-varying Hull-White model  facilitating straightforward calibration to the nominal interest curve and options. It provides closed-form solutions for zero-coupon and year-on-year inflation swaps and options. The proposed calibration strategy is fully separable  allowing for simple  computationally light calibration steps. A market calibration example is included to demonstrate the model's application.
+
+The structural inflation modeling approach offers significant advantages  particularly in risk analysis of an inflation derivatives book. By explicitly incorporating economic variables  the model enables traders to easily assess the impact of central bank policy changes on complex fixed income instruments  a task that is typically challenging with standard inflation pricing models.
+
+The thesis is structured as follows: it begins with an exploration of monetary macroeconomic inflation models  followed by an introduction to DSGE models  including their axiomatic foundations and model derivation. The authors discuss the system's stability and the use of DSGE models for pricing purposes  emphasizing arbitrage-free pricing and the statistical properties of inflation and interest rates. The continuous-time version of the model is then developed and tested against empirical evidence.
+
+The thesis also introduces the CTCB model  which incorporates a central bank reaction function into inflation derivatives pricing. It outlines the assumptions underlying the inflation model  including the probabilistic setup  financial instruments  and market dynamics. The construction of the CTCB model and its equivalent interest rates model is detailed  along with an analysis of the mean-reversion property.
+
+The authors proceed to discuss the pricing of vanilla interest rate derivatives  zero-coupon inflation swaps  and year-on-year inflation swaps and options. A simulation of single currency derivatives pricing is presented  followed by an extension to open economies and an exploration of uncertain-parameters extension for modeling the inflation smile.
+
+The thesis concludes with a discussion on model calibration and applications  including at-the-money calibration strategies and steps  variance split  and calibration to correlations. The results of the at-the-money calibration are presented  along with technical and economic assumptions  market data  and correlation targeting.
+
+Finally  the thesis explores applications of the model  such as derivatives risk as a function of the central bank reaction function  inflation book macro-hedging in the CTCB model  and stress testing. The authors conclude by summarizing the contributions of their work to the field of inflation securities valuation.

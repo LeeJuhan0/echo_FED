@@ -1,0 +1,184 @@
+﻿id,paragraph
+1,"The economist Robert Hall was the first to derive the implications of rational expectations for consumption. He showed that if the permanent-income hypothesis is correct, and if consumers have rational expectations, then changes in consumption over time should be unpredictable. When changes in a variable are unpredictable, the variable is said to follow a random walk. According to Hall, the combination of the permanent-income hypothesis and rational expectations implies that consumption follows a random walk. Hall reasoned as follows: According to the permanent-income hypothesis, consumers face fluctuating income and try their best to smooth their consumption over time. At any moment, consumers choose consumption based on their current expectations of their lifetime incomes. Over time, they change their consumption because they receive news that causes them to revise their expectations. For example, a person getting an unexpected promotion increases consumption, whereas a person getting an unexpected demotion decreases consumption. In other words, changes in consumption reflect “surprises” about lifetime income. If consumers are optimally using all available information, then they should be surprised only by events that were entirely unpredictable. Therefore, changes in their consumption should be unpredictable as well."
+2,"The rational-expectations approach to consumption has implications not only for forecasting but also for the analysis of economic policies. If consumers obey the permanent-income hypothesis and have rational expectations, then only unexpected policy changes influence consumption. These policy changes take effect when they change expectations. For example, suppose that today Congress passes a tax increase to be effective next year. In this case, consumers receive the news about their lifetime incomes when Congress passes the law (or even earlier if the law’s passage was predictable). The arrival of this news causes consumers to revise their expectations and reduce their consumption. The following year, when the tax hike goes into effect, consumption is unchanged because no news has arrived."
+3,"Hence, if consumers have rational expectations, policymakers influence the economy not only through their actions but also through the public’s expectation of their actions. Expectations, however, cannot be observed directly. Therefore, it is often hard to know how and when changes in fiscal policy alter aggregate demand."
+4,"Of the many facts about consumer behavior, one is impossible to dispute: income and consumption fluctuate together over the business cycle. When the economy goes into a recession, both income and consumption fall, and when the economy booms, both income and consumption rise rapidly. By itself, this fact doesn’t say much about the rational-expectations version of the permanent-income hypothesis. Most short-run fluctuations are unpredictable. Thus, when the economy goes into a recession, the typical consumer is receiving bad news about his lifetime income, so consumption naturally falls. And when the economy booms, the typical consumer is receiving good news about his lifetime income, so consumption rises. This behavior does not necessarily violate the random-walk theory that changes in consumption are impossible to forecast."
+5,"Yet suppose we could identify some predictable changes in income. According to the random-walk theory, these changes in income should not cause consumers to revise their spending plans. If consumers expected income to rise or fall, they should have adjusted their consumption already in response to that information. Thus, predictable changes in income should not lead to predictable changes in consumption. Data on consumption and income, however, appear not to satisfy this implication of the random-walk theory. When income is expected to fall by $1, consumption will on average fall at the same time by about $0.50. In other words, predictable changes in income lead to predictable changes in consumption that are roughly half as large."
+6,"Why is this so? One possible explanation of this behavior is that some consumers may fail to have rational expectations. Instead, they may base their expectations of future income excessively on current income. Thus, when income rises or falls (even predictably), they act as if they received news about their lifetime resources and change their consumption accordingly. Another possible explanation is that some consumers are borrowing-constrained and, therefore, base their consumption on current income alone. Regardless of which explanation is correct, Keynes’s original consumption function starts to look more attractive. That is, current income has a larger role in determining consumer spending than the random-walk hypothesis suggests."
+7,"Keynes called the consumption function a “fundamental psychological law.” Yet, as we have seen, psychology has not played much of a role in the subsequent study of consumption. Most economists assume that consumers are rational maximizers of utility who are always evaluating their opportunities and plans in order to obtain the highest lifetime satisfaction. This model of human behavior was the basis for all the work on consumption theory from Irving Fisher to Robert Hall."
+8,"More recently, economists have started to return to psychology. They have suggested that consumption decisions are not made by the ultrarational Homo economicus but by real human beings whose behavior can be far from rational. This new subfield infusing psychology into economics is called behavioral economics. The most prominent behavioral economist studying consumption is Harvard professor David Laibson. Laibson notes that many consumers judge themselves to be imperfect decision-makers. In one survey of the American public, 76 percent said they were not saving enough for retirement. In another survey of the baby-boom generation, respondents were asked the percentage of income that they save and the percentage that they thought they should save. The saving shortfall averaged 11 percentage points."
+9,"According to Laibson, the insufficiency of saving is related to another phenomenon: the pull of instant gratification. Consider the following two questions: Question 1: Would you prefer (A) a candy today or (B) two candies tomorrow? Question 2: Would you prefer (A) a candy in 100 days or (B) two candies in 101 days? Many people confronted with such choices will answer A to the first question and B to the second. In a sense, they are more patient in the long run than they are in the short run."
+10,"This raises the possibility that consumers’ preferences may be time-inconsistent: they may alter their decisions simply because time passes. A person confronting question 2 may choose B and wait the extra day for the extra candy. But after 100 days pass, he finds himself in a new short run, confronting question 1. The pull of instant gratification may induce him to change his mind. We see this kind of behavior in many situations in life. A person on a diet may have a second helping at dinner, while promising himself that he will eat less tomorrow. A person may smoke one more cigarette, while promising himself that this is the last one. And a consumer may splurge at the shopping mall, while promising himself that tomorrow he will cut back his spending and start saving more for retirement. But when tomorrow arrives, the promises are in the past, and a new self takes control of the decision-making, with its own desire for instant gratification."
+11,"Many economists believe that it would be desirable for Americans to increase the fraction of their income that they save. There are several reasons for this conclusion. From a microeconomic perspective, greater saving would mean that people would be better prepared for retirement; this goal is especially important because Social Security, the public program that provides retirement income, is projected to run into financial difficulties in the years ahead as the population ages. From a macroeconomic perspective, greater saving would increase the supply of loanable funds available to finance investment; the Solow growth model shows that increased capital accumulation leads to higher income. From an open-economy perspective, greater saving would mean that less domestic investment would be financed by capital flows from abroad; a smaller capital inflow pushes the trade balance from deficit toward surplus. Finally, the fact that many Americans say that they are not saving enough may be sufficient reason to think that increased saving should be a national goal."
+12,"The difficult issue is how to get Americans to save more. The burgeoning field of behavioral economics offers some answers. One approach is to make saving the path of least resistance. For example, consider 401(k) plans, the tax-advantaged retirement savings accounts available to many workers through their employers. In most firms, participation in the plan is an option that workers can choose by filling out a simple form. In some firms, however, workers are automatically enrolled in the plan but can opt out by filling out a simple form. Studies have shown that workers are far more likely to participate in the second case than in the first. If workers were rational maximizers, as is so often assumed in economic theory, they would choose the optimal amount of retirement saving, regardless of whether they had to choose to enroll or were enrolled automatically. In fact, workers’ behavior appears to exhibit substantial inertia. Policymakers who want to increase saving can take advantage of this inertia by making automatic enrollment in these savings plans more common."
+13,"CHAPTER 16 Understanding Consumer Behavior | 501
+How to Get People to Save More
+Many economists believe that it would be desirable for Americans to increase
+the fraction of their income that they save. There are several reasons for this
+conclusion. From a microeconomic perspective, greater saving would mean that
+people would be better prepared for retirement; this goal is especially important
+because Social Security, the public program that provides retirement income,
+is projected to run into financial difficulties in the years ahead as the population ages. From a macroeconomic perspective, greater saving would increase
+the supply of loanable funds available to finance investment; the Solow growth
+model shows that increased capital accumulation leads to higher income. From
+an open-economy perspective, greater saving would mean that less domestic
+investment would be financed by capital flows from abroad; a smaller capital
+inflow pushes the trade balance from deficit toward surplus. Finally, the fact that
+many Americans say that they are not saving enough may be sufficient reason to
+think that increased saving should be a national goal."
+14,"The difficult issue is how to get Americans to save more. The burgeoning field
+of behavioral economics offers some answers.
+One approach is to make saving the path of least resistance. For example,
+consider 401(k) plans, the tax-advantaged retirement savings accounts available to many workers through their employers. In most firms, participation in
+the plan is an option that workers can choose by filling out a simple form. In
+some firms, however, workers are automatically enrolled in the plan but can opt
+out by filling out a simple form. Studies have shown that workers are far more
+likely to participate in the second case than in the first. If workers were rational
+maximizers, as is so often assumed in economic theory, they would choose the
+optimal amount of retirement saving, regardless of whether they had to choose
+to enroll or were enrolled automatically. In fact, workers’ behavior appears to
+exhibit substantial inertia. Policymakers who want to increase saving can take
+advantage of this inertia by making automatic enrollment in these savings plans
+more common."
+15,"ly important for designing public
+policies, as the following case study discusses.7
+502 | PART V Topics in Macroeconomic Theory
+16-7 Conclusion
+In the work of six prominent economists, we have seen a progression of views
+on consumer behavior. Keynes proposed that consumption depends largely on
+current income. He suggested a consumption function of the form
+Consumption 5 f(Current Income).
+More recently, economists have argued that consumers understand that they face
+an intertemporal decision. Consumers look ahead to their future resources and
+needs, implying a more complex consumption function than the one Keynes
+proposed. This work suggests instead that
+Consumption
+5 f(Current Income, Wealth, Expected Future Income, Interest Rates).
+In other words, current income is only one determinant of aggregate consumption."
+16,"Economists continue to debate the importance of these determinants of
+consumption. There remains disagreement about, for example, the influence of
+interest rates on consumer spending, the prevalence of borrowing constraints,
+and the importance of psychological effects. Economists sometimes disagree
+about economic policy because they assume different consumption functions.
+For instance, as we will see in Chapter 19, the debate over the effects of government debt is in part a debate over the determinants of consumer spending. The
+key role of consumption in policy evaluation is sure to maintain economists’ interest in studying consumer behavior for many years to come."
+17,"The essence of this program is that people commit in advance to putting a portion of their future salary increases into a retirement savings account. When a
+worker signs up, he makes no sacrifice of lower consumption today but, instead,
+commits to reducing consumption growth in the future. When this plan was
+implemented in several firms, it had a large impact. A high proportion (78 percent)
+of those offered the plan joined. In addition, of those enrolled, the vast majority
+(80 percent) stayed with the program through at least the fourth annual pay raise.
+The average saving rates for those in the program increased from 3.5 percent to
+13.6 percent over the course of 40 months."
+18,"How successful would more widespread applications of these ideas be in
+increasing the U.S. national saving rate? It is impossible to say for sure. But given
+the importance of saving to both personal and national economic prosperity,
+many economists believe these proposals are worth a try.8 n
+8
+James J. Choi, David I. Laibson, Brigitte Madrian, and Andrew Metrick, “Defined Contribution
+Pensions: Plan Rules, Participant Decisions, and the Path of Least Resistance,” Tax Policy and the
+Economy 16 (2002): 67–113; Richard H. Thaler and Shlomo Benartzi, “Save More Tomorrow:
+Using Behavioral Economics to Increase Employee Saving,” Journal of Political Economy 112 (2004):
+S164–S187."
+19,"ro and one, that the average propensity to consume falls as income rises,
+and that current income is the primary determinant of consumption.
+Studies of household data and short time-series confirmed Keynes’s conjectures. Yet studies of long time-series found no tendency for the average
+propensity to consume to fall as income rises over time.
+2. Recent work on consumption builds on Irving Fisher’s model of the consumer. In this model, the consumer faces an intertemporal budget
+constraint and chooses consumption for the present and the future to
+achieve the highest level of lifetime satisfaction. As long as the consumer
+can save and borrow, consumption depends on the consumer’s lifetime
+resources."
+20,"3. Modigliani’s life-cycle hypothesis emphasizes that income varies somewhat
+predictably over a person’s life and that consumers use saving and borrowing to smooth their consumption over their lifetimes. According to this
+hypothesis, consumption depends on both income and wealth.
+4. Friedman’s permanent-income hypothesis emphasizes that individuals
+experience both permanent and transitory fluctuations in their
+income. Because consumers can save and borrow, and because they
+want to smooth their consumption, consumption does not respond
+much to transitory income. Instead, consumption depends primarily
+on permanent income."
+21,"5. Hall’s random-walk hypothesis combines the permanent-income hypothesis
+with the assumption that consumers have rational expectations about future
+income. It implies that changes in consumption are unpredictable because
+consumers change their consumption only when they receive news about
+their lifetime resources.
+6. Laibson has suggested that psychological effects are important for understanding consumer behavior. In particular, because people have a strong
+desire for instant gratification, they may exhibit time-inconsistent behavior
+and end up saving less than they would like."
+22,"KEY CONCEPTS
+Marginal propensity to consume
+Average propensity to consume
+Intertemporal budget constraint
+Discounting
+Indifference curves
+Marginal rate of substitution
+Normal good
+Income effect
+Substitution effect
+Borrowing constraint
+Life-cycle hypothesis
+Precautionary saving
+Permanent-income hypothesis
+Permanent income
+Transitory income
+Random walk
+504 | PART V Topics in Macroeconomic Theory
+1. The chapter uses the Fisher model to discuss a
+change in the interest rate for a consumer who
+saves some of his first-period income. Suppose,
+instead, that the consumer is a borrower. How
+does that alter the analysis? Discuss the income
+and substitution effects on consumption in both
+periods."
+23,"2. Gabe and Gita both obey the two-period Fisher
+model of consumption. Gabe earns $100 in the
+first period and $100 in the second period. Gita
+earns nothing in the first period and $210 in
+the second period. Both of them can borrow or
+lend at the interest rate r.
+a. You observe both Gabe and Gita consuming
+$100 in the first period and $100 in the second period. What is the interest r
+ate r?
+b. Suppose the interest rate increases. What will
+happen to Gabe’s consumption in the first
+period? Is Gabe better off or worse off than
+before the interest rate rise?
+c. What will happen to Gita’s consumption in
+the first period when the interest rate increases? Is Gita better off or worse off than before
+the interest rate increase?"
+24,"3. The chapter analyzes Fisher’s model for the case
+in which the consumer can save or borrow at an
+interest rate of r and for the case in which the
+consumer can save at this rate but cannot borrow
+at all. Consider now the intermediate case
+PROBLEMS AND APPLICATIONS
+in which the consumer can save at rate rs
+and
+borrow at rate rb
+, where rs , rb.
+a. What is the consumer’s budget constraint in
+the case in which he consumes less than his
+income in period one? Answer in the form of
+an equation.
+b. What is the consumer’s budget constraint in
+the case in which he consumes more than his
+income in period one? Answer in the form of
+an equation.
+c. On a single graph, show the two budget
+constraints from parts (a) and (b). Shade the
+area that represents the combination of first-period and second-period consumption the
+consumer can choose."
+25,"d. Now add to your graph the consumer’s indifference curves. Show three possible outcomes:
+one in which the consumer saves, one in
+which he borrows, and one in which he neither saves nor borrows.
+e. What determines first-period consumption in
+each of the three cases?
+4. Explain whether borrowing constraints increase
+or decrease the potency of fiscal policy to influence aggregate demand in each of the following
+cases.
+a. A temporary tax cut
+b. An announced future tax cut
+QUESTIONS FOR REVIEW
+1. What were Keynes’s three conjectures about the
+consumption function?"

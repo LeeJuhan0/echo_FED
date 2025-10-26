@@ -1,0 +1,17 @@
+### PAPER
+On the nature of monetary and price inflation and hyperinflation
+
+### SUMMARY
+The thesis titled On the Nature of Monetary and Price Inflation and Hyperinflation by Laurence Francis Lacey  published by Lacey Solutions Ltd in Skerries  County Dublin  Ireland  on August 13  2021  explores the dynamics of monetary inflation  price inflation  and hyperinflation. The study aims to develop economic models to predict the annual growth rate of the US Consumer Price Index (CPI) based on the annual growth in the US broad money supply (BMS)  real GDP  and savings from 2001 to 2019. Additionally  it investigates how monetary and price inflation can escalate into hyperinflation.
+
+Monetary inflation is defined as a sustained increase in a country's money supply  which often leads to price inflation  a rise in the general price level of goods and services. The CPI is a common measure of price inflation. While economists generally agree on a causal relationship between monetary and price inflation  the exact nature of this relationship remains debated. Hyperinflation is characterized by extremely rapid price inflation  typically exceeding 50% per month. Broad money includes cash and other easily convertible forms of money  representing the most comprehensive measure of a country's money supply.
+
+The paper's objectives are twofold: first  to test the hypothesis that the annual growth rate of the US CPI is a function of the annual growth in the US BMS minus the annual growth in US real GDP and savings over the specified period; second  to explore how inflation can transition into hyperinflation.
+
+The methodology employs an information entropy statistical approach to analyze expansionary processes  providing a rate-constant for exponential growth and the associated information entropy for the time series under investigation. This approach relates the information entropy of an expansionary process to the velocity of growth in a time series. The hypothesis tested is that the velocity of CPI growth is equal to the velocity of BMS growth minus the velocities of GDP and savings growth.
+
+The US time series data from 2001 to 2019  with 2001 as the reference year  were used for analysis. The data sources include the CPI  BMS  and real GDP  with savings data estimated for American households. Missing savings data were imputed using regression fits. The rate-constant estimates for each time series  along with confidence intervals and coefficients of determination  were obtained through linear regression of the natural log-transformed data versus time.
+
+A hyperinflation model is also presented  characterizing a hyperinflation process as a double exponential growth process when a second exponential growth occurs on top of the initial one. This model was used to quantify the hyperinflation period in the Weimar Republic from July 1922 to November 1923.
+
+The results section characterizes price inflation by plotting natural log-transformed time series data for the US BMS  CPI  real GDP  and savings over the period. The average annual growth rate of the US BMS was 5.7%  while the CPI's average annual rate was 2.2%. The study concludes that the hypothesis regarding the relationship between CPI growth and the growth rates of BMS  GDP  and savings holds true  albeit with a non-zero residual term required for an exact relationship. The paper provides a mathematical statistical formulation of hyperinflation  contributing to the understanding of how inflationary processes can evolve into hyperinflation.

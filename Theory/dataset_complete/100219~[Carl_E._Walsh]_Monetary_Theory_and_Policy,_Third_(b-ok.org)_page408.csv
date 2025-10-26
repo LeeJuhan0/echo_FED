@@ -1,0 +1,55 @@
+﻿Content
+UðYt;ztÞAUYY ^Y Ytþ1
+2ð1/C0sÞ^Y Y2
+tþsft^Y Yt/C20/C21
+þt:i:p:
+"Next, analyze the second term on the right in (8.43), the term arising from the dis-"
+utility of work. Expanding this around the steady state yields
+vðcjt;ztÞAvðY;0Þþvc~c cjtþvzztþ1
+2vcc~c c2
+jtþvc;zzt~c cjtþ12z
+0
+tvzzzt:
+By approximating ~c cjtwith Y ^c cjtþ1
+2^c c2
+jt/C16/C17
+", one obtains"
+vðcjt;ztÞAvcY ^c cjtþ1
+2^c c2
+jtþ12vccY
+vc^c c2
+jtþvc;z
+vczt^c cjt/C18/C19
+þt:i:p:
+This last equation can be written as
+vðcjt;ztÞAvcY ^c cjtþ1
+21þvccY
+vc/C18/C19
+^c c2
+jtþvc;z
+vczt^c cjt/C20/C21
+þt:i:p:
+¼vcY ^c cjtþ12ð1þhÞ^c c
+2
+jt/C0hqt^c cjt/C20/C21
+þt:i:p:;
+where
+h¼vccY
+vc
+and
+qt¼/C0vc;z
+vccYzt:
+"To proceed further, recall the model of monopolistic competition underlying the"
+"new Keynesian framework. In a model of perfect competition, the household pro-"
+ducer of good iwould equate the marginal rate of substitution between leisure and
+"consumption to the real wage, or vc=UY¼1, since the implicit production function is"
+"cjt¼njt. In the presence of monopolistic competition, vc=UY¼ðy/C01Þ=yis 1 over the"
+markup. Deﬁne F¼1=y. Then vc=UY¼1/C0F. If the distortion created by monopo-
+"listic competition is small, terms such as F^c c2"
+"jtandFqt^c cjtwill be of third order, and"
+vðcjt;ztÞAUYYð1/C0FÞ^c cjtþ1
+2ð1þhÞ^c c2
+jt/C0hqt^c cjt/C20/C21
+þt:i:p:
+"Integrating over all goods, and using the relationship ^Y YAEj^c cjtþ1"
+"2ð1/C0y/C01Þvarj^c cjt,8.6 Appendix 383"

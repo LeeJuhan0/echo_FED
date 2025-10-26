@@ -1,0 +1,28 @@
+﻿Content
+"that the central bank controls inﬂation directly. Then setting inﬂation a little above p,"
+"say at pt¼e>p, increases the time tvalue of the central bank’s objective function by"
+alðe/C0pÞ/C01
+2e2/C20/C21
+/C0/C012p2/C20/C21
+¼alðe/C0pÞ/C012ðe
+2/C0p2Þ:
+"This is maximized for e¼al, the inﬂation rate under discretion. So if the central"
+"bank deviates, it will set inﬂation equal to aland gain"
+GðpÞ1alðal/C0pÞ/C012½ðalÞ
+2/C0p2/C138¼12ðal/C0
+pÞ2b0:
+Barro and Gordon referred to this as the temptation to cheat. The function GðpÞis
+shown as the dashed line in ﬁgure 7.3. It is non-negative for all pand reaches a min-
+imum at p¼al.
+"Cheating carries a cost because, in the period following a deviation, the public will"
+punish the central bank by expecting an inﬂation rate of al. Since almaximizes the
+"central bank’s one-period objective function for any expected rate of inﬂation, the"
+"central bank sets ptþ1¼al. The subsequent loss, relative to the pinﬂation path, is"
+given by
+CðpÞ1b/C01
+2p2/C18/C19
+/C0b/C012a
+2l2/C18/C19
+¼b
+2½ðalÞ2/C0p2/C138: ð7:13ÞFigure 7.3
+Temptation and enforcement.286 7 Discretionary Policy and Time Inconsistency

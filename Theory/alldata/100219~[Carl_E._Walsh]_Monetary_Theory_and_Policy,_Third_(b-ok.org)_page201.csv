@@ -1,0 +1,34 @@
+﻿Content
+rate of interest—continues to be optimal even in the absence of lump-sum taxes.
+Mulligan and Sala-i-Martin (1997) provided a general discussion of the conditions
+necessary for taxing (or not taxing) money.
+This literature integrates the question of the optimal inﬂation tax into the general
+"problem of optimal taxation. By doing so, the analysis can build on ﬁndings in the"
+optimal tax literature that identify situations in which the structure of optimal indi-rect taxes calls for di¤erent ﬁnal goods to be taxed at the same rate or for the tax rate
+on goods that serve as intermediate inputs to be zero (see Diamond and Mirrlees
+"1971; Atkinson and Stiglitz 1972). Using an MIU approach, for example, treats"
+"money as a ﬁnal good; in contrast, a shopping-time model, or a more general model"
+"in which money serves to produce transaction services, treats money as an inter-"
+"mediate input. Thus, it is important to examine the implications these alternative"
+assumptions about the role of money have for the optimal tax approach to inﬂation
+"determination, and how optimal inﬂation tax results might depend on particular"
+restrictions on preferences or on the technology for producing transaction services.
+The Basic Ramsey Problem
+"The problem of determining the optimal structure of taxes to ﬁnance a given levelof expenditures is called the Ramsey problem , after the classic treatment of Frank"
+"Ramsey (1928). In the representative-agent models studied here, the Ramsey prob-lem involves setting taxes to maximize the utility of the representative agent, subject"
+to the government’s revenue requirement.
+"The following static Ramsey problem, based on Mulligan and Sala-i-Martin"
+"(1997), can be used to highlight the key issues. The utility of the representative agent"
+"depends on consumption, real money balances, and leisure:"
+u¼uðc;m;lÞ:
+Agents maximize utility subject to the following budget constraint:
+fðnÞbð1þtÞcþt
+mm; ð4:47Þ
+"where fðnÞis a standard production function, n¼1/C0lis the supply of labor, cis"
+"consumption, tis the consumption tax, tm¼i=ð1þiÞis the tax on money, and mis"
+the household’s holdings of real money balances. The representative agent picks con-
+"sumption, money holdings, and leisure to maximize utility, taking the tax rates as"
+"given. Letting lbe the Lagrangian multiplier on the budget constraint, the ﬁrst-order"
+conditions from the agent’s maximization problem are
+uc¼lð1þtÞð 4:48Þ
+um¼ltm ð4:49Þ176 4 Money and Public Finance

@@ -1,0 +1,45 @@
+﻿Content
+and (5.8) can be written as p/C3
+"t¼ptþaxt. Further, if all ﬁrms set their price equal to"
+p/C3
+"t, then the aggregate average price level is pt¼p/C3"
+"t, from which it follows that"
+xt¼0; output is equal to its natural rate. The e¤ect of sticky information will be to
+"cause ﬁrms to set di¤erent prices, even if, under full information, they all have the"
+same desired price.
+"Speciﬁcally, assume a ﬁrm that updated its information iperiods in the past sets"
+the price
+pi
+t¼Et/C0ip/C3
+t:
+"All ﬁrms with information sets that are iperiod old will set the same price, so it is not"
+necessary to index pi
+tbyj. Now assume that each period a fraction lof all ﬁrms are
+"randomly selected to update their information. 16This assumption implies that, at"
+"time t,lof all ﬁrms will set their price equal to p/C3"
+tbecause they have fully updated
+information. Of the remaining 1 /C0lfraction of all ﬁrms that do not update their in-
+"formation at time t,lof them will have updated their information in t/C01. These"
+"ﬁrms, of whom there are ð1/C0lÞl, set their price at time tequal to E t/C01p/C3"
+t. Following
+"a similar logic, there remain 1 /C0l/C0ð1/C0lÞl¼ð1/C0lÞ2of the ﬁrms that do not up-"
+"date at either tort/C01. However, lof these ﬁrms updated at t/C02 and, at time t, set"
+their price equal to E t/C02p/C3
+t; there are ð1/C0lÞ2lsuch ﬁrms. For any period iin the
+"past, there will be ð1/C0lÞilﬁrms that have not updated their information since"
+period t/C0i. It follows that the average aggregate log price level will be
+pt¼lXy
+i¼0ð1/C0lÞiEt/C0ip/C3
+t¼lXy
+i¼0ð1/C0lÞiEt/C0iðptþaxtÞ: ð5:9Þ
+The parameter lprovides a measure of the degree of information stickiness. If lis
+"large, most ﬁrms update frequently; if lis small, many ﬁrms will be basing time t"
+decisions on old information.
+"To derive an expression for the inﬂation rate from (5.9), let zt¼ptþaxt, and then"
+one can write
+pt¼lztþlXy
+i¼1ð1/C0lÞiEt/C0izt
+¼lztþlð1/C0lÞEt/C01ztþlð1/C0lÞ2Et/C02ztþ/C1/C1/C1;
+and
+"16. This structure borrows from a common modeling strategy employed to deal with sticky prices, origi-"
+nally due to Calvo (1983) (see section 6.2.4).204 5 Money in the Short Run: Informational and Portfolio Rigidities

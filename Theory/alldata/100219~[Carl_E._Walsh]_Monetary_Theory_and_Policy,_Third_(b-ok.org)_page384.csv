@@ -1,0 +1,43 @@
+﻿Content
+An alternative deﬁnition of an optimal precommitment policy requires that the
+"central bank implement conditions (8.47) and (8.48) for all periods, including the cur-"
+rent period. Woodford (2003a; 2003b) has labeled this the timeless perspective ap-
+"proach to precommitment. One can think of such a policy as having been chosen inthe distant past, and the current values of the inﬂation rate and output gap are the"
+values chosen from that earlier perspective to satisfy the two conditions (8.47) and(8.48). McCallum and Nelson (2000b) provided further discussion of the timeless
+perspective and argued that this approach agrees with the one commonly used in
+many studies of precommitment policies.
+"Combining (8.47) and (8.48), under the timeless perspective optimal commitment"
+policy inﬂation and the output gap satisfy
+p
+tþi¼/C0l
+k/C18/C19
+ðxtþi/C0xtþi/C01Þð 8:49Þ
+"for all ib0. Using this equation to eliminate inﬂation from (8.41) and rearranging,"
+one obtains
+1þbþk2
+l/C18/C19
+xt¼bEtxtþ1þxt/C01/C0k
+let: ð8:50Þ
+The solution to this expectational di¤erence equation for xtwill be of the form xt¼
+"axxt/C01þbxet. To determine the coe‰cients axandbx, note that if et¼ret/C01þet,t h e"
+proposed solution implies E txtþ1¼axxtþbxret¼a2
+xxt/C01þðaxþrÞbxet. Substitut-
+"ing this into (8.50) and equating coe‰cients, the parameter axis the solution less"
+than 1 of the quadratic equation
+ba2
+x/C01þbþk2
+l/C18/C19
+axþ1¼0;
+andbxis given by
+bx¼/C0k
+l½1þbð1/C0r/C0axÞ/C138 þk2/C26/C27
+:
+"From (8.49), equilibrium inﬂation under the timeless perspective policy is"
+pt¼l
+k/C18/C19
+ð1/C0axÞxt/C01þl
+l½1þbð1/C0r/C0axÞ/C138 þk2/C20/C21
+et: ð8:51Þ
+"Woodford (2003b) stressed that even if r¼0, so that there is no natural source of"
+"persistence in the model itself, ax>0 and the precommitment policy introduces iner-"
+tia into the output gap and inﬂation processes. Because the central bank responds to8.4 Monetary Policy Analysis in New Keynesian Models 359

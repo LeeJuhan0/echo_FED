@@ -1,0 +1,122 @@
+﻿id,paragraph
+1,"218 5 Money in the Short Run: Informational and Portfolio Rigidities inflation tax, need to be modified to account for the short-run e¤ects of monetary factors on the economy. In this chapter, two such modifications were explored: informational frictions, and frictions that limit the ability of some agents to adjust their portfolios. Aggregate informational or portfolio frictions can allow money to have real e¤ects in the short run even when prices are completely flexible, but most monetary models designed to address short-run monetary issues assume that prices and/or wages do not adjust instantaneously in response to changes in economic conditions. The next chapter discusses models of nominal price and wage rigidities."
+2,"vt þ ut þ ui
+t þ Bða1mt1 þ a2vt þ a3ut þ a4ui
+tÞ;
+where B 1⁄4 ðb=bð1 bÞÞ1⁄2W2 ð1 aÞW1A, and
+1
+b
+
+b
+1 b
+
+ðrm 1Þ1⁄2rmmt1 þ vt þ kðut þ ui
+tÞ
+1
+b
+
+b
+1 b
+
+1⁄2a1ðrmmt1 þ vt þ kðut þ ui
+tÞ ða1mt1 þ a2vt þ a3ut þ a4ui
+tÞ:
+222 5 Money in the Short Run: Informational and Portfolio Rigidities
+For the two sides of (5.34) to be equal for all possible realizations of mt1, vt, ut, and
+ui
+t requires that the following hold. First, the coe‰cient on mt1 on the right side
+must be equal to the coe‰cient on the left side, which holds if a1 1⁄4 rm. Second, the
+coe‰cient of vt on the right side must be equal to the coe‰cient of vt on the left side,
+or a2 1⁄4 1 (since a1 1⁄4 rm). Third, the coe‰cient of ut on the right side must be equal
+to the coe‰cient of ut on the left side, or
+a3 1⁄4 k þ K
+1 þ K < 1;
+where
+K 1⁄4 b 1 b
+b
+
+1⁄21 ð1 aÞA þ B:
+Finally, the coe‰cient on ui
+t on the right side must be equal to its coe‰cient on the
+left side, or a4 1⁄4 a3.
+Combining these results, one obtains the expressions for the equilibrium economywide price level and employment given by (5.6) and (5.7).
+5.6 Problems
+1. Using (5.1)–(5.4), show that if W2 1⁄4 0, then yt 1⁄4 yi
+t 1⁄4 ni
+t 1⁄4 nt 1⁄4 0.
+2. Suppose the central bank becomes more transparent in that s2
+u falls, so that the
+aggregate money stock becomes more predictable. Using the Lucas model of section
+5.2.2, explain how the variance of the price level and the variance of employment
+would be a¤ected by this change.
+3. According to the sticky information model of section 5.2.3, the impact of the output gap on inflation (holding constant expectations) is equal to al=ð1 lÞ, where l
+is the fraction of firms that update their information. Explain why the impact of the
+output gap on inflation is increasing in l.
+4. Using the model of section 5.2.3 and the calibrated values used to obtain figures
+5.1 and 5.2, construct impulse responses for inflation and output to innovations to
+the money growth rate for r 1⁄4 0; 0:25; 0:5, and 0:75. How are the responses a¤ected
+by the degree of serial correlation in the growth rate of money?
+5. Assume aggregate output is given by Yt 1⁄4 ZtNt, where Z is a productivity shock
+and N is employment. Using the limited-participation model of section 5.3.1, show
+that when the household makes its portfolio decision, it anticipates that the marginal
+rate of substitution between leisure and consumption will equal the marginal product
+of labor. (Hint: Linearize (5.25), and take expectations based on the household’s information set.)"
+3,"5.6 Problems 223
+6 Money in the Short Run: Nominal Price and Wage Rigidities
+6.1 Introduction
+In this chapter, the focus shifts away from models with flexible wages and prices to
+models of sticky wages and prices. It starts with a simple example of a model with
+nominal wage rigidities that last for one period. Then it reviews models that account
+for the observation that prices and wages may take several periods to adjust to
+changes in macroeconomic conditions. Time-dependent and state-depend
+
+ent models
+of price adjustment are discussed. Time-dependent pricing models assume the probability that a firm changes its price is a function only of time, and state-dependent
+models make this probability a function of the current state of the economy.
+The focus in this chapter is on various models of nominal rigidities. In chapter 8,
+the new Keynesian Phillips curve developed in section 6.3.2 is incorporated into a
+general equilibrium framework so that the implications of price and wage rigidities
+for monetary policy can be studied."
+4,"6.2 Sticky Prices and Wages
+Most macroeconomic models attribute the short-run real e¤ects of monetary disturbances not to imperfect information or limited participation in financial markets
+but to the presence of nominal wage and/or price rigidities. These rigidities mean
+that nominal wages and prices fail to adjust immediately and completely to changes
+in the nominal quantity of money. In the 1980s it was common to model nominal
+rigidities by imposing the assumption that prices (or wages) were fixed for one period. This approach is illustrated in section 6.2.1 and employed extensively in chapter
+7. This modification increases the impact that monetary disturbances have on real
+output but cannot account for persistent real e¤ects of monetary policy. The model
+of staggered multiperiod nominal wage contracts due to Taylor (1979; 1980) can
+generate the persistent output responses observed in the data, but Taylor’s model was
+not based on an explicit model of optimizing behavior by workers or firms. The
+literature in recent years has turned to models of monopolistic competition and price
+stickiness in which the decision problem faced by firms in setting prices can be made
+explicit. The objective in this section is to review some of the standard models of
+nominal rigidities and their implications. The new generation of dynamic stochastic
+general equilibrium (DSGE) models based on nominal rigidites and their implications for monetary policy analysis is the chief focus of chapter 8."
+5,"6.2.1 An Example of Nominal Rigidities in General Equilibrium
+The first model considered adds a one-period nominal wage rigidity to the MIU
+model of chapter 2. This approach is not based on optimizing behavior by wage setters, but it leads to a reduced-form model that has been widely used in monetary economics. This model plays an important role in the analysis of time inconsistency in
+chapter 7.
+Wage Rigidity in an MIU Model
+One way to introduce nominal price stickiness is to modify a flexible-price model,
+such as an MIU model, by simply assuming that prices and/or wages are set at the
+start of each period and are unresponsive to developments within the period. In
+chapter 2 a linear approximation was used to examine the time series implications
+of an MIU model. Wages and prices were assumed to adjust to ensure market equilibrium, and consequently the behavior of the money supply mattered only to the
+extent that anticipated inflation was a¤ected."
+6,"A positive disturbance to the growth
+rate of money would, assuming that the growth rate of money was positively serially
+correlated, raise the expected rate of inflation, leading to a rise in the nominal rate of
+interest that a¤ects labor supply and output. These last e¤ects depended on the form
+of the utility function; if utility was separable in money, changes in expected inflation
+had no e¤ect on labor supply or real output. Introducing wage stickiness into an MIU model serves to illustrate the e¤ect such a modification has on the impact of
+monetary disturbances.
+Consider the linear approximation to the Sidrauski MIU model developed in
+chapter 2. To simplify the model, assume utility is separable in consumption and
+money holdings (b 1⁄4 F, or W2 1⁄4 0 in terms of the parameters of the model used in
+chapter 2). This implies that money and monetary shocks have no e¤ect on output
+when prices are perfectly flexible.1 In addition, the capital stock is treated as fixed,
+and investment is zero. This follows McCallum and Nelson (1999), who argued that
+for most monetary policy and business cycle analyses, fluctuations in the stock of
+1. From (5.32), money surprises also have no e¤ect on employment and output when W2 1⁄4 0 in Lucas’s
+imperfect-information model."

@@ -1,0 +1,35 @@
+﻿content
+". Then (2.62) becomes
+ulðfnss; 1 nssÞ
+ucðfnss; 1 nssÞ
+1⁄4 f kss
+nss 4 5 kss
+nss 4 5f0 kss
+nss 4 5;
+which determines the steady-state supply of labor. Steady-state consumption is then
+given by fnss. Thus, separable preferences imply superneutrality. Changes in the
+steady-state rate of inflation will alter nominal interest rates and the demand for
+real money balances (see (2.54)), but di¤erent inflation rates have no e¤ect on the
+steady-state values of the capital stock, labor supply, or consumption.
+If utility is nonseparable, so that either ul or uc (or both) depend on mss, then
+money is not superneutral. Variations in average inflation that a¤ect the opportunity
+cost of holding money will a¤ect mss. Di¤erent levels of mss will change the value
+of nss that satisfies (2.62). Since 1 þ iss 1⁄4 ð1 þ rssÞð1 þ pssÞ 1⁄4 b1
+ð1 þ yssÞ, equation
+(2.54) can be rewritten as
+umðfnss; mss; 1 nssÞ
+ucðfnss; mss; 1 nssÞ
+1⁄4 iss
+1 þ i
+ss 4 5 1⁄4 1 þ yss b
+1 þ yss :
+This equation, together with (2.62) must be jointly solved for mss and nss. Even in
+this case, however, the ratios of output, consumption, and capital to labor are independent of the rate of money growth. The steady-state levels of the capital stock, output, and consumption will depend on the money growth rate through the e¤ects of
+inflation on labor supply, with inflation-induced changes in nss a¤ecting yss, css, and
+kss equiproportionally.
+The e¤ect of faster money growth will depend on how uc, and ul are a¤ected by m.
+For example, suppose money holdings do not a¤ect the marginal utility of leisure
+ðulm 1⁄4 0Þ but money and consumption are Edgeworth complements; higher inflation that reduces real money balances decreases the marginal utility of consumption
+ðucm > 0Þ. In this case, faster money growth reduces mss and decreases the marginal
+utility of consumption. Households substitute away from labor and toward leisure.
+Steady-state employment, output, and consumption fall. These e¤ects go in the opposite direction if consumption and money are Edgeworth substitutes ðucm < 0Þ."

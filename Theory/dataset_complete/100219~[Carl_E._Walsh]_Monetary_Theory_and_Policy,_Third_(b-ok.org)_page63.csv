@@ -1,0 +1,44 @@
+﻿Content
+"optimally choosing consumption, capital holdings, bond holdings, and money bal-"
+"ances, given its current state. 9The state variable for the problem is the household’s"
+"initial level of resources ot, and the value function is deﬁned by"
+VðotÞ¼ max
+ct;kt;bt;mtfuðct;mtÞþbVðotþ1Þg; ð2:5Þ
+where the maximization is subject to the budget constraint (2.4) and
+otþ1¼fðktÞ
+1þnþttþ1þ1/C0d
+1þn/C18/C19
+ktþð1þitÞbtþmt
+ð1þptþ1Þð1þnÞ:
+Using (2.4) to express ktasot/C0ct/C0mt/C0btand making use of the deﬁnition of
+"otþ1, (2.5) can be written as"
+VðotÞ¼ max
+ct;bt;mt/C26
+uðct;mtÞþbV/C18fðot/C0ct/C0mt/C0btÞ
+1þnþttþ1
+þ1/C0d
+1þn/C18/C19
+ðot/C0ct/C0mt/C0btÞþð1þitÞbtþmt
+ð1þptþ1Þð1þnÞ/C19/C27
+;
+"with the maximization problem now an unconstrained one over ct,bt,a n d mt. The"
+ﬁrst-order necessary conditions for this problem are
+ucðct;mtÞ/C0b
+1þn½fkðktÞþ1/C0d/C138Voðotþ1Þ¼0 ð2:6Þ
+1þit
+ð1þptþ1Þð1þnÞ/C0fkðktÞþ1/C0d
+1þn/C20/C21
+¼0 ð2:7Þ
+umðct;mtÞ/C0bfkðktÞþ1/C0d
+1þn/C20/C21
+Voðotþ1ÞþbVoðotþ1Þ
+ð1þptþ1Þð1þnÞ¼0 ð2:8Þ
+together with the transversality conditions
+lim
+t!ybtltxt¼0 for x¼k;b;m; ð2:9Þ
+where ltis the marginal utility of period tconsumption. The envelope theorem
+implies
+VoðotÞ¼b
+1þn½fkðktÞþ1/C0d/C138Voðotþ1Þ;
+9. Introductions to dynamic optimization designed for economists can be found in Sargent (1987); Lucas
+and Stokey (1989); Dixit (1990); Chiang (1992); Obstfeld and Rogo¤ (1996); or Ljungquist and Sargent(2000).38 2 Money-in-the-Utility Function

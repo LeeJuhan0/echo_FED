@@ -1,0 +1,187 @@
+﻿id,paragraph
+1,". Then (2.62) becomes
+ulðfnss; 1 nssÞ
+ucðfnss; 1 nssÞ
+1⁄4 f kss
+nss 4 5 kss
+nss 4 5f0 kss
+nss 4 5;
+which determines the steady-state supply of labor. Steady-state consumption is then
+given by fnss. Thus, separable preferences imply superneutrality. Changes in the
+steady-state rate of inflation will alter nominal interest rates and the demand for
+real money balances (see (2.54)), but di¤erent inflation rates have no e¤ect on the
+steady-state values of the capital stock, labor supply, or consumption.
+If utility is nonseparable, so that either ul or uc (or both) depend on mss, then
+money is not superneutral. Variations in average inflation that a¤ect the opportunity
+cost of holding money will a¤ect mss. Di¤erent levels of mss will change the value
+of nss that satisfies (2.62). Since 1 þ iss 1⁄4 ð1 þ rssÞð1 þ pssÞ 1⁄4 b1
+ð1 þ yssÞ, equation
+(2.54) can be rewritten as
+umðfnss; mss; 1 nssÞ
+ucðfnss; mss; 1 nssÞ
+1⁄4 iss
+1 þ i
+ss 4 5 1⁄4 1 þ yss b
+1 þ yss :
+This equation, together with (2.62) must be jointly solved for mss and nss. Even in
+this case, however, the ratios of output, consumption, and capital to labor are independent of the rate of money growth. The steady-state levels of the capital stock, output, and consumption will depend on the money growth rate through the e¤ects of
+inflation on labor supply, with inflation-induced changes in nss a¤ecting yss, css, and
+kss equiproportionally.
+The e¤ect of faster money growth will depend on how uc, and ul are a¤ected by m.
+For example, suppose money holdings do not a¤ect the marginal utility of leisure
+ðulm 1⁄4 0Þ but money and consumption are Edgeworth complements; higher inflation that reduces real money balances decreases the marginal utility of consumption
+ðucm > 0Þ. In this case, faster money growth reduces mss and decreases the marginal
+utility of consumption. Households substitute away from labor and toward leisure.
+Steady-state employment, output, and consumption fall. These e¤ects go in the opposite direction if consumption and money are Edgeworth substitutes ðucm < 0Þ."
+2,"2.5.3 The Linear Approximation
+To further explore the e¤ects of money outside the steady state, it is useful to approximate the model’s equilibrium conditions around the steady state. The steps involved
+in obtaining the linear approximation around the steady state follow the approach of
+Campbell (1994) and Uhlig (1999). Details on the approach used to linearize (2.54)–
+(2.60) are discussed in the appendix to this chapter (section 2.7). With the exception
+66 2 Money-in-the-Utility Function
+of interest rates and inflation, variables will be expressed as percentage deviations
+around the steady state. Percentage deviations of a variable qt around its steady-state
+value will be denoted by q^t, where qt 1 qssð1 þ q^tÞ. For interest rates and inflation, ^rt,
+^{t, and p^t will denote rt rss, it i
+ss, and pt pss, respectively.38 In what follows,
+uppercase letters denote economywide variables, lowercase letters denote random
+disturbances and
+variables expressed in per capita terms, and the superscript ss indicates the steady-state value of a variable. However, m, mss, and m^ refer to real money
+balances per capita, whereas M represents the aggregate nominal stock of money.
+As is standard, the production function is taken to be Cobb-Douglas with constant
+returns to scale, so
+yt 1⁄4 ezt
+ka
+t1n1a t ð2:63Þ
+with 0 < a < 1. For the utility function, it is assumed that
+uðct; mt; 1 ntÞ 1⁄4 1⁄2ac1b t þ ð1 aÞm1b t
+ð1FÞ=ð1bÞ
+1 F þ C ð1 ntÞ
+1h
+1 h : ð2:64Þ
+R. King, Plosser, and Rebelo (1988) demonstrated that with the exception of the log
+case, utility must be multiplicatively separable in labor to be consistent with steadystate growth, in which the share of time devoted to work remains constant as real
+wages rise. Equation (2.64) does not have this property. However, we will abstract
+from growth factors, and the assumption of linear separability in leisure is common
+in the recent literature on business cycles. The end-of-chapter problems present an
+example using a utility function that is consistent with growth."
+3,"The resulting linearized system consists of the exogenous processes for the productivity shock and the money growth rate plus the eight additional equilibrium conditions: the production function, the goods market clearing condition, the definition of
+the real return on capital, the Euler equation for optimal intertemporal consumption
+allocation, the first-order conditions for labor supply and money holdings, the Fisher
+equation linking nominal and real interest rates, and the money market equilibrium
+condition. These can be solved for the capital stock, money holdings, output, consumption, employment, the real rate of interest, the nominal interest rate, and the inflation rate.
+To this system of eight endogenous variables, it will be convenient to add investment, xt, given by xt 1⁄4 kt ð1 dÞkt1, and to define lt as the marginal utility of
+consumption. The linearized expression for ^lt is
+38. That is, if the interest rate is 0:0125 at a quarterly rate (i.e., 5 percent at an annual rate) and the steadystate value of the interest rate is 0.01, then ^rt 1⁄4 0:0125 0:01 1⁄4 0:0025, not ð0:0125 0:01Þ=0:01 1⁄4 0:25, a
+25 percent deviation."
+4,"2.5 Dynamics in an MIU Model 67
+^lt 1⁄4 W1c^t þ W2m^t; ð2:65Þ
+where W1 1⁄4 1⁄2ðb FÞg b, W2 1⁄4 ðb FÞð1 gÞ, and the parameter g is equal to
+aðcssÞ
+1b
+=1⁄2aðcssÞ
+1b þ ð1 aÞðmssÞ
+1b
+.
+Then, in linearized form, the equilibrium conditions include (2.65) and (see the
+chapter appendix):
+xss
+kss 4 5x^t 1⁄4 ^
+kt ð1 dÞ^
+kt1; ð2:66Þ
+y^t 1⁄4 a^kt1 þ ð1 aÞn^t þ zt ð2:67}
+yss
+kss 4 5y^t 1⁄4 css
+kss 4 5c^t þ dx^t ð2:68Þ
+^rt 1⁄4 a
+yss
+kss 4 5ðEty^tþ1 ^
+ktÞ ð2:69Þ
+^lt 1⁄4 Et
+^ltþ1 þ ^rt ð2:70Þ
+^lt þ h
+nss
+1 nss 4 5n^t 1⁄4 y^t n^t ð2:71Þ
+^{t 1⁄4 ^rt þ Etp^tþ1 ð2:72Þ
+m^t c^t 1⁄4 1
+b
+4 5 1
+i
+ss 4 5^{t ð2:73Þ
+m^t 1⁄4 m^t1 p^t þ ut: ð2:74Þ
+Consistent with the real-business-cycle literature, a stochastic disturbance to total
+factor productivity is incorporated that follows an AR(1) process:
+zt 1⁄4 rz
+zt1 þ et: ð2:75Þ"
+5,"Assume that et is a serially uncorrelated mean zero process and jrzj < 1. Note the
+timing convention in (2.67): the capital carried over from period t 1, Kt1, is available for use in producing output during period t.
+It is also necessary to specify the process followed by the nominal stock of money.
+In previous sections, y denoted the growth rate of the nominal money supply. Assume then that the average growth rate is yss, and let ut 1 yt yss be the deviation
+in period t of the growth rate from its unconditional average value. This deviation
+will be treated as a stochastic process given by
+68 2 Money-in-the-Utility Function
+ut 1⁄4 ruut1 þ fzt1 þ jt; 0a g < 1; ð2:76Þ
+where jt is a white noise process and jruj < 1. This formulation allows the growth
+rate of the money stock to display persistence (if ru > 0), respond to the real productivity shock z, and be subject to random disturbances through the realizations of jt.
+Equation (2.67) is the economy’s production function in which output deviations
+from the steady state are a linear function of the percentage deviations of the capital
+stock and labor supply from the steady state plus the productivity shock. Equation
+(2.68) is the resource constraint derived from the condition that output equals consumption plus investment. Deviations of the marginal product of capital are tied to
+deviations of the real return by (2.69). Equations (2.70)–(2.73) are derived from the
+representative household’s first-order conditions for consumption, leisure, and money
+holdings. Finally, (2.74) relates the change in the deviation from steady state of real
+money balances to the inflation rate and the growth of the nominal money stock. To
+complete the specification, the exogenous disturbances for productivity and nominal
+money growth were given earlier by (2.75) and (2.76)."
+6,"One conclusion follows immediately from inspecting this system. If F 1⁄4 b, (2.65)
+shows that money no longer a¤ects the marginal utility of consumption. Thus,
+money drops out of both (2.70) and (2.71) so that (2.67)–(2.71) can be solved for y^,
+c^, ^r, ^
+k, and n^ independently of the money supply process and inflation. This implies
+that superneutrality will characterize dynamics around the steady state as well as the
+steady state itself. Thus, the system will exhibit superneutrality along its dynamic adjustment path.39
+Separability allows the real equilibrium to be solved independent of money and inflation, but it has more commonly been used in monetary economics to allow the
+study of inflation and money growth to be conducted independent of the real equilibrium. When F 1⁄4 b, (2.73) and (2.74) constitute a two-equations system in inflation
+and real money balances, with u representing an exogenous random disturbance
+and c^ and ^r determined by (2.67)–(2.71) and exogenous to the determination of inflation and real money balances. Equation (2.73) can then be written as
+Etptþ1 1 Etp^tþ1 p^t 1⁄4 ðbissÞm^t þ wt 1⁄4 ðbissÞðM^ t p^tÞ þ wt:"
+7,"an expectational di¤erence equation that can be solved for the equilibrium
+path of p^ for a given process for the nominal money supply and the exogenous variable wt 1 1⁄2ðbissÞc^t ^rt. Models of this type have been widely employed in monetary
+economics, and they are studied further in chapter 4.
+39. This result, for the preferences given by (2.64), generalizes the findings of Brock (1974) and Fischer
+(1979a).
+2.5 Dynamics in an MIU Model 69
+A second conclusion revealed by the dynamic system is that when money does
+matter (i.e., when b0 F), it is only anticipated changes in money growth that matter.
+To see this, suppose ru 1⁄4 f 1⁄4 0, so that ut 1⁄4 jt is a purely unanticipated change in
+the growth rate of money that has no e¤ect on anticipated future values of money
+growth. Now consider a positive realization of jt (nominal money growth is faster
+than average). This increases the nominal stock of money. If ru 1⁄4 f 1⁄4 0, future
+money growth rates are una¤ected by the value of jt. This means that future
+expected inflation, Etptþ1, is also una¤ected. Therefore, a permanent jump in the
+price level that is proportional to the unexpected rise in the nominal money stock
+leaving mt una¤ected also leaves (2.67)–(2.73) una¤ected. From (2.74), for jt to
+have no e¤ect on m^t requires that pt 1⁄4 jt. So an unanticipated money growth rate
+disturbance has no real e¤ects and simply leads to a one-period change in the inflation
+rate (and a permanent change in the price level). Unanticipated money doesn’t
+matter.40
+Now consider what happens when one continues to assume that f 1⁄4 0 but allows
+ru to di¤er from zero. In the United States, money growth displays positive serial
+correlation, so assume that ru > 0. A positive shock to money growth ðjt > 0Þ now
+has implications for the future growth rate of money. With ru > 0, future money
+growth will be above average, so expectations of future inflation will rise. From
+(2.73), however, for real consumption and the expected real interest rate to remain
+unchanged in response to a rise in expected future inflation, current real money
+balances must fall. This means that p^t would need to rise more than in proportion to the
+rise in the nominal money stock. But when W2 0 0, the decline in m^t a¤ects the first-order conditions given by (2.71) and (2.73), so the real equilibrium will not remain
+unchanged. Monetary disturbances have real e¤ects by a¤ecting the expected rate of
+inflation."
+8,"an expectational di¤erence equation that can be solved for the equilibrium path of p^ for a given process for the nominal money supply and the exogenous variable wt 1 1⁄2ðbissÞc^t ^rt. Models of this type have been widely employed in monetary economics, and they are studied further in chapter 4. 39. This result, for the preferences given by (2.64), generalizes the findings of Brock (1974) and Fischer (1979a). 2.5 Dynamics in an MIU Model 69 A second conclusion revealed by the dynamic system is that when money does matter (i.e., when b0 F), it is only anticipated changes in money growth that matter. To see this, suppose ru 1⁄4 f 1⁄4 0, so that ut 1⁄4 jt is a purely unanticipated change in the growth rate of money that has no e¤ect on anticipated future values of money growth. Now consider a positive realization of jt (nominal money growth is faster than average). This increases the nominal stock of money. If ru 1⁄4 f 1⁄4 0, future money growth rates are una¤ected by the value of jt. This means that future expected inflation, Etptþ1, is also una¤ected. Therefore, a permanent jump in the price level that is proportional to the unexpected rise in the nominal money stock leaving mt una¤ected also leaves (2.67)–(2.73) una¤ected. From (2.74), for jt to have no e¤ect on m^t requires that pt 1⁄4 jt. So an unanticipated money growth rate disturbance has no real e¤ects and simply leads to a one-period change in the inflation rate (and a permanent change in the price level). Unanticipated money doesn’t matter.40 Now consider what happens when one continues to assume that f 1⁄4 0 but allows ru to di¤er from zero. In the United States, money growth displays positive serial correlation, so assume that ru > 0. A positive shock to money growth ðjt > 0Þ now has implications for the future growth rate of money. With ru > 0, future money growth will be above average, so expectations of future inflation will rise. From (2.73), however, for real consumption and the expected real interest rate to remain unchanged in response to a rise in expected future inflation, current real money balances must fall. This means that p^t would need to rise more than in proportion to the rise in the nominal money stock. But when W2 0 0, the decline in m^t a¤ects the first-order conditions given by (2.71) and (2.73), so the real equilibrium will not remain unchanged. Monetary disturbances have real e¤ects by a¤ecting the expected rate of inflation."
+9,"tly flexible; the main e¤ect of money growth rate shocks when ru > 0 is to increase expected inflation and raise the nominal interest rate. Because prices are perfectly flexible, the monetary shock generates a jump in the price level immediately. The real quantity of money actually falls, 40. During the 1970s, macroeconomics was heavily influenced by a model developed by Lucas (1972), in which only unanticipated changes in the money supply had real e¤ects. See chapter 5. 70 2 Money-in-the-Utility Function consistent with the decline in real money demand that occurs as a result of the increase in the nominal interest rate. To actually determine how the equilibrium responds to money growth rate shocks and how the response depends quantitatively on ru and f, one must calibrate the parameters of the model and numerically solve for the rational-expectations equilibrium."
+10,"2.5.4 Calibration Thirteen parameters appear in the equations that characterize behavior around the steady state: a, d, rz, s2 e , b, a, b, h, F, yss, ru, f, s2 j. Some of these parameters are common to standard real-business-cycle models; for example, Cooley and Prescott (1995, 22) reported values of, in the present notation, a (the share of capital income in total income), d (the rate of depreciation of physical capital), rz (the autoregressive coe‰cient in the productivity process), se (the standard deviation of productivity innovations), and b (the subjective rate of time discount in the utility function). These values are based on a time period equal to three months (one quarter). Cooley and Prescott’s values are adopted except for the depreciation rate d; Cooley and Prescott calibrated d 1⁄4 0:012 based on a model that explicitly incorporates growth. Here the somewhat higher value of 0:019 given in Cooley and Hansen (1995, 201) is used. The value of se is set to match the standard deviation of quarterly HP-filtered log U.S. real GDP for the 1959–2008 period of 1:5 percent. For the period from 1984 to 2007, the average annual growth rate of M1 in the United States was 4.1 percent, and the growth rate of MZM was 7.2 percent. An annual rate of 4 percent (7 percent) would imply a quarterly value of 1:01 (1:017) for 1 þ yss, so set 1 þ yss 1⁄4 1:01 to match M1. Estimating an AR(1) process for M1 growth yields ru 1⁄4 0:75 with a value of 0:9 for sj, the standard deviation of innovations to the nominal money growth rate.41 Various alternative values are considered for the autoregression coefficient for money growth, ru, and the coe‰cient on the productivity shock, f, to see how the implications of the model are a¤ected by the manner in which money growth evolves."
+11,"ndix shows that the steady-state value of real money balances relative to consumption is equal to ða1ss=ð1 aÞÞ1=b , 1ss 1⁄4 ð1 þ yss bÞ=ð1 þ yssÞ. For real M1, this ratio in the data is about 0:8 when consumption is expressed at a quarterly rate. If 41. For the growth rate of MZM, one obtains ru 1⁄4 0:68 with a value of 4.1 for sj. 2.5 Dynamics in an MIU Model 71 b 1⁄4 3, this would imply a 1⁄4 0:99, and the ratio of real MZM to consumption is 2:64, which, for b 1⁄4 7 implies a 1⁄4 0:04. Thus, for the purposes of the simulation exercise, values of a 1⁄4 0:99 and b 1⁄4 3 are used. The inverse of the intertemporal elasticity of substitution, F, is set equal to 2 in the benchmark simulations. With b 1⁄4 3, this means b F > 0, and faster expected money growth will decrease employment and output. Finally, h is set equal to 1."
+12,"With nss 1⁄4 1=3, a value of h 1⁄4 1 yields a labor supply elasticity of 1⁄2hnss=ð1 nssÞ1 1⁄4 2. These parameter values are as follows: Baseline Parameter Values ad b F h a b 1 þ yss rz se ru sj 0:36 0:019 0:989 2 1 0:99 3 1:01 0:95 0:34 0:75 0:9 Using the information in this table, the steady-state values for the variables can be evaluated: Steady-State Values at Baseline Parameter Values 1 þ rss yss k ss css k ss mss k ss nss k ss 1:011 0:084 0:065 0:051 0:021 The e¤ect of money growth on the steady-state level of employment can be derived using (2.77) in the appendix. The elasticity of the steady-state labor supply with respect to the growth rate of the nominal money supply depends on the sign of ucm; this in turn depends on the sign of b F. For the benchmark parameter values, this is positive. With F less than b, the marginal utility of consumption is increasing in real money balances. Hence, higher inflation decreases the marginal utility of consumption, increases the demand for leisure, and decreases the supply of labor (see (2.43)). If b F is negative, higher inflation leads to a rise in labor supply and output. The dependence of the elasticity of labor with respect to inflation on the partial derivatives of the utility function in a general MIU model is discussed more fully by Wang and Yip (1992)."
+13,"2.5.5 Simulation Results Several Matlab programs for solving linear rational-expectations models numerically are publicly available (see the appendix and the programs available at hhttp:// people.ucsc.edu/~walshc/mtp3ei). Figure 2.3 shows that the magnitude of the e¤ect of a one standard deviation monetary shock on output and labor is small, but the 72 2 Money-in-the-Utility Function e¤ects clearly depend on the degree of persistence in the money growth process.42 Higher values of ru generate larger e¤ects on labor input and output.43 Figure 2.4 shows how the nominal interest rate response depends on ru. A positive monetary shock increases the nominal rate of interest; when ru > 0, money growth rate shocks increase expected inflation and raise the nominal interest rate, while the real quantity of money actually falls."
+14,"How do the properties of the model vary if money growth responds to productivity shocks? Table 2.2 illustrates the e¤ects of varying f, the response of money growth to the productivity shock.44 The major e¤ect of f is on the behavior of inflation and the nominal rate of interest. When money growth does not respond to a productivity shock or when it decreases in response (i.e., when f a 0), output and inflation are negatively correlated, as the positive shock to productivity increases output."
+15,"Figure 2.3 Response of output and employment to a positive money growth shock. 42. Recall that the transitional dynamics exhibit superneutrality when F 1⁄4 b. In this case, neither output nor employment would be a¤ected by the monetary shock. 43. E¤ects would also be larger if the model were calibrated to match a broader monetary aggregate by reducing a, increasing b, and increasing sj. 44. When f 00, the variance of the innovation to u is adjusted to keep the standard deviation of nominal money growth equal to 0.9, as in the benchmark case."
+16,"2.5 Dynamics in an MIU Model 73 Figure 2.4 Response of the nominal interest rate to a positive money growth shock. Table 2.2 E¤ects of the Money Process f 1⁄4 0:15 f 1⁄4 0 f 1⁄4 0:15 s.d. s.d. rel. to y Corr. with y s.d. s.d. rel. to y Corr. with y s.d. s.d. rel. to y Corr. with y y 1.51 1.00 1.00 1.49 1.00 1.00 1.48 1.00 1.00 n 0.58 0.38 0.02 0.58 0.39 0.04 0.59 0.40 0.10 c 0.91 0.60 0.88 0.88 0.59 0.87 0.86 0.58 0.86 x 4.22 2.79 0.94 4.25 2.84 0.94 4.28 2.90 0.94 r 0.04 0.02 0.19 0.04 0.02 0.17 0.04 0.02 0.14 m 7.86 5.20 0.90 3.59 2.40 0.24 6.35 4.30 0.84 i 0.45 0.30 0.88 0.22 0.15 0.03 0.44 0.30 0.87 p 3.59 2.37 0.11 3.23 2.16 0.00 3.51 2.38 0.11 74 2 Money-in-the-Utility Function When f < 0, a positive technology shock leads to lower expected money growth and inflation. Lower expected inflation raises real money balances, increases the marginal utility of consumption, and increases the labor supply when, as in the case here, b > F. Hence, employment and output are slightly higher after a technology shock when f < 0 than when f 1⁄4 0. When f > 0, a positive technology shock leads to higher expected inflation, and employment and output respond less than in the base case. Simulations reveal these di¤erences to be small. Changes in the money growth process have their main e¤ect on the behavior of the nominal interest rate and inflation. Both the sign and the magnitude of the correlation between these variables and output depends on the money growth process."

@@ -1,0 +1,38 @@
+﻿Content
+"of inﬂation. If actual inﬂation exceeds the expected rate, real wages will be eroded"
+"and ﬁrms will expand employment. If actual inﬂation is less than the rate expected,"
+realized real wages will exceed the level expected and employment will be reduced. A
+critical discussion of this basic aggregate supply relationship can be found in Cukier-
+"man (1992, ch. 3). 6"
+Recall that the tax distortions of inﬂation analyzed in chapter 4 were a function
+"of anticipated inﬂation. Fluctuations in unanticipated inﬂation caused neutral pricelevel movements, while expected inﬂation altered nominal interest rates and the op-"
+"portunity cost of money, leading to tax e¤ects on money holdings, the consumption"
+"of cash goods, and the supply of labor. If the costs of inﬂation arise purely from"
+"expected inﬂation, while surprise inﬂation generates economic expansions, then a"
+central bank would perceive only beneﬁts from attempting to produce unexpected in-
+ﬂation. Altering the speciﬁcation of the central bank’s objective function in (7.2) or
+"(7.1) to depend only on output and expected inﬂation would, given (7.3), then imply"
+that the equilibrium inﬂation rate could be inﬁnite (see Auernheimer 1974; Calvo
+1978; and problem 7 at the end of this chapter).
+The rest of the model is a simple link between inﬂation and the policy authority’s
+actual policy instrument:
+p¼Dmþv; ð7:4Þ
+where Dmis the growth rate of the money supply (the ﬁrst di¤erence of the log nom-
+"inal money supply), assumed to be the central bank’s policy instrument, and vis a"
+velocity disturbance. The private sector’s expectations are assumed to be determined
+prior to the central bank’s choice of a growth rate for the nominal money supply.
+"Thus, in setting Dm, the central bank will take p"
+eas given. Also assume that the cen-
+tral bank can observe e(but not v) prior to setting Dm; this assumption generates a
+"role for stabilization policy. Finally, assume eandvare uncorrelated."
+"The sequence of events is important. First, the private sector sets nominal wages"
+"based on its expectations of inﬂation. Thus, in the ﬁrst stage, peis set. Then the sup-"
+"ply shock eis realized. Because expectations have already been determined, they do"
+"not respond to the realization of e. Policy can respond, however, and the policy in-"
+strument Dmis set after the central bank has observed e. The velocity shock vis then
+"realized, and actual inﬂation and output are determined."
+"6. If the aggregate supply equation is substituted into the central bank’s preference function, both (7.1)"
+"and (7.2) can be written in the form Uðp/C0pe;p;eÞ. Thus, the general framework is one in which the cen-"
+"tral bank’s objective function depends on both surprise inﬂation and actual inﬂation. In addition to theemployment motives mentioned here, one could emphasize the desire for seigniorage as leading to a similar"
+"objective function because surprise inﬂation, by depreciating the real value of both interest-bearing and"
+"non-interest-bearing liabilities of the government, produces larger revenue gains for the government thandoes anticipated inﬂation (which only erodes non-interest-bearing liabilities).274 7 Discretionary Policy and Time Inconsistency"

@@ -1,0 +1,61 @@
+﻿Content
+after using the fact that E tztþ1¼rzzt. The linearized labor supply condition and the
+Euler condition (derived above) imply
+1þhnss
+lss/C18/C19/C20/C21
+Et^n ntþ1¼Et^y ytþ1þEt^l ltþ1¼Et^y ytþ1þ^l lt/C0^r rt:
+"Hence, E t^y ytþ1can be expressed as"
+Et^y ytþ1¼a^k ktþð1/C0aÞEt^n ntþ1þrzzt¼a^k ktþ1/C0a
+1þhnss
+"lss/C0/C1""#"
+ðEt^y ytþ1þ^l lt/C0^r rtÞþrzzt:
+"Solving for expected future output,"
+Et^y ytþ1¼a1þhnss
+lss/C0/C1
+aþhnss
+"lss/C0/C1""#"
+^k ktþ1/C0a
+aþhnss
+lss/C0/C1 !
+ð^l lt/C0^r rtÞþ1þhnss
+lss/C0/C1
+aþhnss
+"lss/C0/C1""#"
+rzzt:
+Substituting this into the expression for the real rate of interest gives
+ð1þkÞ^r rt¼/C0khnss
+lss/C18/C19
+^k ktþk^l ltþk1þhnss
+lss/C0/C1
+1/C0a/C18/C19
+rzzt;
+where
+k1ayss
+kss/C18/C191/C0a
+aþhnss
+lss/C0/C1 !
+:
+Money Holdings
+The ﬁrst-order condition for money holdings is
+umðct;mt;1/C0ntÞ
+ucðct;mt;1/C0ntÞ¼it
+1þit/C18/C19
+:
+"From the speciﬁcation of the utility function, the left side can be approximated as"
+umðct;mt;1/C0ntÞ
+ucðct;mt;1/C0ntÞ¼ð1/C0aÞm/C0b
+t
+ac/C0b
+tA1/C0a
+a/C18/C19mss
+css/C18/C19/C0b
+ð1/C0b^m mtþb^c ctÞ
+¼iss
+1þiss/C18/C19
+ð1/C0b^m mtþb^c ctÞ:
+"Therefore,"
+iss
+1þiss/C18/C19
+ð1/C0b^m mtþb^c ctÞAit
+1þit/C18/C19
+;2.7 Appendix: Solving the MIU Model 83

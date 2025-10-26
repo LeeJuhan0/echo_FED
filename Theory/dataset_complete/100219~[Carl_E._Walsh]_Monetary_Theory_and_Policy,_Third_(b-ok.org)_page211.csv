@@ -1,0 +1,44 @@
+﻿Content
+The government’s optimal tax problem is to pick time paths for ttþianditþito
+maximize (4.62) subject to the economy resource constraint ctþgta1/C0lt/C0ns
+tand
+to the requirement that consumption and labor supply be consistent with the choices
+"of private agents. Following Lucas and Stokey (1983), this problem can be recast by"
+using the ﬁrst-order conditions from the individual agent’s decision problem to ex-
+"press, in terms of the government’s tax instruments, the equilibrium prices that willsupport the paths of consumption and labor supply that solve the government’s"
+problem. This leads to an additional constraint on the government’s choices and
+can be summarized in terms of an implementability condition .
+"To derive this implementability condition, start with the ﬁrst-order conditions for"
+the representative agent’s problem. Deﬁne the value function
+vðw
+tÞ¼ max
+ct;nt;mt;dtuc t;1/C0nt/C0ch
+tgmt
+ct/C18/C19 /C20/C21
+þbvðwtþ1Þ/C26/C27
+;
+where the maximization is subject to the budget constraint (4.63). Letting ltdenote
+"the Lagrangian multiplier associated with the time tbudget constraint, the ﬁrst-order"
+conditions implyu
+c/C0ulhg/C0m
+cg0/C18/C19
+ch/C01
+t¼lt ð4:64Þ
+ul¼ltð1/C0ttÞð 4:65Þ
+/C0ulg0ch/C01
+t¼ltIt ð4:66Þ
+lt¼bRtltþ1; ð4:67Þ
+where It¼it=ð1þitÞand the real interest rate is Rt¼ð1þitÞ=ð1þptþ1Þ.
+The next step is to recast the budget constraint (4.63). This constraint can be writ-
+ten as
+Rt/C01dt/C01¼Xy
+i¼0Di½ctþi/C0ð1/C0ttþiÞð1/C0ltþi/C0ns
+tþiÞþRt/C01þiIt/C01þimt/C01þi/C138; ð4:68Þ
+where a no Ponzi condition is imposed and the discount factor Diis deﬁned as
+Di¼1 for i¼0 and Di¼Qi
+j¼1R/C01
+tþj/C01forib1. Since it is assumed that the initial
+"stocks of money and bonds equal zero, dt/C01¼0, so the right side of (4.68) must also"
+equal zero. 40The implementability condition is obtained by replacing the prices in
+"40. If the government’s initial nominal liabilities were positive, it would be optimal to immediately inﬂate"
+away their value because this would represent a nondistortionary source of revenue. It is to avoid this out-come that the initial stocks are assumed to be zero.186 4 Money and Public Finance

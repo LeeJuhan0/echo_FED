@@ -1,0 +1,187 @@
+﻿id,paragraph
+1,"(K, L) 2 WL 2 RK.
+This equation shows that profit depends on the product price P, the factor prices
+W and R, and the factor quantities L and K. The competitive firm takes the
+product price and the factor prices as given and chooses the amounts of labor
+and capital that maximize profit.
+The Firm’s Demand for Factors
+We now know that our firm will hire labor and rent capital in the quantities that
+maximize profit. But what are those profit-maximizing quantities? To answer
+this question, we first consider the quantity of labor and then the quantity
+of capital.
+The Marginal Product of Labor The more labor the firm employs, the
+more output it produces. The marginal product of labor (MPL) is the extra
+amount of output the firm gets from one extra unit of labor, holding the amount
+of capital fixed. We can express this using the production function:
+MPL 5 F (K, L 1 1) 2 F (K, L).
+The first term on the right-hand side is the amount of output produced with
+K units of capital and L 1 1 units of labor; the second term is the amount of
+output produced with K units of capital and L units of labor. This equation
+1This is a simplification. In the real world, the ownership of capital is indirect because firms own
+capital and households own the firms. That is, real firms have two functions: owning capital and
+producing output. To help us understand how the factors of production are compensated, however,
+we assume that firms only produce output and that households own capital directly.
+54 | PART II Classical Theory: The Economy in the Long Run
+states that the marginal product of labor is the difference between the amount
+of output produced with L 1 1 units of labor and the amount produced with
+only L units of labor.
+Most production functions have the property of diminishing marginal
+product: holding the amount of capital fixed, the marginal product of labor
+decreases as the amount of labor increases. To see why, consider again the production of bread at a bakery. As a bakery hires more labor, it produces more bread.
+The MPL is the amount of extra bread produced when an extra unit of labor is
+hired. As more labor is added to a fixed amount of capital, however, the MPL falls.
+Fewer additional loaves are produced because workers are less productive when
+the kitchen is more crowded. In other words, holding the size of the kitchen
+fixed, each additional worker adds fewer loaves of bread to the bakery’s output.
+Figure 3-3 graphs the production function. It illustrates what happens to the
+amount of output when we hold the amount of capital constant and vary the
+amount of labor. This figure shows that the marginal product of labor is the slope
+of the production function. As the amount of labor increases, the production
+function becomes flatter, indicating diminishing marginal product."
+2,"From the Marginal Product of Labor to Labor Demand When the
+competitive, profit-maximizing firm is deciding whether to hire an additional
+unit of labor, it considers how that decision would a
+effect profits. It therefore
+compares the extra revenue from increased production with the extra cost from
+FIGURE 3-3
+The Production Function This curve shows how output
+depends on labor input, holding the amount of capital constant. The marginal product of labor MPL is the change in
+output when the labor input is increased by 1 unit. As the
+amount of labor increases, the production function becomes
+flatter, indicating diminishing marginal product.
+Output, Y
+Labor, L
+MPL
+1
+1. The slope of
+the production
+function equals
+the marginal
+product of labor.
+MPL
+1
+2. As more
+labor is added,
+the marginal
+product of labor
+declines.
+CHAPTER 3 National Income: Where It Comes From and Where It Goes | 55
+hiring the additional labor. The increase in revenue from an additional unit of
+labor depends on two variables: the marginal product of labor and the price of
+the output. Because an extra unit of labor produces MPL units of output and
+each unit of output sells for P dollars, the extra revenue is P  MPL. The extra
+cost of hiring one more unit of labor is the wage W. Thus, the change in profit
+from hiring an additional unit of labor is
+DProfit 5 DRevenue 2 DCost
+5 (P 3 MPL) 2 W.
+The symbol D (called delta) denotes the change in a variable.
+We can now answer the question we asked at the beginning of this section:
+how much labor does the firm hire? The firm’s manager knows that if the extra
+revenue P 3 MPL exceeds the wage W, an extra unit of labor increases profit.
+Therefore, the manager continues to hire labor until the next unit would no longer be profitable—that is, until the MPL falls to the point where the extra revenue equals the wage. The competitive firm’s demand for labor is determined by
+P 3 MPL 5 W.
+We can also write this as
+MPL 5 W/P.
+W/P is the real wage—the payment to labor measured in units of output rather
+than in dollars. To maximize profit, the firm hires up to the point at which the
+marginal product of labor equals the real wage."
+3,"For example, again consider a bakery. Suppose the price of bread P is
+$2 per loaf, and a worker earns a wage W of $20 per hour. The real wage W/P is
+10 loaves per hour. In this example, the firm keeps hiring workers as long as the
+additional worker would produce at least 10 loaves per hour. When the MPL falls
+to 10 loaves per hour or less, hiring additional workers is no longer profitable.
+Figure 3-4 shows how the marginal product of labor depends on the amount
+of labor employed (holding the firm’s capital stock constant). That is, this figure
+graphs the MPL schedule. Because the MPL diminishes as the amount of labor
+increases, this curve slopes downward. For any given real wage, the firm hires up
+to the point at which the MPL equals the real wage. Hence, the MPL schedule
+is also the firm’s labor demand curve.
+The Marginal Product of Capital and Capital Demand The firm
+decides how much capital to rent in the same way it decides how much labor to
+hire. The marginal product of capital (MPK ) is the amount of
+extra output
+the firm gets from an extra unit of capital, holding the amount of labor constant:
+MPK 5 F (K 1 1, L) 2 F (K, L).
+Thus, the marginal product of capital is the difference between the amount of output
+produced with K 1 1 units of capital and that produced with only K units of capital."
+4,"Like labor, capital is subject to diminishing marginal product. Once again consider the production of bread at a bakery. The first several ovens installed in the
+56 | PART II Classical Theory: The Economy in the Long Run
+kitchen will be very productive. However, if the bakery installs more and more
+ovens, while holding its labor force constant, it will eventually contain more
+ovens than its employees can effectively operate. Hence, the marginal product of
+the last few ovens is lower than that of the first few.
+The increase in profit from renting an additional machine is the extra revenue
+from selling the output of that machine minus the machine’s rental price:
+DProfit 5 DRevenue 2 DCost
+5 (P 3 MPK ) 2 R.
+To maximize profit, the firm continues to rent more capital until the MPK falls
+to equal the real rental price:
+MPK 5 R/P.
+The real rental price of capital is the rental price measured in units of goods
+rather than in dollars.
+To sum up, the competitive, profit-maximizing firm follows a simple rule
+about how much labor to hire and how much capital to rent. The firm demands
+each factor of production until that factor’s marginal product falls to equal its real factor price."
+5,"Economic Profit.
+Total income is divided among the return to labor, the return to capital, and
+economic profit.
+How large is economic profit? The answer is surprising: if the production function
+has the property of constant returns to scale, as is often thought to be the case, then
+economic profit must be zero. That is, nothing is left after the factors of production
+are paid. This conclusion follows from a famous mathematical result called Euler’s
+theorem,
+which states that if the production function has constant returns to scale, then
+F (K, L) 5 (MPK 3 K ) 1 (MPL 3 L).
+If each factor of production is paid its marginal product, then the sum of these
+factor payments equals total output. In other words, constant returns to scale,
+profit maximization, and competition together imply that economic profit is zero.
+If economic profit is zero, how can we explain the existence of “profit” in the
+economy? The answer is that the term “profit” as normally used is different from
+economic profit. We have been assuming that there are three types of agents: workers, owners of capital, and owners of firms. Total income is divided among wages,
+return to capital, and economic profit. In the real world, however, most firms own
+rather than rent the capital they use. Because firm owners and capital owners
+are the same people, economic profit and the return to capital are often lumped
+together. If we call this alternative definition accounting profit, we can say that
+Accounting Profit 5 Economic Profit 1 (MPK 3 K ).
+Under our assumptions—constant returns to scale, profit maximization, and
+competition—economic profit is zero. If these assumptions approximately
+describe the world, then the “profit” in the national income accounts must be
+mostly the return to capital."
+6,"The Black Death and Factor Prices
+According to the neoclassical theory of distribution, factor prices equal the
+marginal products of the factors of production. Because the marginal products
+depend on the quantities of the factors, a change in the quantity of any one
+factor alters the marginal products of all the factors. Therefore, a change in the
+supply of a factor alters equilibrium factor prices and the distribution of income.
+Fourteenth-century Europe provides a grisly natural experiment to study how
+factor quantities affect factor prices. The outbreak of the bubonic plague—the
+Black Death—in 1348 reduced the population of Europe by about one-third within a few years. Because the marginal product of labor increases as the amount of
+labor falls, this massive reduction in the labor force should have raised the marginal
+product of labor and equilibrium real wages. (That is, the economy should have
+moved to the left along the curves in Figures 3-3 and 3-4.) The evidence confirms
+the theory: real wages approximately doubled during the plague years. The peasants
+who were fortunate enough to survive the plague enjoyed economic prosperity.
+The reduction in the labor force caused by the plague should also have affected
+the return to land, the other major factor of production in medieval Europe. With
+fewer workers available to farm the land, an additional unit of land would have
+produced less additional output, and so land rents should have fallen. Once again,
+the theory is confirmed: real rents fell 50 percent or more during this period. While
+the peasant classes prospered, the landed classes suffered reduced incomes."
+7,"b–Douglas
+production function.
+Let’s take a closer look at some of the properties of this production function.
+First, the Cobb–Douglas production function has constant returns to scale. That
+is, if capital and labor are increased by the same proportion, then output increases
+by that proportion as well.
+Next, consider the marginal products for the Cobb–Douglas production
+function. The marginal product of labor is
+MPL 5 (1 2 a) A KaL
+2a,
+and the marginal product of capital is
+MPK  a A Ka21L
+12a.
+From these equations, recalling that a is between zero and one, we can see what
+causes the marginal products of the two factors to change. An increase in the
+amount of capital raises the MPL and reduces the MPK. Similarly, an increase
+in the amount of labor reduces the MPL and raises the MPK. A technological
+advance that increases the parameter A raises the marginal product of both factors proportionately."

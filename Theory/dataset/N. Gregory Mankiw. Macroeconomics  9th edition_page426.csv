@@ -1,0 +1,48 @@
+﻿Content
+418 | PART IV Business Cycle Theory: The Economy in the Short Run
+" 14-2   Inflation, Unemployment,  "
+and the Phillips Curve
+"T wo goals of economic policymakers are low inﬂation and low unemployment, "
+but often these goals conﬂict.
+" Suppose, for instance, that policymakers were to "
+use monetary or ﬁscal policy to expand aggregate demand. This policy would 
+move the economy along the short-run aggregate supply curve to a point of 
+higher output and a higher price level. (Figure 14-2 shows this as the change 
+from point A to point B.) Higher output means lower unemployment because 
+"ﬁrms employ more workers when they produce more. A higher price level, given "
+"the previous year’s price level, means higher inﬂation. Thus, when policymakers "
+"move the economy up along the short-run aggregate supply curve, they reduce "
+"the unemployment rate and raise the inﬂation rate. Conversely, when they con-"
+tract aggregate demand and move the economy down the short-run aggregate 
+"supply curve, unemployment rises and inﬂation falls."
+"This tradeoff between inﬂation and unemployment, called the Phillips curve, is "
+our topic in this section. As we have just seen (and will derive more formally in a 
+"moment), the Phillips curve is a reﬂection of the short-run aggregate supply curve: "
+"as policymakers move the economy along the short-run aggregate supply curve, "
+unemployment and inﬂation move in opposite directions. The Phillips curve is a 
+useful way to express aggregate supply because inﬂation and unemployment are 
+such important measures of economic performance.
+Deriving the Phillips Curve From the  
+Aggr
+egate Supply Curve
+The Phillips curve  in its modern form states that the inﬂation rate depends on 
+three forces:
+n expected inﬂation;
+"n the deviation of unemployment from the natural rate, called cyclical "
+unemplo
+yment; and
+n supply shocks.
+These three for
+ces are expressed in the following equation:
+ p 5 Ep 2 b(u 2 un) 1 v
+Inﬂation 5 Expected 
+Inﬂation 2 (b 3 Cyclical 
+Unemployment ) 1 Supply 
+Shock
+where b is a parameter measuring the response of inﬂation to cyclical unemploy-
+ment. Notice that there is a minus sign before the cyclical unemployment term: 
+"other things equal, higher unemployment is associated with lower  inﬂation."
+Where does this equation for the Phillips curve come from? Although it may 
+"not seem familiar, we can derive it from our equation for aggregate supply. T o see "
+"how, write the aggregate supply equation as"
+P 5 EP 1 (1/a)(Y 2 Y–).

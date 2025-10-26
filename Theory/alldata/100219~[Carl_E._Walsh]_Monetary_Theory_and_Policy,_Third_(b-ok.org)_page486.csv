@@ -1,0 +1,37 @@
+﻿Content
+"Ifvt11, the case considered by Carlstrom and Fuerst is obtained. If vtis random,"
+eliminating the intertemporal distortion requires that vtitbe pegged and that the
+nominal interest rate vary over time to o¤set the stochastic ﬂuctuations in vt. The
+introduction of a stochastic velocity disturbance suggests that an interest rate peg
+would not be optimal.
+10.2.3 Liquidity Traps
+"In a standard money-in-the-utility function (MIU) model, the Euler condition and"
+the Fisher equation can be combined and written as uc;t=ð1þitÞ¼bEtPtuc;tþ1=Ptþ1
+"or, in the absence of uncertainty,"
+Ptð1þitÞ
+Ptþ1¼uc;t
+buc;tþ11zt: ð10:11Þ
+"Following Woodford (2000), an interest rate policy can be written as"
+1þit¼fðPt;ztÞ:
+The function fðPt;ztÞspeciﬁes the setting for the policy instrument (the nominal rate
+"it) as a function of the current price level and the variable zt, which captures the real"
+factors that determine the marginal utility of consumption. Woodford labels policies
+"of this form Wicksellian policies. Under such a policy, equilibrium, if it exists, is a"
+"sequence for the price level that satisﬁes (10.11). Using the policy rule in (10.11),this equilibrium condition becomes"
+P
+tfðPt;ztÞ¼Ptþ1zt: ð10:12Þ
+Equilibrium conditions such as (10.12) were used to illustrate how a monetary
+economy may have multiple equilibria (see chapters 2 and 4). The nominal quantity
+"of money was assumed to be ﬁxed, and it was demonstrated that there existed multi-"
+ple price paths consistent with equilibrium. Suppose P/C3is the stationary solution
+"to (10.12): P/C3fðP/C3;zÞ¼P/C3z, where, for simplicity, ztis treated as constant. Initial"
+price levels greater than P/C3are consistent with a perfect-foresight equilibrium. Along
+"price paths originating above P/C3, hyperinﬂations occurred, with real money balances"
+shrinking toward zero. These equilibrium paths involve rising inﬂation and an in-
+"creasing nominal interest rate. Because the opportunity cost of holding money rises,"
+"the demand for real money balances falls, so that equilibrium between money de-"
+mand and supply is maintained.
+"When the price path originates at a value less than P/C3, the argument was made"
+"that such price paths, involving explosive deﬂations, could be ruled out as perfect-foresight equilibria. With real money balances going to inﬁnity, the transversality"
+condition for the representative agent’s optimization problem would eventually be
+violated (see section 2.2.1).10.2 Interest Rates and Monetary Policy 461

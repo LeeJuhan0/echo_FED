@@ -1,0 +1,48 @@
+﻿Content
+"setting a price during period tthat will remain in e¤ect for several periods, a ﬁrm will"
+base its decisions on its expectations of conditions in future periods. But the aggre-
+gate price level will also depend on those prices set in earlier periods that are still in
+e¤ect. This imparts both forward-looking and backward-looking aspects to the ag-
+"gregate price level and, as Taylor showed, provides a framework capable of replicat-"
+ing aggregate dynamics.
+"To develop a simple example based on Chari, Kehoe, and McGrattan (2000) and"
+"their model of monopolistic competition (see section 6.2.3), suppose that each inter-mediate goods producing ﬁrm sets its price PðiÞfor two periods, with half of all ﬁrms"
+"adjusting in each period. 17Thus, if iA½0;0:5Þ, assume that PðiÞis set in period t,"
+"tþ2,tþ4, and so on. If iA½0:5;1/C138, the ﬁrm sets prices in periods tþ1,tþ3, and"
+"so on. Since only symmetric equilibria are considered in which all ﬁrms setting pricesat time tpick the same price, one can drop the index iand let"
+Ptþjdenote the inter-
+mediate goods price set in period tþjfor periods tþjandtþjþ1.
+Consider a ﬁrm isetting its price in period t. This price will be in e¤ect for periods
+"tandtþ1. Thus, if Rtis the gross interest rate, Ptwill be chosen to maximize"
+EtðPt/C0PtVtÞPt
+Pt/C18/C191=ð1/C0qÞ
+YtþR/C01
+tðPt/C0Ptþ1Vtþ1ÞPtþ1
+Pt/C18/C191=ð1/C0qÞ
+"Ytþ1""#"
+;
+which represents the expected discounted proﬁts over periods tandtþ1.18After
+"some manipulation of the ﬁrst-order condition, one obtains"
+Pt¼EtðPy
+tVtYtþR/C01
+tPy
+tþ1Vtþ1Ytþ1Þ
+qEtðP1=ð1/C0qÞ
+t YtþR/C01
+tP1=ð1/C0qÞ
+tþ1Ytþ1Þ; ð6:28Þ
+"where y¼ð2/C0qÞ=ð1/C0qÞ. If prices are set for only one period, the terms involving"
+"tþ1 drop out, and one obtains the earlier pricing equation (6.24)."
+"What does (6.28) imply about aggregate price adjustment? Let p,p, and vdenote"
+"percentage deviations of P,P, and Varound a zero inﬂation steady state. If dis-"
+"counting is ignored, for simplicity, (6.28) can be approximated in terms of percentage"
+deviations around the steady state as
+pt¼1
+2ðptþEtptþ1Þþ12ðv
+tþEtvtþ1Þ: ð6:29Þ
+"17. This is a form of time-dependent pricing; prices are set for a ﬁxed length of time, regardless of eco-"
+nomic conditions.
+"18. Chari, Kehoe, and McGrattan (2000) considered situations in which a fraction 1 =Nof all ﬁrms set"
+prices each period for Nperiods. They then varied Nto examine its role in a¤ecting aggregate dynamics.
+"They altered the interpretation of the time period so that Nalways corresponds to one year; thus, varying"
+Nalters the degree of staggering. They concluded that Nhas little e¤ect.238 6 Money in the Short Run: Nominal Price and Wage Rigidities

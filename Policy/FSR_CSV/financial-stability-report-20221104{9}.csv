@@ -1,0 +1,40 @@
+"sed of staff from the U .S . Department of the Treasury, 
+the Board of Governors of the Federal Reserve System, the Federal Reserve Bank of New York, the U .S . Securities and Exchange 
+Commission, and the U .S . Commodity Futures Trading Commission .
+2 On-the-run Treasury securities are the most recently auctioned securities of a given maturity, while off-the-run securities are those 
+that were auctioned earlier .
+3 In practice, market depth is an imperfect measure of the ability to trade without moving the price, because quotes can be both 
+rapidly canceled or rapidly replenished in response to incoming order flow .
+4 In liquid CLOB-based markets, the bid-ask spread is often close to or at the minimum tick size, the smallest allowed difference 
+between bid and ask prices, and widens only for short periods during the day in response to incoming orders . However, average 
+bid-ask spreads over the course of a day may still be informative about the variation in liquidity conditions over time .
+Measuring liquidity depends on how trading takes place
+The most liquid component of the Treasury market is the interdealer broker market in on-the-run Trea-
+sury securities, where trading takes place predominantly on platforms employing central limit order 
+books (CLOBs) .2 On a CLOB, market participants can either provide liquidity by posting quotes to buy 
+and sell securities or consume liquidity by submitting an order to buy or sell at the best available 
+quoted price . In contrast, dealer-to-client trading in off-the-run securities largely takes place using the 
+“request for quote” (RFQ) protocol, whereby clients of Treasury securities dealers can obtain quotes 
+for buying or selling a certain amount . Measures that capture different dimensions of liquidity include 
+market depth, which is relevant only for CLOB-based markets, and the bid-ask spread, which can be 
+observed for both CLOB- and RFQ-based markets . Market depth at the top of the book is the average 
+of quantities available to buy or sell at the best quoted prices; greater market depth indicates a greater 
+ability to instantaneously trade larger amounts without moving the price and, hence, a more liquid mar-
+ket .3 The bid-ask spread is the difference between the best “bid” quote to buy an asset and the best 
+“ask” quote to sell that asset; smaller bid-ask spreads indicate lower trading costs and, hence, more 
+liquid markets .4
+(continued)
+
+Asset Valuations 9
+Liquidity remained low in the U.S. Treasury market
+Figure A shows average top-of-book market depth for 2- and 10-year on-the-run Treasury securities . 
+ Between about October 2021 and the end of April 2022, market depth fell notably, which primarily 
+reﬂ ected growing caution on the part of liquidity providers about posting quotes in large volumes in the 
+face of heightened price volatility . That heightened volatility in turn reﬂ ected substantial uncertainty 
+about the economic outlook and the appropriate monetary policy response . The reduction in market 
+depth for shorter-maturity securities was relatively large—to levels around the low point seen during the 
+onset of the COVID-19 pandemic—because the prices of those securities are more sensitive to news 
+about the near-term economic outlook . Since the May report, market depth has remained low, reﬂ ecting 
+the continued uncertainty about the economic outlook .
+Figure B shows average bid-ask spreads . Spreads rose between October 2021 and mid-March 2022 
+and remain moderately"

@@ -1,0 +1,33 @@
+﻿Content
+ul¼lf0: ð4:50Þ
+"From these ﬁrst-order conditions and the budget constraint, the choices of c,m,"
+"and lcan be expressed as functions of the two tax rates: cðt;tmÞ,mðt;tmÞ, and"
+lðt;tmÞ.
+The government’s problem is to set tandtmto maximize the representative agent’s
+"utility, subject to three types of constraints. First, the government must satisfy its"
+budget constraint; tax revenues must be su‰cient to ﬁnance expenditures. This con-
+straint takes the form
+tcþtmmbg; ð4:51Þ
+where gis real government expenditures. These expenditures are taken to be exoge-
+"nous. Second, the government is constrained by the fact that consumption, labor sup-"
+"ply, and real money must be consistent with the choices of private agents. That"
+"means that (4.48)–(4.50) represent constraints on the government’s choices. Finally,"
+the government is constrained by the economy’s resource constraint:
+fð1/C0lÞbcþg: ð4:52Þ
+The government’s problem is to pick tand tmto maximize uðc;m;lÞsubject to
+(4.48)–(4.52).
+"There are two approaches to solving this problem. The ﬁrst approach, often called"
+"thedual approach , employs the indirect utility function to express utility as a func-"
+"tion of taxes. These tax rates are treated as the government’s control variables,"
+and the optimal values of the tax rates are found by solving the ﬁrst-order conditions
+"from the government’s optimization problem. The second approach, called theprimal approach , treats quantities as the government’s controls. The tax rates are"
+found from the representative agent’s ﬁrst-order conditions to ensure that privateagents choose the quantities that solve the government’s maximization problem.
+"The dual approach is considered ﬁrst, and the primal approach is discussed later in"
+this section.
+The government’s problem can be written as
+max
+t;tmfvðt;tmÞþm½tmmðt;tmÞþtcðt;tmÞ/C0g/C138þy½fð1/C0lðt;tmÞÞ /C0cðt;tmÞ/C0g/C138g;
+"where vðt;tmÞ¼u½cðt;tmÞ;mðt;tmÞ;lðt;tmÞ/C138is the indirect utility function, and mand"
+yare Lagrangian multipliers on the budget and resource constraints. Notice that the
+"constraints represented by (4.48)–(4.50) have been incorporated by writing consump-tion, money balances, and leisure as functions of the tax rates. The ﬁrst-order condi-"
+tions for the two taxes are4.6 Optimal Taxation and Seigniorage 177

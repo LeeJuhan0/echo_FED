@@ -1,0 +1,39 @@
+﻿Content
+" | 551In this appendix,  w"
+e examine more formally the time-inconsistency argument 
+for rules rather than discretion. This analysis is relegated to an appendix because 
+it requires some calculus.8
+Suppose that the Phillips curve describes the relationship betw een inﬂation 
+"and unemployment. Letting u denote the unemployment rate, un the natural rate "
+"of unemployment, p the rate of inﬂation, and Ep the expected rate of inﬂation, "
+unemployment is determined by
+u 5 un 2a(p 2 E p ).
+Unemployment is low when inﬂation exceeds expected inﬂation and high when 
+inﬂation falls below expected inﬂation. The parameter a determines how much 
+unemployment responds to surprise inﬂation.
+"For simplicity, suppose also that the Fed chooses the rate of inﬂation. In real-"
+"ity, the Fed controls inﬂation only imperfectly through its control of the money "
+"supply. But for purposes of illustration, it is useful to assume that the Fed can "
+control inﬂation perfectly.
+The Fed likes low unemployment and low inﬂation. Suppose that the cost 
+"of unemployment and inﬂation, as perceived by the Fed, can be represented as"
+"L(u, p) 5 u 1 g p 2,"
+where the parameter g represents how much the Fed dislikes inﬂation relative to 
+"unemployment. L(u, p) is called the loss function. The Fed’s objective is to make "
+the loss as small as possible.
+"Having speciﬁed how the economy works and the Fed’s objective, let’s com-"
+pare monetary policy made under a ﬁxed rule and under discretion.
+We begin by considering policy under a ﬁxed rule. A rule commits the Fed 
+to a particular level of inﬂation. As long as private agents understand that the 
+"Fed is committed to this rule, the expected level of inﬂation will be the level the "
+Fed is committed to produce. Because expected inﬂation equals actual inﬂation 
+"(Ep 5 p), unemployment will be at its natural rate ( u 5 un).Time Inconsistency and the "
+Tr
+adeoff Between Inflation and 
+UnemploymentAPPENDIX
+"8The material in this appendix is derived from Finn E. Kydland and Edward C. Prescott, “Rules "
+"Rather Than Discretion: The Inconsistency of Optimal Plans,” Journal of Political Economy  85 (June "
+"1977): 473–492; and Robert J. Barro and David Gordon, “A Positive Theory of Monetary Policy "
+"in a Natural Rate Model,” Journal of Political Economy  91 (August 1983): 589–610. Kydland and "
+Prescott won the Nobel Prize for this and other work in 2004.
+""

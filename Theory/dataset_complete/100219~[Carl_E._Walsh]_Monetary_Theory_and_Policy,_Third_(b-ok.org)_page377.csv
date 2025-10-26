@@ -1,0 +1,35 @@
+﻿Content
+pw
+t¼bEtpw
+tþ1þkwðmrs t/C0otÞ: ð8:38Þ
+"From the deﬁnition of the real wage,"
+ot¼ot/C01þpw
+t/C0pt: ð8:39Þ
+"Equations (8.38) and (8.39), when combined with the new Keynesian Phillips curve"
+"in which inﬂation depends on ot/C0mpl t, constitute the inﬂation adjustment block of"
+an optimizing model with both wage and price rigidities.
+8.4 Monetary Policy Analysis in New Keynesian Models
+"During the ten years after its introduction, the new Keynesian model became the"
+"standard framework for monetary policy analysis. Clarida, Galı ´, and Gertler (1999),"
+"Woodford (2003a), McCallum and Nelson (1999), and Svensson and Woodford(1999; 2005), among others, popularized this simple model for use in monetary policy"
+analysis. Galı ´(2002) and Galı ´and Gertler (2007) discussed some of the model’s
+"implications for monetary policy, and Galı ´(2008) provided an excellent treatment"
+of the model and its implications for policy.
+"As noted in section 8.3, the basic new Keynesian model takes the form"
+x
+t¼Etxtþ1/C01
+s/C18/C19
+ðit/C0Etptþ1Þþut ð8:40Þ
+and
+pt¼bEtptþ1þkxtþet; ð8:41Þ
+"where xis the output gap, deﬁned as output relative to the equilibrium level of out-"
+"put under ﬂexible prices, iis the nominal rate of interest, and pis the inﬂation rate."
+All variables are expressed as percentage deviations around their steady-state values.
+The demand disturbance ucan arise from taste shocks to the preferences of the rep-
+"resentative household, ﬂuctuations in the ﬂexible-price equilibrium output level, orshocks to government purchases of goods and services. The eshock is a cost shock ."
+"In this section, (8.40) and (8.41) are used to address issues of monetary policy design."
+"8.4.1 Policy ObjectivesGiven the economic environment that leads to (8.40) and (8.41), what are the appro-"
+priate objectives of the central bank? There is a long history in monetary policy anal-
+ysis of assuming that the central bank is concerned with minimizing a quadratic loss
+function that depends on output and inﬂation. Models that assume this were dis-
+"cussed in chapter 7. Although such an assumption is plausible, it is ultimately ad352 8 New Keynesian Monetary Economics"

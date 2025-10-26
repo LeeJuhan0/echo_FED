@@ -1,0 +1,23 @@
+### PAPER
+Dynamic Stochastic General Equilibrium Models and Monetary Policy Analysis
+
+### SUMMARY
+The thesis titled Zero-Knowledge Optimal Monetary Policy under Stochastic Dominance by David Cerezo Sánchez explores the development of optimal monetary policies for cryptocurrencies using a Dynamic Stochastic General Equilibrium (DSGE) model. The primary focus is on deriving simple rules that allow a cryptocurrency to stochastically dominate others  thereby creating an efficient investment strategy. This strategy is characterized by a higher Omega ratio and expected returns  leading to a Nash equilibrium in the cryptocurrency market.
+
+The thesis introduces the concept of zero-knowledge proofs for monetary policy  which are committed to the blockchain  ensuring transparency and security. The primary goal of the proposed monetary policy is to achieve stochastic dominance  primarily through adjustments in money growth. The policy is designed to be pre-committed and only revised in response to technology shocks or financial crises. Unlike other cryptocurrencies  this policy aligns with macroeconomic indicators  fiat currencies  and Central Bank Digital Currencies (CBDCs)  aiming for cooperative equilibria.
+
+The thesis is structured as follows:
+
+1. **Introduction**: It highlights the lack of monetary policy in cryptocurrencies and the need for optimal policies that can stochastically dominate existing ones. The introduction also outlines the contributions of the thesis  including pioneering optimal monetary policy for cryptocurrencies and introducing zero-knowledge proofs on the blockchain.
+
+2. **Related Literature**: This section reviews existing literature on monetary policies for stablecoins and the interaction between cryptocurrencies  fiat currencies  and CBDCs. It notes the absence of literature on optimal monetary policy for cryptocurrencies using modern macroeconomic methods.
+
+3. **Environment  Framework  and Efficient Portfolio**: The thesis describes the economic environment and decision framework used to analyze and derive optimal monetary policies. It discusses the welfare loss function  ranking of simple policy rules  and the construction of an efficient portfolio through stochastic dominance.
+
+4. **Model and Policies**: This section details the monetary policy rules for various cryptocurrencies  including Bitcoin and Ethereum 2.0  and compares them with traditional monetary policy rules like McCallum's. It ranks these policy rules based on their effectiveness.
+
+5. **Implementation Details**: The thesis provides implementation details for the proposed monetary policy  focusing on global implementation and the use of zero-knowledge proofs. It describes the security model and protocol for committing the policy to the blockchain.
+
+6. **Conclusion**: The thesis concludes by summarizing the findings and contributions  emphasizing the creation of a new methodology for analyzing and deriving optimal monetary policies for cryptocurrencies.
+
+The thesis aims to be a comprehensive guide  covering both theoretical and practical aspects of implementing optimal monetary policies for cryptocurrencies. It seeks to establish a framework for creating efficient portfolios of stochastically dominant cryptocurrencies  thereby enhancing investment strategies in the crypto market.

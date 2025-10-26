@@ -1,0 +1,60 @@
+﻿Content
+or
+Xy
+j¼0oibiEt½P/C3
+t/C0PtþjVtþj/C138Ptþj
+P/C3
+t/C20/C211=ð1/C0qÞ
+Ytþj;
+since oiis the probability that the ﬁrm has not adjusted after iperiods so that the
+"price set at tstill holds in tþi. Thus, the ﬁrst-order condition for the optimal choice"
+ofP/C3
+trequires that
+q
+1/C0q/C18/C19
+EtXy
+j¼0ojbjP/C3
+t
+Ptþj/C18/C19
+/C01
+q/C18/C19
+Vtþi/C20/C211
+P/C3
+t/C18/C19Ptþj
+P/C3
+t/C18/C191=ð1/C0qÞ
+Ytþi¼0: ð6:34Þ
+(6.34) can be rearranged to yield
+P/C3
+t
+Pt/C18/C19
+¼1q/C18/C19
+EtPy
+i¼0oibiVtþiPtþi
+Pt/C16/C171=ð1/C0qÞ
+EtPyi¼0oibiPtþi
+Pt/C16/C17q=ð1/C0qÞ: ð6:35Þ
+"To interpret (6.35), note that if prices are perfectly ﬂexible ðo¼0Þ, then"
+P/C3
+t
+Pt/C18/C19
+¼1
+q/C18/C19
+Vt;
+and the ﬁrm desires to set its real price as a constant markup over real marginal cost.
+"Since all ﬁrms set the same price, P/C3"
+t¼Ptin an equilibrium with ﬂexible prices and
+"real marginal cost is equal to q. When o>0 so that not all ﬁrms adjust each period,"
+a ﬁrm that can adjust will take into account expected future marginal costs when set-
+"ting its price. The more rigid prices are (the larger is o), the more pricing decisions"
+are based on expected future marginal costs since ﬁrms expect more time to pass be-fore having another opportunity to adjust.
+"With a large number of ﬁrms, a fraction 1 /C0owill actually adjust their price each"
+"period, and the aggregate average price level can be expressed as a weighted averageof the prices set by those ﬁrms that adjust and the average price of the ﬁrms that do"
+"not adjust. The latter, as previously noted, is P"
+t/C01.
+The Calvo model of sticky prices is commonly employed in the new Keynesian
+models that have come to dominate monetary policy analysis; these models form
+"the subject of chapter 8. The chapter 8 appendix shows that the Calvo model, when"
+"approximated around a zero average inﬂation steady-state equilibrium, yields an ex-"
+pression for aggregate inﬂation of the form
+pt¼bEtptþ1þk^v vt; ð6:36Þ242 6 Money in the Short Run: Nominal Price and Wage Rigidities

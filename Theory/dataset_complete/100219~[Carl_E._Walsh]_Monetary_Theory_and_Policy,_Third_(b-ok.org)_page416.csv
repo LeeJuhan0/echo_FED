@@ -1,0 +1,40 @@
+﻿Content
+ut¼ruut/C01þxt
+zt¼rzzt/C01þct
+et¼reet/C01þet;
+"where x,c, and eare white noise processes. The central bank sets the nominal inter-"
+est rate itto minimize
+1
+2/C18/C19
+EtXy
+i¼0biðp2
+tþiþlx2
+"tþiÞ""#"
+:
+a.Derive the optimal time-consistent policy for the discretionary central banker.
+Write the ﬁrst-order conditions and the reduced-form solutions for xtandpt.
+b.Derive the interest rate feedback rule implied by the optimal discretionary policy.
+"c.Show that under the optimal policy, nominal interest rates are increased enough"
+to raise the real interest rate in response to a rise in expected inﬂation.
+d.How will xtandptmove in response to a demand shock? A productivity shock?
+"13.Suppose the central bank cares about inﬂation variability, output gap variablil-"
+"ity, and interest rate variability. The objective of the central bank is to minimize"
+1
+2/C18/C19
+EtXy
+i¼0bi½p2
+tþiþlxx2
+tþiþliðitþi/C0i/C3Þ2/C138:
+The structure of the economy is given by
+pt¼bEtptþ1þkxtþet
+xt¼Etxtþ1/C01
+s/C18/C19
+ðit/C0Etptþ1/C0rtÞ;
+where eandrare exogenous stochastic shocks. Let ctdenote the Lagrangian multi-
+"plier on the Phillips curve, and let ytbe the multipler on the IS curve."
+a.Derive the ﬁrst-order conditions for the optimal policy of the central bank under
+discretion.
+b.Show that yis nonzero if li>0. Explain the economics behind this result.
+c.Derive the ﬁrst-order conditions for the fully optimal commitment policy. How do
+these di¤er from the conditions you found in (a)?d.Derive the ﬁrst-order conditions for the optimal commitment policy from a time-
+less perspective. How do these di¤er from the conditions you found in (c)?8.7 Problems 391

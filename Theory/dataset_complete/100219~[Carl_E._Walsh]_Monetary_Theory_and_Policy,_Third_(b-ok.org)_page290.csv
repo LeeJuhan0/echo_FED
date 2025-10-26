@@ -1,0 +1,55 @@
+﻿Content
+"the nominal money supply grows at a constant trend rate mso that mt¼mt, to show"
+that real money balances mt/C0ptare decreasing in m.
+2.Suppose that the nominal money supply evolves according to mt¼mþrmmt/C01þ
+"stfor 0 <rm<1 and st, a white noise control error. If the rest of the economy is"
+"characterized by (6.1)–(6.7), solve for the equilibrium expressions for the price level,"
+"output, and the nominal rate of interest. What is the e¤ect of a positive money shock"
+ðst>0Þon the nominal rate? How does this result compare to the rm¼1 case dis-
+cussed in the appendix? Explain.
+3.Assume that nominal wages are set for one period but that they can be indexed to
+the price level:
+wc
+t¼w0
+tþbðpt/C0Et/C01ptÞ;
+where w0is a base wage and bis the indexation parameter ð0aba1Þ.
+a.How does this change modify the aggregate supply equation given by (6.11)?
+b.Suppose the demand side of the economy is represented by a simple quantity
+"equation, mt/C0pt¼yt, and assume mt¼vt, where vt, is a mean zero shock. Assume"
+the indexation parameter is set to minimize E t/C01ðnt/C0Et/C01n/C3
+"tÞ2, and show that the"
+optimal degree of wage indexation is increasing in the variance of vand decreasing
+in the variance of e(Gray 1978).
+4.Equation (6.29) was obtained from equation (6.28) by assuming that R¼1. Show
+"that in general, if Ris constant but Rss>1,"
+pt¼Rss
+1þRss/C18/C19
+ptþ1
+RssEtptþ1/C20/C21
+þRss
+1þRss/C18/C19
+vtþ1
+RssEtvtþ1/C20/C21
+:
+"5.The Chari, Kehoe, and McGrattan (2000) model of price adjustment led to (6.31)."
+"Using (6.30), show that the parameter ain (6.31) equals ð1/C0ﬃﬃﬃgpÞ=ð1þﬃﬃﬃgpÞ."
+6.The basic Taylor model of price level adjustment was derived under the assump-
+tion that the nominal wage set in period tremained unchanged for periods tand
+tþ1. Suppose instead that each period tcontract speciﬁes a nominal wage x1
+tfor pe-
+riod tandx2
+tfor period tþ1. Assume these are given by x1
+t¼ptþkytandx2
+t¼
+Etptþ1þkEtytþ1. The aggregate price level at time tis equal to pt¼1
+2ðx1
+tþx2
+t/C01Þ.I f
+"aggregate demand is given by yt¼mt/C0ptandmt¼m0þot, what is the e¤ect of"
+a money shock otonptand yt? Explain why output shows no persistence after a
+money shock.
+"7.Following Rotemberg (1988), suppose the representative ﬁrm isets its price to"
+minimize a quadratic loss function that depends on the di¤erence between the ﬁrm’s
+"actual log price in period t,pit, and its optimal log price, p/C3"
+t. If the ﬁrm can adjust at
+"time t, it will set its price to minimize6.6 Problems 265"

@@ -1,0 +1,37 @@
+﻿Content
+Equations of this form provided the basis for the empirical work of Barro (1977;
+1978) and others in testing whether unanticipated or anticipated changes in money
+matter for real output.
+"In writing employment as a function of money surprises, it is critically important"
+to specify correctly the information set on which agents base their expectations. In
+"empirical work, this information set was often assumed to consist simply of laggedvalues of the relevant variables. But in the example here, Eð m"
+"tjGt/C01Þ¼rmmt/C01, and"
+mt/C0EðmtjGt/C01Þ¼utþvt0ut. Misspecifying the information set can create di‰cul-
+ties in testing models that imply that only surprises matter.
+"Because (5.7) is derived directly from a model consistent with optimizing behavior,"
+the e¤ects of an unanticipated money supply shock on employment can be related to
+the basic parameters of the production and utility functions. 11Using the basic pa-
+"rameter values given in section 2.5.4, A=½1þK/C138¼0:007. This implies that even if k"
+"is close to zero, the elasticity of employment with respect to a money surprise is tiny;"
+a 10 percent surprise increase in the money supply would raise employment by 0.07
+percent and output by less than ð1/C0aÞ/C20:07¼0:64/C20:07A0:05 percent. 12
+The impact of money surprises in this example works through labor supply deci-
+sions. An increase in real money balances raises the marginal utility of consumptionand induces agents to increase consumption and labor supply (since W
+2>0). This ef-
+"fect is larger, the more willing agents are to substitute consumption over time. Thus,the impact of a money surprise is larger when the degree of intertemporal substitu-"
+tion is larger. 13The e¤ect of a money surprise on output is increasing in the wage
+elasticity of labor supply.
+The basic idea behind Lucas’s island model is that unpredicted variations in money
+"generate price movements that agents may misinterpret as relative price movements.If a general price rise is falsely interpreted to be a rise in the relative price of what theindividual or ﬁrm sells, the price rise will induce an increase in employment and out-"
+put. Once individuals and ﬁrms correctly perceive that the price rise was part of an
+"increase in all prices, output returns to its former equilibrium level."
+Implications
+Lucas’s model makes clear the important distinction between expected and un-
+expected variations in money. Economic agents face a signal extraction problem be-
+cause they have imperfect information about the current money supply. If changes in
+"the nominal supply of money were perfectly predictable, money would have no real"
+11. McCallum (1984a) presented a linearized approximation to Lucas’s model within an overlapping-
+"generations framework. See also D. Romer (2006). However, both simply postulated some of the basic be-havioral relationships of the model."
+12. Because the calibration employed in chapter 2 of this edition di¤ers from that used in previous edi-
+"tions, the value reported for A=ð1þKÞis larger than in earlier editions (see section 2.5.4)."
+13. See Barro and King (1984).5.2 Informational Frictions 201

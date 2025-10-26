@@ -1,0 +1,38 @@
+﻿Content
+neutrality of money . If prices do not adjust immediately in response to a change in
+"M, then a model might display non-neutrality with respect to changes in Min the"
+"short run but still exhibit monetary neutrality in the long run, once all prices have"
+"adjusted. In fact, this is the case with the models used in chapters 5–11 to examine"
+issues related to short-run monetary policy. One-time changes in the level of the
+nominal quantity of money ultimately a¤ect only the level of prices.
+"Dividing (2.14) by ucðcss;mssÞyields 1 /C0b½fkðkssÞþ1/C0d/C138¼0, or"
+fkðkssÞ¼1
+b/C01þd: ð2:19Þ
+This equation deﬁnes the steady-state capital-labor ratio kssas a function of band
+"d. If the production function is Cobb-Douglas, say fðkÞ¼kafor 0 <aa1, then"
+fkðkÞ¼aka/C01and
+kss¼ab
+1þbðd/C01Þ/C20/C211=ð1/C0aÞ
+: ð2:20Þ
+What is particularly relevant here is the implication from (2.19) that the steady-statecapital-labor ratio is independent of (1) all parameters of the utility function other
+"than the subjective discount rate b, and (2) the steady-state rate of inﬂation p"
+ss.I n
+"fact, kssdepends only on the production function, the depreciation rate, and the dis-"
+count rate. It is independent of the rate of inﬂation and the growth rate of money.
+Because changes in the nominal quantity of money are engineered in this model
+"by making lump-sum transfers to the public, the real value of these transfers mustequal ðM"
+"t/C0Mt/C01Þ=Pt¼yMt/C01=Pt¼ymt/C01=ð1þptÞ. Hence, steady-state transfers"
+"are given by tss¼ymss=ð1þpssÞ¼ymss=ð1þyÞ, and the budget constraint (2.17)"
+reduces to the economy’s resource constraint
+css¼fðkssÞ/C0dkss: ð2:21Þ
+The steady-state level of consumption per capita is equal to output minus replace-
+ment investment and is completely determined once the level of steady-state capital
+"is known. Assuming that fðkÞ¼ka, then kssis given by (2.20) and"
+css¼ab
+1þbðd/C01Þ/C20/C21a=ð1/C0aÞ
+/C0dab
+1þbðd/C01Þ/C20/C211=ð1/C0aÞ
+:
+"Steady-state consumption per capita depends on the parameters of the productionfunction ðaÞ, the rate of depreciation ðdÞ, and the subjective rate of time discount ðbÞ."
+The Sidrauski MIU model exhibits a property called the superneutrality of
+"money ; the steady-state values of the capital stock, consumption, and output are all42 2 Money-in-the-Utility Function"

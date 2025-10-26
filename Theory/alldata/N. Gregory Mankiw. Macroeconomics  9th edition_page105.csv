@@ -1,0 +1,42 @@
+﻿Content
+CHAPTER 4 The Monetary System: What It Is and How It Works | 91
+"This process of money creation can continue forever, but it does not create "
+an inﬁnite 
+"amount of money. Letting rr denote the reserve–deposit ratio, the "
+"amount of money that the original $1,000 creates is"
+" Original Deposit 5 $1,000"
+" Firstbank Lending 5 (1 2 rr) 3 $1,000"
+" Secondbank Lending 5 (1 2 rr)2 3 $1,000"
+" Thirdbank Lending 5 (1 2 rr)3 3 $1,000"
+ T otal Money Supply 5 [1 1 (1 2 rr) 1 (1 2 rr)2
+" 1 (1 2 rr)3 1 . . . ] 3 $1,000"
+" 5 (1/rr ) 3 $1,000."
+"Each $1 of reserves generates $(1/ rr) of money. In our example, rr 5 0.2, so the "
+"original $1,000 generates $5,000 of money.4"
+The banking system’s ability to create money is the primary difference 
+"between banks and other ﬁnancial institutions. As we ﬁrst discussed in Chapter 3, "
+ﬁnancial markets have the important function of transferring the economy’s 
+resources from those households that wish to save some of their income for the 
+future to those households and ﬁrms that wish to borrow to buy investment 
+goods to be used in future production. The process of transferring funds from 
+savers to borrowers is called ﬁnancial intermediation. Many institutions in the 
+economy act as ﬁnancial intermediaries: the most prominent examples are the 
+"stock market, the bond market, and the banking system. Y et, of these ﬁnancial "
+"institutions, only banks have the legal authority to create assets (such as check-"
+"ing accounts) that are part of the money supply. Therefore, banks are the only "
+ﬁnancial institutions that directly inﬂuence the money supply.
+"Note that although the system of fractional–reserve banking creates money, "
+"it does not create wealth. When a bank loans out some of its reserves, it gives "
+borrowers the ability to make transactions and therefore increases the supply of 
+"money. The borrowers are also undertaking a debt obligation to the bank, how-"
+"ever, so the loan does not make them wealthier. In other words, the creation of "
+"money by the banking system increases the economy’s liquidity, not its wealth."
+"Bank Capital, Leverage, and Capital Requirements"
+The model of the banking system presented so far is simpliﬁed. That is not 
+necessarily a pr
+"oblem; after all, all models are simpliﬁed. But it is worth drawing "
+attention to one particular simplifying assumption.
+4Mathematical note:  The last step in the derivation of the total money supply uses the algebraic result for 
+"the sum of an inﬁnite geometric series. According to this result, if x is a number between 21 and 1, then"
+1 1 x 1 x2 1 x3 1 . . . 5 1/(1 2 x).
+"In this application, x 5 (1 2 rr ).."

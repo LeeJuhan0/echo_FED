@@ -1,0 +1,47 @@
+﻿Content
+prices. This latter e¤ect increases the real wage in terms of producer prices. Equa-
+tions (9.37) and (9.38) make demand in each country an increasing function of out-
+put in the other to reﬂect spillover e¤ects that arise as an increase in output in one
+country raises demand for the goods produced by the other. A rise in rt(a real do-
+mestic depreciation) makes domestically produced goods less expensive relative toforeign goods and shifts demand away from foreign output and toward home output.
+"To simplify the analysis, the inﬂation rate is treated as the choice variable of the"
+policymaker. An alternative approach to treating inﬂation as the policy variablewould be to specify money demand relationships for each country and then take the
+nominal money supply as the policy instrument. This would complicate the analysis
+without o¤ering any new insights.
+A third approach would be to replace r
+"twith it/C0Etptþ1, where itis the nominal"
+"interest rate, and treat itas the policy instrument. An advantage of this approach is"
+that it more closely reﬂects the way most central banks actually implement policy.Because a number of new issues arise under nominal interest rate policies (see sec-
+"tion 8.3.3), policy is interpreted as choosing the rate of inﬂation in order to focus,"
+"in this section, on the role of policy coordination. Finally, a further simpliﬁcation isreﬂected in the assumption that the parameters (the a"
+0
+iandb0
+i) are the same in the two
+countries.
+Demand ðut;u/C3
+tÞand supply ðet;e/C3
+tÞshocks are included to introduce a role for sta-
+"bilization policy. These disturbances are assumed to be mean zero serially uncorre-lated processes, but here they are allowed to be correlated to distinguish between"
+common shocks that a¤ect both economies and asymmetric shocks that originate in
+a single economy.
+Equation (9.39) is an uncovered interest rate parity condition. Rewritten in the
+form r
+t¼r/C3
+"tþEtrtþ1/C0rt, it implies that the home country real interest rate will"
+exceed the foreign real rate if the home country is expected to experience a real
+depreciation.
+Evaluating outcomes under coordinated and noncoordinated policies requires
+some assumption about the objective functions of the policymakers. In models built
+"more explicitly on the behavior of optimizing agents, alternative policies could be"
+ranked according to their implications for the utility of the agents in the economies.
+Here a common approach is followed in which polices are evaluated on the basis of
+loss functions that depend on output variability and inﬂation variability:
+Vt¼Xy
+i¼0biðly2
+tþiþp2
+tþiÞð 9:40Þ
+V/C3
+t¼Xy
+i¼0bi½lðy/C3
+tþiÞ2þðp/C3
+tþiÞ2/C138: ð9:41Þ9.3 Policy Coordination 415

@@ -1,0 +1,2 @@
+﻿content
+"Using the aggregate supply relationship (11.12), the equilibrium inflation rate is pt = p + (1/a)(a/(a + c))((mt - pt-1 - vt)) + (c/(a + c))(ut + ap) - zt = [(a(a + c) + acp + (a(mt - pt-1 - vt)) + (cut - (a + c)zt)/(a(a + c) + a)]. The value of mt consistent with pt = p is therefore mt = (1 - c)p + pt-1 + (c/a)(ut + (1 + c/a)zt + vt). If the money supply must be set before observing the time t shocks, the optimal target for m is m^t = (1 - c)p + pt-1 + (c/a)(ruut-1 + (1 + c/a)(rzzt-1 + rvvt-1)."

@@ -1,0 +1,13 @@
+### PAPER
+Quantifying the Role of Interest Rates  the Dollar and Covid in Oil Prices
+
+### SUMMARY
+The thesis titled Quantifying the Role of Interest Rates  the Dollar and Covid in Oil Prices by Emanuel Kohlscheen  published as BIS Working Paper No. 1040  explores the dynamics of oil price movements using a sophisticated machine learning approach. The study employs an agnostic random forest model  which consists of 1 000 regression trees  to analyze the impact of various factors on oil prices. This model significantly reduces in-sample root mean square errors (RMSEs) by 65% compared to a standard linear least square model using the same set of 11 explanatory factors. In forecasting exercises  the RMSE reduction ranges between 51% and 68%  underscoring the importance of non-linearities in oil markets.
+
+The research highlights the critical role of financial factors in oil price models  particularly US interest rates  the dollar  and the VIX  which together account for 39% of the model's RMSE reduction in the post-2010 sample  increasing to 48% in the post-2020 sample. When Covid-19 is included as a risk factor  these shares become even larger. The study emphasizes the asset price nature of oil prices  which react swiftly to relevant news  as demonstrated by the significant drop in Brent oil prices following the WHO's announcement of the omicron variant in November 2021.
+
+The paper contributes to the literature by examining oil price changes since 2010  focusing on the effects of the dollar's value  market interest rates  overall market volatility  and Covid-19. The random forest model used in the study is flexible and can accommodate non-linear relationships and interactions between variables  providing a superior description of these relationships compared to traditional econometric models.
+
+The findings align with previous literature on the relevance of global activity levels for oil prices  as well as the inverse relationship between the US dollar's value and oil prices. The study also finds that global Covid-19 deaths have an asymmetric effect on oil prices  with increasing casualties pushing prices down  while reductions in casualties have little marginal effect.
+
+The paper builds on existing research by using daily data for more accurate forecasts and incorporates machine learning techniques  specifically random forests  which have been shown to perform well in economic forecasting. The study's results have implications for understanding the complex dynamics of oil prices and the importance of incorporating financial factors into oil market models.

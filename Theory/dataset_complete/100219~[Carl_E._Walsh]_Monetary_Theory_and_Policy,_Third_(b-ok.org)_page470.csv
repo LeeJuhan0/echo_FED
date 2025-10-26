@@ -1,0 +1,55 @@
+﻿Content
+Individual Product Demand
+The demand functions faced by individual producers are obtained as the solution to
+the following problem:
+maxð1
+0cðzÞqdz/C20/C21 1=q
+subject toð1
+0pðzÞcðzÞdz¼Z
+for a given total expenditure Z. Letting ydenote the Lagrangian multiplier associ-
+"ated with the budget constraint, the ﬁrst-order conditions imply, for all z,"
+cðzÞq/C01ð1
+0cðzÞqdz/C20/C21 1=q/C01
+¼ypðzÞ:
+"For any two goods zandz0, therefore, ½cðzÞ=cðz0Þ/C138q/C01¼pðzÞ=pðz0Þ,o r"
+cðzÞ¼cðz0Þpðz0Þ
+pðzÞ/C20/C211=ð1/C0qÞ
+:
+"If this expression is substituted into the budget constraint, one obtains"
+ð1
+0pðzÞcðz0Þpðz0Þ
+pðzÞ/C20/C211=ð1/C0qÞ
+dz¼cðz0Þpðz0Þ1=ð1/C0qÞð1
+0pðzÞq=ðq/C01Þdz/C20/C21
+¼Z: ð9:96Þ
+"Using the deﬁnition of Pgiven in (9.3), both sides of (9.96) can be divided by Pto"
+yield
+cðz0Þpðz0Þ1=ð1/C0qÞ½Ð1
+0pðzÞq=ðq/C01Þdz/C138
+½Ð1
+0pðzÞq=ðq/C01Þdz/C138ðq/C01Þ=q¼Z
+P:
+This can be simpliﬁed to
+cðz0Þpðz0Þ
+P/C20/C211=ð1/C0qÞ
+¼Z
+Porcðz0Þ¼pðz0Þ
+P/C20/C211=ðq/C01Þ
+C; ð9:97Þ
+where C¼Z
+Pis total real consumption of the composite good. Equation (9.97)
+"implies that the demand for good zby agent jis equal to cjðzÞ¼½ pðzÞ=P/C1381=ðq/C01ÞCj,"
+so the world demand for product zwill be equal to
+yd
+tðzÞ1nptðzÞ
+Pt/C20/C211=ðq/C01Þ
+Ctþð1/C0nÞp/C3
+tðzÞ
+P/C3
+t/C20/C211=ðq/C01Þ
+C/C3
+t
+¼ptðzÞ
+Pt/C20/C211=ðq/C01Þ
+Cw
+t; ð9:98Þ9.7 Appendix 445

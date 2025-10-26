@@ -1,0 +1,47 @@
+﻿Content
+The parameter bis a discount factor between 0 and 1. The weight attached to output
+ﬂuctuations relative to inﬂation ﬂuctuations is l. These objective functions are ad
+"hoc, but they capture the idea that policymakers prefer to minimize output ﬂuctua-"
+tions around the steady state and ﬂuctuations of inﬂation. 14Objective functions of
+"this basic form have played a major role in the analysis of policy. They reﬂect theassumption that steady-state output will be independent of monetary policy, so pol-icy should focus on minimizing ﬂuctuations around the steady state, not on the level"
+of output.
+The model can be solved to yield expressions for equilibrium output in each
+"economy and for the real exchange rate. To obtain the real exchange rate, ﬁrst"
+"subtract foreign aggregate demand (9.38) from domestic aggregate demand (9.37),"
+using the interest parity condition (9.39) to eliminate r
+t/C0r/C3
+t. This process yields
+an expression for yt/C0y/C3
+"t. Next, subtract foreign aggregate supply (9.36) from do-"
+mestic aggregate supply (9.35) to yield a second expression for yt/C0y/C3
+t. Equating
+these two expressions and solving for the equilibrium real exchange rate leads to thefollowing:
+r
+t¼1
+Bfb2ð1þa3Þ½ðpt/C0Et/C01ptÞ/C0ð p/C3
+t/C0Et/C01p/C3
+tÞ/C138
+þð1þa3Þðet/C0e/C3
+tÞ/C0ðut/C0u/C3
+tÞþa2Etrtþ1g; ð9:42Þ
+where B12a1þa2þ2b1ð1þa3Þ>0. An unanticipated rise in domestic inﬂation
+relative to unanticipated foreign inﬂation or in etrelative to e/C3
+twill increase domestic
+output supply relative to foreign output. Equilibrium requires a decline in the relative
+"price of domestic output; the real exchange rate rises (depreciates), shifting demand"
+toward domestic output. If the domestic aggregate demand shock exceeds the foreign
+"shock, ut/C0u/C3"
+"t>0, the relative price of domestic output must rise ( rmust fall) to"
+shift demand toward foreign output. A rise in the expected future exchange ratealso leads to a rise in the current equilibrium r.I fr were to increase by the same
+amount as the rise in E
+"trtþ1, the interest di¤erential rt/C0r/C3"
+"twould be left unchanged,"
+"but the higher rwould, from (9.35) and (9.36), lower domestic supply relative to for-"
+eign supply. So rrises by less than the increase in E trtþ1to maintain goods market
+equilibrium. 15
+14. The steady-state values of yand y/C3are zero by deﬁnition. The assumption that the policy loss
+"functions depend on the variance of output around its steady-state level, and not on some higher output"
+"target, is critical for the determination of average inﬂation. Chapter 7 deals extensively with the time in-"
+consistency issues that arise when policymakers target a level of output that exceeds the economy’s equilib-
+rium level.
+"15. The coe‰cient on E trtþ1,a2=Bis less than 1 in absolute value.416 9 Money and the Open Economy"

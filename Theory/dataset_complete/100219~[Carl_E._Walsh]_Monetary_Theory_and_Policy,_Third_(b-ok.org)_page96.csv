@@ -1,0 +1,40 @@
+﻿Content
+consistent with the decline in real money demand that occurs as a result of the in-
+crease in the nominal interest rate.
+To actually determine how the equilibrium responds to money growth rate
+"shocks and how the response depends quantitatively on ruandf, one must calibrate"
+the parameters of the model and numerically solve for the rational-expectationsequilibrium.
+2.5.4 Calibration
+Thirteen parameters appear in the equations that characterize behavior around the
+"steady state: a,d,r"
+"z,s2"
+"e,b,a,b,h,F,yss,ru,f,s2"
+j. Some of these parameters are
+"common to standard real-business-cycle models; for example, Cooley and Prescott(1995, 22) reported values of, in the present notation, a(the share of capital income"
+"in total income), d(the rate of depreciation of physical capital), r"
+z(the autoregressive
+"coe‰cient in the productivity process), se(the standard deviation of productivity"
+"innovations), and b(the subjective rate of time discount in the utility function). These"
+values are based on a time period equal to three months (one quarter). Cooley and
+Prescott’s values are adopted except for the depreciation rate d; Cooley and Prescott
+calibrated d¼0:012 based on a model that explicitly incorporates growth. Here the
+"somewhat higher value of 0: 019 given in Cooley and Hansen (1995, 201) is used. The"
+value of seis set to match the standard deviation of quarterly HP-ﬁltered log U.S.
+real GDP for the 1959–2008 period of 1: 5 percent. For the period from 1984 to
+"2007, the average annual growth rate of M1 in the United States was 4.1 percent,"
+and the growth rate of MZM was 7.2 percent. An annual rate of 4 percent (7 per-cent) would imply a quarterly value of 1 :01 (1 :017) for 1 þy
+"ss, so set 1 þyss¼1:01"
+to match M1. Estimating an AR(1) process for M1 growth yields ru¼0:75 with a
+"value of 0 :9 for sj, the standard deviation of innovations to the nominal money"
+growth rate. 41Various alternative values are considered for the autoregression coef-
+"ﬁcient for money growth, ru, and the coe‰cient on the productivity shock, f, to see"
+how the implications of the model are a¤ected by the manner in which money
+growth evolves.
+The remaining parameters are those in the utility function. The value of Ccan be
+"chosen so that the steady-state value of nssis equal to one-third, as in Cooley and"
+"Prescott. The results of table 2.1 suggest a value of at least 7 for bfor MZM, but"
+"estimates for M1 (not reported) suggest a lower value, closer to 3. The chapter ap-"
+pendix shows that the steady-state value of real money balances relative to consump-tion is equal to ða1
+"ss=ð1/C0aÞÞ/C01=b,1ss¼ð1þyss/C0bÞ=ð1þyssÞ. For real M1, this"
+ratio in the data is about 0 :8 when consumption is expressed at a quarterly rate. If
+"41. For the growth rate of MZM, one obtains ru¼0:68 with a value of 4.1 for sj.2.5 Dynamics in an MIU Model 71"

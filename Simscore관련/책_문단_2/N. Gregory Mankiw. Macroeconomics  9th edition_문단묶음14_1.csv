@@ -1,0 +1,202 @@
+﻿id,paragraph
+1,"The money demand function is like the demand function for a particular
+good. Here the “good” is the convenience of holding real money balances. Just
+as owning an automobile makes it easier for a person to travel, holding money
+makes it easier to make transactions. Therefore, just as higher income leads to a
+greater demand for automobiles, higher income also leads to a greater demand
+for real money balances."
+2,"This money demand function offers another way to view the quantity equation. To see this, add to the money demand function the condition that the
+demand for real money balances (M/P )
+d must equal the supply M/P. Therefore,
+M/P 5 kY.
+A simple rearrangement of terms changes this equation into
+M(1/k) 5 PY,
+which can be written as
+MV 5 PY,
+where V 5 1/k. These few steps of simple mathematics show the link between
+the demand for money and the velocity of money. When people want to hold
+a lot of money for each dollar of income (k is large), money changes hands
+infrequently (V is small). Conversely, when people want to hold only a little
+money (k is small), money changes hands frequently (V is large). In other words,
+the money demand parameter k and the velocity of money V are opposite sides
+of the same coin."
+3,"The Assumption of Constant Velocity
+The quantity equation can be viewed as a definition: it defines velocity V as
+the ratio of nominal GDP, PY, to the quantity of money M. Yet if we make the
+additional assumption that the velocity of money is constant, then the quantity
+equation becomes a useful theory about the effects of money, called the
+quantity theory of money.
+Like many of the assumptions in economics, the assumption of constant
+velocity is only a simplification of reality. Velocity does change if the money
+demand function changes. For example, when automatic teller machines were
+introduced, people could reduce their average money holdings, which meant a
+fall in the money demand parameter k and an increase in velocity V. Nonetheless, experience shows that the assumption of constant velocity is a useful one
+in many situations. Let’s therefore assume that velocity is constant and see what
+this assumption implies about the effects of the money supply on the economy."
+4,"With this assumption included, the quantity equation can be seen as a theory
+of what determines nominal GDP. The quantity equation says
+MV– 5 PY,
+where the bar over V means that velocity is fixed. Therefore, a change in the
+quantity of money (M ) must cause a proportionate change in nominal GDP (PY ).
+That is, if velocity is fixed, the quantity of money determines the dollar value of
+the economy’s output."
+5,"Money, Prices, and Inflation
+We now have a theory to explain what determines the economy’s overall level
+of prices. The theory has three building blocks:
+1. The factors of production and the production function determine the level
+of output Y. We borrow this conclusion from Chapter 3.
+2. The money supply M set by the central bank determines the nominal value
+of output PY. This conclusion follows from the quantity equation and the
+assumption that the velocity of money is fixed.
+3. The price level P is then the ratio of the nominal value of output PY to the
+level of output Y."
+6,"In other words, the productive capability of the economy determines real GDP,
+the quantity of money determines nominal GDP, and the GDP deflator is the
+ratio of nominal GDP to real GDP.
+This theory explains what happens when the central bank changes the supply
+of money. Because velocity V is fixed, any change in the money supply M must
+lead to a proportionate change in the nominal value of output PY. Because
+the factors of production and the production function have already determined
+output Y, the nominal value of output PY can adjust only if the price level
+P changes. Hence, the quantity theory implies that the price level is proportional
+to the money supply."
+7,"Because the inflation rate is the percentage change in the price level, this
+theory of the price level is also a theory of the inflation rate. The quantity equation, written in percentage-change form, is
+% Change in M 1 % Change in V 5 % Change in P 1 % Change in Y.
+Consider each of these four terms. First, the percentage change in the quantity
+of money M is under the control of the central bank. Second, the percentage change in velocity V reflects shifts in money demand; we have assumed
+that velocity is constant, so the percentage change in velocity is zero. Third,
+the percentage change in the price level P is the rate of inflation; this is the
+variable in the equation that we would like to explain. Fourth, the percentage
+change in output Y depends on growth in the factors of production and on
+technological progress, which for our present purposes we are taking as given."
+8,"This analysis tells us that (except for a constant that depends on exogenous
+growth in output) the growth in the money supply determines the rate of
+inflation.
+Thus, the quantity theory of money states that the central bank, which controls the
+money supply, has ultimate control over the rate of inflation. If the central bank keeps the
+money supply stable, the price level will be stable. If the central bank increases the money
+supply rapidly, the price level will rise rapidly."
+9,"of Chicago Press, 1982).
+FIGURE 5-1
+Growth in money supply (percent)
+1970s
+1910s
+1940s
+1980s
+1960s
+1950s
+Correlation=0.79
+1990s
+2000s
+1930s
+1920s
+1870s
+1890s
+1880s
+1900s
+Inflation rate
+(percent)
+0 2 4 6 8 10 12 14
+8
+6
+4
+2
+0
+–2
+–4
+Historical Data on U.S. Inflation and Money Growth In this
+scatterplot of money growth and inflation, each point represents
+a decade. The horizontal axis shows the average growth in the
+money supply (as measured by M2) over the decade, and the vertical axis shows the average rate of inflation (as measured by the
+GDP deflator). The positive correlation between money growth
+and inflation is evidence for the quantity theory’s prediction that
+high money growth leads to high inflation."
+10,"Data from: For the data through the 1960s: Milton Friedman and Anna J. Schwartz,
+Monetary Trends in the United States and the United Kingdom: Their Relation to Income,
+Prices, and Interest Rates 1867–1975 (Chicago: University of Chicago Press, 1982).
+For recent data: U.S. Department of Commerce and Federal Reserve Board.
+Inflation and Money Growth
+“Inflation is always and everywhere a monetary phenomenon.” So wrote Milton
+Friedman, the great economist who won the Nobel Prize in economics in 1976.
+The quantity theory of money leads us to agree that the growth in the quantity
+of money is the primary determinant of the inflation rate. Yet Friedman’s claim
+is empirical, not theoretical. To evaluate his claim, and to judge the usefulness
+of our theory, we need to look at data on money and prices."
+11,"FIGURE 5-2
+Inflation rate
+(percent)
+80
+90
+Money supply growth (percent)
+10 20 30 40 50 60 70
+Switzerland
+Malta
+Singapore
+Correlation=0.72
+Argentina
+Iraq
+Turkey
+Belarus
+Angola
+China, Mainland
+Democratic Republic
+of Congo
+–10
+10
+0
+20
+30
+40
+50
+60
+70
+0
+International Data on Inflation and Money Growth In this scatterplot, each point
+represents a country. The horizontal axis shows the average growth in the money supply
+(as measured by M2) during the period 2000 to 2013, and the vertical axis shows the average rate of inflation (as measured by the CPI). Once again, the positive correlation is evidence for the quantity theory’s prediction that high money growth leads to high inflation."
+12,"Data from: International Monetary Fund.
+plots the average rate of money growth and the average rate of inflation in the
+United States over each decade since the 1870s. The data verify the link between
+inflation and growth in the quantity of money. Decades with high money growth
+(such as the 1970s) tend to have high inflation, and decades with low money
+growth (such as the 1930s) tend to have low inflation."
+13,"As you may have learned in a statistics class, one way to quantify a relation
+ship
+between two variables is with a measure called correlation. A correlation is 11 if
+the two variables move exactly in tandem, 0 if they are unrelated, and 21 if they
+move exactly opposite each other. In Figure 5-1, the correlation is 0.79."
+14,"Figure 5-2 examines the same question using international data. It shows the
+average rate of inflation and the average rate of money growth in 126 countries
+during the period from 2000 to 2013. Again, the link between money growth
+and inflation is clear. Countries with high money growth (such as Angola and
+Belarus) tend to have high inflation, and countries with low money growth (such as
+Singapore and Switzerland) tend to have low inflation. The correlation here is 0.72."
+15,"If we looked at monthly data on money growth and inflation, rather than data
+for decade-long periods, we would not see as close a connection between these
+two variables. This theory of inflation works best in the long run, not in the
+short run. We examine the short-run impact of changes in the quantity of money
+when we turn to economic fluctuations in Part Four of this book. n"
+16,"5-2 Seigniorage: The Revenue from
+Printing Money
+So far, we have seen how growth in the money supply causes inflation. With
+inflation as a consequence, what would ever induce a central bank to increase
+the money supply substantially? Here we examine one answer to this question."
+17,"Let’s start with an indisputable fact: all governments spend money. Some of
+this spending is to buy goods and services (such as roads and police), and some is
+to provide transfer payments (for the poor and elderly, for example). A government can finance its spending in three ways. First, it can raise revenue through
+taxes, such as personal and corporate income taxes. Second, it can borrow from
+the public by selling government bonds. Third, it can print money."
+18,"The revenue raised by the printing of money is called seigniorage. The term
+comes from seigneur, the French word for “feudal lord.” In the Middle Ages,
+the lord had the exclusive right on his manor to coin money. Today this right
+belongs to the central government, and it is one source of revenue."
+19,"When the government prints money to finance expenditure, it increases
+the money supply. The increase in the money supply, in turn, causes inflation.
+Printing money to raise revenue is like imposing an inflation tax."
+20,"At first it may not be obvious that inflation can be viewed as a tax. After all,
+no one receives a bill for this tax—the government merely prints the money it
+needs. Who, then, pays the inflation tax? The answer is the holders of money.
+As prices rise, the real value of the money in your wallet falls. Therefore, when
+the government prints new money for its use, it makes the old money in the
+hands of the public less valuable. Inflation is like a tax on holding money."

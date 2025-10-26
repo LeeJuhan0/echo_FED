@@ -1,0 +1,47 @@
+﻿Content
+"CHAPTER 9 Economic Growth II: Technology, Empirics, and Policy | 243"
+The ter
+m L  E can be interpreted as measuring the effective number of workers . 
+It takes into account the number of actual workers L and the efﬁciency of each 
+"worker E. In other words, L measures the number of workers in the labor force, "
+whereas L  E measures both the workers and the technology with which the 
+typical worker comes equipped. This new production function states that total 
+output Y depends on the inputs of capital K and effective workers L  E.
+The essence of this approach to modeling technological progress is that 
+increases in the efﬁciency of labor E are analogous to increases in the labor 
+"force L. Suppose, for example, that an advance in production methods makes the "
+efﬁciency of labor E double between 1980 and 2015. This means that a single 
+"worker in 2015 is, in effect, as productive as two workers were in 1980. That is, "
+"even if the actual number of workers (L ) stays the same from 1980 to 2015, the "
+"effective number of workers ( L  E) doubles, and the economy beneﬁts from "
+the increased production of goods and services.
+The simplest assumption about technological progress is that it causes the 
+"efﬁciency of labor E to grow at some constant rate g. For example, if g 5 0.02, "
+then each unit of labor becomes 2 percent more efﬁcient each year: output 
+increases as if the labor force had increased by 2 percent more than it really did. 
+"This form of technological progress is called labor augmenting, and g is called the "
+rate of labor-augmenting technological progress . Because the labor force L 
+"is growing at rate n, and the efﬁciency of each unit of labor E is growing at rate g, "
+the effective number of workers L  E is growing at rate n  g.
+The Steady State With Technological Progress
+"Because technological progress is modeled here as labor augmenting, it ﬁts into "
+the model in m
+uch the same way as population growth. T echnological progress 
+"does not cause the actual number of workers to increase, but because each worker "
+"in effect comes with more units of labor over time, technological progress causes "
+"the effective number of workers to increase. Thus, the analytic tools we used in "
+Chapter 8 to study the Solow model with population growth are easily adapted 
+to studying the Solow model with labor-augmenting technological progress.
+"We begin by reconsidering our notation. Previously, before we added tech-"
+"nological progress, we analyzed the economy in terms of quantities per worker; "
+now we can generalize that approach by analyzing the economy in terms of 
+quantities per effective worker. We now let k 5 K/(L  E) stand for capital per 
+effective worker and y 5 Y/(L  E) stand for output per effective worker. With 
+"these deﬁnitions, we can again write y 5 f(k)."
+Our analysis of the economy proceeds just as it did when we examined popu-
+lation growth. The equation showing the evolution of k over time becomes
+Dk 5 sf(k)  (  n  g)k.
+"As before, the change in the capital stock Dk equals investment sf (k) minus "
+"break-even investment (   n  g)k. Now, however, because k 5 K/(L  E), "
+"break-even investment includes three terms: to keep k constant, k is needed "
+"to replace depreciating capital, nk is needed to provide capital for new workers, "

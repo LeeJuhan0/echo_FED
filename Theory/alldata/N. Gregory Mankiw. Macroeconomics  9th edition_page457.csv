@@ -1,0 +1,44 @@
+﻿Content
+CHAPTER 15 A Dynamic Model of Economic Fluctuations | 449
+We ar
+e almost ready to put these pieces together to see how various shocks 
+"to the economy inﬂuence the paths of these variables over time. Before doing so, "
+"however, we need to establish the starting point for our analysis: the economy’s "
+long-run equilibrium.
+The Long-Run Equilibrium
+The long-run equilibrium represents the normal state around which the econ-
+omy ﬂuctuates.
+ It occurs when there are no shocks ( et 5 yt 5 0) and inﬂation 
+has stabilized ( pt 5 pt 21).
+Straightforward algebra applied to the model’s ﬁve equations can be used to 
+determine the long-run values of the ﬁve endogenous variables:
+ Yt 5 Y–
+t.
+ rt 5 r.
+ pt 5 pt*.
+ Etpt 11 5 pt*.
+ it 5 r 1 pt*.
+"In words, the long-run equilibrium is described as follows: output and the real "
+"interest rate are at their natural values, inﬂation and expected inﬂation are at the "
+"target rate of inﬂation, and the nominal interest rate equals the natural rate of "
+interest plus target inﬂation.
+The long-run equilibrium of this model reﬂects two related principles: the 
+classical dichotomy and monetary neutrality. Recall that the classical dichotomy 
+is the separation of real from nominal variables and that monetary neutrality 
+is the property according to which monetary policy does not inﬂuence real 
+variables. The equations immediately above show that the central bank’s inﬂa-
+"tion target pt* inﬂuences only inﬂation pt, expected inﬂation Etpt 11, and the "
+"nominal interest rate i t. If the central bank raises its inﬂation target, then inﬂation, "
+"expected inﬂation, and the nominal interest rate all increase by the same amount. "
+Monetary policy does not inﬂuence the real variables—output Yt and the real 
+"interest rate rt. In these ways, the long-run equilibrium of the dynamic AD –AS "
+model mirrors the classical models we examined in Chapters 3 to 9.
+The Dynamic Aggregate Supply Curve
+"T o study the behavior of this economy in the short run, it is useful to analyze "
+the model graphically
+". Because graphs have two axes, we need to focus on two "
+variables. We will use output Yt and inﬂation pt as the variables on the two axes 
+because these are the variables of central interest. As in the conventional AD –AS 
+"model, output will be on the horizontal axis. But because the price level has now "
+"faded into the background, the vertical axis in our graphs will now represent the "
+inﬂation rate.

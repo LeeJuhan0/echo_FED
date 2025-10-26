@@ -1,0 +1,35 @@
+﻿Content
+"In a cash-and-credit-goods economy, the inﬂation tax is no longer redundant if"
+the government cannot set di¤erent commodity taxes on the two types of goods. So
+"returning to the model with both cash and credit goods, the ﬁrst-order conditions for"
+the household’s decision problem imply that consumption and leisure will be chosen
+such that
+U1ðc1;t;c2;t;ltÞ
+U2ðc1;t;c2;t;ltÞ¼1þit:
+The analysis of Atkinson and Stiglitz (1972) implies that if preferences are homo-
+"thetic in c1;tandc2;t, the ratio of the marginal utility of cash and credit goods should"
+"equal 1, the ratio of their production prices. This occurs only if i¼0; hence, homo-"
+thetic preferences imply that the nominal rate of interest should be set equal to zero.
+But this is just the Friedman rule for the optimal rate of inﬂation.
+"Thus, the optimal inﬂation tax should be zero if for all l>0,"
+U1ðlc1;t;lc2;t;ltÞ
+U2ðlc1;t;lc2;t;ltÞ¼U1ðc1;t;c2;t;ltÞ
+U2ðc1;t;c2;t;ltÞ; ð4:60Þ
+in which case the utility function has the form
+Uðc1;c2;lÞ¼Vðfðc1;c2Þ;lÞ;
+"where fis homogeneous of degree 1. If this holds, the government should avoid"
+using the inﬂation tax even though it must rely on other distortionary taxes. Positive
+nominal rates of interest impose an e‰ciency cost by distorting the consumer’s choice
+between cash and credit goods. 37
+How reasonable is this condition? Recall that no explanation has been o¤ered for
+"why one good is a cash good and the other is a credit good. This distinction has sim-ply been assumed, and therefore it is di‰cult to argue intuitively why the preferences"
+for cash and credit goods should (or should not) satisfy condition (4.60). In aggregate
+"analysis, it is common to combine all goods into one composite good; this is standard"
+"in writing utility as uðc;lÞ,w i t h crepresenting an aggregation over all consumption"
+goods. Interpreting casfðc
+"1;c2Þ, where fis a homogeneous of degree 1 aggregator"
+"function, implies that preferences would satisfy the properties necessary for the opti-"
+"mal inﬂation tax to be zero. However, this is not an innocuous restriction. It requires,"
+"for example, that the ratio of the marginal utility of co¤ee at the local co¤ee cart (a"
+"37. As Chari, Christiano, and Kehoe (1996) noted, the preference restrictions are su‰cient for the Fried-"
+"man rule to be optimal but not necessary. For example, in the cash/credit model, suppose preferences arenot homothetic and the optimal tax structure calls for taxing credit goods more heavily. A positive nomi-nal interest rate taxes cash goods, and negative nominal rates are not feasible. Thus, a corner solution canarise in which the optimal nominal interest rate is zero. This assumes that the government cannot imposeseparate goods taxes on cash and credit goods.4.6 Optimal Taxation and Seigniorage 183"

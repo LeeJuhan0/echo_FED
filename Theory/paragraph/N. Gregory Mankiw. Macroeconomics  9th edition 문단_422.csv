@@ -1,0 +1,9 @@
+﻿content
+"The Supply of Goods and the Production Function The supply of goods in the Solow model is based on the production function, which states that output depends on the capital stock and the labor force:
+Y 5 F (K, L).
+The Solow growth model assumes that the production function has constant returns to scale. This assumption is often considered realistic, and, as we will see shortly, it helps simplify the analysis. Recall that a production function has constant returns to scale if
+zY 5 F (zK, zL)
+for any positive number z. That is, if both capital and labor are multiplied by z, the amount of output is also multiplied by z.
+Production functions with constant returns to scale allow us to analyze all quantities in the economy relative to the size of the labor force. To see that this is true, set z 5 1/L in the preceding equation to obtain
+Y/L 5 F (K/L, 1).
+This equation shows that the amount of output per worker Y/L is a function of the amount of capital per worker K/L. (The number 1 is constant and thus can be ignored.) The assumption of constant returns to scale implies that the size of the economy—as measured by the number of workers—does not affect the relationship between output per worker and capital per worker."

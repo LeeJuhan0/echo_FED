@@ -1,0 +1,37 @@
+﻿Content
+capital do not play a major role. The equations characterizing equilibrium in the
+resulting MIU model are
+yt¼ð1/C0aÞntþet ð6:1Þ
+yt¼ct ð6:2Þ
+yt/C0nt¼wt/C0pt ð6:3Þ
+FEtðctþ1/C0ctÞ/C0rt¼0 ð6:4Þ
+hnss
+1/C0nss/C18/C19
+ntþFct¼wt/C0pt ð6:5Þ
+mt/C0pt¼ct/C01
+biss/C18/C19
+it ð6:6Þ
+it¼rtþEtptþ1/C0pt ð6:7Þ
+mt¼rmmt/C01þst: ð6:8Þ
+All variables are expressed as log derivations from steady state. The system is written
+"in terms of the log price level prather than the inﬂation rate, and in contrast to the"
+"notation of chapter 2, mrepresents the nominal stock of money. Equation (6.1) is the"
+economy’s production function in which output deviations from the steady state are
+a linear function of the deviations of labor supply from steady state and a productiv-
+ity shock. Equation (6.2) is the resource constraint derived from the condition that
+"in the absence of investment or government purchases, output equals consumption."
+Labor demand is derived from the condition that labor is employed up to the point
+where the marginal product of labor equals the real wage. With the Cobb-Douglas
+"production function underlying (6.1), this condition, expressed in terms of percentage"
+"deviations from the steady state, can be written as (6.3).2 Equations (6.4)–(6.6) are"
+"derived from the representative household’s ﬁrst-order conditions for consumption,"
+"leisure, and money holdings. Equation (6.7) is the Fisher equation linking the nomi-"
+"nal and real rates of interest. Finally, (6.8) gives the exogenous process for the nom-"
+inal money supply. 3
+"When prices are ﬂexible, (6.1)–(6.5) form a system of equations that can be solved"
+"for the equilibrium time paths of output, labor, consumption, the real wage, and the"
+"2. If Y¼KaN1/C0a, then the marginal product of labor is ð1/C0aÞY=N, where Kis the ﬁxed stock of capi-"
+"tal. In log terms, the real wage is then equal to ln W/C0lnP¼lnð1/C0aÞþlnY/C0lnN, or, in terms of"
+"deviations from steady state, w/C0p¼y/C0n."
+"3. Alternatively, the nominal interest rate itcould be taken as the instrument of monetary policy, with"
+(6.6) then determining mt.6.2 Sticky Prices and Wages 227

@@ -1,0 +1,82 @@
+﻿Content
+C/C3/C0s
+t
+StP/C3
+t¼bEtRt
+Stþ1P/C3
+tþ1/C18/C19
+C/C3/C0s
+tþ1:
+The left side of this expression shows the marginal utility cost at time tof using 1 =St
+units of the foreign currency (worth 1= P/C3
+teach in terms of consumption goods) to
+"obtain one unit of the domestic currency. This is invested in the domestic bond, yield-"
+ing at time tþ1 a gross return Rt. This can be converted into Rt=Stþ1units of foreign
+"currency, worth Rt=ðStþ1P/C3"
+"tþ1Þin terms of foreign consumption, yielding expected"
+utility of E tðRt=Stþ1P/C3
+tþ1ÞC/C3/C0s
+"tþ1. Thus, the right side is the marginal beneﬁt in terms of"
+"utility from this ﬁnancial transaction. Since this payout occurs at time tþ1, it must be"
+discounted at the rate bto compare to the cost of purchasing the ﬁnancial asset. Along
+"the optimal path, the marginal costs and beneﬁts are equal. Rearranging,"
+bEtP/C3
+t
+P/C3
+tþ1/C18/C19St
+Stþ1/C18/C19C/C3
+tþ1
+C/C3
+t/C18/C19/C0s
+¼1
+Rt:
+"Using the law of one price and the deﬁnition of the real exchange rate, this condition"
+can be written as
+bEtPc
+t
+Pc
+tþ1/C18/C19Qt
+Qtþ1/C18/C19C/C3
+tþ1
+C/C3
+t/C18/C19/C0s
+¼1
+Rt:
+"Hence,bE"
+tPc
+t
+Pc
+tþ1/C18/C19Ctþ1
+Ct/C18/C19/C0s
+¼1
+Rt/C18/C19
+¼bEtPc
+t
+Pc
+tþ1/C18/C19Qt
+Qtþ1/C18/C19C/C3
+tþ1
+C/C3
+t/C18/C19/C0s
+;
+which implies
+Ct¼fQ1=s
+tC/C3
+t; ð9:78Þ
+"where fis a constant of proportionality. For convenience, adopt f¼1 as a nor-"
+malization. This is consistent with a symmetric initial condition with zero net for-
+eign asset holdings. In terms of a ﬁrst-order linear approximation around the steady
+"state,"
+ct¼c/C3
+tþ1
+s/C18/C19
+qt¼c/C3
+tþ1/C0g
+s/C18/C19
+dt: ð9:79Þ
+This last equation employs the fact that
+qt¼stþp/C3
+t/C0pc
+t¼dtþph
+t/C0pc
+t¼ð1/C0gÞdt: ð9:80Þ434 9 Money and the Open Economy

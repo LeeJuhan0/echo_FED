@@ -1,0 +1,45 @@
+﻿Content
+Rotemberg (2007) o¤ered an alternative explanation for the persistence of
+observed inﬂation rates that is consistent with the forward-looking new Keynesian
+Phillips curve. He assumed that real marginal cost consists of two unobserved
+components:
+mct¼mcP
+tþmcT
+t;
+where mcis real marginal cost and the two components of mcare each AR(1):
+mci
+t¼rimci
+t/C01þei
+t fori¼fP;Tg:
+"Assume rP>rT,s oPwill denote a more persistent shock and Twill denote the"
+more transitory shock. Assume further that the eiare uncorrelated at all leads and
+"lags, and the variance of eiiss2"
+i. Rotemberg’s key insight is that inﬂation will inherit
+more of the persistence arising from mcPand so can actually be more persistent than
+"total marginal cost. Speciﬁcally, he showed that the solution for inﬂation takes the"
+form
+pt¼k
+1/C0brP/C18/C19
+mcP
+tþk
+1/C0brT/C18/C19
+mcT
+t:
+"Since rP>rT, the coe‰cient on the persistent component of marginal cost is larger"
+than the coe‰cient on the transitory component. The autocovariance of inﬂation is
+"more a¤ected than real marginal cost is by the component that is more persistent, so"
+inﬂation will tend to be more persistent than real marginal cost.
+A ﬁnal explanation for inﬂation persistence emphasizes deviations from rational
+"expectations. For example, following Roberts (1997), suppose"
+pt¼bpe
+t;tþ1þk^v vt;
+where pe
+t;tþ1is the public’s average expectation of ptþ1formed at time t. Suppose fur-
+ther that this expectation is a a mixture of rational and backward-looking:
+pe
+t;tþ1¼aEtptþ1þð1/C0aÞpt/C01:
+Then
+pt¼baEtptþ1þbð1/C0aÞpt/C01þk^v vt:
+"In this case, the presence of lagged inﬂation arises because expectations are not fully"
+"rational. The deviation from rational expectations is ad hoc, but another possibilityis that backward-looking expectations arise because of adaptive learning on the part"
+of the public.6.3 Assessing Alternatives 257

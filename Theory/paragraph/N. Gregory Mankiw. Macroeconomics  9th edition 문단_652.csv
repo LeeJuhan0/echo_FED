@@ -1,0 +1,2 @@
+﻿content
+"2Mathematical note: We prove this algebraic result as follows. For |x| , 1, let z  1 1 x 1 x 2 1 . . . . Multiply both sides of this equation by x: xz 5 x 1 x 2 1 x 3 1 . . . . Subtract the second equation from the first: z 2 xz 5 1. Rearrange this last equation to obtain z(1 2 x) 5 1, which implies z 5 1/(1 2 x). This completes the proof."

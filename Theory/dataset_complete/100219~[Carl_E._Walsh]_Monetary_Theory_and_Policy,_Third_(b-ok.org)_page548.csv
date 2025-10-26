@@ -1,0 +1,42 @@
+﻿Content
+di¤er from p/C3because policy cannot respond to o¤set the e¤ects of the shocks to
+"aggregate supply, aggregate demand, or money demand, but policy will o¤set any"
+expected e¤ects of lagged disturbances to ensure that E t/C01pt¼Etptþ1¼p/C3. Using
+"this result, (11.12) can be used to eliminate ytfrom (11.13) to yield"
+pt¼ðaþaÞp/C3/C0aitþut/C0zt
+a: ð11:16Þ
+"Equation (11.16) shows that, under an interest rate policy, ptis independent of vtand"
+the parameters of the money demand function. If the policymaker had full informa-tion on u
+"tand zt, the optimal policy would be to set the interest rate equal to"
+i/C3
+t¼p/C3þð1=aÞðut/C0ztÞsince this would yield pt¼p/C3. If policy must be set prior to
+"observing the realization of the shocks at time t, the optimal policy can be obtained"
+"by taking expectations of (11.16), conditional on time t/C01 information, yielding the"
+optimal setting for it:
+^{ {¼p/C3þ1
+a/C18/C19
+ðruut/C01/C0rzzt/C01Þ: ð11:17Þ
+Substituting (11.17) into (11.16) shows that the actual inﬂation rate under this policy
+is equal to 15
+ptð^{ {Þ¼p/C3þjt/C0et
+a; ð11:18Þ
+and the value of the loss function is equal to
+Vð^{ {Þ¼1
+21a/C18/C19
+2
+ðs2
+jþs2
+eÞ;
+where s2
+xdenotes the variance of a random variable x.
+An alternative approach to setting policy in this example would be to derive the
+money supply consistent with achieving the target inﬂation rate p/C3and then to
+set the interest rate to achieve this level of mt. Using (11.14) to eliminate itfrom
+"(11.13),"
+yt¼a
+aþc/C18/C19
+ðmt/C0pt/C0pt/C01/C0vtÞþc
+aþc/C18/C19
+ðutþap/C3Þ:
+"Using the aggregate supply relationship (11.12), the equilibrium inﬂation rate is"
+"15. Note that under this policy, E t/C01pt¼p/C3, as assumed.11.3 The Instrument Choice Problem 523"

@@ -1,0 +1,40 @@
+﻿Content
+"GDP and three di¤erent monetary aggregates, each also in detrended log form. 7"
+"Data are quarterly from 1967:1 to 2008:2, and the ﬁgures plot, for the entire sample"
+"and for the subperiod 1984:1–2008:2, the correlation between real GDP tandMtþj"
+"against j, where Mrepresents a monetary aggregate. The three aggregates are the"
+"monetary base (sometimes denoted M0),M1, and M2.M0 is a narrow deﬁnition of"
+"the money supply, consisting of total reserves held by the banking system plus cur-"
+"rency in the hands of the public. M1 consists of currency held by the nonbank public,"
+"travelers checks, demand deposits, and other checkable deposits. M2 consists of M1"
+plus savings accounts and small-denomination time deposits plus balances in retail
+money market mutual funds. The post-1984 period is shown separately because
+1984 often is identiﬁed as the beginning of a period characterized by greater macro-
+"economic stability, at least until the onset of the ﬁnancial crisis in 2007. 8"
+"As ﬁgure 1.1 shows, the correlations with real output change substantially as one"
+moves from M0t o M2. The narrow measure M0 is positively correlated with real
+"GDP at both leads and lags over the entire period, but future M0 is negatively corre-"
+lated with real GDP in the period since 1984. M1 and M2 are positively correlated
+"at lags but negatively correlated at leads over the full sample. In other words, high"
+GDP (relative to trend) tends to be preceded by high values of M1 and M2 but fol-
+lowed by low values. The positive correlation between GDP tandMtþjforj<0
+indicates that movements in money lead movements in output. This timing pattern
+played an important role in M. Friedman and Schwartz’s classic and highly inﬂuen-
+tialA Monetary History of the United States (1963a). The larger correlations between
+"GDP and M2 arise in part from the endogenous nature of an aggregate such as M2,"
+depending as it does on banking sector behavior as well as on that of the nonbank
+"private sector (see King and Plosser 1984; Coleman 1996). However, these patterns"
+"forM2 are reversed in the later period, though M1 still leads GDP. Correlations"
+"among endogenous variables reﬂect the structure of the economy, the nature of"
+"shocks experienced during each period, and the behavior of monetary policy. One"
+objective of a structural model of the economy and a theory of monetary policy is
+to provide a framework for understanding why these dynamic correlations di¤er
+over di¤erent periods.
+Figures 1.3 and 1.4 show the cross-correlations between detrended real GDP and
+several interest rates and between detrended real GDP and the detrended GDP deﬂa-
+"tor. The interest rates range from the federal funds rate, an overnight interbank rate"
+"used by the Federal Reserve to implement monetary policy, to the 1-year and 10-year"
+rates on government bonds. The three interest rate series display similar correlations
+7. Trends are estimated using a Hodrick-Prescott ﬁlter.
+"8. Perhaps reﬂecting the greater volatility during 1967–1983, cross-correlations during this period are sim-"
+"ilar to those obtained using the entire 1967–2008 period.6 1 Empirical Evidence on Money, Prices, and Output"

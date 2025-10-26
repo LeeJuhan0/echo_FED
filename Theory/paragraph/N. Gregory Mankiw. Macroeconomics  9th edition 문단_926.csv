@@ -1,0 +1,59 @@
+﻿content
+"The Short-Run Equilibrium
+The economy’s short-run equilibrium is determined by the intersection of the
+dynamic aggregate demand curve and the dynamic aggregate supply curve. The
+economy can be represented algebraically using the two equations we have just
+derived:
+Yt 5 Y
+–
+t 2 [aup/(1 1 auY)](pt 2 pt
+*
+) 1 [1/(1 1 auY)]et
+. (DAD)
+pt 5 pt 21 1 f(Yt 2 Y
+–
+t
+) 1 yt
+. (DAS )
+In any period t, these equations together determine two endogenous variables:
+inflation pt
+and output Yt
+. The solution depends on five other variables that are
+exogenous (or at least determined prior to period t). These exogenous (and predetermined) variables are the natural level of output Y
+–
+t
+, the central bank’s target
+inflation rate pt
+*, the shock to demand et
+, the shock to supply yt
+, and the previous
+period’s rate of inflation pt 21
+.
+Taking these exogenous variables as given, we can illustrate the economy’s
+short-run equilibrium as the intersection of the dynamic aggregate demand
+curve and the dynamic aggregate supply curve, as in Figure 15-4. The short-run
+equilibrium level of output Yt
+can be less than its natural level Y
+–
+t
+, as it is in this
+figure, greater than its natural level, or equal to it. As we have seen, when the
+economy is in long-run equilibrium, output is at its natural level (Yt 5 Y
+–
+t
+).
+The short-run equilibrium determines not only the level of output Yt
+but
+also the inflation rate pt
+. In the subsequent period (t 1 1), this inflation rate
+will become the lagged inflation rate that influences the position of the dynamic
+aggregate supply curve. This connection between periods generates the dynamic
+patterns that we examine in the next section. That is, one period of time is linked
+to the next through expectations about inflation. A shock in period t affects
+inflation in period t, which in turn affects the inflation that people expect for
+period t 1 1. Expected inflation in period t 1 1 in turn affects the position of
+the dynamic aggregate supply curve in that period, which in turn affects output
+and inflation in period t 1 1, which then affects expected inflation in period
+t 1 2, and so on.
+These linkages of economic outcomes across time periods will become clear
+as we work through a series of examples."

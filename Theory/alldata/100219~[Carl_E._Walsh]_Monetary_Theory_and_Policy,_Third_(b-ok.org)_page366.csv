@@ -1,0 +1,50 @@
+﻿Content
+"inal supply of money, (8.24) and (8.20), together with the linearized version of (8.8),"
+"determine xt,pt, and ^{ {t.16"
+8.3.3 Uniqueness of the Equilibrium
+"If a policy rule for the nominal interest rate is added to the model, this must be done"
+with care to ensure that the policy rule does not render the system unstable or intro-
+"duce multiple equilibria. For example, suppose monetary policy is represented by the"
+following purely exogenous process for ^{ {t:
+^{ {t¼vt; ð8:25Þ
+"where vtis a stationary stochastic process. Combining (8.25) with (8.24) and (8.20),"
+the resulting system of equations can be written as
+1s/C01
+0 b/C20/C21Etxtþ1
+Etptþ1/C20/C21
+¼10
+/C0k1/C20/C21xt
+pt/C20/C21
+þs/C01vt/C0ut
+0/C20/C21
+:
+Premultiplying both sides by the inverse of the matrix on the left produces
+Etxtþ1
+Etptþ1/C20/C21
+¼Mxt
+pt/C20/C21
+þs/C01vt/C0ut
+0/C20/C21
+; ð8:26Þ
+where
+M¼1þk
+sb/C01
+sb
+/C0k
+b1
+"b""#"
+:
+Equation (8.26) has a unique stationary solution for the output gap and inﬂation if
+and only if the number of eigenvalues of Moutside the unit circle is equal to the
+"number of forward-looking variables, in this case, two (Blanchard and Kahn 1980)."
+"However, only the largest eigenvalue of this matrix is outside the unit circle, implying"
+that multiple bounded equilibria exist and that the equilibrium is locally indetermi-
+nate. Stationary sunspot equilibria are possible.
+This example illustrates that an exogenous policy rule—one that does not respond
+to the endogenous variables xand p—introduces the possibility of multiple equilib-
+"ria. To understand why, consider what would happen if expected inﬂation were to"
+rise. Since (8.25) does not allow for any endogenous feedback from this rise in ex-
+"pected inﬂation to the nominal interest rate, the real interest rate must fall. This de-"
+"cline in the real interest rate is expansionary, and the output gap increases. The rise"
+16. An alternative approach (see section 8.4) speciﬁes an objective function for the monetary authority and
+then derives the policymaker’s decision rule for setting the nominal interest rate.8.3 A Linearized New Keynesian Model 341

@@ -1,0 +1,40 @@
+﻿Content
+so that one would expect the regression coe‰cient on It/C0itto be /C0mr=ð2/C0mrÞand
+"not 1. In other words, the estimated slope of the term structure, even when the"
+"expectations model is correct, will depend on the serial correlation properties of the"
+term premium ðrÞand on the policy response to the spread between long and short
+rates ðmÞ. The problem arises even though (10.27) implies that1
+2ðitþ1/C0itÞ¼aþ
+"bðIt/C0itÞþxtþ1, with a¼0 and b¼1, because the error term xtþ1is equal to"
+/C0xtþ1
+"2etþ1; since this is correlated with It/C0it, ordinary least-squares is an inconsis-"
+tent estimator of b.
+The important lesson of McCallum’s analysis was that observed term structure
+relationships can be a¤ected by the way monetary policy is conducted. McCallum
+"assumed policy responded to the slope of the term structure, which in his model"
+reﬂected variations in the risk premium. Cochrane and Piazzesi (2002) found evi-
+dence that the interest rate–setting behavior of the Federal Reserve has been a¤ected
+by both long-term interest rates and by the slope of the yield curve. If the former
+reﬂects long-term inﬂation expectations and the latter helps forecast real economic
+"activity, then this behavior would be broadly consistent with the Taylor rule (see"
+"chapter 8). Gallmeyer, Holliﬁeld, and Zin (2005) provided a more modern treatmentof McCallum’s results in the context of models that allow for endogenous variation"
+in risk premiums. 14They showed how the policy behavior assumed by McCallum
+can be reconciled with Taylor rule representations of monetary policy. Ravenna andSeppa ¨la¨(2007a) showed how a new Keynesian model can account for rejections of
+"the expectations model of the term structure, and McGough, Rudebusch, Williams(2005) considered monetary policy rules that respond to long-term interest rates."
+"Rather than employing an equation such as (10.28) to represent policy behavior,"
+Rudebusch (1995) used data from periods of funds rate targeting (1974–1979 and
+"1984–1992) to estimate a model of the Federal Reserve’s target for the funds rate.He was then able to simulate the implied behavior of the term structure, using the"
+expectations hypothesis to link funds rate behavior to the behavior of longer-term
+interest rates. He found that the manner in which the Fed adjusted its target can ac-
+count for the failure of the spread between long and short rates to have much predic-
+"tive content for changes in long rates, at least at horizons of 3 to 12 months (that is,"
+"for the failure to obtain a coe‰cient of 1, or even a signiﬁcant coe‰cient, in a regres-"
+sion of
+1
+"2ðitþ1/C0itÞonðIt/C0itÞ). Thus, if the three-month rate exceeds the funds rate,"
+"(10.16) would appear to predict a rise in the funds rate. As Rudebusch demonstrated,"
+the Fed tends to set its target for the funds rate at a level it expects to maintain. In
+"this case, any spread between the funds rate and other rates has no implications for"
+"future changes in the funds rate (in terms of 10.28, mA0). Only as new information"
+becomes available might the target funds rate change.
+14. These models are discussed in section 10.4.472 10 Financial Markets and Monetary Policy

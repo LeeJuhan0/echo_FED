@@ -1,0 +1,21 @@
+﻿Content
+tion Phillips curve using quarterly U.S. data from the period 1980–2000. To generate
+"expectations of current inﬂation and output on old information, they employed VAR"
+forecasts. They found the average duration of information stickiness ranges from
+"three to seven quarters, consistent with the ﬁndings of Mankiw and Reis (2002)."
+A number of authors have estimated sticky information Phillips curves and com-
+pared them to the inﬂation equations based on sticky prices. This empirical work is
+discussed in chapter 6.
+5.2.4 Learning
+Standard rational-expectations models assume that agents know the true model of
+"the economy. Typically, only information on the current innovations to exogenous"
+"shocks may be incomplete. Once these innovations become known to all agents, afterone period in the Lucas islands model or only as part of a staggered multiperiod pro-"
+"cess in the Mankiw-Reis model of sticky information, the model is characterized by"
+complete information. A growing literature has investigated situations in which the
+underlying state of the economy may never be known or in which the structure of
+the economy is unknown and agents must engage in a process of learning.
+"Brunner, Meltzer, and Cukierman (1980) provided an early example of a model in"
+which observed disturbances are composed of permanent and transitory components.
+"These individual components are not directly observed, so agents must estimate them"
+based on the past history of the observed disturbance. This signal extraction problemFigure 5.2
+Response of output to a unit innovation in money growth in the sticky information model.5.2 Informational Frictions 207

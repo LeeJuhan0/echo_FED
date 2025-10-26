@@ -1,0 +1,35 @@
+﻿Content
+"monetary shocks should look like. Eichenbaum (1992), in fact, argued that short-"
+term interest rate innovations have been used to represent policy shocks in VARs
+because they produce the types of impulse response functions for output that econo-
+mists expect.
+"In addition, the residuals from the VAR regressions that are used to represent ex-"
+ogenous policy shocks often bear little resemblance to standard interpretations of thehistorical record of past policy actions and periods of contractionary and expansion-
+ary policy (She¤rin 1995; Rudebusch 1998). They also di¤er considerably depending
+on the particular speciﬁcation of the VAR. Rudebusch (1998) reported low correla-
+tions between the residual policy shocks he obtained based on funds rate futures and
+those obtained from a VAR by Bernanke and Mihov. How important this ﬁnding is
+depends on the question of interest. If the objective is to determine whether a partic-
+"ular recession was caused by a policy shock, then it is important to know if and when"
+the policy shock occurred. If alternative speciﬁcations provide di¤ering and possibly
+"inconsistent estimates of when policy shocks occurred, then their usefulness as a tool"
+"of economic history would be limited. If, however, the question of interest is how"
+"the economy responds when a policy shock occurs, then the discrepancies amongthe VAR residual estimates may be of less importance. Sims (1998a) argued that in"
+a simple supply-demand model di¤erent authors using di¤erent supply curve shifters
+may obtain quite similar estimates of the demand curve slope (since they all obtain
+"consistent estimators of the true slope). At the same time, they may obtain quite dif-"
+ferent residuals for the estimated supply curve. If the true interest is in the parameters
+"of the demand curve, the variations in the estimates of the supply shocks may not be"
+"of importance. Thus, the type of historical analysis based on a VAR, as in Walsh"
+"(1993), is likely to be more problematic than the use of a VAR to determine the"
+way the economy responds to exogenous policy shocks.
+"While VARs focus on residuals that are interpreted as policy shocks, the system-"
+atic part of the estimated VAR equation for a variable such as the funds rate can beinterpreted as a policy reaction function; it provides a description of how the policy
+instrument has been adjusted in response to lagged values of the other variables
+included in the VAR system. Rudebusch (1998) argued that the implied policy reac-
+tion functions look quite di¤erent than results obtained from more direct attempts to
+estimate reaction functions or to model actual policy behavior. 26A related point is
+"that VARs are typically estimated using ﬁnal, revised data and will therefore not cap-"
+ture accurately the historical behavior of the monetary policymaker who is reacting
+"26. For example, Taylor (1993a) employed a simple interest rate rule that closely matches the actual be-"
+"havior of the federal funds rate in recent years. As Khoury (1990) noted in a survey of many earlier studiesof the Fed’s reaction function, few systematic conclusions have emerged from this empirical literature.1.3 Estimating the E¤ect of Money on Output 25"

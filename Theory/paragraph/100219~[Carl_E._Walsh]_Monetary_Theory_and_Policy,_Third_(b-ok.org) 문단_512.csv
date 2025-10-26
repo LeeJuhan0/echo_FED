@@ -1,0 +1,9 @@
+﻿content
+"elative to the permanent value of this di¤erential, the nominal exchange rate will fall (the home currency will appreciate). If st reflects the permanent money supply di¤erential at time t, and mt is temporarily high relative to m505t , then the permanent di¤erential will be lower beginning in period t þ 1. As a result, the home currency appreciates.
+An explicit solution for the nominal exchange rate can be obtained if specific processes for the nominal money supplies are assumed. To take a very simple case, suppose m and m505 each follow constant, deterministic growth paths given by
+mt 1⁄4 m0 þ mt
+and
+m505t 1⁄4 m5050 þ m505t:
+Strictly speaking, (9.24) applies only to deviations around the steady state and not to money supply processes that include deterministic trends. However, it is very common to specify (9.20) and (9.21), which were used to derive (9.24), in terms of the log levels of the variables, perhaps adding a constant to represent steady-state levels. The advantage of interpreting (9.24) as holding for the log levels of the variables is that one can then use it to analyze shifts in the trend growth paths of the nominal money supplies, rather than just deviations around the trend. It is important to keep in
+404 9 Money and the Open Economy
+mind, however, that the underlying representative-agent model implies that the interest rate coe‰cients in the money demand equations are functions of the steady-state rate of inflation. Assume this is the same in both countries, implying that the d parameter is the same as well. The assumption of common coe‰cients in two-country models is common, and it is maintained in the following examples. The limitations of doing so should be kept in mind."

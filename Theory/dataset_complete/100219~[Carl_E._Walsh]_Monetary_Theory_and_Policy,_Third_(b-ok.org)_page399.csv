@@ -1,0 +1,38 @@
+﻿Content
+where pTwas the target level of average inﬂation (Taylor assumed it to be 2
+percent) and r/C3was the equilibrium real rate of interest (Taylor assumed that
+this too was equal to 2 percent). The Taylor rule for general coe‰cients is often
+written
+it¼r/C3þpTþaxxtþapðpt/C0pTÞ: ð8:75Þ
+The nominal interest rate deviates from the level consistent with the economy’s equi-
+librium real rate and the target inﬂation rate if the output gap is nonzero or if inﬂa-
+"tion deviates from target. A positive output gap leads to a rise in the nominal rate, asdoes a deviation of actual inﬂation above target. With Taylor’s original coe‰cients,"
+a
+"p¼1:5, so the nominal rate is changed more than one-for-one with deviations of"
+"inﬂation from target. Thus, the rule satisﬁes the Taylor principle (see section 8.3.3);a greater than one-for-one reaction of i"
+tensures that the economy has a unique sta-
+tionary rational-expectations equilibrium. Lansing and Trehan (2001) explored con-ditions under which the Taylor rule emerges as the fully optimal instrument rule
+under discretionary policy.
+A large literature has estimated Taylor rules or similar simple rules for a variety of
+"countries and time periods. For example, Clarida, Galı ´, and Gertler (2000) did so for"
+"the Federal Reserve, the Bundesbank, and the Bank of Japan. In their speciﬁcation,"
+"however, actual inﬂation is replaced by expected future inﬂation so that the central"
+bank is assumed to be forward-looking in setting policy. Estimates for the United
+States under di¤erent Federal Reserve chairmen were reported by Judd and Rude-
+"busch (1997). In general, the basic Taylor rule, when supplemented by the addition"
+"of the lagged nominal interest rate, does quite well in matching the actual behavior"
+"of the policy interest rate. However, Orphanides (2000) found that when estimated"
+using the data on the output gap and inﬂation actually available at the time policy
+"actions were taken (i.e., using real-time data), the Taylor rule does much more"
+"poorly in matching the U.S. funds rate. Clarida, Galı ´, and Gertler (2000) found that"
+"the Fed moved the funds rate less than one-for-one during the period 1960–1979,"
+thereby violating the Taylor principle. In a further example of the importance
+"of using real-time data, however, Perez (2001) found that when the Fed’s reaction"
+"function is reestimated for this earlier period using real-time data, the coe‰cient on"
+"inﬂation is greater than 1. Lubik and Schorfheide (2004) estimated a complete, dy-"
+namic stochastic general equilibrium (DSGE) new Keynesian model of the U.S.
+economy and found evidence that Federal Reserve policy has been consistent with
+"determinacy since 1982. However, their estimates suggested policy was not consistent"
+with determinacy prior to 1979.
+When a policy interest rate such as the federal funds rate in the United States is
+"regressed on inﬂation and output gap variables, the lagged value of the interest rate374 8 New Keynesian Monetary Economics"

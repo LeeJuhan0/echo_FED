@@ -1,0 +1,38 @@
+﻿Content
+"Since the loss occurs in period tþ1, multiply it by the central bank’s discount factor"
+b. Barro and Gordon referred to this as the enforcement . The function CðpÞis
+decreasing for p>0 and is shown as the solid line in ﬁgure 7.3.
+The central bank will deviate from the proposed equilibrium if the gain (the temp-
+tation) exceeds the loss (the enforcement). Any psuch that CðpÞbGðpÞcan be sup-
+"ported as an equilibrium; with the loss exceeding the gain, the central bank has no"
+"incentive to deviate. As shown in ﬁgure 7.3, CðpÞ<GðpÞfor inﬂation rates less"
+"than pmin1ð1/C0bÞal=ð1þbÞ<al. Because pmin>0, the trigger strategy cannot"
+"support the socially optimal, zero inﬂation outcome. However, any inﬂation rate in"
+the interval ½pmin;al/C138is sustainable. The minimum sustainable inﬂation rate pminis
+"decreasing in b; the greater the weight the central bank places on the future, the"
+greater the enforcement mechanism provided by the public’s expectations and the
+lower the inﬂation rate that can be sustained. 13
+This example is a simple illustration of a trigger strategy. The public expects one
+"rate of inﬂation ( pin this example) as long as the central bank ‘‘behaves,’’ and it"
+"expects a di¤erent, higher rate of inﬂation if the central bank misbehaves. But howdoes the public coordinate on this trigger strategy? If the public is atomistic, eachmember would take the expectations of others as given in forming its own expecta-"
+"tions, and the notion of public coordination makes little sense. This problem is even"
+"more severe when multiperiod punishment periods are considered, in which the pub-"
+"lic expects high inﬂation for some ﬁxed number of period greater than one. Again,"
+how is this expectation determined?
+One way to solve the coordination problem is to assume that the central bank
+plays a game against a monopoly union. 14With only one agent in the private sector
+"(the union), the issue of atomistic agents coordinating on a trigger strategy no longerarises. Of course, the coordination problem has, in some sense, been solved by simplyassuming it away, but it is also the case that many countries do have labor markets"
+that are dominated by national unions and business organizations that negotiate over
+wages. 15
+"The general point, though, is that the reputational solution works because the loss"
+of reputation represents a cost to the central bank. Raising the marginal cost of inﬂa-
+tion lowers the equilibrium rate of inﬂation. If Cð
+"pÞ>GðpÞ, the central bank will"
+"13. With the central bank’s objective given by (7.2), a zero inﬂation rate can be supported with a one-"
+period punishment trigger strategy of the type considered as long as the central bank places su‰cient
+"weight on the future. In particular, zero inﬂation is an equilibrium if b=ða2þbÞ>1. See problem 10 at"
+the end of this chapter.
+"14. Tabellini (1988) studied the case of a monopoly union in the Barro-Gordon framework, although he"
+focused on imperfect information about the central bank’s type. See also Cubitt (1992).
+15. al-Nowaihi and Levine (1994) provided an interpretation in terms of a game involving successive gov-
+ernments rather than a monopoly union. See also Herrendorf and Lockwood (1997).7.3 Solutions to the Inﬂation Bias 287

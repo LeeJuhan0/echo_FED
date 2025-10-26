@@ -1,0 +1,102 @@
+﻿id,paragraph
+1,"402 9 Money and the Open Economy
+Equation (9.20) shows that inflation a¤ects the real demand for money. Changes in nominal money growth rates produce changes in the inflation rate and nominal interest rates, thereby a¤ecting the opportunity cost of holding money and, in equilibrium, the real stock of money. The price level and the nominal exchange rate jump to ensure that the real supply of money is equal to the new real demand for money.
+Equation (9.21) can be subtracted from (9.20), yielding
+mt m505t ðpt p505t Þ1⁄4ðct c505t Þ dðptþ1 p505tþ1Þ;
+which, using (9.22), implies5
+mt m505t st 1⁄4 ðct c505t Þ dðstþ1 stÞ: ð9:23Þ
+Solving this forward for the nominal exchange rate, the no-bubbles solution is
+st 1⁄4 1
+1 þ d
+Xy
+i1⁄40
+d
+1 þ d
+4 5i
+1⁄2ðmtþi m505tþi
+Þðctþi c505tþi
+Þ: ð9:24Þ
+Since (9.16) and (9.17) imply that ctþi c505tþi 1⁄4 ct c505t , the expression for the nominal exchange rate can be rewritten as
+st 1⁄4 ðct c505t Þ þ 1
+1 þ d
+Xy
+i1⁄40
+d
+1 þ d
+4 5i
+ðmtþi m505tþi
+Þ:
+The current nominal exchange rate depends on the current and future path of the nominal money supplies in the two countries and on consumption di¤erentials. The exchange rate measures the price of one money in terms of the other, and as (9.24) shows, this depends on the relative supplies of the two monies. An increase in one country’s money supply relative to the other’s depreciates that country’s exchange rate. From the standard steady-state condition that bRss 1⁄4 1 and the definition of d as b=ðP bÞ, the discount factor in (9.24), d=ð1 þ dÞ, is equal to b=P 1⁄4 1=RssP 1⁄4 1=ð1 þ i
+ssÞ. Future nominal money supply di¤erentials are discounted by the steadystate nominal rate of interest. Because agents are forward-looking in their decision making, it is only the present discounted value of the relative money supplies that matters. In other words, the nominal exchange rate depends on a measure of the permanent money supply di¤erential. Letting xtþi 1 ðmtþi m505tþi
+Þðctþi c505tþi
+Þ, the equilibrium condition for the nominal exchange rate can be written as
+5. This uses the fact that ptþ1 p505tþ1 1⁄4 ðptþ1 p505tþ1Þð pt p505t Þ 1⁄4 stþ1 st."
+2,"elative to the permanent value of this di¤erential, the nominal exchange rate will fall (the home currency will appreciate). If st reflects the permanent money supply di¤erential at time t, and mt is temporarily high relative to m505t , then the permanent di¤erential will be lower beginning in period t þ 1. As a result, the home currency appreciates.
+An explicit solution for the nominal exchange rate can be obtained if specific processes for the nominal money supplies are assumed. To take a very simple case, suppose m and m505 each follow constant, deterministic growth paths given by
+mt 1⁄4 m0 þ mt
+and
+m505t 1⁄4 m5050 þ m505t:
+Strictly speaking, (9.24) applies only to deviations around the steady state and not to money supply processes that include deterministic trends. However, it is very common to specify (9.20) and (9.21), which were used to derive (9.24), in terms of the log levels of the variables, perhaps adding a constant to represent steady-state levels. The advantage of interpreting (9.24) as holding for the log levels of the variables is that one can then use it to analyze shifts in the trend growth paths of the nominal money supplies, rather than just deviations around the trend. It is important to keep in
+404 9 Money and the Open Economy
+mind, however, that the underlying representative-agent model implies that the interest rate coe‰cients in the money demand equations are functions of the steady-state rate of inflation. Assume this is the same in both countries, implying that the d parameter is the same as well. The assumption of common coe‰cients in two-country models is common, and it is maintained in the following examples. The limitations of doing so should be kept in mind."
+3,"Then (9.24) implies
+st 1⁄4 ðct c505t Þ þ 1
+1 þ d
+Xy
+i1⁄40
+d
+1 þ d
+4 5i
+1⁄2m0 m5050 þ ðm m505Þðt þ iÞ
+1⁄4 s0 þ ðm m505Þt ðct c505t Þ;
+where s0 1⁄4 m0 m5050 þ dðm m505Þ.6 In this case, the nominal exchange rate has a deterministic trend equal to the di¤erence in the trend of money growth rates in the two economies (also equal to the inflation rate di¤erentials since p 1⁄4 m and p505 1⁄4 m505).
+If domestic money growth exceeds foreign money growth ðm > m505Þ, s will rise over time to reflect the falling value of the home currency relative to the foreign currency.
+Uncovered Interest Parity
+Real rates of return in the two countries have been assumed to be equal, so the Euler conditions for the optimal consumption paths (9.16) and (9.17) imply the same expected consumption growth in each economy. It follows from the equality of real returns that nominal interest rates must satisfy it ptþ1 1⁄4 rt 1⁄4 i505t p505tþ1, and this means, using (9.22), that
+it i505t 1⁄4 ptþ1 p505tþ1 1⁄4 stþ1 st:
+The nominal interest rate di¤erential is equal to the actual change in the exchange rate in a perfect-foresight equilibrium. This equality would not hold in the presence of uncertainty because variables dated t þ 1 would need to be replaced with their expected values, conditional on the information available at time t."
+4,". In this case,
+Etstþ1 st 1⁄4 it i505t ; ð9:25Þ
+and nominal interest rate di¤erentials would reflect expected exchange rate changes.
+If the home country has a higher nominal interest rate in equilibrium, its currency must be expected to depreciate (s must be expected to rise) to equalize real returns across the two countries.
+6. This uses the fact that Py
+i1⁄40 ibi 1⁄4 b=ð1 bÞ
+2 for jbj < 1.
+9.2 The Obstfeld-Rogo¤ Two-Country Model 405
+This condition, known as uncovered nominal interest parity, links interest rates and exchange rate expectations in di¤erent economies if their financial markets are integrated. Under rational expectations, the actual exchange rate at t þ 1 can be written as equal to the expectation of the future exchange rate plus a forecast error jt uncorrelated with Etstþ1: stþ1 1⁄4 Etstþ1 þ jt. Uncovered interest parity then implies
+stþ1 st 1⁄4 it i505t þ jtþ1:
+The ex post observed change in the exchange rate between times t and t þ 1 is equal to the interest rate di¤erential at time t plus a random mean zero forecast error. Since this forecast error will, under rational expectations, be uncorrelated with information, such as it and i505t , that is known at time t, one can recast uncovered interest parity in the form of a regression equation:
+stþ1 st 1⁄4 a þ bðit i505t Þ þ jtþ1; ð9:26Þ
+with the null hypothesis of uncovered interest parity implying that a 1⁄4 0 and b 1⁄4 1."
+5,"Unfortunately, the evidence rejects this hypothesis.7 In fact, estimated values of b are often negative.
+One interpretation of these rejections is that the error term in an equation such as (9.26) is not simply due to forecast errors. Suppose, more realistically, that (9.25) does not hold exactly:
+Etstþ1 st 1⁄4 it i505t þ vt;
+where vt captures factors such as risk premiums that would lead to divergences between real returns in the two countries. In this case, the error term in the regression of stþ1 st on it i505t becomes vt þ jtþ1. If vt and it i505t are correlated, ordinary least-squares estimates of the parameter b in (9.26) will be biased and inconsistent."
+6,"Correlation between v and i i505 might arise if monetary policies are implemented in a manner that leads the nominal interest rate di¤erential to respond to the current exchange rate. For example, suppose that the monetary authority in each country tends to tighten policy whenever its currency depreciates. This could occur if the monetary authorities are concerned with inflation; depreciation raises the domestic currency price of foreign goods and raises the domestic price level. To keep the example simple for illustrative purposes, suppose that as a result of such a policy, the nominal interest rate di¤erential is given by
+7. For a summary of the evidence, see Froot and Thaler (1990). See also McCallum (1994a); Eichenbaum and Evans (1995); and Schlagenhauf and Wrase (1995).
+406 9 Money and the Open Economy
+it i505t 1⁄4 mst þ ut; m > 0;
+where ut captures any other factors a¤ecting the interest rate di¤erential."
+7,"8 Assume u
+is an exogenous white noise process. Substituting this into the uncovered interest parity condition yields
+Etstþ1 1⁄4 ð1 þ mÞst þ ut þ vt; ð9:27Þ
+the solution to which is9
+st 1⁄4 1
+1 þ m
+4 5ðut þ vtÞ:
+Since this solution implies that Etstþ1 1⁄4 Etðutþ1 þ vtþ1Þ=ð1 þ mÞ 1⁄4 0, the interest parity condition is then given by
+Etstþ1 st 1⁄4 1
+1 þ m
+4 5ðut þ vtÞ 1⁄4 it i505t þ vt
+or it i505t 1⁄4 ðut mvtÞ=ð1 þ mÞ."
+8,"What does this imply for tests of uncovered interest parity? From the solution for
+st;stþ1 st 1⁄4 ðutþ1 ut þ vtþ1 vtÞ=ð1 þ mÞ. The probability limit of the interest rate coe‰cient in the regression of stþ1 st on it i505t is equal to
+covðstþ1 st; it i505t Þ
+varðit i505t Þ 1⁄4
+1
+ð1þmÞ
+2 ðs2
+u ms2
+v Þ
+the standard null in tests of interest parity. If u1 0,
+the probability limit of the regression coe‰cient is 1=m. That is, the regression estimate uncovers the policy parameter m. Not only would a regression of the change in the exchange rate on the interest di¤erential not yield the value of 1 predicted by the uncovered interest parity condition but the estimate would be negative."

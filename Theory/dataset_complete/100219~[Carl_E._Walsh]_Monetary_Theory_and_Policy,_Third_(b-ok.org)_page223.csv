@@ -1,0 +1,56 @@
+﻿Content
+implications and is not done just to simplify the model. It implies that the transfers
+will appear to money holders as interest payments on their cash holdings. This
+approach eliminates inﬂation tax e¤ects so that one can concentrate on the role of
+imperfect information. 5
+"Suppose the aggregate economy consists of several islands, indexed by i; thus, xi"
+"denotes the value of variable xon island i, and xdenotes its economywide average"
+"value. Since information will di¤er across islands, let Eixtdenote the expectations"
+of a variable xtbased on the information available on island i. Using the model
+"from the chapter 2 appendix, express equilibrium deviations from the steady state"
+on each island by the following conditions: 6
+yi
+t¼ð1/C0aÞni
+t ð5:1Þ
+1þhnss
+1/C0nss/C18/C19/C20/C21
+ni
+t¼yi
+tþli
+t ð5:2Þ
+mi
+t/C0pi
+t¼yi
+tþ1
+b/C18/C19b
+1/C0b/C18/C19
+½Eittþ1/C0ðEiptþ1/C0pi
+tÞþEiðltþ1/C0li
+tÞ/C138 ð5:3Þ
+li
+t¼W1yi
+tþW2ðmi
+t/C0pi
+tÞ; ð5:4Þ
+where li
+"tis the marginal utility of consumption on island i, andW1andW2depend on"
+parameters from the utility function. 7Note that the goods market equilibrium condi-
+"tion, yt¼ct, has been used and, in contrast to chapters 2–4, minow denotes the"
+nominal supply of money on island i. Equation (5.1) is the production function link-
+ing labor input ðni
+tÞto output. 8Equation (5.2) comes from the ﬁrst-order condition
+"linking the marginal utility of leisure, the marginal utility of consumption, and the"
+real wage. 9Equation (5.3) is derived from the ﬁrst-order condition for the individ-
+"5. Recall that in chapter 2 transfers were viewed as lump-sum. With higher inﬂation, the transfers rose (as"
+"the seigniorage revenues were returned to private agents), but each individual viewed these transfers as"
+"unrelated to his or her own money holdings. If the transfers are viewed as interest payments, higher inﬂa-"
+"tion does not raise the opportunity cost of holding money because the interest payment on cash also rises.In this case, money is superneutral."
+6. All variables are expressed as natural log deviations around steady-state values. Since all values will be
+"in terms of deviations, the ‘‘hat’’ notation of chapters 2–4 is dropped for convenience. For an early expo-sition of a linearized version of Lucas’s model, see McCallum (1984a)."
+7. The underlying utility function that leads to (5.1)–(5.4) is the same as employed in chapter 2. Details
+can be found in the appendix (section 5.5).
+8. Note that any productivity disturbance has been eliminated; the focus is on monetary disturbances.9. Equation (5.2) arises from the requirement that the marginal utility of leisure ( ½hn
+ss=ð1þnssÞ/C138ntin per-
+centage deviation around the steady state) equal the real wage times the marginal utility of consumption.
+"The marginal product of labor (the real wage) is equal to ð1/C0aÞY=N,o r y/C0nin terms of percentage"
+deviations.198 5 Money in the Short Run: Informational and Portfolio Rigidities

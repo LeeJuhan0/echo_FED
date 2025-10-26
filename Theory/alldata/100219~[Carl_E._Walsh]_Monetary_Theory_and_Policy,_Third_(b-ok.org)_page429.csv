@@ -1,0 +1,54 @@
+﻿Content
+st¼1
+1þdXy
+i¼0d
+1þd/C18/C19i
+xtþi¼1
+1þdxtþd
+1þdXy
+i¼0d
+1þd/C18/C19i
+xtþ1þi
+¼1
+1þdxtþd
+1þdstþ1:
+Rearranging and using (9.24) yields
+stþ1/C0st¼/C01
+dðxt/C0stÞ
+¼/C01
+dðmt/C0m/C3
+tÞ/C01
+1þdXy
+i¼0d
+1þd/C18/C19i
+ðmtþ1þi/C0m/C3
+"tþ1þiÞ""#"
+:
+"Analogously to Friedman’s permanent income concept, the term"
+1
+1þdXy
+i¼0d
+1þd/C18/C19i
+ðmtþ1þi/C0m/C3
+tþ1þiÞ
+can be interpreted as the permanent money supply di¤erential. If the current value of
+"m/C0m/C3is high relative to the permanent value of this di¤erential, the nominal ex-"
+change rate will fall (the home currency will appreciate). If streﬂects the permanent
+"money supply di¤erential at time t, and mtis temporarily high relative to m/C3"
+"t, then"
+"the permanent di¤erential will be lower beginning in period tþ1. As a result, the"
+home currency appreciates.
+An explicit solution for the nominal exchange rate can be obtained if speciﬁc pro-
+"cesses for the nominal money supplies are assumed. To take a very simple case, sup-"
+"pose mandm/C3each follow constant, deterministic growth paths given by"
+mt¼m0þmt
+and
+m/C3
+t¼m/C3
+0þm/C3t:
+"Strictly speaking, (9.24) applies only to deviations around the steady state and not"
+"to money supply processes that include deterministic trends. However, it is very com-"
+"mon to specify (9.20) and (9.21), which were used to derive (9.24), in terms of the log"
+"levels of the variables, perhaps adding a constant to represent steady-state levels. The"
+advantage of interpreting (9.24) as holding for the log levels of the variables is that
+"one can then use it to analyze shifts in the trend growth paths of the nominal moneysupplies, rather than just deviations around the trend. It is important to keep in404 9 Money and the Open Economy"

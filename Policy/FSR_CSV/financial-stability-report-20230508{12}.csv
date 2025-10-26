@@ -1,0 +1,41 @@
+"spread 
+use . In line with these recommendations, the ARRC has recognized the use of term SOFR rates as a 
+fallback in legacy cash products and certain new issuances of cash products, particularly business 
+loans, but has recommended that use of term SOFR rates in derivatives and most other cash markets 
+remain limited .
+Legacy products
+In December, the Board issued its fi nal rule implementing the Adjustable Interest Rate (LIBOR) Act 
+(LIBOR Act) . The LIBOR Act directed the Board to select spread-adjusted benchmark replacements 
+based on SOFR for LIBOR contracts that mature after June 30, 2023, and do not have clear and 
+practicable fallback language . While the International Swaps and Derivatives Association and the 
+ARRC have worked over the past several years to develop and encourage the use of fallback language 
+that adequately addresses the impending cessation of LIBOR, many older contracts only have 
+fallbacks appropriate for a temporary outage of LIBOR rather than its permanent cessation, and some 
+contracts do not have any fallbacks at all . This is a particular problem for legacy ﬂ oating-rate debt, 
+securitizations, and consumer products, all of which are diffi cult to amend . The Board’s fi nal rule will 
+replace (or allow for the replacement of) LIBOR in these products with spread-adjusted versions of CME 
+Group’s term SOFR rates or averages of SOFR following June 30, 2023 .
+(continued)
+
+14 Financial Stability Report
+While the banks submitting to the remaining USD LIBOR rate panel will withdraw as of June 30, 2023, 
+the U .K . Financial Conduct Authority (FCA) has announced that it will require the administrator of 
+LIBOR to continue publishing 1-, 3-, and 6-month USD LIBOR on a “synthetic” basis for an additional 
+15 months, through September 2024 . The FCA has stated that these synthetic LIBOR rates will be 
+nonrepresentative, meaning that, in the FCA’s offi cial judgement, they will not reﬂ ect the underlying 
+market that LIBOR was intended to represent . The FCA has also stated that it intends the publication 
+of these synthetic rates to help the transition of legacy contracts not subject to U .S . law and therefore 
+not covered by the LIBOR Act . The synthetic version of USD LIBOR will be published as LIBOR but 
+would match the spread-adjusted term SOFR rates that the Board has selected under the LIBOR Act 
+as the benchmark replacement rate applicable to most nonconsumer cash products . Most contracts 
+under U .S . law will not be affected by the publication of these synthetic rates either because they 
+have more recent fallback language designed to move away from LIBOR once it is declared to be 
+nonrepresentative or because they are covered by the LIBOR Act . Nonetheless, there are some 
+contracts issued under U .S . law that would fall back to a non-LIBOR rate (and so are not covered by 
+the LIBOR Act) that may reference the synthetic LIBOR rates, primarily older loan agreements that 
+otherwise would fall back to the prime rate (which is much higher than LIBOR) if LIBOR is unavailable .
+LCH and CME Group are implementing plans to convert outstanding LIBOR derivatives that they clear 
+to SOFR over April and May 2023 . The Board has encouraged banks to similarly remediate their LIBOR 
+loans ahead of June 30, 2023, where feasible, citing operational risks that could arise from attempting 
+to convert a large book of LIBOR loans in a short period of time following June 2023 . While fi rms have 
+set deadlines to complete "

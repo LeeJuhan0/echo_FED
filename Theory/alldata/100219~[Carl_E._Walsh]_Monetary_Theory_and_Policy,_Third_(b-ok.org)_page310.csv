@@ -1,0 +1,36 @@
+﻿Content
+"inﬂation rate in each period tþsis chosen to maximize the expected value of Utþs,"
+and the discretionary equilibrium of the one-shot game is a noncooperative Nash
+equilibrium of the repeated game. Barro and Gordon (1983b) evaluated the role of
+reputation by considering a repeated game in which the choice of inﬂation at time t
+can a¤ect expectations about future inﬂation. They examined whether inﬂation ratesbelow the one-shot discretionary equilibrium rate can be sustained in a trigger strat-egy equilibrium.
+"To illustrate their approach, suppose that the central bank’s objective is to maxi-"
+mize the expected present discounted value of (7.1) and that the public behaves in the
+following manner. If in period t/C01 the central bank delivered an inﬂation rate equal
+"to what the public had expected (i.e., the central bank did not fool them in the previ-ous period), the public expects an inﬂation rate in period tof"
+p<al. But if the cen-
+"tral bank did fool them, the public expects the inﬂation rate that would arise underpure discretion, al. The hypothesized behavior of the public is summarized by"
+p
+e
+t¼p<al ifpt/C01¼pe
+t/C01
+pe
+t¼al otherwise :
+"It is important to note that this trigger strategy involves a one-period punishment. If,"
+"after deviating and inﬂating at a rate that di¤ers from p, the central bank can deliver"
+"an inﬂation rate of alfor one period, the public again expects the lower rate p.12"
+The central bank’s objective is to maximize
+Xy
+i¼0biEtðUtþiÞ;
+"where Utis given by (7.1). Previously, the central bank’s actions at time thad no"
+"e¤ects in any other period. Consequently, the problem simpliﬁed to a sequence ofone-period problems, a situation that is no longer true in this repeated game with"
+reputation. Inﬂation at time ta¤ects expectations at time tþ1 and therefore the
+expected value of U
+tþ1. The question is whether equilibria exist for inﬂation rates p
+that are less than the outcome under pure discretion.
+Suppose that the central bank has set ps¼pfor all s<t. Under the hypothesis
+"about the public’s expectations, pe"
+t¼p. What can the central bank gain by deviating
+"from the pequilibrium? Ignoring any aggregate supply shocks (i.e., e10), assume"
+12. This type of one-period punishment strategy has little to commend itself in terms of plausibility. It
+"does, however, provide a useful starting point for analyzing a situation in which the central bank mightrefrain from inﬂating at the discretionary rate because it recognizes that the public will subsequently expecthigher inﬂation.7.3 Solutions to the Inﬂation Bias 285"

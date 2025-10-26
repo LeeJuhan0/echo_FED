@@ -1,0 +1,39 @@
+﻿Content
+The importance of forward-looking expectations in a¤ecting policy choice is well
+illustrated by work on price level targeting. The traditional view argued that attempts
+"to stabilize the price level, as opposed to the inﬂation rate, would generate undesir-"
+able levels of output variability. A positive cost shock that raised the price level
+"would require a deﬂation to bring the price level back on target, and this deﬂation"
+"would be costly. However, as ﬁgure 8.3 shows, an optimal commitment policy thatfocuses on output and inﬂation stability also induces a deﬂation after a positive cost"
+shock. By reducing E
+"tptþ1, such a policy achieves a better trade-o¤ between inﬂation"
+variability and output variability. The deﬂation generated under a discretionary pol-icy concerned with output and price level stability might actually come closer to the
+commitment policy outcomes than discretionary inﬂation targeting would. Using a
+"basic new Keynesian model, Vestin (2006) showed that this intuition is correct. In"
+"fact, when inﬂation is given by (8.41) and the cost shock is serially uncorrelated, price"
+level targeting can replicate the timeless precommitment solution exactly if the cen-
+tral bank is assigned the loss function p
+2
+tþlPLx2
+"t, where lPLdi¤ers from the weight"
+lin the social loss function.
+H. Jensen (2002) showed that a nominal income growth targeting regime can also
+dominate inﬂation targeting. Walsh (2003b) added lagged inﬂation to the inﬂation
+adjustment equation and showed that the advantages of price level targeting over in-
+ﬂation targeting decline as the weight on lagged inﬂation increases. Walsh analyzed
+discretionary outcomes when the central bank targets inﬂation and the change in the
+output gap (a speed limit policy ). Introducing the change in the gap induces inertial
+"behavior similar to that obtained under precommitment. For empirically relevantvalues of the weight on lagged inﬂation ( fin the range 0: 3t o0 :7), speed limit policies"
+"dominate price level targeting, inﬂation targeting, and nominal income growth tar-geting. For fbelow 0 :3, price level targeting does best. Svensson and Woodford"
+(1999) considered interest rate–smoothing objectives as a means of introducing into
+discretionary policy the inertia that is optimal under commitment.
+Instrument Rules
+The approach to policy analysis adopted in the preceding sections starts with a spec-
+iﬁcation of the central bank’s objective function and then derives the optimal setting
+for the policy instrument. An alternative approach speciﬁes an instrument rule di-
+rectly. The best known of such instrument rules is the Taylor rule (Taylor 1993a).
+Taylor showed that the behavior of the federal funds interest rate in the United
+States from the mid-1980s through 1992 (when Taylor was writing) could be fairly
+well matched by a simple rule of the form
+i
+t¼ptþ0:5xtþ0:5ðpt/C0pTÞþr/C3;8.4 Monetary Policy Analysis in New Keynesian Models 373

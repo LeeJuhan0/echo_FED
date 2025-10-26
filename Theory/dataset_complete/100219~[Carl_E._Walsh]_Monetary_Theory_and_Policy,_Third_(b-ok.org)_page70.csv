@@ -1,0 +1,22 @@
+﻿Content
+"right of m0involve mtþs!yass!y. When yb0 (non-negative money growth),"
+"such explosive paths for m, involving a price level going to zero, violate the transver-"
+sality condition that the discounted value of asset holdings must go to zero (see
+"Obstfeld and Rogo¤ 1983; 1986). 16More recently, Benhabib, Schmitt-Grohe ´, and"
+Uribe (2001a; 2001b; 2002) noted that the zero lower bound on the nominal interest
+rate may not allow one to rule out paths that begin to the right of m0. As the rate of
+"deﬂation rises along these paths, the nominal interest rate must fall. Once it reacheszero, the process cannot continue, so the economy may ﬁnd itself in a zero interest"
+rate equilibrium that does not violate any transversality condition. 17
+When lim
+"m!0AðmÞ<0, paths originating to the left of m0converge to m<0;"
+"but this is clearly not possible, since real balances cannot be negative. For the case"
+"drawn in ﬁgure 2.1, however, some paths originating to the left of m0converge to"
+"zero without ever involving negative real balances. For example, a path that reachesm"
+"00at which Aðm00Þ¼0 then jumps to m¼0. Along such an equilibrium path, the"
+price level is growing faster than the nominal money supply (so that mdeclines).
+"Even if y¼0, so that the nominal money supply is constant, the equilibrium pathFigure 2.1"
+Steady-state real balances (separate utility).
+16. Obstfeld and Rogo¤ (1986) show that any such equilibrium path with an implosive price level violates
+the transversality condition unless lim m!yfðmÞ¼y. This condition is implausible because it would re-
+quire that the utility yielded by money be unbounded.
+17. See the discussion of liquidity traps in chapter 10.2.2 The Basic MIU Model 45

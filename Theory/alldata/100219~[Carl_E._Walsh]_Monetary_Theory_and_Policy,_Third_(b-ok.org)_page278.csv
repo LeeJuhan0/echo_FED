@@ -1,0 +1,37 @@
+﻿Content
+Measuring Marginal Cost
+Initial attempts to estimate the new Keynesian Phillips curve (NKPC) equation using
+aggregate time series data for the United States were not very successful (Galı ´and
+"Gertler 2000; Sbordone 2001). In fact, when ^v vtwas proxied by detrended real GDP,"
+the estimated coe‰cient on the output gap was small and often negative in quarterly
+"data, although Roberts (1995) found a small positive coe‰cient using annual data.Galı´and Gertler (1999) and Sbordone (2001) argued that detrended output was not"
+"the correct measure to enter into the NKPC. According to the basic theory, the ap-propriate variable is real marginal cost. Hence, one interpretation for the poor results"
+using a standard output gap measure is that it is simply a poor proxy for real mar-
+ginal cost.
+"To deal with measuring real marginal cost, Galı ´and Gertler (1999) noted that in"
+"the baseline model, real marginal cost is equal to the real wage divided by the mar-"
+"ginal product of labor. With a Cobb-Douglas production function, the marginal"
+"product of labor is proportional to its average product. Thus, real marginal cost can"
+be written as
+MC
+t¼Wt=Pt
+MPL tzWt=Pt
+Yt=Lt¼WtLt
+PtYt:
+"Hence, real marginal cost is proportional to labor’s share of total income. Expressed"
+"in terms of percent deviations around the steady state, ^v vt¼lst, where lsis the mea-"
+sure of labor’s share. Galı ´and Gertler (2000) and Sbordone (2001) reported evidence
+"in favor of the new Keynesian Phillips curve when labor’s share, rather than a stan-"
+"dard output gap variable, is used to proxy for real marginal cost. Sbordone (2002)"
+also reported evidence in favor of the implied dependence of inﬂation on expected
+"future inﬂation and real marginal cost, as did Neiss and Nelson (2002)."
+"Rudd and Whelan (2005), however, argued that evidence for using labor’s share in"
+"an inﬂation equation is weak. In particular, the basic new Keynesian Phillips curvegiven in (6.36) can be solved forward to yield"
+p
+t¼bEtptþ1þk^v vt¼kXy
+i¼0biEt^v vtþi; ð6:41Þ
+showing that current inﬂation is proportional to the expected present discounted
+value of current and future real marginal cost. This means that current inﬂation
+"should forecast future movements in real marginal cost as, for example, a rise in fu-"
+ture real marginal cost that can be forecast should immediately raise current inﬂa-
+tion. Rudd and Whelan found that VAR-generated expected discounted futurelabor share is only very weakly correlated with inﬂation.6.3 Assessing Alternatives 253

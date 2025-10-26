@@ -1,0 +1,33 @@
+﻿Content
+"structural parameters of the SIPC are estimated, little evidence of informational"
+"stickiness is uncovered. He also found that conditional on the survey forecasts, the"
+SIPC is rejected in favor of the sticky price NKPC.
+Klenow and Willis (2007) proposed a reconciliation between microeconomic ﬂexi-
+bility and macroeconomic rigidity and set up a model in which ﬁrms have price ad-
+justment costs (which will lead to price stickiness) and information costs (informationstickiness). The former are introduced to account for the fact that in a given month
+most prices do not change. Information updating about the aggregate economy
+"occurs every Nperiods, as in a Taylor adjustment model. This di¤ers from Mankiw"
+and Reis’s original sticky information model in which the probability of updating in-formation each period was constant. Klenow and Willis also introduced idiosyncratic
+ﬁrm shocks about which the ﬁrm always has full information. Expectations about
+inﬂation are assumed to be based on a simple forecasting rule. They found that in
+"microeconomic data from the U.S. CPI, price changes appear to depend on old in-"
+formation in a manner consistent with theories of sticky information.
+6.4 Summary
+"Monetary economists generally agree that the models discussed in chapters 2–4,"
+while useful for examining issues such as the welfare cost of inﬂation and the optimal
+"inﬂation tax, need to be modiﬁed to account for the short-run e¤ects of monetary"
+factors on the economy. This chapter and chapter 5 reviewed three such modiﬁca-
+"tions: informational frictions, portfolio adjustment frictions, and nominal price ad-justment frictions. Most monetary models designed to address short-run monetary"
+issues assume that wages and/or prices do not adjust instantaneously in response to
+changes in economic conditions. This chapter has examined some standard models of
+"price adjustment, including both time-dependent and state-dependent pricing models."
+It also brieﬂy discussed some of the microeconomic evidence that has provided new
+facts against which to judge models of nominal stickiness as well as the time series
+evidence on sticky price and sticky information models.
+6.5 Appendix: A Sticky Wage MIU Model
+"In section 6.2.1, an MIU model was modiﬁed to include one-period nominal wage"
+contracts. The equations characterizing equilibrium in the ﬂexible-price MIU model
+were given by (6.1)–(6.8). Output was shown to equal
+y
+t/C0Et/C01y/C3
+t¼aðpt/C0Et/C01ptÞþð 1þaÞet; ð6:46Þ262 6 Money in the Short Run: Nominal Price and Wage Rigidities

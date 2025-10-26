@@ -1,0 +1,25 @@
+﻿Content
+"e.How does the discount factor, b, a¤ect the rates of inﬂation planned by each of"
+the two types in the ﬁrst period? Why?
+13.Assume that nominal wages are set at the start of each period but that wages are
+partially indexed against inﬂation. Suppose wcis the contract nominal wage and the
+"actual nominal wage is w¼wcþkðpt/C0pt/C01Þ, where kis the indexation parameter."
+Show how indexation a¤ects the equilibrium rate of inﬂation under pure discretion.
+What is the e¤ect on average inﬂation of an increase in k? Explain.
+14.(Beetsma and Jensen 1998) Suppose the social loss function is equal to
+Vs¼1
+2E½lðy/C0yn/C0kÞ2þp2/C138;
+and the central bank’s loss function is given by
+Vcb¼1
+2E½ðl/C0yÞðy/C0yn/C0kÞ2þð1þyÞðp/C0pTÞ2/C138þtp;
+"where yis a mean zero stochastic shock to the central bank’s preferences, pTis an"
+"inﬂation target assigned by the government, and tpis a linear inﬂation contract with"
+ta parameter chosen by the government. Assume that the private sector forms
+"expectations before observing y. Let y¼ynþðp/C0peÞþeandp¼Dmþv. Finally,"
+assume that yand the supply shock eare uncorrelated.
+a.Suppose the government only assigns an inﬂation target (so t¼0). What is the
+optimal value for pT?
+b.Suppose the government only assigns a linear inﬂation contract (so pT¼0). What
+is the optimal value for t?
+c.Is the expected social loss lower under the inﬂation target arrangement or the in-
+ﬂation contract arrangement?328 7 Discretionary Policy and Time Inconsistency

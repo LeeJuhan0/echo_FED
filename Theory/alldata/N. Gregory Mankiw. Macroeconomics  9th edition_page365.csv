@@ -1,0 +1,48 @@
+﻿Content
+CHAPTER 12 Aggregate Demand II: Applying the IS–LM Model | 355
+The Destabilizing Effects of Deflation  Economists have proposed two 
+theories to explain ho
+w falling prices could depress income rather than raise it. 
+"The ﬁrst, called the debt-deﬂation theory, describes the effects of unexpected "
+falls in the price level. The second explains the effects of expected deﬂation.
+The debt-deﬂation theory begins with an observation from Chapter 5: unan -
+ticipated changes in the price level redistribute wealth between debtors and 
+"creditors. If a debtor owes a creditor $1,000, then the real amount of this debt is "
+"$1,000/P , where P  is the price level. A fall in the price level raises the real amount "
+of this debt—the amount of purchasing power the debtor must repay the creditor. 
+"Therefore, an unexpected deﬂation enriches creditors and impoverishes debtors."
+The debt-deﬂation theory then posits that this redistribution of wealth affects 
+spending on goods and services. In response to the redistribution from debtors to 
+"creditors, debtors spend less and creditors spend more. If these two groups have "
+"equal spending propensities, there is no aggregate impact. But it seems reasonable "
+to assume that debtors have higher propensities to spend than creditors—perhaps 
+"that is why the debtors are in debt in the ﬁrst place. In this case, debtors reduce "
+their spending by more than creditors raise theirs. The net effect is a reduction 
+"in spending, a contractionary shift in the IS curve, and lower national income."
+"T o understand how expected changes in prices can affect income, we need "
+to add a new variable to the IS–LM model. Our discussion of the model so far 
+has not distinguished between the nominal and real interest rates. Y et we know 
+from previous chapters that investment depends on the real interest rate and that 
+money demand depends on the nominal interest rate. If i is the nominal interest 
+"rate and Ep is expected inﬂation, then the ex ante real interest rate is i 2 Ep. "
+We can now write the IS–LM model as
+"Y 5 C(Y 2 T ) 1 I(i 2 Ep) 1 G        IS,"
+" M/P 5 L(i, Y ) LM."
+"Expected inﬂation enters as a variable in the IS curve. Thus, changes in expected "
+inﬂation shift the IS curve.
+Let’s use this extended IS–LM model to examine how changes in expected 
+inﬂation inﬂuence the level of income. We begin by assuming that everyone 
+"expects the price level to remain the same. In this case, there is no expected "
+"inﬂation (Ep 5 0), and these two equations produce the familiar IS–LM model. "
+Figure 12-8 depicts this initial situation with the LM curve and the IS curve 
+labeled IS1. The intersection of these two curves determines the nominal and real 
+"interest rates, which for now are the same."
+Now suppose that everyone suddenly expects that the price level will fall in 
+"the future, so that Ep becomes negative. The real interest rate is now higher at any "
+given nominal interest rate. This increase in the real interest rate depresses planned 
+"investment spending, shifting the IS curve from IS 1 to IS 2. (The vertical distance "
+"of the downward shift exactly equals the expected deﬂation.) Thus, an expected "
+deﬂation leads to a reduction in national income from Y1 to Y2. The nominal 
+"interest rate falls from i1 to i 2, while the real interest rate rises from r1 to r 2."
+"Here is the story behind this ﬁgure. When ﬁrms come to expect deﬂation, "
+they become reluctant to borrow to buy investment goods because they believe 

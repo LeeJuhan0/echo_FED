@@ -1,0 +1,39 @@
+﻿Content
+Intermediate targets provide a simple framework for responding automatically to
+economic disturbances. The model of this section can be used to evaluate desirable
+properties that characterize good intermediate targets. The critical condition is that
+s2
+cbe small. Since ctrepresents the innovation or shock to the money demand equa-
+"tion, intermediate monetary targeting will work best if money demand is relativelypredictable. Often this has not been the case. The unpredictability of money demandis an important reason that most central banks moved away from using monetary"
+targeting during the 1980s. The shock ccan also be interpreted as arising from con-
+"trol errors. For example, assuming that the monetary base was the policy instrument,unpredictable ﬂuctuations in the link between the base and the monetary aggregate"
+being targeted (corresponding to the odisturbance in 11.7) would reduce the value
+of an intermediate targeting procedure. Controllability is therefore a desirable prop-erty of an intermediate target.
+"Lags in the relationship between the policy instrument, the intermediate target,"
+and the ﬁnal goal variable represent an additional important consideration. The pres-
+"ence of lags introduces no new fundamental issues; as the simple framework shows,"
+"targeting an intermediate variable allows policy to respond to new information, ei-ther because the intermediate target variable is observed contemporaneously (as in"
+the example) or because it helps to forecast future values of the goal variable. In ei-
+"ther case, adjusting policy to achieve the intermediate target forces policy to respond"
+to new information is a manner that is generally suboptimal. But this ine‰ciency will
+"be smaller if the intermediate target is relatively easily controllable (i.e., s"
+2
+cis small)
+"yet is highly correlated with the variable of ultimate interest (i.e., s2"
+jand s2
+eare
+"large), so that a deviation of the intermediate variable from its target provides a clear"
+signal that the goal variable has deviated from its target. For central banks that tar-
+"get inﬂation, the inﬂation forecast serves as an intermediate target. An e‰cient fore-cast is based on all available information and should be highly correlated with the"
+variable of ultimate interest (future inﬂation). Svensson and Woodford (2005) dis-
+cussed the implementation of optimal policies through the use of inﬂation forecasts.
+11.3.4 Real E¤ects of Operating Procedures
+The traditional analysis of operating procedures focuses on volatility; the operating
+procedure adopted by the central bank a¤ects the way disturbances inﬂuence the
+"variability of output, prices, real interest rates, and monetary aggregates. The aver-"
+"age values of these variables, however, is treated as independent of the choice"
+of operating procedure. Canzoneri and Dellas (1998) showed that the choice of
+procedure can have a sizable e¤ect on the average level of the real rate of interest
+by a¤ecting the variability of aggregate consumption.
+The standard Euler condition relates the current marginal utility of consumption
+to the expected real return and the future marginal utility of consumption:11.3 The Instrument Choice Problem 529

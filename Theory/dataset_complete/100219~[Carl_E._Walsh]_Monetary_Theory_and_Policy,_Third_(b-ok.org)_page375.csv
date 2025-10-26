@@ -1,0 +1,47 @@
+﻿Content
+jt¼ðh^n ntþs^c ctÞ/C0ð ^y yt/C0^n ntÞþmw
+t;
+and this suggests that the inﬂation adjustment equation becomes
+pt¼bEtptþ1þg~k kxtþ~k kmw
+t: ð8:36Þ
+"In this formulation, mw"
+tis the source of inﬂation shocks.
+Although this approach appears to provide an explanation for a disturbance term
+"to appear in the inﬂation adjustment equation, if mw"
+treﬂects taste shocks that alter
+"the marginal rate of substitution between leisure and consumption, then mw"
+talso
+a¤ects the ﬂexible-price equilibrium level of output. The same would be true if mw
+t
+"were a markup due to imperfect competition in the labor market. Thus, if the output"
+gap variable in the inﬂation adjustment equation is correctly measured as the devia-
+"tion of output from the ﬂexible-price equilibrium level, mw"
+"tno longer has a separate,"
+independent impact on pt.
+Benigno and Woodford (2005) showed that a cost shock arises in the presence of
+stochastic variation in the gap between the welfare-maximizing level of output and
+"the ﬂexible-price equilibrium level of output. In the model developed so far, only"
+"two distortions are present, one due to monopolistic competition and one due to"
+nominal price stickiness. The ﬁrst distortion implies that the ﬂexible-price output
+"level is below the e‰cient output level even when prices are ﬂexible. However, this"
+"wedge is constant, so when the model is linearized, percent deviations of the"
+ﬂexible-price output and the e‰cient output around their respective steady-state val-
+ues are equal. If there are time-varying distortions such as would arise with stochastic
+"variation in distortionary taxes, then ﬂuctuations in the two output concepts will dif-"
+"fer. In this case, if xw"
+tis the percent deviation of the welfare-maximizing output level
+"around its steady state (the welfare gap),"
+xt¼xw
+tþdt;
+where dtrepresents these stochastic distortions. Since policymakers would be con-
+cerned with stabilizing ﬂuctuations in xw
+"t, the relevant constraint the policymaker"
+will face is obtained by rewriting the Phillips curve (8.20) as
+pt¼bEtptþ1þkxt¼bEtptþ1þkxw
+tþkdt: ð8:37Þ
+"In this formulation, dtacts as a cost shock; stabilizing inﬂation in the face of nonzero"
+realizations of dcannot be achieved without creating volatility in the welfare gap xw
+t.
+One implication of (8.37) is that the variance of the cost shock will depend on k2.
+"Thus, if the degree of price rigidity is high, implying that kis small, cost shocks will"
+also be less volatile (see Walsh 2005a; 2005b).350 8 New Keynesian Monetary Economics

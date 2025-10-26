@@ -1,0 +1,45 @@
+﻿Content
+"bias reemerges even though k¼0. Ruge-Murcia (2003a), in contrast, considered the"
+case of a central bank with an inﬂation target and asymmetric preferences over target
+misses. He showed that if the central bank prefers undershooting its target rather
+"than overshooting it, average inﬂation will tend to be less than the target inﬂation"
+rate.
+Ruge-Murcia (2003b) nested both Cukierman’s asymmetric preferences and the
+standard quadratic preferences of the Barro-Gordon model into a model he wasable to take to the data. He did so by specifying preferences over inﬂation and un-
+employment by the following mixture of a quadratic function in inﬂation and a linex
+function in unemployment:
+L
+t¼1
+2ðpt/C0p/C3Þ2þf
+g2/C18/C19
+fexp½gðut/C0u/C3
+tÞ/C138 /C0gðut/C0u/C3
+tÞ/C01g;
+where p/C3is a constant inﬂation target and u/C3
+tis the policymaker’s desired rate of un-
+"employment. For g>0, positive deviations of unemployment above target are"
+viewed as more costly than negative deviations. If u/C3
+t¼kEt/C01un
+"t, where un"
+tis the nat-
+"ural rate of unemployment and 0 <k<1, Ruge-Murcia showed, the Barro-Gordon"
+model is obtained by letting g!0 and a version similar to Cukierman’s asymmetric
+"preferences is obtained when g>0 and k¼1, that is, when the target unemployment"
+"rate equals the natural rate. In the standard Barro-Gordon model, the inﬂation bias"
+"would disappear when k¼1. Using U.S. data, Ruge-Murcia found that the Barro-"
+"Gordon model is rejected, but Cukierman’s model is not, suggesting that a strongeraversion to unemployment rate increases relative to unemployment rate decreases"
+may have been important in generating the observed pattern of inﬂation in the
+United States.
+Cukierman and Gerlach (2003) also found support for the importance of asym-
+metric preferences. They showed that if central banks are uncertain about economic
+"developments and have asymmetric preferences over output, average inﬂation should"
+be positively correlated with the volatility of output. They found evidence supporting
+this implication from a cross-section of 22 OECD countries.
+"Finally, in an important contribution, Sargent (1999) studied the case of a central"
+"bank in a Barro-Gordon world that must learn about the structure of the economy.Initially, if the central bank believes it faces a Phillips curve trade-o¤ between output"
+"and inﬂation, it will attempt to expand the economy. The equilibrium involves the"
+standard inﬂation bias. As new data reveal to the central bank that the Phillips curve
+"is vertical and that it has not gained an output expansion despite the inﬂation, the"
+"equilibrium can switch to a zero inﬂation path. However, the apparent conquest of"
+"inﬂation is temporary, and the equilibrium can alternate between periods of high in-"
+ﬂation and periods of low inﬂation.322 7 Discretionary Policy and Time Inconsistency

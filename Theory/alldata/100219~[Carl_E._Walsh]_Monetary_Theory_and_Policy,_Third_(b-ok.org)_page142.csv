@@ -1,0 +1,36 @@
+﻿Content
+"In the basic Kiyotaki-Wright model, direct exchange of commodities is assumed to"
+"be costly, but there exists a ﬁat money that can be traded costlessly for commodities."
+The assumption that there exists money with certain exchange properties (costless
+trade with commodities) serves a role similar to that of putting money directly into
+the utility function in the MIU approach or specifying that money must be used in
+certain types of transactions in the CIA approach. 28More recent work on search
+and exchange assumes trading is anonymous so that credit is precluded—you will
+not accept an IOU from a trading partner if you would be unable to identify or lo-
+"cate that person when you wish to collect. 29However, whether an agent will accept"
+money in exchange for goods will depend on the probability the agent places onbeing able later to exchange money for a consumption good.
+Suppose agents are endowed with a new good according to a Poisson process with
+arrival rate a.30Trading opportunities arrive at rate b. A successful trade can occur
+if there is a double coincidence of wants. If xis the probability that another agent
+"chosen at random is willing to accept the trader’s commodity, the probability of a"
+double coincidence of wants is x
+2. A successful trade can also take place if there is a
+"single coincidence of wants (i.e., one of the agents has a good the other wants), if one"
+"agent has money and the other agent is willing to accept it. That is, a trade can take"
+place when an ijagent meets a jkagent if the ijagent has money and the jkagent is
+willing to accept it.
+"In this simple framework, agents can be in one of three states; an agent can be"
+"waiting for a new endowment to arrive (state 0), have a good to trade and be waitingto ﬁnd a trading partner (state 1), or have money and be waiting for a trading oppor-"
+tunity (state m).
+Three equilibria are possible. Suppose the probability of making a trade holding
+"money is less than the probability of making a trade holding a commodity. In thiscase, individuals will prefer to hold on to their good when they meet another trader"
+(absent a double coincidence) rather than trade for money. With no one willing to
+"trade for money, money will be valueless in equilibrium. A second equilibrium arises"
+when holding money makes a successful trade more likely than continuing to hold
+"a commodity. So every agent will be willing to hold money, and in equilibrium all"
+agents will be willing to accept money in exchange for goods. A mixed monetary
+"28. In an early analysis, Alchian (1977) attempted to explain why there might exist a commodity with the"
+types of exchange properties assumed in the new search literature. He stressed the role of information andthe costs of assessing quality. Any commodity whose quality can be assessed at low cost can facilitate theacquisition of information about other goods by serving as a medium of exchange.
+"29. Anonymity is treated as given, and the role of third parties, such as credit card companies and banks,"
+that solve this problem in monetary economies are precluded by assumption.
+"30. In Kiyotaki and Wright (1993), this is interpreted as a production technology.3.4 Search 117"

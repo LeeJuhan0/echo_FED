@@ -1,0 +1,40 @@
+﻿Content
+dtþXy
+i¼0lt;tþigtþi/C0ttþi/C0itþi
+1þitþi/C18/C19
+mtþi/C20/C21
+¼0: ð4:36Þ
+"Thus, an implication of the representative household’s optimization problem and"
+"market equilibrium is that (4.36) must hold in equilibrium. Under Ricardian policies,(4.36) does not impose any additional restrictions on equilibrium because the pol-"
+icy variables are always adjusted to ensure that this condition holds. Under a non-
+"Ricardian policy, however, it does impose an additional condition that must be"
+"satisﬁed in equilibrium. To see what this condition involves, use the deﬁnition of d"
+t
+and seigniorage to write (4.36) as
+Dt
+Pt¼Xy
+i¼0lt;tþi½ttþiþstþi/C0gtþi/C138: ð4:37Þ
+"At time t, the government’s outstanding nominal liabilities Dtare predetermined by"
+past policies. Given the present discounted value of the government’s future surpluses
+"(the right side of (4.37)), the only endogenous variable is the current price level Pt."
+The price level must adjust to ensure that (4.37) is satisﬁed.
+"Equation (4.37) is an equilibrium condition under non-Ricardian policies, but it is"
+not the only equilibrium condition. It is still the case that real money demand andreal money supply must be equal. Suppose the real demand for money is given by
+"(4.19), rewritten here as"
+Mt
+Pt¼fð1þitÞ: ð4:38Þ
+"Equations (4.37) and (4.38) must both be satisﬁed in equilibrium. However, which"
+two variables are determined jointly by these two equations depends on the assump-
+"tions that are made about ﬁscal and monetary policies. For example, suppose the"
+"ﬁscal authority determines gtþiand ttþifor all ib0, and the monetary authority"
+pegs the nominal rate of interest itþi¼{for all ib0. Seigniorage is equal to
+{fð1þ{Þ=ð1þ{Þand so is ﬁxed by monetary policy. With this speciﬁcation of mone-
+"tary and ﬁscal policies, the right side of (4.37) is given. Since Dtis predetermined at"
+"date t, (4.37) can be solved for the equilibrium price level P/C3"
+tgiven by
+P/C3
+t¼DtPy
+i¼0lt;tþi½ttþiþstþi/C0gtþi/C138: ð4:39Þ
+The current nominal money supply is then determined by (4.38):
+Mt¼P/C3
+tfð1þ{Þ:4.5 The Fiscal Theory of the Price Level 167

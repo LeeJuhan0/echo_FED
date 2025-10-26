@@ -1,0 +1,54 @@
+﻿Content
+this budget constraint using the ﬁrst-order conditions of the agent’s problem to ex-
+press the prices in terms of quantities. 41
+"Recalling that chg¼ns, ﬁrst multiply and divide the intertemporal budget con-"
+straint by ltþi; then use the result from the ﬁrst-order conditions (4.67) that Di¼
+biD0ltþi=ltto write (4.68) as 42
+Xy
+i¼0bi½ltþictþi/C0ltþið1/C0ttþiÞð1/C0ltþi/C0ns
+tþiÞþltþiItþimtþi/C138¼0:
+Now use the ﬁrst-order conditions (4.64)–(4.66) to obtain
+Xy
+i¼0biuc/C0ulhg/C0ulm
+cg0/C18/C19
+ch/C01
+tþi/C20/C21
+ctþi/C0ulð1/C0ltþi/C0ns
+tþiÞ/C0ulmtþi
+ctþig0ch
+tþi/C26/C27
+¼0:
+Since the term ulm
+cg0ch
+"tþiappears twice, with opposite signs, these cancel, and this"
+condition becomesX
+y
+i¼0bi½ucctþi/C0ulð1/C0ltþiÞþulð1/C0hÞns
+tþiÞ/C138 ¼0: ð4:69Þ
+Equation (4.69) is the implementability condition. The government’s problem now is
+"to choose ctþi,mtþi, and ltþito maximize the utility of the representative agent, sub-"
+"ject to the economy’s resource constraint, the production function for shopping time,and (4.69). That is, maxPb"
+iuðctþi;ltþiÞsubject to (4.69) and ctþgtað1/C0lt/C0ns
+"tÞ,"
+where ns
+t¼gðmt=ctÞch
+t. This formulation of the Ramsey problem illustrates the pri-
+mal approach; the ﬁrst-order conditions for the representative agent are used to elim-
+inate prices from the agent’s intertemporal budget constraint.
+"Since mappears in this problem only in the production function for shopping time,"
+the ﬁrst-order condition for the optimal choice of mtþ1is
+½biculð1/C0hÞ/C0mtþi/C138g0¼0; ð4:70Þ
+"41. The price of consumption is 1, the price of leisure is 1 /C0t, and the price of real balances is I."
+"42. This uses the fact that mt/C01¼0, so"
+X
+i¼0DiRt/C01þiIt/C01þimt/C01þi¼X
+i¼1DiRt/C01þiIt/C01þimt/C01þi¼X
+i¼1Di/C01It/C01þimt/C01þi
+¼X
+i¼1Di/C01
+lt/C01þilt/C01þiIt/C01þimt/C01þi¼X
+i¼0Di
+ltþiltþiItþimtþi
+¼1
+ltX
+i¼0biltþiItþimtþi:4.6 Optimal Taxation and Seigniorage 187

@@ -1,0 +1,45 @@
+﻿Content
+CHAPTER 14 Aggregate Supply and the Short-Run Tradeoff Between Inflation and Unemployment  | 411
+The Sticky-Price Model
+The most widely accepted explanation for the upward-sloping short-run aggre-
+gate supply 
+curve is called the sticky-price model. This model emphasizes that 
+ﬁrms do not instantly adjust the prices they charge in response to changes in 
+demand. Sometimes prices are set by long-term contracts between ﬁrms and cus-
+"tomers. Even without formal agreements, ﬁrms may hold prices steady to avoid "
+annoying their regular customers with frequent price changes. Some prices are 
+sticky because of the way certain markets are structured: once a ﬁrm has printed 
+"and distributed its catalog or price list, it is costly to alter prices. And sometimes "
+sticky prices can be a reﬂection of sticky wages: ﬁrms base their prices on the 
+"costs of production, and wages may depend on social norms and notions of fair-"
+ness that evolve only slowly over time.
+There are various ways to formalize the idea of sticky prices to show how 
+they can help explain an upward-sloping aggregate supply curve. Here we 
+examine an especially simple model. We ﬁrst consider the pricing decisions of 
+individual ﬁrms and then add together the decisions of many ﬁrms to explain 
+"the behavior of the economy as a whole. T o fully understand the model, we have "
+"to depart from the assumption of perfect competition, which we have used since "
+Chapter 3. Perfectly competitive ﬁrms are price-takers rather than price-setters. 
+"If we want to consider how ﬁrms set prices, it is natural to assume that these "
+ﬁrms have at least some market power over the prices they charge.
+Consider the pricing decision facing a typical ﬁrm. The ﬁrm’s desired price p 
+depends on two macroeconomic variables:
+n The overall level of prices P. A higher price level implies that the ﬁrm’s 
+"costs are higher. Hence, the higher the overall price level, the more the "
+ﬁrm would like to charge for its product.
+n The level of aggregate income Y. A higher level of income raises the 
+demand for the ﬁrm’s product. Because marginal cost increases at 
+"higher levels of production, the greater the demand, the higher the ﬁrm’s "
+desired price.
+We write the ﬁrm’s desired price as
+p 5 P 1 a(Y 2 Y–).
+This equation says that the desired price p depends on the overall level of prices 
+P and on the level of aggregate output relative to the natural level Y 2 Y–. The 
+parameter a (which is greater than zero) measures how much the ﬁrm’s desired 
+price responds to the level of aggregate output.1
+Now assume that there are two types of ﬁrms. Some have ﬂexible prices: 
+they always set their prices according to this equation. Others have sticky 
+"1Mathematical note: The ﬁrm cares most about its relative price, which is the ratio of its nominal "
+price to the overall price level. If we interpret p and P as the logarithms of the ﬁrm’s price and 
+"the price level, then this equation states that the desired relative price depends on the deviation of "
+output from its natural level.

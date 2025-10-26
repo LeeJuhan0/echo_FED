@@ -1,0 +1,37 @@
+﻿Content
+"b¼3, this would imply a¼0:99, and the ratio of real MZM to consumption is 2 :64,"
+"which, for b¼7 implies a¼0:04. Thus, for the purposes of the simulation exercise,"
+values of a¼0:99 and b¼3 are used.
+"The inverse of the intertemporal elasticity of substitution, F, is set equal to 2 in"
+"the benchmark simulations. With b¼3, this means b/C0F>0, and faster expected"
+"money growth will decrease employment and output. Finally, his set equal to 1."
+"With nss¼1=3, a value of h¼1 yields a labor supply elasticity of ½hnss=ð1/C0nssÞ/C138/C01"
+¼2.
+These parameter values are as follows:
+Baseline Parameter Values
+ad b F hab 1þyssrz se ru sj
+0:36 0 :019 0 :989 2 1 0 :99 3 1 :01 0 :95 0 :34 0 :75 0 :9
+"Using the information in this table, the steady-state values for the variables can be"
+evaluated:
+Steady-State Values at Baseline Parameter Values
+1þrss yss
+ksscss
+kssmss
+kssnss
+kss
+1:011 0 :084 0 :065 0 :051 0 :021
+The e¤ect of money growth on the steady-state level of employment can be derived
+using (2.77) in the appendix. The elasticity of the steady-state labor supply with re-
+spect to the growth rate of the nominal money supply depends on the sign of ucm;
+"this in turn depends on the sign of b/C0F. For the benchmark parameter values, this"
+"is positive. With Fless than b, the marginal utility of consumption is increasing in"
+"real money balances. Hence, higher inﬂation decreases the marginal utility of con-"
+"sumption, increases the demand for leisure, and decreases the supply of labor (see"
+"(2.43)). If b/C0Fis negative, higher inﬂation leads to a rise in labor supply and out-"
+put. The dependence of the elasticity of labor with respect to inﬂation on the partialderivatives of the utility function in a general MIU model is discussed more fully by
+Wang and Yip (1992).
+2.5.5 Simulation Results
+Several Matlab programs for solving linear rational-expectations models numeri-
+cally are publicly available (see the appendix and the programs available at hhttp://
+people.ucsc.edu/~walshc/mtp3e i). Figure 2.3 shows that the magnitude of the e¤ect
+"of a one standard deviation monetary shock on output and labor is small, but the72 2 Money-in-the-Utility Function"

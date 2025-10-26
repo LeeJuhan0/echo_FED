@@ -1,0 +1,38 @@
+﻿Content
+"fect of the consumption tax on utility. Thus, their ratio, m=c, is the marginal rate of"
+"substitution between the two tax rates, holding constant the utility of the representa-"
+"tive agent. 32The right side of (4.55) is the marginal rate of transformation, holding"
+"the government’s revenue constant.33 At an optimum, the government equates the"
+marginal rates of substitution and transformation.
+"Our interest is in determining when the Friedman rule, tm¼0, is optimal. Assume,"
+"following Friedman, that at a zero nominal interest rate, the demand for money isﬁnite. Since the tax on consumption must be positive if the tax on money is zero"
+"(since the government does need to raise revenue), (4.53) will hold with equality."
+Then
+m
+cbmþtmmtmþtctm
+tmmtþcþtct; ð4:56Þ
+or
+m
+mþtmmtmþtctmbc
+tmmtþcþtct:
+The left side is proportional to the marginal impact of the inﬂation tax on utility perdollar of revenue raised. The right side is proportional to the marginal impact of the
+consumption tax on utility per dollar of revenue raised. If the inequality is strict at
+t
+"m¼0, then the distortion caused by using the inﬂation tax (per dollar of revenue"
+"raised) exceeds the cost of raising that same revenue with the consumption tax.Thus, it is optimal to set the tax on money equal to zero if"
+m
+cbmþtctm
+cþtct; ð4:57Þ
+or (since cta0)
+"32. That is, if vðt;tmÞis the utility of the representative agent as a function of the two tax rates, then"
+vtdtþvtmdtm¼0 yields
+dt
+dtm¼/C0vtm
+vt¼/C0m
+c:
+"33. That is, from the government’s budget constraint,"
+ðmþtmmtmþtctmÞdtmþðtmmtþcþtctÞdt¼0;
+yielding
+dtm
+dt¼/C0tmmtþcþtct
+mþtmmtmþtctm:4.6 Optimal Taxation and Seigniorage 179

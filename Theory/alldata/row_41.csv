@@ -1,0 +1,21 @@
+### PAPER
+Sentiment Analysis on Inflation after Covid‑19
+
+### SUMMARY
+The thesis titled Sentiment Analysis on Inflation after COVID-19 by Xinyu Li and Zihan Tang from the School of Management of Technology at Ecole Polytechnique Federale de Lausanne  Switzerland  explores the use of sentiment analysis to understand public perceptions of inflation in the aftermath of the COVID-19 pandemic. The study employs both traditional machine learning and deep learning methods to analyze global tweets from 2017 to 2022  aiming to construct a high-frequency measure of public sentiment regarding inflation. This sentiment index is then correlated with other online data sources  such as Google Trends and market-oriented inflation indices.
+
+The authors utilize manually labeled trigrams to evaluate the prediction performance of various machine learning models  including logistic regression and random forest  ultimately selecting the BERT model for final demonstration. By aggregating daily sentiment scores from the BERT model  they derive a predicted inflation sentiment index  which is further analyzed for regional variations and pre/post-COVID patterns. The study also compares these findings with other empirical inflation-related data  demonstrating that Twitter-based sentiment analysis is a powerful tool for predicting inflation.
+
+The research highlights the potential of combining Twitter data with deep learning methods to create timely and novel indicators of consumer inflation expectations. The paper is structured as follows: Section 2 provides a literature review  Section 3 discusses the methodology  Section 4 details the calculation of the sentiment index  and Section 5 presents the results and analysis of the relationship between the sentiment index and inflation.
+
+The introduction emphasizes Twitter's role as a major social platform with over 130 million users worldwide  generating over 50 billion tweets daily by the end of 2020. Twitter serves as a real-time news source and reflects public discourse on various topics  making it a valuable resource for researchers studying public beliefs. The study investigates whether Twitter can convey public beliefs about short-term price dynamics and trigger inflation expectations  which are crucial for consumer and investment decisions.
+
+Inflation expectations are vital for monetary policy  as they measure the credibility of central banks and the effectiveness of monetary policy. Traditional sources of inflation expectations  such as financial asset prices linked to inflation  are available at high frequencies but are imperfect measures of consumer expectations. The study explores whether online resources  like social media and search engines  can provide more timely and frequent assessments of economic expectations.
+
+The authors propose using Google and Twitter as primary sources for capturing consumer inflation expectations  collecting data from January 2017 to December 2021. These platforms offer timely updates and a diverse user base  providing accurate information about expected inflation rates. If successful  this approach could complement existing data sources and offer daily and weekly indicators of consumer beliefs on inflation.
+
+The literature review section discusses sentiment classification  which has been applied to blogs  comments  and micro-blogs. Due to the brevity and noise in such texts  more sophisticated sentiment analysis methods are required. Basic lexicon methods  such as bag of words and semantic orientation  are discussed  along with more advanced techniques that consider syntactic dependencies and the strength of adverbs.
+
+The paper also references previous studies that have explored the use of online data for economic forecasting  such as Google search data for tracking economic activities and sentiment analyses based on Twitter messages. The authors aim to build on this research by using Google and Twitter data to capture consumer inflation expectations.
+
+In conclusion  the study demonstrates the potential of using Twitter and deep learning methods to analyze public sentiment on inflation  providing a novel and timely approach to understanding consumer expectations. The research suggests that this method could enhance existing data sources and offer valuable insights for policymakers and economists.

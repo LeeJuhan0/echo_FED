@@ -1,0 +1,39 @@
+﻿Content
+"rate may not provide a complete description of policy because, conditional on the"
+"target rate, the spread between the interest rate paid on reserves and the penalty bor-"
+rowing rate can a¤ect bank behavior. A channel system can also allow the central
+bank to alter the market interest rate without altering the level of reserves (see
+Woodford 2001c).
+The simplest form of channel system is one in which there are no reserve require-
+ments; the central bank pays an interest rate i/C3/C0s1on any reserve balances and
+"charges a rate i/C3þs2on any bank reserve overdrafts (i.e., it lends reserves at the"
+rate i/C3þs2to any bank that has a negative reserve balance at the central bank).
+"The central bank’s target interest rate is i/C3. Assume, as Whitesell (2006) does, that"
+the central bank sets a symmetric window around i/C3with s1¼s2¼s.39Assume fur-
+ther that loans from the central bank are perfect substitutes for funds obtained in the
+"private market, and overnight balances with the central bank are perfect substitutes"
+for lending in the private market. These assumptions ensure that no bank will bor-
+row in the private market if the interest on such loans exceeds i/C3þsor lend to an-
+other bank if the private market interest rate is less than i/C3/C0s. The willingness of the
+"central bank to pay a ﬁxed rate on balances and to lend automatically at a ﬁxed rateis called a standing facility. Hence, if iis the private market interbank rate,"
+i
+/C3/C0saiai/C3þs:
+The rate iis constrained to remain within the corridor established by the spread s.
+"Hence, this type of system is also called a corridor system. 40"
+The Bank’s Decision Problem
+Assume bank balances are subject to stochastic ﬂuctuations. Let Tbe the expected
+"value of the bank’s end-of-day balances, and let actual end-of-day balances beTþe, where eis a mean zero random variable with continuous distribution function"
+Fð:Þ. The model presumes that the realization of eoccurs after the interbank market
+"closes. The representative bank chooses Tto balance two costs. First, if it sets Ttoo"
+"high, it is likely to end the day with a positive reserve balance that earns i"
+/C3/C0srather
+"than the rate ithat could have been obtained by lending to another bank. Hence, the"
+opportunity cost of holding positive end-of-day balances relative to lending them out
+"isi/C0ði/C3/C0sÞ. Second, if Tis set too low, the bank may end the day with a negative"
+39. Berentsen and Monnet (2008) developed a model in which money demand is motivated by the assump-
+tion that goods market transactions are anonymous. They derived the optimal spread and noted that theimpact of monetary policy is characterized by both the target interest rate and the spread between borrow-
+ing and lending rates from the central bank’s standing facility.
+"40. Whitesell (2006) noted that between June 2003 and June 2004, the Fed’s target for the federal funds"
+rate was 1 percent and it charged a 2 percent penalty rate on discount window borrowing. Since the Fed
+"did not pay interest on reserves at the time, the Fed was essentially using a symmetric channel system wthi"
+/C3¼1 percent and s¼1 percent.544 11 Monetary Policy Operating Procedures

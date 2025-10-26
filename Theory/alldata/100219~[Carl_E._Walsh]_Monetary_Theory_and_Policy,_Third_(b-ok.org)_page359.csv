@@ -1,0 +1,61 @@
+﻿Content
+min
+NtWt
+Pt/C18/C19
+Ntþjtðcjt/C0ZtNjtÞ;
+where jtis equal to the ﬁrm’s real marginal cost. The ﬁrst-order condition implies
+jt¼Wt=Pt
+Zt: ð8:10Þ
+The ﬁrm’s pricing decision problem then involves picking pjtto maximize
+EtXy
+i¼0oiDi;tþipjt
+Ptþi/C18/C19
+cjtþi/C0jtþicjtþi/C20/C21
+;
+where the discount factor Di;tþiis given by biðCtþi=CtÞ/C0s. Using the demand curve
+"(8.5) to eliminate cjt, this objective function can be written as"
+EtXy
+i¼0oiDi;tþipjt
+Ptþi/C18/C191/C0y
+/C0jtþipjt
+"Ptþi/C18/C19/C0y""#"
+Ctþi:
+"While individual ﬁrms produce di¤erentiated products, they all have the same pro-"
+duction technology and face demand curves with constant and equal demand elastic-
+"ities. In other words, they are essentially identical except that they may have set their"
+"current price at di¤erent dates in the past. However, all ﬁrms adjusting in period t"
+"face the same problem, so all adjusting ﬁrms will set the same price. Let p/C3"
+tbe the
+optimal price chosen by all ﬁrms adjusting at time t. The ﬁrst-order condition for
+the optimal choice of p/C3
+tis
+EtXy
+i¼0oiDi;tþið1/C0yÞp/C3
+t
+Ptþi/C18/C19
+þyjtþi/C20/C211
+p/C3
+t/C18/C19p/C3
+t
+Ptþi/C18/C19/C0y
+Ctþi¼0: ð8:11Þ
+"Using the deﬁnition of Di;tþi, (8.11) can be rearranged to yield"
+p/C3
+t
+Pt/C18/C19
+¼y
+y/C01/C18/C19EtPy
+i¼0oibiC1/C0s
+tþijtþiPtþi
+Pt/C16/C17y
+EtPyi¼0oibiC1/C0s
+tþiPtþi
+Pt/C16/C17y/C01: ð8:12Þ
+Consider the case in which all ﬁrms are able to adjust their price every period
+"ðo¼0Þ. When o¼0, (8.12) reduces to"
+p/C3
+t
+Pt/C18/C19
+¼y
+y/C01/C18/C19
+jt¼mjt: ð8:13Þ334 8 New Keynesian Monetary Economics

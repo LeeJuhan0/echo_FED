@@ -1,0 +1,79 @@
+﻿Content
+"From (11.31), a borrowed reserves policy corresponds to fd¼1 and fb¼a=b,"
+since adjusting nonborrowed reserves in this manner insulates borrowed reserves
+"from nonpolicy shocks. That is, nonborrowed reserves are fully adjusted to accom-"
+"modate ﬂuctuations in total reserve demand. Under a borrowed reserves procedure,"
+"innovations to the funds rate are, from (11.30),"
+if
+t¼b
+aþb/C18/C19
+id
+t/C01
+aþb/C18/C19
+vs
+tþ1þa
+b/C18/C19
+vb
+t/C20/C21
+;
+so the funds rate reﬂects both policy and borrowing disturbances.
+Table 11.1 summarizes the values of fdandfbthat correspond to di¤erent operat-
+ing procedures.
+"In general, the innovations in the observed variables can be written (ignoring dis-"
+count rate innovations) as
+if
+t
+BRt
+NBR t2
+643
+751ut¼/C01
+aþb/C01þfb
+aþb1/C0fd
+aþb
+/C0b
+aþba/C0bfb
+aþbbð1/C0fdÞ
+aþb
+1 fbfd2
+6643
+775vs
+t
+vb
+t
+vd
+t2
+643
+751Avt: ð11:34Þ
+"By inverting the matrix A, one can solve for the underlying shocks, the vector v,i n"
+terms of the observed innovations u:v¼A/C01u. This operation produces
+vs
+t
+vb
+t
+vd
+t2
+643
+75¼bfb/C0afd/C0ðfdþfbÞ1/C0fd
+/C0b 10
+a 112
+643
+75if
+t
+BRt
+NBR t2
+643
+75:
+"Hence,"
+vs
+t¼ðbfb/C0afdÞif
+t/C0ðfdþfbÞBRtþð1/C0fdÞNBR t; ð11:35Þ
+so that the policy shock can be recovered as a speciﬁc linear combination of the inno-
+"vations to the funds rate, borrowed reserves, and nonborrowed reserves. From the"
+"parameter values in table 11.1, the following relationship holds between the policy"
+shock and the VAR residuals:Table 11.1
+Parameters under Alternative Operating Procedures
+Operating Procedure
+Funds Rate Nonborrowed Borrowed Total
+fd101/C0b
+a
+fb/C010ab /C0111.4 Operating Procedures and Policy Measures 539

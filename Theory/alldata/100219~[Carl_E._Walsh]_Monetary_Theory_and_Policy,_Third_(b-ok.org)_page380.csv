@@ -1,0 +1,41 @@
+﻿Content
+"instruments to set x/C3¼0, and the central bank then ensures that inﬂation remains"
+equal to zero.
+"In the context of the linear-quadratic model, (8.44) represents a second-order ap-"
+proximation to the welfare of the representative agent around the steady state.
+"Expanding the period loss function,"
+p2
+tþiþlðxtþi/C0x/C3Þ2¼p2
+tþiþlx2
+tþi/C02lx/C3xtþiþlðx/C3Þ2:
+Employing a ﬁrst-order approximation for the structural equations will be adequate
+for evaluating the p2
+tþiandx2
+"tþiterms, because any higher-order terms in the struc-"
+"tural equations would become of order greater than 2 when squared. However, this"
+"is not the case for the 2 lx/C3xtþiterm, which is linear in xtþi. Hence, to approximate"
+this correctly to the required degree of accuracy would require second-order approx-imations to the structural equations rather than the linear approximations derived in
+"(8.40) and (8.41). Thus, assume the ﬁscal authority employs a subsidy to undo the"
+distortion arising from imperfect competition so that x
+"/C3¼0. In this case, the linear"
+approximations to the structural equations will allow correct evaluation of thesecond-order approximation to welfare. See Benigno and Woodford (2005) for a dis-
+cussion of optimal policy when x
+/C3>0.
+8.4.2 Policy Trade-o¤s
+The basic new Keynesian inﬂation adjustment equation given by (8.20) did not in-
+"clude a disturbance term, such as the etthat was added to (8.41). The absence of e"
+implies that there is no conﬂict between a policy designed to maintain inﬂation atzero and a policy designed to keep the output gap equal to zero. If x
+tþi¼0 for all
+"ib0, then ptþi¼0. In this case, a central bank that wants to maximize the expected"
+utility of the representative household will ensure that output is kept equal to the
+ﬂexible-price equilibrium level of output. This also guarantees that inﬂation is equal
+"to zero, thereby eliminating the costly dispersion of relative prices that arises with in-"
+"ﬂation. When ﬁrms do not need to adjust their prices, the fact that prices are sticky is"
+"no longer relevant. Thus, a key implication of the basic new Keynesian model is thatprice stability is the appropriate objective of monetary policy. 29"
+The optimality of zero inﬂation conﬂicts with the Friedman rule for optimal inﬂa-
+tion. M. Friedman (1969) concluded that the optimal inﬂation rate must be negative
+to make the nominal rate of interest zero (see chapter 4). The reason a di¤erent con-
+clusion is reached here is the absence of any explicit role for money when the utility
+"approximation given by (8.44) is derived. In general, zero inﬂation still generates"
+29. Notice that the conclusion that price stability is optimal is independent of the degree of nominal rigid-
+"ity (see Adao, Correia, and Teles 1999).8.4 Monetary Policy Analysis in New Keynesian Models 355"

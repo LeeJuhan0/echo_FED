@@ -1,0 +1,47 @@
+﻿Content
+"(Recall that money reduced shopping time, so gma0.) Provide an intuitive interpre-"
+tation for this expression.
+4.Use (3.40) and (3.41) to demonstrate that the Lagrangian multipliers ltand ltþ1
+are linked by ð1þitþ1Þ=ð1þptþ1Þ.
+5.MIU and CIA models are alternative approaches to constructing models in which
+money has positive value in equilibrium.
+a.What strengths and weaknesses do you see in each of these approaches?
+b.Suppose you wanted to study the e¤ects of the growth of credit cards on money
+demand. Which approach would you adopt? Why?
+6.Modify the basic model of section 3.3.1 by assuming utility depends on the con-
+"sumption of two goods, denoted Cm"
+tandCc
+t. Purchases of Cm
+tare subject to a cash-
+in-advance constraint; purchases of Cc
+tare not. The two goods are produced by the
+same technology: Cm
+tþCc
+t¼Yt¼fðktÞ.
+a.Write down the household’s decision problem.
+b.Write down the ﬁrst-order conditions for the household’s optimal choices for Cm
+t
+andCc
+t. How are these a¤ected by the cash-in-advance constraint?
+c.Show that the nominal rate of interest acts as a tax on the consumption of Cm
+t.
+7.Assume the model of section 3.3.1 is modiﬁed so that only a fraction cof con-
+"sumption must be purchased using cash. In this case, the cash-in-advance constraint"
+takes the form
+cctamt/C01
+1þptþtt; 0<ca1:
+a.Write down the household’s decision problem.
+b.Write down the household’s ﬁrst-order conditions. How are these a¤ected by c?
+"c.Ifcwere a choice variable of the household, would it ever choose c>0?"
+8.Modify the model of section 3.3.1 so that only a fraction cof consumption is sub-
+ject to the cash-in-advance constraint. How is the impact of a serially correlated
+shock to the money growth rate on real output a¤ected by c? (Use the programs
+"available at hhttp://people.ucsc.edu/~walshc/mtp3e ito answer this question, and"
+"compare the impulse response of output for c¼0:25;0:5;0:75, and 1.)"
+9.Consider the model of section 3.3.1. Suppose that money is required to purchase
+both consumption and investment goods. The CIA constraint then becomes ctþxta
+"mt/C01=ð1þptÞþtt, where xis investment. Assume that the aggregate production"
+function takes the form yt¼eztka
+t/C01n1/C0a
+t. Show that the steady-state capital-labor
+ratio is a¤ected by the rate of inﬂation. Does a rise in inﬂation raise or lower thesteady-state capital-labor ratio? Explain.3.7 Problems 131

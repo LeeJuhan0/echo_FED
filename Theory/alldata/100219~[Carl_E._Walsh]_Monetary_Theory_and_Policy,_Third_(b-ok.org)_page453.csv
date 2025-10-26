@@ -1,0 +1,39 @@
+﻿Content
+the case of a sustainable ﬁxed rate. And to draw the sharpest contrast with the ﬂexi-
+"ble exchange rate regime, it is assumed that the exchange rate is pegged. In practice,"
+most ﬁxed exchange rate regimes allow rates to ﬂuctuate within narrow bands. 22
+"Normalizing the ﬁxed rate at st¼0 for all t, the real exchange rate equals p/C3"
+t/C0pt.
+"Assuming the foreign price level follows (9.57), the basic model becomes"
+yt¼/C0b1ðp/C3
+t/C0ptÞþb2ðpt/C0Et/C01ptÞþet
+yt¼a1ðp/C3
+t/C0ptÞ/C0a2rtþut
+rt¼r/C3þp/C3/C0ðEtptþ1/C0ptÞ:
+"The nominal interest rate has been eliminated, since the interest parity condition andthe ﬁxed exchange rate assumption imply that i¼r"
+/C3þp/C3. These three equations can
+"be solved for the price level, output, and the domestic real interest rate. The moneydemand condition plays no role because mmust endogenously adjust to maintain the"
+ﬁxed exchange rate.
+Solving for p
+"t,"
+pt¼ða1þb1Þp/C3
+t/C0a2ðr/C3þp/C3Þþa2Etptþ1þb2Et/C01ptþut/C0et
+a1þa2þb1þb2:
+"Using the method of undetermined coe‰cients, one obtains"
+pt¼p/C3
+t/C0a2r/C3
+a1þb1þut/C0et/C0b2ft
+a1þa2þb1þb2: ð9:60Þ
+Comparing (9.60) to (9.58) reveals some of the major di¤erences between the ﬁxed
+"and ﬂexible exchange rate systems. Under ﬁxed exchange rates, the average domestic"
+rate of inﬂation must equal the foreign inﬂation rate: Eð ptþ1/C0ptÞ¼Eðp/C3
+tþ1/C0p/C3
+tÞ¼
+p/C3. The foreign price level and foreign price shocks ðfÞa¤ect domestic prices and
+output under the ﬁxed rate system. But domestic disturbances to money demand orsupply ( jandv) have no price level or output e¤ects. This situation is in contrast to
+the case under ﬂexible exchange rates and is one reason that high-inﬂation economiesoften attempt to ﬁx their exchange rates with low-inﬂation countries. But when world
+"inﬂation is high, a country can maintain lower domestic inﬂation only by allowing its"
+nominal exchange rate to adjust.
+The e¤ects on real output of aggregate demand and supply disturbances also de-
+"pend on the nature of the exchange rate system. Under ﬂexible exchange rates, a"
+22. Exchange rate behavior under a target zone system was ﬁrst analyzed by Krugman (1991).428 9 Money and the Open Economy

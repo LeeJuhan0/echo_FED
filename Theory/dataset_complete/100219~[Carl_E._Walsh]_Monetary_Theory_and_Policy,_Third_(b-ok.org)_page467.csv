@@ -1,0 +1,57 @@
+﻿Content
+there remains an additional factor present in the open-economy context that leads to
+a distortion and implies the ﬂexible-price equilibrium is not fully e‰cient. Because
+"foreign-produced and domestically produced goods are imperfect substitutes, the"
+central bank faces an incentive to a¤ect the terms of trade. This is welfare-improving
+and would cause the optimal policy to deviate from price stability. 27
+9.5.3 Imperfect Pass-Through
+The isomporphism between the open and closed versions of the basic new Keynesian
+"model is a consequence of continuing to incorporate only a single nominal rigidity.Prices were assumed to be sticky, but nominal wages were assumed to be ﬂexible. In"
+"addition, only the prices of domestically produced goods were taken to be sticky. The"
+home country prices of foreign-produced goods were taken to be perfectly ﬂexible;
+they moved one-for-one with the nominal exchange rate (see (9.67)).
+"Adolfson (2001), Corsetti and Presenti (2002), and Monacelli (2005) provided"
+examples of models that allow for incomplete pass-through. When pass-through is
+"incomplete, the law of one price no longer holds. The law of one price allows the do-"
+"mestic currency price of foreign goods, p"
+f
+"t, to be expressed as stþp/C3"
+"t, where stis the"
+nominal exchange rate and p/C3
+tis the foreign currency price of foreign goods (all
+expressed as percentage deviations from their steady-state values). The terms of tradeare then equal to s
+tþp/C3
+t/C0ph
+"t. With incomplete pass-though, however, pf"
+tand
+stþp/C3
+tcan di¤er.
+"Following Monacelli (2005), the real exchange rate qtcan be written as 28"
+qt¼stþp/C3
+t/C0pc
+t¼ctþð1/C0gÞdt;
+where ct¼stþp/C3
+t/C0pf
+tmeasures the deviation from the law of one price. In the
+"model of the previous section, the law of one price held, so ctwas identically equal"
+to zero. Suppose pass-through is incomplete because of nominal rigidity in the price
+"of imports, with only a fraction of importers adjusting their price each period, as in a"
+standard Calvo-type model of price adjustment. Then the variable ctrepresents the
+"marginal cost of importers, and the rate of inﬂation in the average domestic currency"
+price of foreign imports takes the form
+pf
+t¼bEtpf
+tþ1þkfct;
+where pf
+t¼pf
+t/C0pf
+t/C01and the parameter kfdepends on the fraction of import prices
+that adjust each period.
+27. See Corsetti and Presenti (2001). Benigno and Benigno (2003) considered this issue in a two-country
+model.
+"28. This uses (9.70), which deﬁnes the consumer price index as ð1/C0gÞph"
+tþgpf
+tand the deﬁnition of the
+"terms of trade, dt¼pf"
+t/C0ph
+t.442 9 Money and the Open Economy

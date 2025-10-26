@@ -1,0 +1,42 @@
+﻿Content
+where d¼b=ðP/C0bÞandPis 1 plus the steady-state rate of inﬂation (assumed to be
+equal in both economies). Equations (9.11) and (9.12) express the domestic and for-
+eign price levels as weighted averages of the prices of home- and foreign-produced
+goods expressed in a common currency. The weights depend on the relative sizes
+of the two countries as measured by n. Equations (9.13) and (9.14) are derived
+from (9.99) of the appendix and give the demand for each country’s output as a
+function of world consumption and relative price. Increases in world consumption
+"ðcwÞincrease the demand for the output of both countries, and demand also de-"
+"pends on a relative price variable. Home country demand, for example, falls as theprice of home production pðhÞrises relative to the home price level. Equation (9.15)"
+deﬁnes world consumption as the weighted average of consumption in the twocountries.
+"Equations (9.16)–(9.21) are from the individual agent’s ﬁrst-order conditions (9.5),"
+"(9.6), and (9.7). The ﬁrst two of these equations are simply the Euler condition for"
+the optimal intertemporal allocation of consumption; the change in consumption is
+equal to the real rate of return. Equations (9.18) and (9.19) are implied by optimal
+"production decisions. Finally, (9.20) and (9.21) give the real demand for home andforeign money as functions of consumption and nominal interest rates. Although"
+both countries face the same real interest rate r
+"t, nominal interest rates may di¤er if"
+inﬂation rates di¤er between the two countries.
+The equilibrium path of home and foreign production ðyt;y/C3
+"tÞ, home, domestic,"
+and world consumption ðct;c/C3
+t;cw
+"tÞ, prices and the nominal exchange rate ðptðhÞ;pt;"
+p/C3
+tðfÞ;p/C3
+"t;stÞ, and the real interest rate ðrtÞmust be consistent with these equilibrium"
+conditions. 3Note that subtracting (9.12) from (9.11) implies
+st¼pt/C0p/C3
+t; ð9:22Þ
+and the addition of ntimes (9.13) and ð1/C0nÞtimes (9.14) yields the goods market–
+clearing relationship equating world production to world consumption: nytþ
+ð1/C0nÞy/C3
+t¼cw
+t.
+9.2.2 Equilibrium with Flexible Prices
+The linear version of the two-country model serves to highlight the channels that link
+"open economies. With this framework, the role of money when prices are perfectly"
+"ﬂexible is discussed ﬁrst. As in the closed-economy case, the real equilibrium is inde-"
+pendent of monetary phenomena when prices can move ﬂexibly to o¤set changes in
+3. Equations (9.20)–(9.21) di¤er somewhat from Obstfeld and Rogo¤’s speciﬁcation because of di¤erences
+"in the methods used to obtain linear approximations. See Obstfeld and Rogo¤ (1996, ch. 10).9.2 The Obstfeld-Rogo¤ Two-Country Model 401"

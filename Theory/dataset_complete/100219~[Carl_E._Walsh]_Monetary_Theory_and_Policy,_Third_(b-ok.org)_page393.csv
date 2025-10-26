@@ -1,0 +1,38 @@
+﻿Content
+"From the envelope theorem and (8.66),"
+Vpðpt/C01;etÞ¼a3etþa4þa5pt/C01
+¼f
+1/C0ð1/C0fÞbb2/C20/C21
+½ptþEtVpðpt;etþ1Þ/C138 ¼ /C0lf
+k/C18/C19
+xt:
+"Again using (8.65) to eliminate xt,"
+Vpðpt/C01;etÞ¼/C0lf
+k/C18/C19Cpt/C0fpt/C01/C0et
+k/C20/C21
+¼/C0lf
+k/C18/C19ðCb2/C0fÞpt/C01þðCb1/C01Þet
+k/C20/C21
+: ð8:68Þ
+"However, (8.63) implies that"
+Vpðpt/C01;etÞ¼a3etþa4þa5pt/C01:
+"Comparing this with (8.68) reveals that a4¼0,"
+a3¼lf1/C0Cb1
+k2/C18/C19
+and
+a5¼lff/C0Cb2
+k2/C18/C19
+:
+"Finally, substitute these results into (8.67) to obtain"
+pt¼C
+k2þblfðf/C0Cb2ÞþlC2/C20/C21
+½lfp t/C01þlet/C138:
+"Equating coe‰cients with (8.64),b"
+1¼lC
+k2þblfðf/C0Cb2ÞþlC2/C20/C21
+and
+b2¼lCf
+k2þblfðf/C0Cb2ÞþlC2/C20/C21
+: ð8:69Þ
+"Because Calso depends on the unknown parameter b2, (8.69) does not yield a con-"
+venient analytic solution. To gain insights into the e¤ects of backward-looking368 8 New Keynesian Monetary Economics

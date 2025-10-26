@@ -1,0 +1,45 @@
+﻿Content
+where E t/C01y/C3¼ð1/C0aÞEt/C01n/C3
+tþEt/C01etis the expected equilibrium output under ﬂex-
+"ible prices, a¼ð1/C0aÞ=a, and"
+y/C3
+t¼1þh
+1þhþð1/C0aÞðF/C01Þ/C20/C21
+et¼b2et:
+The aggregate demand side of this economy consists of (6.4) and (6.6)–(6.8). Mak-
+"ing use of the economy’s resource constraint, (6.4) can be written as"
+yt¼Etytþ1/C01
+F/C18/C19
+rt: ð6:47Þ
+"Using the Fisher equation, (6.7), and (6.47), the money demand condition becomes"
+mt/C0pt¼yt/C01
+biss/C18/C19
+½rtþEtptþ1/C0pt/C138
+¼yt/C0F
+biss½Etytþ1/C0yt/C138/C01
+biss/C18/C19
+ðEtptþ1/C0ptÞ:
+Notice that expected future income a¤ects the demand for money. Higher expected
+"income raises the expected real interest rate for a given level of current output, and"
+this implies lower money demand.
+The equations of the model can now be collected:
+Aggregate supply : yt¼b2Et/C01etþaðpt/C0Et/C01ptÞþð1þaÞet:
+Aggregate demand : yt¼Etytþ1/C01
+F/C18/C19
+rt:
+Money demand: mt/C0pt¼yt/C0F
+biss½Etytþ1/C0yt/C138/C01
+biss/C18/C19
+ðEtptþ1/C0ptÞ:
+Fisher equation : it¼rtþEtptþ1/C0pt:
+"To complete the solution to the model, assume that the productivity shock et"
+and the money supply shock stare both serially and mutually uncorrelated. Then
+Et/C01et¼Et/C01y/C3
+t¼0. The model reduces to
+yt¼aðpt/C0Et/C01ptÞþð 1þaÞet
+mt/C0pt¼1þF
+biss/C18/C19
+yt/C01
+biss/C18/C19
+ðEtptþ1/C0ptÞ
+mt¼mt/C01þst:6.5 Appendix: A Sticky Wage MIU Model 263

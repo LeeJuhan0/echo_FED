@@ -1,0 +1,38 @@
+﻿Content
+The new Keynesian Phillips curve also di¤ers from traditional Phillips curves in
+having been derived explicitly from a model of optimizing behavior on the part of
+"price setters, conditional on the assumed economic environment (monopolistic com-"
+"petition, constant elasticity demand curves, and randomly arriving opportunities to"
+"adjust prices). This derivation reveals how ~k k, the impact of real marginal cost on in-"
+"ﬂation, depends on the structural parameters band o. An increase in bmeans that"
+"the ﬁrm gives more weight to future expected proﬁts. As a consequence, ~k kdeclines;"
+inﬂation is less sensitive to current marginal costs. Increased price rigidity (a rise in
+"o) reduces ~k k; with opportunities to adjust arriving less frequently, the ﬁrm places less"
+weight on current marginal cost (and more on expected future marginal costs) whenit does adjust its price.
+Equation (8.17) implies that inﬂation depends on real marginal cost and not di-
+rectly on a measure of the gap between actual output and some measure of potential
+"output or on a measure of unemployment relative to the natural rate, as is typical in"
+"traditional Phillips curves. 9However, real marginal costs can be related to an output"
+"gap measure. The ﬁrm’s real marginal cost is equal to the real wage it faces dividedby the marginal product of labor (see (8.10)). In a ﬂexible-price equilibrium, all ﬁrmsset the same price, so (8.13) implies that real marginal cost will equal its steady-state"
+"value of 1= m. Because nominal wages have been assumed to be completely ﬂexible,"
+"the real wage must, according to (8.9), equal the marginal rate of substitution be-tween leisure and consumption. Expressed in terms of percentage deviations around"
+"the steady state, (8.9) implies that ^w w"
+t/C0^p pt¼h^n ntþs^y yt. Recalling that ^c ct¼^y ytand
+"^y yt¼^n ntþ^z zt, the percentage deviation of real marginal cost around its steady-state"
+value is
+^j jt¼ð ^w wt/C0^p ptÞ/C0ð ^y yt/C0^n ntÞ
+¼ðsþhÞ^y yt/C01þh
+sþh/C18/C19
+^z zt/C20/C21
+:
+"To interpret the term involving ^z zt, linearize (8.15) giving ﬂexible-price output to"
+obtain
+^y yf
+t¼1þh
+sþh/C18/C19
+^z zt: ð8:18Þ
+"Thus, (8.18) can be used to express real marginal cost as"
+^j jt¼gð^y yt/C0^y yf
+tÞ; ð8:19Þ
+9. See Ravenna and Walsh (2008) and Blanchard and Gali (2008) for models of labor market frictions that
+relate inﬂation to unemployment.8.3 A Linearized New Keynesian Model 337

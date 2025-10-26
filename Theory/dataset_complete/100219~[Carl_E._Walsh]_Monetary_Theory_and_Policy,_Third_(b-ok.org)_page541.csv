@@ -1,0 +1,44 @@
+﻿Content
+"ﬂuctuations. If only money demand shocks are present, (i.e., s2"
+"u¼0), output can be"
+"stabilized perfectly under an interest rate rule. Under a money rule, money demand"
+shocks cause the interest rate to move to maintain money market equilibrium; these
+interest rate movements then lead to output ﬂuctuations. With both types of shocks
+"occurring, the comparison of the two policy rules depends on the relative variances"
+"ofuandvas well as on the slopes of the IS and the LM curves, as shown by (11.6)."
+This framework is quite simple and ignores many important factors. To take
+"just one example, no central bank has direct control over the money supply. Instead,control can be exercised over a narrow monetary aggregate such as the monetary"
+"base, and variations in this aggregate are then associated with variations in broader"
+measures of the money supply. To see how the basic framework can be modiﬁed to
+"distinguish between the base as a policy instrument and the money supply, suppose"
+the two are linked by
+m
+t¼btþhitþot; ð11:7Þ
+"where bis the (log) monetary base, and the money multiplier ( mt/C0btin log terms) is"
+"assumed to be an increasing function of the rate of interest (i.e., h>0). In addition,"
+otis a random money multiplier disturbance. Equation (11.7) could arise under a
+fractional reserve system in which excess reserves are a decreasing function of the
+"rate of interest. 4Under an interest rate procedure, (11.7) is irrelevant for output de-"
+"termination, so E iðytÞ2¼s2"
+"u, as before. But now, under a monetary base operating"
+"procedure,"
+yt¼ðcþhÞut/C0avtþaot
+aþcþh
+and
+EbðytÞ2¼1
+aþcþh/C18/C192
+½ðcþhÞ2s2
+uþa2ðs2
+vþs2
+oÞ/C138:
+The interest rate procedure is preferred over the monetary base procedure if and only
+if
+s2
+vþs2
+o>1þ2ðcþhÞ
+a/C20/C21
+s2
+u:
+"Because oshocks do not a¤ect output under an interest rate procedure, the presence"
+of money multiplier disturbances makes a base rule less attractive and makes it more
+"4. See, for example, Modigliani, Rasche, and Cooper (1970) or McCallum and Hoehn (1983).516 11 Monetary Policy Operating Procedures"

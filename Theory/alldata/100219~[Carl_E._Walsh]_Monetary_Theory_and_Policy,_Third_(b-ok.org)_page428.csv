@@ -1,0 +1,54 @@
+﻿Content
+Equation (9.20) shows that inﬂation a¤ects the real demand for money. Changes
+in nominal money growth rates produce changes in the inﬂation rate and nominal in-
+"terest rates, thereby a¤ecting the opportunity cost of holding money and, in equilib-"
+"rium, the real stock of money. The price level and the nominal exchange rate jump to"
+ensure that the real supply of money is equal to the new real demand for money.
+"Equation (9.21) can be subtracted from (9.20), yielding"
+mt/C0m/C3
+t/C0ðpt/C0p/C3
+tÞ¼ð ct/C0c/C3
+tÞ/C0dðptþ1/C0p/C3
+tþ1Þ;
+"which, using (9.22), implies 5"
+mt/C0m/C3
+t/C0st¼ðct/C0c/C3
+tÞ/C0dðstþ1/C0stÞ: ð9:23Þ
+"Solving this forward for the nominal exchange rate, the no-bubbles solution is"
+st¼1
+1þdXy
+i¼0d
+1þd/C18/C19i
+½ðmtþi/C0m/C3
+tþiÞ/C0ðctþi/C0c/C3
+tþiÞ/C138: ð9:24Þ
+Since (9.16) and (9.17) imply that ctþi/C0c/C3
+tþi¼ct/C0c/C3
+"t, the expression for the nominal"
+exchange rate can be rewritten ass
+t¼/C0 ð ct/C0c/C3
+tÞþ1
+1þdXy
+i¼0d
+1þd/C18/C19i
+ðmtþi/C0m/C3
+tþiÞ:
+The current nominal exchange rate depends on the current and future path of the
+nominal money supplies in the two countries and on consumption di¤erentials. The
+"exchange rate measures the price of one money in terms of the other, and as (9.24)"
+"shows, this depends on the relative supplies of the two monies. An increase in one"
+country’s money supply relative to the other’s depreciates that country’s exchange
+rate. From the standard steady-state condition that bRss¼1 and the deﬁnition of
+"dasb=ðP/C0bÞ, the discount factor in (9.24), d=ð1þdÞ, is equal to b=P¼1=RssP¼"
+1=ð1þissÞ. Future nominal money supply di¤erentials are discounted by the steady-
+state nominal rate of interest. Because agents are forward-looking in their decision
+"making, it is only the present discounted value of the relative money supplies that"
+"matters. In other words, the nominal exchange rate depends on a measure of the per-"
+manent money supply di¤erential. Letting xtþi1ðmtþi/C0m/C3
+tþiÞ/C0ðctþi/C0c/C3
+"tþiÞ, the"
+equilibrium condition for the nominal exchange rate can be written as
+5. This uses the fact that ptþ1/C0p/C3
+tþ1¼ðptþ1/C0p/C3
+tþ1Þ/C0ð pt/C0p/C3
+tÞ¼stþ1/C0st.9.2 The Obstfeld-Rogo¤ Two-Country Model 403

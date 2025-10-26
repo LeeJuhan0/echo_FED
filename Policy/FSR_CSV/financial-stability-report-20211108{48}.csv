@@ -1,0 +1,66 @@
+"ery ability can 
+allow cyber events to 
+become cyber incidents, 
+impairing operations (for 
+example, by causing a 
+loss of funds or data, 
+corrupting data, halting 
+operations, or causing 
+other monetary or 
+reputational losses).
+Financial system 
+features (for example, 
+interconnections 
+from financial and 
+digital exposures, 
+data and operational 
+dependencies, market 
+concentration and lack 
+of substitutes for critical 
+services, time sensitivity, 
+and confidence) can 
+amplify and spread a 
+cyber incident to disrupt 
+the system’s functioning.
+Incidents that sufficiently 
+disrupt the financial 
+system’s functioning can 
+affect financial stability (for 
+example, by causing a 
+lack of availability of critical 
+services or data, runs 
+and asset fire sales, lack 
+of access to funding, or 
+disrupted payments or price 
+discovery).
+
+66 Near-Term rISkS To THe FINaNCIaL SYSTem
+ﬁ rst example is a cyberattack directed at a bank holding company that impairs the ﬁ rm’s data. For 
+instance, in 2019, the data of more than 100/uni00A0million Capital One customers were accessed after an 
+attacker exploited a vulnerability in the ﬁ rewall conﬁ guration of the bank’s cloud-based infrastructure. A 
+cyberattack that affects data at multiple large ﬁ nancial institutions could lead to a broad loss of conﬁ -
+dence in the security of the ﬁ nancial sector. If the institutions’ data are corrupted during the attack, the 
+recovery process could be extensive.
+The second example is a cyberattack on a ﬁ nancial market exchange that disrupts trading. In 2020, 
+distributed denial-of-service attacks overwhelmed the website of New Zealand’s Exchange (NZX). 
+The exchange had to halt trading in cash, debt, and derivatives for most of four days, which disrupted 
+access to price information for assets traded only on its exchange. NZX was vulnerable because it 
+lacked adequate defenses and a response playbook. An attack that shuts down trading at a large and 
+interconnected ﬁ nancial market exchange could disrupt price information more widely, as well as clear-
+ing and settlement, and trigger a loss of conﬁ dence.
+An attack on a third-party vendor represents the third example. In 2020, a nation-state actor inserted 
+malware into a routine update of network management software sold by SolarWinds, a third-party ven-
+dor. SolarWinds customers, which included large ﬁ nancial institutions, were infected by the malware 
+when they installed the software update. The attack opened a backdoor through which the attackers 
+could have exploited the customers’ computer systems. While ﬁ nancial institutions do not appear to 
+have been the intended targets, if they had been, the outcome for ﬁ nancial stability could have been 
+much worse, as the attackers reportedly had access to the computer systems for some time.2
+Finally, a study by Federal Reserve Bank of New York staff simulated the extent of a hypothetical 
+cyberattack that prevents one of the ﬁ ve most active banks from sending payments for one day.3 
+Using data from 2018, the study found that, on average across trading days that year, 31/uni00A0percent of 
+banking-sector assets (excluding the directly affected bank) would face compromised liquidity. The 
+majority of forgone payments in a disruption support other ﬁ nancial market activity, so the original 
+disruption could have broad ramiﬁ cations.
+Data gaps
+While there is extensive ongoing supervisory attention to ﬁ rm-level cyber resilience, data gaps remain, 
+particularly for moni"

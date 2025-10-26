@@ -1,0 +1,12 @@
+﻿content
+"What does this imply for tests of uncovered interest parity? From the solution for
+st;stþ1 st 1⁄4 ðutþ1 ut þ vtþ1 vtÞ=ð1 þ mÞ. The probability limit of the interest rate coe‰cient in the regression of stþ1 st on it i505t is equal to
+covðstþ1 st; it i505t Þ
+varðit i505t Þ 1⁄4
+1
+ð1þmÞ
+2 ðs2
+u ms2
+v Þ
+the standard null in tests of interest parity. If u1 0,
+the probability limit of the regression coe‰cient is 1=m. That is, the regression estimate uncovers the policy parameter m. Not only would a regression of the change in the exchange rate on the interest di¤erential not yield the value of 1 predicted by the uncovered interest parity condition but the estimate would be negative."

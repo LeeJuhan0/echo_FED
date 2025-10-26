@@ -1,0 +1,34 @@
+﻿Content
+10.Consider the following model. Preferences are given by
+EtXy
+i¼0bi½lnctþiþylndtþi/C138;
+and the budget and CIA constraints take the form
+ctþdtþmtþkt¼Aka
+t/C01þð1/C0dÞkt/C01þttþmt/C01
+1þpt
+ctattþmt/C01
+1þpt;
+"where mdenotes real money balances, and ptis the inﬂation rate from period t/C01"
+"to period t. The two consumption goods, candd, represent cash ( c) and credit ( d)"
+goods. The net transfer tis viewed as a lump-sum payment (or tax) by the
+household.
+a.Does this model exhibit superneutrality? Explain.
+b.What is the rate of inﬂation that maximizes steady-state utility?
+11.Consider the following model. Preferences are given by
+EtXy
+i¼0bi½lnctþiþlndtþi/C138;
+and the budget constraint is
+ctþdtþmtþkt¼Aka
+t/C01þttþmt/C01
+1þptþð1/C0dÞkt/C01;
+"where mdenotes real money balances, and ptis the inﬂation rate from period t/C01t o"
+period t. Utility depends on the consumption of two types of good; cmust be pur-
+"chased with cash, whereas dcan be purchased using either cash or credit. The net"
+transfer tis viewed as a lump-sum payment (or tax) by the household. If a fraction
+"yofdis purchased using cash, then the household also faces a CIA constraint of the"
+formc
+tþydtamt/C01
+1þptþtt:
+What is the relationship between the nominal rate of interest and whether the CIA
+"constraint is binding? Explain. Will the household ever use cash to purchase d(i.e.,"
+will the optimal yever be greater than zero)?132 3 Money and Transactions

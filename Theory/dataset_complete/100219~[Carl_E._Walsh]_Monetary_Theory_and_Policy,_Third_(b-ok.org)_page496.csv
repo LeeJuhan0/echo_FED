@@ -1,0 +1,42 @@
+﻿Content
+The ﬁnal aspect of the model is a description of the behavior of the central bank.
+Since many central banks use the short-term interest rate as their operational pol-
+"icy instrument, and since they often engage in interest rate smoothing, McCallum"
+"assumed that it¼it/C01þmðIt/C0itÞþzt.13However, problems of multiple equilibria"
+may arise when policy responds to forward-looking variables such as It(see Ber-
+"nanke and Woodford 1997 and problem 6). To avoid this possibility, assume thatpolicy adjusts the short-term rate according to"
+i
+t¼it/C01/C0mxtþzt; ð10:28Þ
+"where ztis a white noise process and jmj<1. According to (10.28), a rise in the risk"
+premium in the long-term rate induces a policy response that lowers the short rate.
+Exogenous changes in risk that alter the term structure might also a¤ect consump-
+"tion or investment spending, leading the central bank to lower short-term interest"
+rates to counter the contractionary e¤ects of a positive realization of xt. Because no
+"real explanation has been given for xor why policy might respond to it, it important"
+to keep in mind that this is only an illustrative example that will serve to suggest how
+policy behavior might a¤ect the term structure.
+Equations (10.25)–(10.28) form a simple model that can be used to study how pol-
+"icy responses to the term structure risk premium (i.e., m) a¤ect the observed relation-"
+"ship between short-term and long-term interest rates. From (10.28), E titþ1¼it/C0mrx t,"
+so
+It¼1
+2ðitþEtitþ1Þþxt¼itþ1/C0mr
+2/C18/C19
+xt:
+This implies that
+1/C0mr
+2/C18/C19/C01
+ðIt/C0itÞ¼xt:
+"Using this result, (10.27) can be written as"
+1
+2ðitþ1/C0itÞ¼It/C0it/C01/C0mr
+2/C18/C19/C01
+ðIt/C0itÞþ12e
+tþ1;
+or
+12ði
+tþ1/C0itÞ¼/C0mr
+2/C0mr/C18/C19
+ðIt/C0itÞþ12e
+tþ1; ð10:29Þ
+13. McCallum actually allows the coe‰cient on it/C01in (10.28) to di¤er from 1.10.3 The Term Structure of Interest Rates 471

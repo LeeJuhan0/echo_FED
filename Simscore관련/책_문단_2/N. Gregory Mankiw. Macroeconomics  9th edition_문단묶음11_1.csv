@@ -1,0 +1,176 @@
+﻿id,paragraph
+1,"The next step is for the government to accept gold from the public in exchange for gold certificates—pieces of paper that can be redeemed for a certain quantity of gold. If people believe the government’s promise to redeem the paper bills for gold, the bills are just as valuable as the gold itself. In addition, because the bills are lighter than gold (and gold coins), they are easier to use in transactions. Eventually, no one carries gold around at all, and these gold–backed government bills become the monetary standard. Finally, the gold backing becomes irrelevant. If no one ever bothers to redeem the bills for gold, no one cares if the option is abandoned. As long as everyone continues to accept the paper bills in exchange, they will have value and serve as money. Thus, the system of commodity money evolves into a system of fiat money. Notice that in the end the use of money in exchange is a social convention: everyone values fiat money because they expect everyone else to value it. Money and Social Conventions on the Island of Yap The economy of Yap, a small island in the Pacific, once had a type of money that was something between commodity and fiat money. The traditional medium of exchange in Yap was fei, stone wheels up to 12 feet in diameter. These stones had holes in the center so that they could be carried on poles and used for exchange. Large stone wheels are not a convenient form of money. The stones were heavy, so it took substantial effort for a new owner to take his fei home after completing a transaction. Although the monetary system facilitated exchange, it did so at great cost. Eventually, it became common practice for the new owner of the fei not to bother to take physical possession of the stone. Instead, the new owner accepted a claim to the fei without moving it. In future bargains, he traded this claim for goods that he wanted. Having physical possession of the stone became less important than having legal claim to it."
+2,"86 | PART II Classical Theory: The Economy in the Long Run How the Quantity of Money Is Controlled The quantity of money available in an economy is called the money supply. In a system of commodity money, the money supply is simply the quantity of that commodity. In an economy that uses fiat money, such as most economies today, the government controls the supply of money: legal restrictions give the government a monopoly on the printing of money. Just as the level of taxation and the level of government purchases are policy instruments of the government, so is the quantity of money. The government’s control over the money supply is called monetary policy. In the United States and many other countries, monetary policy is delegated to a partially independent institution called the central bank. The central bank of the United States is the Federal Reserve—often called the Fed. If you look at a U.S. dollar bill, you will see that it is called a Federal Reserve Note. Decisions about monetary policy are made by the Fed’s Federal Open Market Committee. This committee consists of two groups: (1) members of the Federal Reserve Board, who are appointed by the president and confirmed by Congress, and (2) the presidents of the regional Federal Reserve Banks, who are chosen by these banks’ boards of directors. The Federal Open Market Committee meets about every six weeks to discuss and set monetary policy. The primary way in which the Fed controls the supply of money is through open-market operations—the purchase and sale of government bonds. When the Fed wants to increase the money supply, it uses some of the dollars it has to buy government bonds from the public. Because these dollars leave the Fed and enter into the hands of the public, the purchase increases the quantity of money in circulation. Conversely, when the Fed wants to decrease the money supply, it sells some government bonds from its own portfolio. This open–market sale of bonds takes some dollars out of the hands of the public and, thus, decreases the quantity of money in circulation. (Later in the chapter, we explore in more detail how the Fed controls the supply of money.)"
+3,"How the Quantity of Money Is Measured One of our goals is to determine how the money supply affects the economy; we turn to that topic in the next chapter. As a background for that analysis, let’s first discuss how economists measure the quantity of money. Because money is the stock of assets used for transactions, the quantity of money is the quantity of those assets. In simple economies, this quantity is easy to measure. In the POW camp, the quantity of money was the number of cigarettes in the camp. On the island of Yap, the quantity of money was the number of fei on the island. But how can we measure the quantity of money in more complex economies? The answer is not obvious, because no single asset is used for all transactions. People can use various assets, such as cash in their wallets or deposits in their checking accounts, to make transactions, although some assets are more convenient to use than others."
+4,"CHAPTER 4 The Monetary System: What It Is and How It Works | 87 The most obvious asset to include in the quantity of money is currency, the sum of outstanding paper money and coins. Most day–to–day transactions use currency as the medium of exchange. A second type of asset used for transactions is demand deposits, the funds people hold in their checking accounts. If most sellers accept personal checks or debit cards that access checking accounts balances, then assets in a checking account are almost as convenient as currency. That is, the assets are in a form that can easily facilitate a transaction. Demand deposits are therefore added to currency when measuring the quantity of money. Once we admit the logic of including demand deposits in the measured money stock, many other assets become candidates for inclusion. Funds in savings accounts, for example, can be easily transferred into checking accounts or accessed by debit cards; these assets are almost as convenient for transactions. Money market mutual funds allow investors to write checks against their accounts, although restrictions sometimes apply with regard to the size of the check or the number of checks written. Because these assets can be easily used for transactions, they should arguably be included in the quantity of money. Because it is hard to judge which assets should be included in the money stock, more than one measure is available. Table 4–1 presents the three measures of the money stock that the Federal Reserve calculates for the U.S. economy, together with a list of which assets are included in each measure. From the smallest to the largest, they are designated C, M1, and M2. The most common measures for studying the effects of money on the economy are M1 and M2."
+5,"Amount
+in April 2014
+Symbol Assets Included (billions of dollars)
+C Currency $ 1,200
+M1 Currency plus demand 2,778
+deposits, traveler’s
+checks, and other
+checkable deposits
+M2 M1 plus retail money 11,215
+market mutual fund
+balances, saving deposits
+(including money market
+deposit accounts), and
+small time deposits
+Data from: Federal Reserve.
+The Measures of Money
+TABLE 4-1
+88 | PART II Classical Theory: The Economy in the Long Run
+4-2 The Role of Banks in the Monetary
+System
+Earlier, we introduced the concept of “money supply” in a highly simplified
+manner. We defined the quantity of money as the number of dollars held by the
+public, and we assumed that the Federal Reserve controls the supply of money
+by increasing or decreasing the number of dollars in circulation through openmarket operations. This explanation was a good starting point for understanding
+what determines the supply of money, but it is incomplete because it omits the
+role of the banking system in this process."
+6,"In this section we see that the money supply is determined not only by
+Fed policy but also by the behavior of households (which hold money) and
+banks (in which money is held). We begin by recalling that the money supply includes both currency in the hands of the public and deposits (such as
+checking account balances) at banks that households can use on demand
+for transactions. If M denotes the money supply, C currency, and D demand
+deposits, we can write
+Money Supply  Currency 1 Demand Deposits
+M 5 C 1 D.
+Many people use credit or debit cards to make purchases. Because money is the medium of exchange,
+one might naturally wonder how these cards fit
+into the measurement and analysis of money.
+Let’s start with credit cards. One might guess
+that credit cards are part of the economy’s stock
+of money, but in fact measures of the quantity
+of money do not take credit cards into account.
+This is because credit cards are not really a
+method of payment but a method of deferring
+payment. When you buy an item with a credit
+card, the bank that issued the card pays the store
+what it is due. Later, you repay the bank. When
+the time comes to pay your credit card bill, you
+will likely do so by writing a check against your
+checking account. The balance in this checking
+account is part of the economy’s stock of money."
+7,"The story is different with debit cards, which
+automatically withdraw funds from a bank account
+How Do Credit Cards and Debit Cards Fit into the
+Monetary System?
+to pay for items bought. Rather than allowing users
+to postpone payment for their purchases, a debit
+card allows users immediate access to deposits in
+their bank accounts. Using a debit card is similar
+to writing a check. The account balances that lie
+behind debit cards are included in measures of the
+quantity of money.
+Even though credit cards are not a form of
+money, they are still important for analyzing the
+monetary system. Because people with credit
+cards can pay many of their bills all at once at
+the end of the month, rather than sporadically as
+they make purchases, they may hold less money
+on average than people without credit cards.
+Thus, the increased popularity of credit cards
+may reduce the amount of money that people
+choose to hold. In other words, credit cards are
+not part of the supply of money, but they may
+affect the demand for money."
+8,"To understand the money supply, we must understand the interaction between
+currency and demand deposits and how the banking system, together with Fed
+policy, influences these two components of the money supply.
+100–Percent–Reserve Banking
+We begin by imagining a world without banks. In such a world, all money takes
+the form of currency, and the quantity of money is simply the amount of currency that the public holds. For this discussion, suppose that there is $1,000 of
+currency in the economy.
+Now introduce banks. At first, suppose that banks accept deposits but do not
+make loans. The only purpose of the banks is to provide a safe place for depositors to keep their money.
+The deposits that banks have received but have not lent out are called
+reserves. Some reserves are held in the vaults of local banks throughout the
+country, but most are held at a central bank, such as the Federal Reserve. In
+our hypothetical economy, all deposits are held as reserves: banks simply accept
+deposits, place the money in reserve, and leave
+the money there until the depositor makes a withdrawal or writes a check against the balance. This system is
+called 100–percent–reserve banking."
+9,"Suppose that households deposit the economy’s entire $1,000 in Firstbank.
+Firstbank’s balance sheet—its accounting statement of assets and liabilities—looks like this:
+Firstbank’s Balance Sheet
+Assets Liabilities
+Reserves $1,000 Deposits $1,000
+The bank’s assets are the $1,000 it holds as reserves; the bank’s liabilities are the
+$1,000 it owes to depositors. Unlike banks in our economy, this bank is not making loans, so it will not earn profit from its assets. The bank presumably charges
+depositors a small fee to cover its costs.
+What is the money supply in this economy? Before the creation of Firstbank,
+the money supply was the $1,000 of currency. After the creation of Firstbank,
+the money supply is the $1,000 of demand deposits. A dollar deposited in a bank
+reduces currency by one dollar and raises deposits by one dollar, so the money
+supply remains the same. If banks hold 100 percent of deposits in reserve, the banking
+system does not affect the supply of money."
+10,"Fractional–Reserve Banking
+Now imagine that banks start to use some of their deposits to make loans—for
+example, to families who are buying houses or to firms that are investing in
+new plants and equipment. The advantage to banks is that they can charge
+interest on the loans. The banks must keep some reserves on hand so that
+90 | PART II Classical Theory: The Economy in the Long Run
+reserves are available whenever depositors want to make withdrawals. But as
+long as the amount of new deposits approximately equals the amount of withdrawals, a bank need not keep all its deposits in reserve. Thus, bankers have
+an incentive to make loans. When they do so, we have fractional–reserve
+banking, a system under which banks keep only a fraction of their deposits
+in reserve."
+11,"Here is Firstbank’s balance sheet after it makes a loan:
+Firstbank’s Balance Sheet
+Assets Liabilities
+Reserves $200 Deposits $1,000
+Loans $800
+This balance sheet assumes that the reserve–deposit ratio—the fraction of deposits
+kept in reserve—is 20 percent. Firstbank keeps $200 of the $1,000 in deposits in
+reserve and lends out the remaining $800.
+Notice that Firstbank increases the supply of money by $800 when it
+makes this loan. Before the loan is made, the money supply is $1,000, equaling the deposits in Firstbank. After the loan is made, the money supply is
+$1,800: the depositor still has a demand deposit of $1,000, but now the borrower holds $800 in currency. Thus, in a system of fractional–reserve banking,
+banks create money."
+12,"The creation of money does not stop with Firstbank. If the borrower deposits
+the $800 in another bank (or if the borrower uses the $800 to pay someone who
+then deposits it), the process of money creation continues. Here is the balance
+sheet of Secondbank:
+Secondbank’s Balance Sheet
+Assets Liabilities
+Reserves $160 Deposits $800
+Loans $640
+Secondbank receives the $800 in deposits, keeps 20 percent, or $160, in reserve,
+and then loans out $640. Thus, Secondbank creates $640 of money. If this $640 is
+eventually deposited in Thirdbank, this bank keeps 20 percent, or $128, in reserve
+and loans out $512, resulting in this balance sheet:
+Thirdbank’s Balance Sheet
+Assets Liabilities
+Reserves $128 Deposits $640
+Loans $512
+The process goes on and on. With each deposit and subsequent loan, more
+money is created."
+13,"This process of money creation can continue forever, but it does not create
+an infinite amount of money. Letting rr denote the reserve–deposit ratio, the
+amount of money that the original $1,000 creates is
+Original Deposit 5 $1,000
+Firstbank Lending 5 (1 2 rr) 3 $1,000
+Secondbank Lending 5 (1 2 rr)
+2 3 $1,000
+Thirdbank Lending 5 (1 2 rr)
+3 3 $1,000
+Total Money Supply 5 [1 1 (1 2 rr) 1 (1 2 rr)
+2
+1 (1 2 rr)
+3 1 . . . ] 3 $1,000
+5 (1/rr) 3 $1,000.
+Each $1 of reserves generates $(1/rr) of money. In our example, rr 5 0.2, so the
+original $1,000 generates $5,000 of money.4
+The banking system’s ability to create money is the primary difference
+between banks and other financial institutions. As we first discussed in Chapter 3,
+financial markets have the important function of transferring the economy’s
+resources from those households that wish to save some of their income for the
+future to those households and firms that wish to borrow to buy investment
+goods to be used in future production. The process of transferring funds from
+savers to borrowers is called financial intermediation. Many institutions in the
+economy act as financial intermediaries: the most prominent examples are the
+stock market, the bond market, and the banking system. Yet, of these financial
+institutions, only banks have the legal authority to create assets (such as checking accounts) that are part of the money supply. Therefore, banks are the only
+financial institutions that directly influence the money supply."
