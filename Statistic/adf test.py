@@ -547,6 +547,7 @@ def adf_test_on_residuals(
     ADF(단위근) 검정: H0=단위근 존재(비정상), H1=단위근 없음(정상)
     p-value < alpha 이면 '통과(정상)'로 판정
     """
+    print(resid[0])
     s = pd.Series(resid).dropna().astype(float).values
     if s.size < 10:
         print(f"[ADF] 표본이 너무 작습니다 (n={s.size}).")
@@ -586,27 +587,30 @@ def _pvalue_arima_granger(y, x, maxlag=1):
         return np.nan
     try:
         # y, x 각각 ARIMA 선택 및 잔차 생성
-        # new_y = fit_arima(y, (0,0,0), exog=None)
-        # best_y = {"aic": 0, "res": new_y, "order": (0,0,0)}
-        # best_x = select_best_arima(df["x"].values, exog=None)
-        best_y = select_best_arima(df["y"].values, exog=None)
-        best_x = {"aic": 0, "res": x, "order": (0,0,0)}
+        new_y = fit_arima(y, (0,0,0), exog=None)
+        best_y = {"aic": 0, "res": new_y, "order": (0,0,0)}
+        best_x = select_best_arima(df["x"].values, exog=None)
         adf_test_on_residuals(
-            best_y["res"].resid,
-            name=f"best_y resid (order={best_y['order']})",
+            x,
+            name=f"best_x resid (order={best_x['order']})",
             alpha=0.05,
             regression="c",   # 잔차가 평균 0로 충분히 가깝다면 "nc"로도 시도 가능
             autolag="AIC"
         )
-        summarize_residuals(best_y["res"].resid, nlags=15, plot=False, plot_prefix="resid")
+        adf_test_on_residuals(
+            y,
+            name=f"best_x resid (order={best_y['order']})",
+            alpha=0.05,
+            regression="c",   # 잔차가 평균 0로 충분히 가깝다면 "nc"로도 시도 가능
+            autolag="AIC"
+        )
+        summarize_residuals(best_x["res"].resid, nlags=15, plot=False, plot_prefix="resid")
 
         if best_y["res"] is None or best_x["res"] is None:
             return np.nan
 
-        # resid_y = pd.Series(y, index=df.index)
-        # resid_x = pd.Series(best_x["res"].resid, index=df.index)
-        resid_y = pd.Series(best_y["res"].resid, index=df.index)
-        resid_x = pd.Series(x, index=df.index)
+        resid_y = pd.Series(y, index=df.index)
+        resid_x = pd.Series(best_x["res"].resid, index=df.index)
         print(resid_y,resid_x)
         df_res = pd.DataFrame({"y": resid_y, "x": resid_x}).dropna()
 
@@ -630,26 +634,29 @@ def _pvalue_arima_granger2(y, x, maxlag=1):
     try:
         # y, x 각각 ARIMA 선택 및 잔차 생성
         new_x = fit_arima(x, (0,0,0), exog=None)
-        # best_x = {"aic": 0, "res": new_x, "order": (0,0,0)}
-        # best_y = select_best_arima(df["y"].values, exog=None)
-        best_x = select_best_arima(df["x"].values, exog=None)
-        best_y = {"aic": 0, "res": y, "order": (0,0,0)}
+        best_x = {"aic": 0, "res": new_x, "order": (0,0,0)}
+        best_y = select_best_arima(df["y"].values, exog=None)
         adf_test_on_residuals(
-            best_x["res"].resid,
-            name=f"best_x resid (order={best_x['order']})",
+            y,
+            name=f"best_x resid (order={best_y['order']})",
             alpha=0.05,
             regression="c",   # 잔차가 평균 0로 충분히 가깝다면 "nc"로도 시도 가능
             autolag="AIC"
         )
-        summarize_residuals(best_x["res"].resid, nlags=10, plot=False, plot_prefix="resid")
+        adf_test_on_residuals(
+            x,
+            name=f"best_x resid (order={best_y['order']})",
+            alpha=0.05,
+            regression="c",   # 잔차가 평균 0로 충분히 가깝다면 "nc"로도 시도 가능
+            autolag="AIC"
+        )
+        summarize_residuals(best_y["res"].resid, nlags=10, plot=False, plot_prefix="resid")
 
         if best_y["res"] is None or best_x["res"] is None:
             return np.nan
 
-        # resid_y = pd.Series(best_y["res"].resid, index=df.index)
-        # resid_x = pd.Series(x, index=df.index)
-        resid_y = pd.Series(y, index=df.index)
-        resid_x = pd.Series(best_x["res"].resid, index=df.index)
+        resid_y = pd.Series(best_y["res"].resid, index=df.index)
+        resid_x = pd.Series(x, index=df.index)
         df_res = pd.DataFrame({"y": resid_y, "x": resid_x}).dropna()
 
         if len(df_res) < maxlag + 5:
@@ -906,15 +913,6 @@ def main(start: str, end: str):
     sentiments = ["statement", "Theory", "Policy"]
     period_label = f"{pd.Timestamp(start).year}-{pd.Timestamp(end).year}"
 
-    # Table 13 (ARIMA layer comparison) once (independent of sentiment choice)
-    print(f"\n=== Table 13: ARIMA Layer Comparison (First vs Residual) {period_label} ===")
-    # auto_aic 탐색 과정을 보여주기 위해 verbose_auto_aic=True
-    tbl13 = arma_layer_table(dat, verbose_auto_aic=True)
-    if not tbl13.empty:
-        print(tbl13.to_string(index=False))
-    else:
-        print("No sufficient data for ARIMA layer comparison.")
-
     # Demonstrate ARIMAX auto_aic with sentiment exogenous + residual diagnostics
     for s_col in sentiments:
         if s_col not in dat.columns:
@@ -928,22 +926,12 @@ def main(start: str, end: str):
 
         print(f"\n=== Table 11: Granger causality (lag 1) using sentiment: {s_col} ({period_label}) ===")
         tbl11 = granger_table(dat, sentiment_col=s_col)
-        print(tbl11.to_string(index=False))
 
-        print(f"\n=== Table 12: Forecasting accuracy (Rolling, next-event) using sentiment: {s_col} ({period_label}) ===")
-        tbl12 = build_table_12(dat, sentiment_col=s_col)
-        cols_order = [
-            "Model",
-            "CPI_RMSE","CPI_MAE","CPI_MAPE",
-            "ANFCI_RMSE","ANFCI_MAE","ANFCI_MAPE",
-            "NFCI_RMSE","NFCI_MAE","NFCI_MAPE",
-            "UNRATE_RMSE","UNRATE_MAE","UNRATE_MAPE",
-        ]
-        print(tbl12[cols_order].to_string(index=False))
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="ARIMA/ARIMAX analysis")
-    parser.add_argument("--start", type=str, default="2022-01-01", help="Start date (YYYY-MM-DD)")
+    parser.add_argument("--start", type=str, default="2017-01-01", help="Start date (YYYY-MM-DD)")
     parser.add_argument("--end", type=str, default="2025-12-31", help="End date (YYYY-MM-DD)")
     args = parser.parse_args()
     main(args.start, args.end)

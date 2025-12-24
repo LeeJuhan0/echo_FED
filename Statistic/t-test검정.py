@@ -3,8 +3,8 @@ from scipy.stats import ttest_ind
 import numpy as np
 
 # 파일 경로
-sentiment_path = r'C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\sentiment_13+19.csv'
-llm_path = r'C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\llm_ym.csv'
+sentiment_path = r'C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\sentiment_13000.csv'
+llm_path = r'C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\sentiment_19000.csv'
 
 # sentiment: date, col2, col3, col4 (예시: sentiment1, sentiment2, sentiment3)
 sentiment = pd.read_csv(sentiment_path)
@@ -38,4 +38,4 @@ result_df = pd.DataFrame(results, columns=variables, index=variables)
 print(result_df)
 
 # 결과를 같은 경로에 저장
-result_df.to_csv(r'C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\ttest_table_13+19.csv')
+result_df.to_csv(r'C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\ttest_table13,19비교.csv')

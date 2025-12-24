@@ -14,7 +14,7 @@
     <option name="ADD_SOURCE_ROOTS" value="true" />
     <module name="" />
     <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-    <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_plot/current ANFCI,NFCI 선3개.py" />
+    <option name="SCRIPT_NAME" value="C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data_plot\필요없\current ANFCI,NFCI 선3개.py" />
     <option name="PARAMETERS" value="" />
     <option name="SHOW_COMMAND_LINE" value="false" />
     <option name="EMULATE_TERMINAL" value="false" />

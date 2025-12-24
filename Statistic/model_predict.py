@@ -112,7 +112,7 @@ def read_event_cpi(path="data/cpi.csv"):
     out = out.dropna(subset=["month"]).sort_values(["month", "event_date_cpi"]).reset_index(drop=True)
     return out
 
-def read_sentiment(path="data/sentiment.csv"):
+def read_sentiment(path="data/sentiment_13+19.csv"):
     df = pd.read_csv(path, sep=None, engine="python", header=0)
     if df.shape[1] == 1:
         s = df.iloc[:, 0].astype(str).str.strip()

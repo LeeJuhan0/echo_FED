@@ -32,7 +32,7 @@ except Exception:
 # -------------------- Paths --------------------
 BASE_DIR = Path(r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data")
 NFCI_ANFCI_PATH = BASE_DIR / "nfci_anfci_monthly.xlsx"
-SENTIMENT_PATH = BASE_DIR / "sentiment_19000.csv"
+SENTIMENT_PATH = BASE_DIR / "sentiment_13+19.csv"
 
 # Preferred x-columns in order; we will pick the first 3 that exist.
 XCOL_CANDIDATES = [

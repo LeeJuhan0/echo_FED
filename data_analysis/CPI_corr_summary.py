@@ -1,76 +1,79 @@
 import pandas as pd
 from io import StringIO
 from scipy.stats import pearsonr, spearmanr, kendalltau
+import os
+from typing import Dict, List
 
-policy_text = """date\tstatment\tP&B\tPolicy
-2017-02\t0.33\t0.32\t0.29
-2017-03\t0.4\t0.4\t0.35
-2017-05\t0.34\t0.36\t0.33
-2017-06\t0.4\t0.35\t0.3
-2017-07\t0.35\t0.32\t0.24
-2017-09\t0.38\t0.36\t0.28
-2017-11\t0.4\t0.43\t0.38
-2017-12\t0.58\t0.55\t0.5
-2018-01\t0.66\t0.65\t0.55
-2018-03\t0.4\t0.52\t0.52
-2018-05\t0.44\t0.4\t0.3
-2018-06\t0.75\t0.7\t0.66
-2018-08\t0.65\t0.67\t0.63
-2018-09\t0.79\t0.72\t0.76
-2018-11\t0.66\t0.65\t0.5
-2018-12\t0.64\t0.6\t0.43
-2019-01\t0.4\t0.48\t0.36
-2019-06\t0.2\t0.12\t0.04
-2019-07\t0.21\t0.2\t0.08
-2019-09\t0.23\t0.2\t0.08
-2019-10\t0.2\t0.22\t0.08
-2019-12\t0.3\t0.25\t0.12
-2020-01\t0.28\t0.25\t0.12
-2020-03\t-0.2\t-0.1\t-0.24
-2020-03\t-0.62\t-0.4\t-0.65
-2020-04\t-0.75\t-0.45\t-0.65
-2020-06\t-0.66\t-0.5\t-0.55
-2020-07\t-0.4\t-0.22\t-0.35
-2020-09\t-0.25\t-0.1\t-0.3
-2020-11\t-0.25\t-0.1\t-0.2
-2020-12\t-0.22\t-0.1\t-0.12
-2021-01\t-0.3\t-0.15\t-0.09
-2021-03\t0.1\t0.2\t0.2
-2021-04\t0.2\t0.22\t0.3
-2021-06\t0.4\t0.435\t0.45
-2021-07\t0.4\t0.45\t0.55
-2021-09\t0.3\t0.25\t0.25
-2021-11\t0.3\t0.25\t0.3
-2021-12\t0.32\t0.27\t0.27
-2022-01\t0.26\t0.2\t0.18
-2022-03\t0.1\t0.04\t-0.01
-2022-05\t-0.15\t-0.18\t-0.12
-2022-06\t-0.15\t-0.2\t-0.19
-2022-07\t-0.3\t-0.4\t-0.48
-2022-09\t-0.25\t-0.35\t-0.5
-2022-11\t-0.2\t-0.25\t-0.4
-2022-12\t-0.2\t-0.25\t-0.4
-2023-02\t-0.1\t-0.14\t-0.15
-2023-03\t-0.14\t-0.18\t-0.3
-2023-05\t0.1\t0.04\t-0.2
-2023-06\t0.1\t0.05\t-0.12
-2023-07\t0.1\t0.05\t-0.04
-2023-09\t0.18\t0.1\t-0.05
-2023-11\t0.15\t0.1\t-0.05
-2023-12\t-0.1\t-0.08\t-0.2
-2024-01\t0.3\t0.2\t0.05
-2024-03\t0.32\t0.29\t0.1
-2024-05\t0.2\t0.1\t-0.02
-2024-06\t0.3\t0.27\t0.14
-2024-07\t0.25\t0.2\t0.07
-2024-09\t0.3\t0.4\t0.24
-2024-11\t0.3\t0.25\t0.15
-2024-12\t0.3\t0.32\t0.22
-2025-01\t0.3\t0.25\t0.1
-2025-03\t0.22\t0.25\t0.16
-2025-05\t0.15\t0.1\t-0.05
-2025-06\t0.3\t0.22\t0.1
-2025-07\t-0.15\t-0.08\t-0.12
+policy_text = """date,statment,P&B,Policy
+2017-02-01,0.3,0.32,0.25
+2017-03-01,0.42,0.445,0.33
+2017-05-01,0.35,0.325,0.22
+2017-06-01,0.43,0.35,0.295
+2017-07-01,0.36,0.325,0.285
+2017-09-01,0.4,0.35,0.205
+2017-11-01,0.4,0.41,0.335
+2017-12-01,0.55,0.5,0.435
+2018-01-01,0.64,0.6,0.52
+2018-03-01,0.45,0.525,0.57
+2018-05-01,0.45,0.46,0.425
+2018-06-01,0.74,0.7,0.59
+2018-08-01,0.75,0.73,0.61
+2018-09-01,0.84,0.7,0.715
+2018-11-01,0.7,0.665,0.48
+2018-12-01,0.7,0.585,0.46
+2019-01-01,0.45,0.41,0.185
+2019-03-01,0.2,0.155,-0.005
+2019-05-01,0.3,0.265,0.075
+2019-06-01,0.2,0.11,0.035
+2019-07-01,0.25,0.2,0.1
+2019-09-01,0.24,0.15,0.065
+2019-10-01,0.2,0.18,0.04
+2019-12-01,0.3,0.245,0.11
+2020-01-01,0.3,0.2,0.035
+2020-03-01,-0.18,-0.1,-0.255
+2020-04-01,-0.82,-0.51,-0.65
+2020-06-01,-0.62,-0.41,-0.635
+2020-07-01,-0.4,-0.25,-0.3
+2020-09-01,-0.3,-0.135,-0.2
+2020-11-01,-0.3,-0.12,-0.135
+2020-12-01,-0.3,-0.11,-0.21
+2021-01-01,-0.3,-0.15,-0.04
+2021-03-01,0.1,0.18,0.265
+2021-04-01,0.22,0.35,0.41
+2021-06-01,0.44,0.425,0.465
+2021-07-01,0.45,0.405,0.55
+2021-09-01,0.35,0.295,0.27
+2021-11-01,0.35,0.28,0.235
+2021-12-01,0.35,0.275,0.245
+2022-01-01,0.3,0.21,0.135
+2022-03-01,0.1,0.055,0.04
+2022-05-01,-0.12,-0.155,-0.1
+2022-06-01,-0.12,-0.13,-0.12
+2022-07-01,-0.32,-0.25,-0.525
+2022-09-01,-0.23,-0.22,-0.375
+2022-11-01,-0.25,-0.165,-0.425
+2022-12-01,-0.15,-0.225,-0.425
+2023-02-01,-0.15,-0.11,-0.055
+2023-03-01,-0.1,-0.18,-0.4
+2023-05-01,0.1,-0.05,-0.285
+2023-06-01,0.15,0.05,-0.12
+2023-07-01,0.12,0.065,-0.045
+2023-09-01,0.2,0.11,-0.1
+2023-11-01,0.2,0.1,-0.12
+2023-12-01,-0.1,-0.075,-0.22
+2024-01-01,0.25,0.175,0.02
+2024-03-01,0.35,0.345,0.225
+2024-05-01,0.25,0.135,0.03
+2024-06-01,0.35,0.25,0.05
+2024-07-01,0.25,0.2,0.055
+2024-09-01,0.32,0.4,0.21
+2024-11-01,0.35,0.345,0.15
+2024-12-01,0.3,0.31,0.2
+2025-01-01,0.34,0.27,0.085
+2025-03-01,0.3,0.2,0.055
+2025-05-01,0.15,0.09,-0.1
+2025-06-01,0.3,0.2,0.03
+2025-07-01,-0.1,-0.055,-0.1
 """
 
 cpi_text = """Prev_CPI_Value\tNext_CPI_Value\tFOMC_date
@@ -146,98 +149,76 @@ cpi_text = """Prev_CPI_Value\tNext_CPI_Value\tFOMC_date
 322.561\t323.048\t2025-07-30
 """
 
-# 1. Read data
-df_policy = pd.read_csv(StringIO(policy_text), sep='\t')
-# Fix column names
-df_policy.columns = ['date', 'statement', 'p_b', 'policy']
+# ---------- 읽기 ----------
+df_policy = pd.read_csv(StringIO(policy_text), sep=',')
+df_policy.columns = ['date', 'statement', 'p_b', 'policy']  # 오타(statment) 정리 포함
 
 df_cpi = pd.read_csv(StringIO(cpi_text), sep='\t')
 
-# 2. Prepare keys for joining
-# For CPI keep original meeting date; derive ym and occurrence within month (for months with multiple meetings).
-df_cpi['FOMC_date'] = pd.to_datetime(df_cpi['FOMC_date'])
+# ---------- 날짜 파싱 & ym/occ 생성(양쪽 동일 규칙) ----------
+# policy
+df_policy['date_dt'] = pd.to_datetime(df_policy['date'], errors='coerce')
+df_policy = df_policy.sort_values('date_dt')
+df_policy['ym'] = df_policy['date_dt'].dt.strftime('%Y-%m')
+df_policy['occ'] = df_policy.groupby('ym').cumcount()
+
+# cpi
+df_cpi['FOMC_date'] = pd.to_datetime(df_cpi['FOMC_date'], errors='coerce')
+df_cpi = df_cpi.sort_values('FOMC_date')
 df_cpi['ym'] = df_cpi['FOMC_date'].dt.strftime('%Y-%m')
 df_cpi['occ'] = df_cpi.groupby('ym').cumcount()
 
-# Policy dates only have year-month; create synthetic datetime (1st of month) and add occurrence
-df_policy['ym'] = df_policy['date']
-df_policy['occ'] = df_policy.groupby('ym').cumcount()
-df_policy['date_dt'] = pd.to_datetime(df_policy['ym'] + '-01')
-
-# 3. Merge on (ym, occ)
+# ---------- 머지 ----------
 df = pd.merge(df_policy, df_cpi, on=['ym', 'occ'], how='inner')
 
-# 4. Create year for filtering
+print(f"[DEBUG] merged rows = {len(df)}")
+if df.empty:
+    print("[DEBUG] merge가 비었습니다. 월별 건수를 확인하세요.")
+    print("policy 월별 개수:\n", df_policy['ym'].value_counts().sort_index().head(18))
+    print("cpi    월별 개수:\n", df_cpi['ym'].value_counts().sort_index().head(18))
+
+# ---------- 분석 ----------
 df['year'] = df['FOMC_date'].dt.year
 
-# 5. Helper to compute correlations
-from typing import Dict, List, Tuple
-
-def compute_correlations(sub: pd.DataFrame,
-                         sentiment_col: str,
-                         cpi_col: str) -> Dict[str, float]:
-    # Drop rows with NA in required columns
+def compute_correlations(sub: pd.DataFrame, sentiment_col: str, cpi_col: str) -> Dict[str, float]:
     data = sub[[sentiment_col, cpi_col]].dropna()
     if len(data) < 3:
-        return {
-            'pearson_r': float('nan'), 'pearson_p': float('nan'),
-            'spearman_rho': float('nan'), 'spearman_p': float('nan'),
-            'kendall_tau': float('nan'), 'kendall_p': float('nan'),
-            'n': len(data)
-        }
-    x = data[sentiment_col]
-    y = data[cpi_col]
-    pr, pp = pearsonr(x, y)
-    sr, sp = spearmanr(x, y)
-    kt, kp = kendalltau(x, y)
-    return {
-        'pearson_r': pr, 'pearson_p': pp,
-        'spearman_rho': sr, 'spearman_p': sp,
-        'kendall_tau': kt, 'kendall_p': kp,
-        'n': len(data)
-    }
+        return {'pearson_r': float('nan'), 'pearson_p': float('nan'),
+                'spearman_rho': float('nan'), 'spearman_p': float('nan'),
+                'kendall_tau': float('nan'), 'kendall_p': float('nan'),
+                'n': len(data)}
+    pr, pp = pearsonr(data[sentiment_col], data[cpi_col])
+    sr, sp = spearmanr(data[sentiment_col], data[cpi_col])
+    kt, kp = kendalltau(data[sentiment_col], data[cpi_col])
+    return {'pearson_r': pr, 'pearson_p': pp,
+            'spearman_rho': sr, 'spearman_p': sp,
+            'kendall_tau': kt, 'kendall_p': kp,
+            'n': len(data)}
 
-# 6. Define configurations
-sentiment_cols = [
-    ('statement', 'Statement'),
-    ('p_b', 'P&B'),
-    ('policy', 'Policy')
-]
-cpi_types = [
-    ('Prev_CPI_Value', 'prev'),
-    ('Next_CPI_Value', 'next')
-]
-periods = [
-    ((2017, 2022), '2017-2022'),
-    ((2023, 2025), '2023-2025')
-]
+sentiment_cols = [('statement', 'Statement'), ('p_b', 'P&B'), ('policy', 'Policy')]
+cpi_types = [('Prev_CPI_Value', 'prev'), ('Next_CPI_Value', 'next')]
+periods = [((2017, 2022), '2017-2022'), ((2023, 2025), '2023-2025')]
 
 rows: List[Dict[str, float]] = []
-
 for (start_end, period_label) in periods:
     start, end = start_end
     sub_period = df[(df['year'] >= start) & (df['year'] <= end)]
-    for sentiment_col, sentiment_label in sentiment_cols:
-        for cpi_col, cpi_label in cpi_types:
-            stats = compute_correlations(sub_period, sentiment_col, cpi_col)
-            row = {
-                'period': period_label,
-                'sentiment_type': sentiment_label,
-                'CPI_type': cpi_label,
-                **stats
-            }
-            rows.append(row)
+    for s_col, s_label in sentiment_cols:
+        for c_col, c_label in cpi_types:
+            stats = compute_correlations(sub_period, s_col, c_col)
+            rows.append({'period': period_label,
+                         'sentiment_type': s_label,
+                         'CPI_type': c_label,
+                         **stats})
 
 result_df = pd.DataFrame(rows, columns=[
-    'period', 'sentiment_type', 'CPI_type',
-    'n',
-    'pearson_r', 'pearson_p',
-    'spearman_rho', 'spearman_p',
-    'kendall_tau', 'kendall_p'
+    'period','sentiment_type','CPI_type','n',
+    'pearson_r','pearson_p','spearman_rho','spearman_p','kendall_tau','kendall_p'
 ])
 
-# 7. Save to Excel
-output_file = 'correlation_results.xlsx'
+# ---------- 저장 ----------
+output_file = '../data_analysis/CPI_correlation_results.xlsx'
+os.makedirs(os.path.dirname(output_file), exist_ok=True)
 result_df.to_excel(output_file, index=False)
 
 print("Correlation results:")

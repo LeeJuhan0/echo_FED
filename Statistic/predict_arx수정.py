@@ -386,16 +386,6 @@ def evaluate_target(dat: pd.DataFrame, target: str, sentiment_col: str,
     Rolling OOS 평가 (윈도우마다 ARIMA/ARIMAX 차수 재선택):
       - OLS AR(1): y_t = c + φ y_{t-1}
       - OLS ARX(1): y_t = c + φ y_{t-1} + β sentiment_t
-      - ARIMAX (window별 order 선택, exog=[sentiment, prev])
-      - ARIMA  (window별 order 선택, no exog)
-
-    변경 사항:
-      기존: 전체 표본에서 한 번 global order 선택 후 모든 롤링 시점 재적합
-      현재: 각 롤링 학습창(tr)에 대해 select_best_arima(...) 호출로
-            ARIMAX / ARIMA 각각의 (p,d,q) 최적 AIC order 선택 → 해당 윈도우 예측
-
-    주의:
-      - 매 시점 그리드 탐색 → 계산량 증가 (성능 문제 시 p/d/q 축소 권장)
       - 예외 발생 시 fallback으로 prev_ts 사용
     """
     assert target in ("cpi", "anfci", "nfci", "unrate")

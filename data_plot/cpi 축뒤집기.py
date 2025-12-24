@@ -20,7 +20,7 @@ from scipy import stats
 from pathlib import Path
 
 # --------------- Configuration (edit if paths differ) ---------------
-SENTIMENT_CSV = r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\sentiment_13+19_llm.csv"
+SENTIMENT_CSV = r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\sentiment_13+19.csv"
 CPI_CSV       = r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\cpi.csv"
 
 # Output images
@@ -51,18 +51,22 @@ def plot_scatter_reg(ax, df, xcol, ycol, title, xlabel, ylabel, early_mask, late
     ax.scatter(df.loc[late_mask, xcol], df.loc[late_mask, ycol],
                color=late_color, edgecolors='white', linewidth=0.5, alpha=0.85, label='2023-2025')
 
-    # segment fits
     def plot_seg(mask, color, label):
         xs = df.loc[mask, xcol].to_numpy(dtype=float)
         ys = df.loc[mask, ycol].to_numpy(dtype=float)
-        xs = xs[~np.isnan(xs)]
-        ys = ys[~np.isnan(ys)]
-        if len(xs) < 2 or len(ys) < 2:
+
+        valid = (~np.isnan(xs)) & (~np.isnan(ys))
+        xs = xs[valid]
+        ys = ys[valid]
+
+        if len(xs) < 2:
             return None
+
         m, b, r, p = fit_line(xs, ys)
-        xs_plot = np.linspace(np.nanmin(xs), np.nanmax(xs), 120)
+        xs_plot = np.linspace(xs.min(), xs.max(), 120)
         ax.plot(xs_plot, m * xs_plot + b, color=color, lw=1.6, label=f"{label} (r={r:.2f})")
         return (m, b, r, p)
+
 
     stats_early = plot_seg(early_mask, early_color, "regression 17-22")
     stats_late = plot_seg(late_mask, late_color, "regression 23-25")
@@ -70,8 +74,10 @@ def plot_scatter_reg(ax, df, xcol, ycol, title, xlabel, ylabel, early_mask, late
     # overall fit
     xs_all = df[xcol].to_numpy(dtype=float)
     ys_all = df[ycol].to_numpy(dtype=float)
-    xs_all = xs_all[~np.isnan(xs_all)]
-    ys_all = ys_all[~np.isnan(ys_all)]
+    valid_all = (~np.isnan(xs_all)) & (~np.isnan(ys_all))
+    xs_all = xs_all[valid_all]
+    ys_all = ys_all[valid_all]
+
     if len(xs_all) >= 2 and len(ys_all) >= 2:
         m_all, b_all, r_all, p_all = fit_line(xs_all, ys_all)
         xs_plot = np.linspace(np.nanmin(xs_all), np.nanmax(xs_all), 200)
@@ -82,7 +88,6 @@ def plot_scatter_reg(ax, df, xcol, ycol, title, xlabel, ylabel, early_mask, late
     ax.set_title(title)
     ax.set_xlabel(xlabel)
     ax.set_ylabel(ylabel)
-    ax.set_xlim(-0.85, 0.85)
     ax.grid(alpha=0.3)
     if ax.get_legend_handles_labels()[0]:
         ax.legend(fontsize=8)
@@ -211,13 +216,24 @@ def make_2x2_for(ycol, scatter_titles, scatter_xlabels, hist_title, hist_xlabel,
     xcols = ["Statement", "Theory", "Policy"]
     for i, xcol in enumerate(xcols):
         title = scatter_titles[i]
-        xlabel = scatter_xlabels[i]
-        ylabel = "Previous Month CPI" if ycol.startswith("Prev") else "Next Month CPI"
+
+        # SWAP axes labels
+        xlabel = "Previous Month CPI" if ycol.startswith("Prev") else "Next Month CPI"
+        ylabel = scatter_xlabels[i]  # "Sentiment Score"
+
+        # SWAP x/y columns for plotting and regression
         stats_dict[f"panel_{i+1}"] = plot_scatter_reg(
-            axes_flat[i], merged, xcol, ycol, title, xlabel, ylabel, early_mask, late_mask
+            axes_flat[i], merged,
+            xcol=ycol,   # CPI on x-axis
+            ycol=xcol,   # Sentiment on y-axis
+            title=title,
+            xlabel=xlabel,
+            ylabel=ylabel,
+            early_mask=early_mask,
+            late_mask=late_mask
         )
 
-    # 4th panel: histogram of combined x variables
+    # 4th panel: histogram of combined x variables (그대로 유지)
     combined_x = np.concatenate([
         merged["Statement"].to_numpy(dtype=float),
         merged["Theory"].to_numpy(dtype=float),
