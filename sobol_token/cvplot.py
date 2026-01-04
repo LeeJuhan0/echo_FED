@@ -27,7 +27,7 @@ import matplotlib as mpl
 import sys
 
 
-DEFAULT_CSV = r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\fomc_token_simscore_results_with_std_cv.csv"
+DEFAULT_CSV = r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\sobol_token\token_data\fomc_token_simscore_results_with_std_cv.csv"
 
 
 def try_read_csv(path: Path) -> pd.DataFrame:
@@ -117,7 +117,7 @@ def plot_one_metric(df: pd.DataFrame, metric: str, title: str, save_path: Path):
     ax.set_title(title)
     ax.set_xlabel("round_adj_token")
     ax.set_ylabel(metric)
-    ax.set_ylim(0, 0.4)
+    ax.set_ylim(0, 0.15)
     ax.legend(ncol=2, frameon=True)
     ax.grid(True, linestyle=":", alpha=0.5)
 

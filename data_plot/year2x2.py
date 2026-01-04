@@ -272,18 +272,18 @@ def pick_col(*cands):
     return None
 
 fomc_col = pick_col("FOMC_date", "fomc_date", "date")
-next_col = pick_col("Next_CPI_Value", "next_cpi_value", "next_cpi")
+next_col = pick_col("diff", "diff", "next_cpi")
 
 if fomc_col is None or next_col is None:
-    raise ValueError(f"cpi.csv must have FOMC_date and Next_CPI_Value columns. Found: {list(cpi.columns)}")
+    raise ValueError(f"cpi.csv must have FOMC_date and diff columns. Found: {list(cpi.columns)}")
 
 cpi["FOMC_date"] = pd.to_datetime(cpi[fomc_col], errors="coerce")
-cpi["Next_CPI_Value"] = pd.to_numeric(cpi[next_col], errors="coerce")
+cpi["diff"] = pd.to_numeric(cpi[next_col], errors="coerce")
 cpi["month"] = cpi["FOMC_date"].dt.to_period("M").dt.to_timestamp()
 cpi_month = (
-    cpi.dropna(subset=["month", "Next_CPI_Value"])
-    .groupby("month", as_index=False)["Next_CPI_Value"].mean()
-    .rename(columns={"Next_CPI_Value": "CPI", "month": "Date"})
+    cpi.dropna(subset=["month", "diff"])
+    .groupby("month", as_index=False)["diff"].mean()
+    .rename(columns={"diff": "CPI", "month": "Date"})
 )
 cpi_month["Year"] = cpi_month["Date"].dt.year
 cpi_month = cpi_month[(cpi_month["Year"] >= YEAR_START) & (cpi_month["Year"] <= YEAR_END)].copy()
@@ -346,7 +346,7 @@ plot_year_strip_median(
 # (1,0) CPI unchanged
 plot_year_strip_median(
     ax10, cpi_month, "Year", "CPI",
-    title="CPI (Consumer Price Index)",
+    title="CPI (Consumer Price Index diff)",
     ylabel="CPI"
 )
 
