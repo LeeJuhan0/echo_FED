@@ -1,4 +1,0 @@
-﻿content
-"This equation is the per-worker version of the national income accounts identity for an economy. Notice that it omits government purchases (which for present purposes we can ignore) and net exports (because we are assuming a closed economy). The Solow model assumes that each year people save a fraction s of their income and consume a fraction (1 2 s). We can express this idea with the following consumption function:
-c 5 (1 2 s)y,
-where s, the saving rate, is a number between zero and one. Keep in mind that various government policies can potentially influence a nation’s saving rate, so one of our goals is to find what saving rate is desirable. For now, however, we just take the saving rate s as given."

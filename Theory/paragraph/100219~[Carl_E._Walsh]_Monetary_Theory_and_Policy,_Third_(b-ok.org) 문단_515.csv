@@ -1,5 +1,0 @@
-﻿content
-"Unfortunately, the evidence rejects this hypothesis.7 In fact, estimated values of b are often negative.
-One interpretation of these rejections is that the error term in an equation such as (9.26) is not simply due to forecast errors. Suppose, more realistically, that (9.25) does not hold exactly:
-Etstþ1 st 1⁄4 it i505t þ vt;
-where vt captures factors such as risk premiums that would lead to divergences between real returns in the two countries. In this case, the error term in the regression of stþ1 st on it i505t becomes vt þ jtþ1. If vt and it i505t are correlated, ordinary least-squares estimates of the parameter b in (9.26) will be biased and inconsistent."

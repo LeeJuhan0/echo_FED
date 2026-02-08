@@ -1,6 +1,0 @@
-﻿content
-"Because the size of the economy does not matter, it will prove convenient to denote all quantities in per-worker terms. We designate quantities per worker with lowercase letters, so y 5 Y/L is output per worker, and k 5 K/L is capital per worker. We can then write the production function as
-y 5 f (k),
-where we define f (k) 5 F (k, 1). Figure 8-1 illustrates this production function. The slope of this production function shows how much extra output a worker produces when given an extra unit of capital. This amount is the marginal product of capital MPK. Mathematically, we write
-MPK 5 f (k 1 1) 2 f (k).
-Note that in Figure 8-1, as the amount of capital increases, the production function becomes flatter, indicating that the production function exhibits diminishing marginal product of capital. When k is low, the average worker has only a little capital to work with, so an extra unit of capital is very useful and produces a lot of additional output. When k is high, the average worker has a lot of capital already, so an extra unit increases production only slightly."

@@ -1,2 +1,0 @@
-﻿content
-FYI 1Mathematical note: The proof that this trick works begins with the product rule from calculus: d(PY)  Y dP  P dY. Now divide both sides of this equation by PY to obtain: d(PY)/(PY)  dP/P  dY/Y. Notice that all three terms in this equation are percentage changes.

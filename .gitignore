@@ -1,0 +1,56 @@
+# [보안] 절대 올리면 안 되는 파일들
+
+.env
+.env.*
+*.key
+secrets.json
+
+# [데이터] 용량이 크거나 실험용 파일들
+data/raw/*
+!data/raw/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+
+data/external/*
+!data/external/.gitkeep
+
+# 실험 결과는 로컬에만 보관
+data/results/experiments/*
+!data/results/experiments/.gitkeep
+
+# 각종 데이터 파일 확장자 막기
+*.csv
+*.xlsx
+*.pdf
+*.parquet
+*.pkl
+*.h5
+
+# Python 실행 시 생기는 쓰레기 파일들
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE 에디터 설정 파일 (PyCharm, VSCode)
+# PyCharm
+.idea/
+/shelf/
+/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+
+# VS Code
+.vscode/
+
+# OS 운영체제 임시 파일
+.DS_Store
+Thumbs.db
