@@ -1,11 +1,9 @@
 Response
-"Updated take incorporating the October 2017 Beige Book:
-- Growth and labor: Consistent with the FOMC’s solid activity assessment, districts reported modest-to-moderate growth with continued labor-market tightening. Widespread labor shortages—especially in construction and transportation—are restraining some business growth even as hiring demand remains firm.
-- Hurricanes: Harvey and Irma disrupted activity in the Richmond, Atlanta, and Dallas districts, but effects are viewed as temporary; rebuilding is exacerbating existing labor shortages.
-- Wages/prices: Wage pressures are firmer in transportation and construction, suggesting some incremental upside risk to wages even as overall inflation remains soft.
-- Consumption: Household/retail spending increased across several districts, supporting the FOMC’s view of moderate consumer momentum.
-- Credit lens: While SLOOS shows tighter consumer credit and softer loan demand, Beige Book strength in retail and ongoing firm demand from businesses (tempered by labor constraints) offsets some of that softness.
+"Updated tone incorporating the October 2017 Beige Book:
+- The FOMC’s moderately positive view (solid growth, strengthening labor market, balanced near-term risks) is tempered by Beige Book reports of widespread labor shortages that are restraining business growth, with wage pressures particularly strong in transportation and construction. Hurricane recovery in the Richmond, Atlanta, and Dallas Districts exacerbated these shortages and near-term disruptions.
+- While several districts reported increased retail spending, the combination of tighter labor supply, rising wage costs, and storm-related constraints points to margin pressures and potential delays in hiring and investment, softening the otherwise upbeat macro tone.
+- Together with SLOOS signals of weaker loan demand and tighter household credit, the Beige Book’s supply-side frictions warrant a modestly more cautious stance than the FOMC statement alone.
 
-Bottom line: Beige Book detail modestly reinforces a positive growth and employment narrative despite hurricane-related frictions and credit headwinds, with sector-specific wage pressures building. This supports a slightly more constructive stance than before, but still measured given soft core inflation and consumer credit tightening.
+Net: still mildly positive, but with clearer headwinds from labor constraints and credit/demand softness. Adjusting slightly lower.
 
-sentiment score = 0.42"
+sentiment score = 0.20"

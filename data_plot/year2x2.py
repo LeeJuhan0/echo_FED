@@ -9,6 +9,13 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from pathlib import Path
 from scipy.interpolate import UnivariateSpline, PchipInterpolator
+plt.rcParams.update({
+    "axes.titlesize": 20,
+    "axes.labelsize": 18,
+    "xtick.labelsize": 16,
+    "ytick.labelsize": 16,
+    "legend.fontsize": 17,
+})
 
 # -------------------- Paths --------------------
 BASE_DIR = Path(r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data")
@@ -84,14 +91,15 @@ def spline_smooth(x_years: np.ndarray, y_vals: np.ndarray, dense_x: np.ndarray, 
     except Exception:
         return np.interp(dense_x, x_years, y_vals)
 
-def apply_gg_style(ax):
-    ax.set_facecolor("#EBEBEB")              # ggplot panel background
-    ax.grid(True, color="white", linewidth=1)
-    ax.grid(True, which="minor", color="white", linewidth=0.6)
-    ax.minorticks_on()
+def apply_white_style(ax):
+    ax.set_facecolor("white")
+    ax.grid(False)
+    ax.minorticks_off()
     for spine in ax.spines.values():
-        spine.set_visible(False)
-    ax.tick_params(color="gray", labelcolor="black")
+        spine.set_visible(True)
+        spine.set_color("black")
+    ax.tick_params(colors="black")
+
 
 
 def yearly_median_ci_bootstrap(df: pd.DataFrame, year_col: str, val_col: str, B: int = BOOT_B, seed: int = 2025):
@@ -324,33 +332,49 @@ policy_stats = compute_yearly_stats(sent_df, "Policy")
 dense_x_policy = np.linspace(float(XTICK_START), float(XTICK_END), DENSE_POINTS)
 
 # -------------------- Plot 2x2 --------------------
-fig, axes = plt.subplots(2, 2, figsize=(13, 9))
-ax00, ax01 = axes[0, 0], axes[0, 1]
-ax10, ax11 = axes[1, 0], axes[1, 1]
+# -------------------- (여기부터 대체) Plot single combined panel --------------------
+fig, ax = plt.subplots(figsize=(13, 9))
+apply_white_style(ax)
 
-# ✅ SWAP TOP PANELS:
-# (0,0) should be NFCI now
-plot_year_strip_median(
-    ax00, nf, "Year", "nfci",
-    title="NFCI (National Financial Conditions Index)",
-    ylabel="NFCI"
-)
+dense_x = np.linspace(YEAR_START, YEAR_END, DENSE_N)
 
-# (0,1) should be ANFCI now
-plot_year_strip_median(
-    ax01, nf, "Year", "anfci",
-    title="ANFCI (Adjusted National Financial Conditions Index)",
-    ylabel="ANFCI"
-)
+# --- NFCI (빨강, 점선) on primary y-axis ---
+# --- ANFCI (red, dashed) on primary y-axis ---
+d_af = nf[["Year", "anfci"]].dropna().copy()
+d_af = d_af[np.isfinite(d_af["anfci"])]
 
-# (1,0) CPI unchanged
-plot_year_strip_median(
-    ax10, cpi_month, "Year", "CPI",
-    title="CPI (Consumer Price Index diff)",
-    ylabel="CPI"
-)
+if not d_af.empty:
+    ym_af = yearly_median_ci_bootstrap(d_af, "Year", "anfci", B=BOOT_B)
+    ym_af = ym_af[(ym_af["Year"] >= YEAR_START) & (ym_af["Year"] <= YEAR_END)]
 
-# ✅ (1,1) RIGHT-BOTTOM = EXACT reuse of your 2nd code's (2,1) Policy panel
+    if not ym_af.empty:
+        years_af = ym_af["Year"].to_numpy(dtype=float)
+        med_af = spline_smooth(
+            years_af,
+            ym_af["median"].to_numpy(dtype=float),
+            dense_x,
+            s_factor=0.6
+        )
+        lo_af = spline_smooth(years_af, ym_af["lo"].to_numpy(dtype=float), dense_x, 0.8)
+        hi_af = spline_smooth(years_af, ym_af["hi"].to_numpy(dtype=float), dense_x, 0.8)
+
+        lo_af2 = np.minimum(lo_af, hi_af)
+        hi_af2 = np.maximum(lo_af, hi_af)
+
+        ax.fill_between(
+            dense_x, lo_af2, hi_af2,
+            color="red", alpha=0.18, linewidth=0, zorder=1
+        )
+        ax.plot(
+            dense_x, med_af,
+            color="red", linewidth=2.2, linestyle="--",
+            label="ANFCI (median)", zorder=3
+        )
+
+        # points
+        ax.scatter(d_af["Year"].astype(int), d_af["anfci"].astype(float), s=24, color="red", edgecolor="white", zorder=4)
+
+# --- Policy (파랑, 실선) on primary y-axis ---
 if policy_stats is not None:
     mean_dense_policy = eval_mean_on_dense(policy_stats["yr"], dense_x_policy)
     half_dense_policy = smooth_halfwidth_on_dense(
@@ -358,17 +382,66 @@ if policy_stats is not None:
         policy_stats["yr"]["ci95"].to_numpy(),
         dense_x_policy
     )
-    plot_yearly_mean_ci_single(
-        ax11, policy_stats, dense_x_policy,
-        mean_dense_policy, half_dense_policy,
-        title="GraphRAG[St+Th+Policy]", line_color="blue",
-        show_points=True, y_limits=DEFAULT_Y_LIMS
+    # align dense_x lengths (dense_x_policy may differ); we used dense_x_policy earlier
+    ax.fill_between(dense_x_policy, mean_dense_policy - half_dense_policy, mean_dense_policy + half_dense_policy,
+                    color="#2C6BED", alpha=0.30, linewidth=0, zorder=1)
+    ax.plot(dense_x_policy, mean_dense_policy, color="#2C6BED", linewidth=2.2, linestyle="-", label="GraphRAG[Policy] (mean)", zorder=3)
+    # points for yearly means
+    years_pol = policy_stats["yr"]["Year"].to_numpy()
+    mean_vals_pol = policy_stats["yr"]["mean"].to_numpy()
+    ax.scatter(years_pol, mean_vals_pol, color="#2C6BED", edgecolor="white", zorder=5, s=54)
+
+    # --- GraphRAG distribution points (black, jittered) ---
+    rng = np.random.default_rng(2024)
+    jitter = rng.uniform(-0.08, 0.08, size=len(policy_stats["pts"]))
+
+    ax.scatter(
+        policy_stats["pts"]["Year"] + jitter,
+        policy_stats["pts"]["val"],
+        color="black",
+        s=18,
+        alpha=0.8,
+        zorder=4,
+        label="_nolegend_"
     )
-else:
-    ax11.text(0.5, 0.5, "No data: Policy", ha="center", va="center")
-    ax11.set_ylim(DEFAULT_Y_LIMS)
+
+
+# --- CPI (초록, dash-dot) on secondary y-axis (오른쪽 보조축) ---
+ax2 = ax.twinx()
+apply_white_style(ax2)
+d_cpi = cpi_month[["Year", "CPI"]].dropna().copy()
+d_cpi = d_cpi[np.isfinite(d_cpi["CPI"])]
+if not d_cpi.empty:
+    ym_cpi = yearly_median_ci_bootstrap(d_cpi, "Year", "CPI", B=BOOT_B)
+    ym_cpi = ym_cpi[(ym_cpi["Year"] >= YEAR_START) & (ym_cpi["Year"] <= YEAR_END)]
+    if not ym_cpi.empty:
+        years_cpi = ym_cpi["Year"].to_numpy(dtype=float)
+        med_cpi = spline_smooth(years_cpi, ym_cpi["median"].to_numpy(dtype=float), dense_x, s_factor=0.6)
+        lo_cpi  = spline_smooth(years_cpi, ym_cpi["lo"].to_numpy(dtype=float), dense_x, s_factor=0.8)
+        hi_cpi  = spline_smooth(years_cpi, ym_cpi["hi"].to_numpy(dtype=float), dense_x, s_factor=0.8)
+        lo_cpi2 = np.minimum(lo_cpi, hi_cpi)
+        hi_cpi2 = np.maximum(lo_cpi, hi_cpi)
+        ax2.fill_between(dense_x, lo_cpi2, hi_cpi2, color="green", alpha=0.18, linewidth=0, zorder=1)
+        ax2.plot(dense_x, med_cpi, color="green", linewidth=2.2, linestyle="-.", label="CPI Change(median)", zorder=3)
+        ax2.scatter(d_cpi["Year"].astype(int), d_cpi["CPI"].astype(float), s=24, color="green", edgecolor="white", zorder=4)
+
+# --- Axis formatting & legend ---
+ax.set_xticks(np.arange(YEAR_START, YEAR_END + 1))
+ax.set_xlim(XLIM_MIN, XLIM_MAX)
+ax.set_xlabel("Year")
+ax.set_ylabel("NFCI / GraphRAG[Policy]")
+
+ax2.set_ylabel("CPI change")
+
+# create a combined legend (handles from both axes)
+handles1, labels1 = ax.get_legend_handles_labels()
+handles2, labels2 = ax2.get_legend_handles_labels()
+ax.legend(handles1 + handles2, labels1 + labels2, loc="upper right", frameon=True, fontsize=15)
+
+ax.set_title("NFCI (red), CPI (green), Policy (blue)")
 
 plt.tight_layout()
 fig.savefig(OUT_FIG, dpi=300)
 print(f"Saved: {OUT_FIG}")
 plt.show()
+# -------------------- (여기까지 대체) --------------------

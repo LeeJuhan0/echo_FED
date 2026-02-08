@@ -23,8 +23,8 @@ except Exception:
 
 # -------------------- Paths --------------------
 BASE_DIR = Path(r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data")
-NFCI_ANFCI_PATH = BASE_DIR / "fomc_nfci_anfci_monthly_0to6.xlsx"
-SENTIMENT_PATH  = BASE_DIR / "sentiment_13+19.csv"
+NFCI_ANFCI_PATH = BASE_DIR / "nfci_anfci_input_data_for_analysis.xlsx"
+SENTIMENT_PATH  = BASE_DIR / "sentiment_13+19_llm.csv"
 
 OUT_3x2 = BASE_DIR / "sentiment_nfci_anfci_3x2.png"
 
@@ -175,7 +175,7 @@ def main():
             df=merged,
             xcol=xcol,
             ycol="nfci",
-            title=f"{prefix} vs monthly_NFCI",
+            title=f"{prefix} vs Previous Week ANFCI",
             xlabel="Sentiment Score",
             ylabel="NFCI",
             early_mask=early_mask,
@@ -188,7 +188,7 @@ def main():
             df=merged,
             xcol=xcol,
             ycol="anfci",
-            title=f"{prefix} vs monthly_ANFCI",
+            title=f"{prefix} vs Previous Month ANFCI",
             xlabel="Sentiment Score",
             ylabel="ANFCI",
             early_mask=early_mask,

@@ -1,8 +1,11 @@
 Response
-"The FOMC statement is growth-positive: labor markets remain strong, real activity is solid, and policy is still gradual and accommodative while inflation runs below 2% but is expected to firm toward target. Incorporating the latest SLOOS color on credit supply and demand keeps this constructive tone but adds nuance. Banks on net have eased standards for commercial and industrial loans (particularly to larger firms), supporting business capex and employment, while CRE lending remains comparatively tighter and consumer credit (notably auto and some credit card segments) shows tighter standards and softer demand. Residential mortgage standards have seen modest easing for conforming categories. Overall, the SLOOS does not signal broad-based tightening; the credit channel looks supportive but more selective across segments.
+"The FOMC statement signals a constructive macro backdrop—solid growth, strong labor market, and inflation expected to move toward 2%—implying a mildly positive tone.
 
-Implications: The SLOOS backdrop reinforces the Committee’s gradualism—credit availability to businesses should underpin growth, but tighter pockets in consumer and CRE argue for caution and monitoring rather than an accelerated policy path. Financial stability considerations remain balanced: competition-driven easing in C&I suggests risk appetite is firm but not yet pointing to acute vulnerabilities.
+Incorporating the SLOOS (Jan 2018, covering Q4 2017):
+- Banks modestly eased standards on C&I loans to large and middle‑market firms, indicating supportive credit supply.
+- Reported C&I loan demand was mixed to weaker, and standards for CRE and auto loans tightened, pointing to some softness and caution in specific segments.
+- Mortgage lending standards eased somewhat with firmer demand, supporting household credit.
 
-Net tone: moderately positive on growth and employment, cautiously constructive on inflation, and mindful of stability and credit-segment divergences.
+Net effect: Credit conditions are generally supportive but not uniformly strong, tempering the otherwise positive outlook. Adjusting for SLOOS, sentiment remains positive but slightly less strong.
 
-sentiment score = 0.56"
+sentiment score = 0.50"

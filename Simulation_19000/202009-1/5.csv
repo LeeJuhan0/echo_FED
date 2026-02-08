@@ -1,20 +1,8 @@
 Response
-"Modified assessment incorporating Beige Book, SLOOS (July 2020), and the FSR:
+"Summary and sentiment adjusted using the September 2020 Beige Book:
+- FOMC (Sep 16, 2020) reaffirmed powerful accommodation: policy rate at 0–0.25%, ongoing Treasury and agency MBS purchases, and a new outcome-based framework aiming for inflation moderately above 2% for some time to anchor the average at 2%. Statement acknowledges improved activity and employment versus spring but still well below pre-pandemic levels, with the virus posing considerable medium-term risks.
+- Beige Book (early September 2020) reported modest-to-moderate growth across most Districts. Housing and residential real estate were notably strong on low rates; manufacturing and consumer spending improved but remained below pre-COVID levels; services (especially travel/leisure) and CRE remained weak. Outlook was highly uncertain.
+- Credit conditions: Beige Book and July SLOOS both highlighted widespread tightening of lending standards and softer loan demand outside of residential mortgages, indicating a restrictive bank credit channel that could weigh on the recovery despite supportive market functioning from Fed facilities.
+Net assessment: The Beige Book’s modest-to-moderate gains and robust housing slightly temper the SLOOS-driven negativity, but ongoing virus uncertainty and tight credit keep risks tilted to the downside. Adjusting for Beige Book insights, the tone is cautiously negative rather than distinctly negative.
 
-- Policy stance: Keeping the funds rate at 0–1/4 percent with outcome-based forward guidance and continued Treasury/agency MBS purchases remains appropriate under average-inflation targeting. Beige Book reports modest gains across most Districts but activity still below pre-pandemic levels, reinforcing the case for sustained accommodation.
-
-- Beige Book cross-check on real activity and employment: Districts described a continued but uneven recovery—modest growth overall; manufacturing and autos improved; residential real estate was notably strong; services were mixed with leisure/hospitality and travel still weak. Employment increased but at a slower pace, with evidence of some furloughs becoming permanent. This aligns with the FOMC’s view that the public health situation will weigh on activity, employment, and inflation in the near term.
-
-- Prices: Beige Book indicated subdued price pressures overall, with some input cost increases offset by limited pricing power. This is consistent with inflation running below 2% and supports the Committee’s strategy to aim for inflation moderately above 2% for some time to anchor the average at 2%.
-
-- Bank credit conditions: Beige Book reported mixed loan demand and ongoing tightening of lending standards across categories, consistent with SLOOS. Credit supply remains restrictive—especially for SMEs and lower-score households—limiting transmission of easy financial conditions to the real economy.
-
-- Financial stability: As in the FSR, vulnerabilities in corporate credit, CRE, and some nonbank/short-term funding segments remain elevated. Fed facilities and asset purchases have materially improved market functioning and reduced tail risks.
-
-- Policy implications: Maintain the current policy rate and asset purchases at least at the present pace. Outcome-based guidance remains warranted given uneven sectoral conditions and tight bank credit. Be prepared to recalibrate tools if the public health or credit backdrop deteriorates.
-
-- Dissent context: Kashkari’s preference for a stricter inflation condition is supported by Beige Book/SLOOS evidence of tight credit and subdued inflation. Kaplan’s emphasis on flexibility is reasonable given highly uncertain virus and sectoral dynamics.
-
-Net take: Beige Book corroborates modest ongoing improvement (housing/manufacturing) but emphasizes an incomplete and uneven recovery with tight bank credit and subdued pricing power. Relative to an FSR-only read, Beige Book’s signs of progress warrant a slightly less negative tilt, though the balance of risks remains to the downside.
-
-sentiment score = -0.18"
+sentiment score = -0.30"

@@ -1,8 +1,9 @@
 Response
-"The FOMC’s decision to hold the policy rate at 5.25–5.50% while noting “a lack of further progress” toward 2% inflation remains consistent with a restrictive stance and a state-contingent, credibility-focused approach. Slowing the pace of Treasury redemptions (QT cap from $60b to $25b) may trim term premia at the margin, but with the agency MBS cap unchanged at $35b and reinvestments redirected into Treasuries above the cap, the overall stance stays tight.
+"Revised view using the Financial Stability Report:
+- The FOMC statement is positive on growth and labor markets, but notes limited recent progress on disinflation and an uncertain outlook.
+- The FSR highlights headwinds that temper optimism: interest rate volatility affecting the economic outlook, pressures on credit quality, and vulnerabilities in money market funds; it also flags commercial real estate stress, elevated valuation pressures, and broader risks (public debt, geopolitical tensions, and potential spillovers from China).
+- These FSR-identified vulnerabilities suggest a “cautiously positive” stance rather than outright positive.
 
-Viewed through the Financial Stability Report lens, the communication skews more cautious than the macro data alone would suggest. The FSR highlights persistent structural vulnerabilities in short-term funding (notably money market funds), elevated leveraged exposures in Treasury markets via hedge funds, ongoing stress in commercial real estate—especially offices with high vacancy rates—and sensitivity to interest rate volatility. It also flags broader tail risks from high public debt and geopolitical tensions, alongside sizable bank exposures to Treasuries and agency MBS even as core bank resilience remains solid. These factors temper the outlook and argue for patience before easing, aligning with the Committee’s emphasis on needing “greater confidence” that inflation is sustainably returning to 2%.
+Adjusted from 0.20 to reflect these risks while acknowledging solid activity.
 
-Net tone: balanced but cautious/leaning hawkish given sticky inflation and identified financial vulnerabilities; QT taper softens—but does not reverse—the restrictive stance.
-
-sentiment score = 0.03"
+sentiment score = 0.15"

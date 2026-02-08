@@ -1,6 +1,4 @@
 Response
-"""Information received since the Federal Open Market Committee met in September indicates that the labor market has continued to strengthen and that economic activity has been rising at a solid rate despite hurricane-related disruptions.""
-
-In New Keynesian frameworks (e.g., Galí, Gertler, and López-Salido; Woodford), continued labor-market tightening and solid real activity point to higher real marginal costs and potential upward pressure on inflation, which is typically read as a positive cyclical signal. However, with inflation expectations anchored near the 2 percent objective and market-based inflation compensation low, the literature implies muted near-term inflation risk despite strength (consistent with the statement’s broader context that inflation was below 2 percent). The reference to hurricanes denotes a transitory supply shock that the Fed generally accommodates rather than offsets, reinforcing a constructive tone on underlying growth (Fed accommodates supply shocks). Balancing these, the communication is clearly positive but not exuberant.
-
-sentiment score = 0.45"
+"Score: 0.33
+""Information received since the Federal Open Market Committee met in September indicates that the labor market has continued to strengthen and that economic activity has been rising at a solid rate despite hurricane -related disruptions.""
+sentiment score = 0.33"

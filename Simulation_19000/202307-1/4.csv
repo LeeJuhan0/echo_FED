@@ -1,14 +1,10 @@
 Response
-"SLOOS-adjusted take: Balanced but hawkish, with a firmer tilt toward growth headwinds via the bank credit channel.
+"Updated assessment incorporating SLOOS: The July 2023 Senior Loan Officer Opinion Survey points to broad-based tightening in bank lending standards and terms across:
+- Business credit: C&I loans (investment-grade, below-investment-grade, syndicated and non-syndicated)
+- Commercial real estate: construction, land development, nonfarm nonresidential, and multifamily
+- Residential real estate: GSE-eligible, jumbo, government; both QM and non-QM segments
+- Consumer credit: credit card, auto, and HELOCs; plus tighter terms for credit card and auto
 
-- Policy stance: The FOMC raised the target range to 5.25–5.50% and continues QT, emphasizing data dependence and vigilance on inflation risks.
-- Macro signals: Activity expanding moderately; job gains robust; unemployment low; inflation still elevated.
-- SLOOS lens on credit: The July 2023 Senior Loan Officer Opinion Survey indicates broad-based tightening and softer demand:
-  - Businesses: Tighter standards for C&I loans (including to IG and below-IG firms; syndicated and non-syndicated) and CRE (construction, land development, nonfarm nonresidential, multifamily).
-  - Households: Tighter standards across RRE (GSE-eligible, jumbo, government, QM and non-QM), HELOCs, and consumer credit (credit card and auto), with weaker demand notably for subprime mortgages and tighter terms for credit card and auto.
-- Implications: The breadth of tightening and weaker loan demand in SLOOS imply a more persistent drag on spending and hiring than the FOMC statement alone conveys, reinforcing restrictive financial conditions beyond the policy rate and QT.
-- Risk balance: Banking system remains “sound and resilient,” but SLOOS-consistent vulnerabilities (deposit sensitivity, interest rate and liquidity risk, and CRE concentration at some banks) keep downside risks elevated if stresses re-emerge.
+Banks also reported weaker demand for subprime mortgages. These developments corroborate the FOMC’s view that tighter credit conditions are likely to weigh on economic activity and hiring. Coupled with still-elevated inflation and continued policy restraint (funds rate at 5.25–5.5% and balance-sheet reduction), the outlook tilts more cautious despite moderate growth and robust recent job gains. Therefore, relative to a mildly positive baseline, the SLOOS evidence nudges sentiment slightly negative.
 
-Net: Credible inflation-fighting posture, but SLOOS evidence pushes the outlook more negative via tighter bank lending and weaker credit demand.
-
-sentiment score = -0.18"
+sentiment score = -0.05"

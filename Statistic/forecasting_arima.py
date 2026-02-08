@@ -546,7 +546,7 @@ def granger_table(dat: pd.DataFrame, sentiment_col: str):
 def load_and_prepare(start : str, end : str):
     nfci_anfci_ev = read_event_nfci_anfci("../data/anfci_nfci.csv")
     cpi_ev        = read_event_cpi("../data/cpi.csv")
-    sent          = read_sentiment("../data/sentiment_13+19_llm.csv")
+    sent          = read_sentiment("../data/sentiment_13+19.csv")
 
     dat = (
         nfci_anfci_ev
@@ -615,7 +615,7 @@ def main(start: str, end: str):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="ARIMA/ARIMAX analysis")
-    parser.add_argument("--start", type=str, default="2017-01-01", help="Start date (YYYY-MM-DD)")
+    parser.add_argument("--start", type=str, default="2023-01-01", help="Start date (YYYY-MM-DD)")
     parser.add_argument("--end", type=str, default="2025-12-31", help="End date (YYYY-MM-DD)")
     args = parser.parse_args()
     main(args.start, args.end)

@@ -1,11 +1,9 @@
 Response
-"Updated assessment incorporating SLOOS insights:
+"Summary and SLOOS overlay:
+- The FOMC statement (Sep 21, 2022) is hawkish: inflation “elevated,” a 75 bp hike to 3–3.25%, guidance for “ongoing increases,” and continued balance sheet reduction—already a negative tilt for growth and risk assets.
+- The July 2022 Senior Loan Officer Opinion Survey (SLOOS) indicates a further drag from credit supply: banks tightened standards and terms for C&I loans across firm sizes, increased loan pricing and collateralization, and tightened CRE standards; many banks cited the deteriorating economic outlook, industry-specific problems, and liquidity as reasons. They also tightened standards for several household credit categories (e.g., jumbo and GSE-eligible mortgages, HELOCs, credit cards, subprime auto). Banks reported weaker demand across CRE loan categories. While there were pockets of resilience (easing in some RRE/consumer segments, stronger HELOC demand, and some foreign banks noting stronger C&I demand), the net signal is tighter credit.
+- Combining the FOMC’s restrictive policy stance with SLOOS-confirmed tighter lending standards and weaker CRE demand suggests a more negative growth and risk backdrop than captured by the FSR-adjusted score.
 
-- Policy stance (FOMC 9/21/22): Hawkish. Target range raised to 3–3.25% with guidance for ongoing hikes and continued balance-sheet runoff, tightening both short-end rates and term/liquidity channels.
-- SLOOS (July 2022) credit supply: Banks tightened standards and terms for C&I loans (large, middle-market, small firms), CRE loans, most residential mortgage categories (GSE-eligible, jumbo, subprime), HELOCs, credit cards, and subprime auto; banks also increased loan costs and collateral requirements for C&I. Banks cited the economic outlook, industry-specific problems, and liquidity as key reasons.
-- SLOOS demand: Stronger demand for C&I (including foreign banks) and HELOCs, and from small firms; weaker demand across CRE categories.
-- Macro/market implications: Fed tightening plus bank-side tightening in SLOOS points to a sharper contraction in credit availability and higher borrowing costs—amplifying downside risks to growth and investment. Strong labor data and pockets of loan demand provide some offset, but the balance skews more negative for near-term activity, even as disinflation prospects and policy credibility improve over time.
+Adjustment: Shift sentiment modestly more negative than the prior -0.45 to reflect tighter bank credit conditions.
 
-Net tone: More negative than baseline given simultaneous policy tightening and bank credit tightening indicated by SLOOS.
-
-sentiment score = -0.45"
+sentiment score = -0.55"

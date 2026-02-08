@@ -1,4 +1,9 @@
 Response
-"The 75 bp hike to 3.75–4% and continued balance-sheet runoff keep policy clearly restrictive and inflation-focused. The latest SLOOS corroborates a material tightening in credit supply and softer demand: banks reported tighter standards across C&I (including for small, middle-market, and large firms) and CRE (construction/land development, nonfarm nonresidential, multifamily), broader tightening in residential real estate and consumer credit (including credit cards), reduced approval likelihood for lower FICO borrowers (620/680) with preference for higher scores, and weaker loan demand from firms and consumers (notably credit card and auto), with some offset from stronger HELOC demand. Banks cited a weaker economic outlook and raised recession likelihood. These survey signals of tighter bank intermediation and weaker credit demand reinforce the Committee’s new emphasis on cumulative tightening and policy lags, arguing for more caution on the pace of future hikes even as inflation risks remain paramount. Net takeaway: still hawkish, but more constrained by tightening credit conditions and increasingly data-dependent.
+"Incorporating the SLOOS alongside the November 2022 FOMC statement and Financial Stability Report points to a more negative tone than previously assessed:
+- Banks reported broad-based tightening in lending standards for C&I loans (including foreign banks) and CRE, as well as tighter standards across consumer credit (credit cards) and multiple residential mortgage categories; approvals became less likely for lower FICO borrowers (620/680) and more favorable for 720, indicating a higher bar for credit.
+- Demand weakened across business segments (large, middle-market, small firms) and for several consumer products, with banks citing the economic outlook and recession risk as key reasons; some offsets included stronger demand for HELOCs and largely unchanged auto loan standards.
+- This synchronized tightening in credit supply and softer loan demand implies sharper transmission of restrictive monetary policy, elevating downside growth risks while inflation concerns remain high.
 
-sentiment score = -0.10"
+Net effect: relative to the initial -0.35, SLOOS evidence warrants a modestly more negative adjustment.
+
+sentiment score = -0.45"

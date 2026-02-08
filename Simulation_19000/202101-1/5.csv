@@ -1,10 +1,9 @@
 Response
-"Adjusted assessment with Beige Book context:
-- Activity and demand: The Beige Book reports uneven, modest activity with regional economies weighed by pandemic-related uncertainty. Consumer services remain constrained by COVID-19 cases and restrictions, while goods-producing sectors (manufacturing, construction, transportation) show comparatively stronger demand. Hospitality and travel are still hard hit.
-- Labor market: Employment conditions are soft overall, concentrated weakness in services, but pockets of strength and hiring needs in manufacturing, construction, and transportation. Firms note turnover and frictions.
-- Outlook: Business optimism for 2021 has improved on vaccine progress, but virus resurgence continues to hinder near-term activity.
-- Credit and policy: The FOMC’s accommodative stance (ZLB, ongoing Treasury/MBS purchases) aligns with SLOOS indications of easing in several household mortgage categories. However, softness in domestic C&I loan demand and lingering lender caution toward pandemic-sensitive sectors persist.
+"Updated view using the January 2021 Beige Book:
+- Policy stance: The FOMC remains highly accommodative (0–0.25% fed funds rate, ongoing Treasury/MBS purchases), consistent with a cautious near-term outlook.
+- Beige Book corroboration: Regional economies show weakness concentrated in services, especially hospitality and travel, with COVID-19 cases and restrictions constraining activity and labor markets. At the same time, optimism for 2021 is improving with vaccines; labor demand is firmer in goods-producing sectors (manufacturing, construction, transportation), and housing activity remains strong.
+- Credit conditions (SLOOS + Beige Book context): Large banks eased several mortgage categories; some banks report firmer loan demand (foreign-bank C&I, expectations for consumer loans). However, many lenders still cite the economic outlook and lower risk tolerance as reasons for tighter standards, particularly for business credit.
 
-Net tone: Slightly negative near term due to service-sector drag and virus resurgence, but less negative than a SLOOS-only read given sectoral strength and vaccine-boosted optimism noted in the Beige Book.
+Net: Cautious baseline with early, uneven improvements—better than the earlier read but still tilted to downside risks given service-sector drag and lingering uncertainty.
 
-sentiment score = -0.04"
+sentiment score = -0.06"

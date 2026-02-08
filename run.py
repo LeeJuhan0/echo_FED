@@ -27,7 +27,6 @@ parser.add_argument('-trinity_gid2', type=str, default="ff8727c8-c3f8-4a60-8f17-
 parser.add_argument('-ingraphmerge',  action='store_true')
 parser.add_argument('-crossgraphmerge', action='store_true')
 parser.add_argument('-dataset', type=str, default='mimic_ex')
-#parser.add_argument('-data_path', type=str, default=r'C:/Users/wngks/ideaprojects/_Graphrag/input_report.csv')
 args = parser.parse_args()
 
 def save_responses(year, responses):

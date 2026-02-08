@@ -190,7 +190,7 @@ def get_response(n4j, gid, query, i, sim_score_median, year, meeting_no):
     print("Summary의 대답 : " + res + "the references are: " +  "".join(selfcont))
     #
     user_two = "the question is: " + query + "the last response of it is: " +  res + "the references are: " +  "".join(linkcont)
-    res = call_llm(sys_prompt_two,user_two)
+    #res = call_llm(sys_prompt_two,user_two)
     responses.append(res)
     score_list.append(parsing_score(res))
     print("paper의 대답 : "  + res)

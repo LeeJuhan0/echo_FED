@@ -1,16 +1,7 @@
 Response
-"Updated assessment with SLOOS context
+"Adjusted response using SLOOS insights:
+- Core message: The FOMC maintains the federal funds rate at 0–0.25%, continues Treasury and agency MBS/CMBS purchases and repo operations to support market functioning, and emphasizes that the outlook depends on the virus. Activity, employment, and inflation are subdued with considerable medium-term risks.
+- SLOOS context (mid-2020): The Senior Loan Officer Opinion Survey reported broad-based tightening of lending standards and terms for C&I loans to firms of all sizes, CRE loans across categories, and most consumer credit. Banks cited a more uncertain and less favorable economic outlook, reduced risk tolerance, and worsening industry-specific conditions. Loan demand was generally weaker—especially in consumer categories—with banks expecting further tightening and deterioration in credit quality. This indicates that, despite improved market functioning from Fed actions, bank credit supply remains constrained, posing headwinds to the flow of credit to households and businesses and to the recovery.
+- Sentiment adjustment: Given the SLOOS evidence of tighter bank lending and expected deterioration in credit quality, the overall tone is more negative than when judged only by improved financial conditions. Slightly more cautious than the FSR-adjusted view.
 
-- Policy stance: The FOMC maintains the 0–0.25% range and continues Treasury and agency MBS/CMBS purchases “at least at the current pace,” alongside repo operations and ON RRP at 0.00%. Forward guidance implies staying highly accommodative until the economy is on track toward maximum employment and 2% inflation.
-
-- SLOOS overlay: The latest Senior Loan Officer Opinion Survey (covering Q2 2020) reports broad-based tightening of bank lending standards and terms:
-  - C&I: Banks tightened standards for firms of all sizes, widened spreads over costs of funds, increased collateral/loan covenants, and reduced credit line sizes; many banks anticipated further tightening and rising delinquency rates over H2 2020.
-  - CRE: Marked tightening across all CRE categories, with weaker appetite to extend risk, consistent with valuation pressures and elevated vacancy concerns.
-  - Household credit: Tighter standards for credit cards, auto, and other consumer loans; some pullback in HELOCs and nonconforming mortgages. Banks expected deterioration in credit performance as forbearance rolls off.
-  - Demand: After initial line drawdowns, reported demand for C&I loans was mixed to weaker; some precautionary liquidity needs subsided, while demand for working capital and refinancing remained uneven.
-
-- Implications for the outlook: While Fed facilities and asset purchases improved market functioning and kept financial conditions easy, the SLOOS indicates a restrictive bank-credit channel that could blunt pass-through to the real economy. Combined with FSR-flagged vulnerabilities (high corporate leverage, CRE stresses, SME fragility), credit tightening heightens downside risks to growth and inflation in the near to medium term despite strong policy support.
-
-- Net take: The policy stance mitigates tail risks, but SLOOS evidence of tightening standards and anticipated deterioration in credit quality shifts the balance of risks modestly further to the downside relative to an FSR-only read.
-
-sentiment score = -0.35"
+sentiment score = -0.41"

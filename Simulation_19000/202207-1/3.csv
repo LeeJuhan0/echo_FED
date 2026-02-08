@@ -1,10 +1,4 @@
 Response
-"Modified assessment incorporating FSR insights:
-- The FOMC acknowledges slowing activity alongside elevated inflation and signals ongoing rate hikes plus balance-sheet runoff—consistent with near-term growth headwinds but disinflation over time.
-- The May 2022 Financial Stability Report (FSR) adds that vulnerabilities are elevated: valuation pressures, liquidity fragilities in core markets (including Treasury/funding markets), and money market fund redemption risks. It also highlights stress channels from the Russia–Ukraine war—energy/commodity price spikes, sanctions spillovers, and cyber risks—while noting limited direct U.S. bank exposures and strong bank capital/liquidity buffers.
-- Housing valuations were elevated with forbearance programs winding down, and nonbank intermediation/commodity market strains (e.g., LME-related dynamics) raise tail-risk volatility as policy tightens. LIBOR transition progress reduces some benchmark risk.
-- Overall, compared with a purely macro read, the FSR tilts risks more to the downside via market-functioning and nonbank channels, though core bank resilience tempers systemic risk.
+"Adjusting the initial assessment using the May 2022 Financial Stability Report: The FSR notes elevated vulnerabilities—persistent high inflation, spillovers from Russia’s invasion of Ukraine pushing up energy prices and weighing on global activity, funding/liquidity risks in nonbanks and money market funds, and stretched housing valuations as forbearance relief winds down—partly offset by resilient bank capital and robust labor markets. With the FOMC tightening policy and reducing the balance sheet amid these risks, the overall tone is somewhat more negative than initially assessed.
 
-Net tone: moderately negative, slightly more cautious than before.
-
-sentiment score = -0.30"
+sentiment score = -0.35"

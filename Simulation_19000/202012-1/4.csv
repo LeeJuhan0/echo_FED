@@ -1,4 +1,8 @@
 Response
-"The FOMC statement is cautiously framed about the pandemic-driven outlook but strongly supportive on policy (near-zero rates, sustained Treasury and agency MBS purchases, repo/RRP, and reinvestments). The latest SLOOS evidence tempers downside risks in credit transmission: banks reported stronger demand for safer residential mortgage categories—especially GSE-eligible and QM non-jumbo loans, which comprise a large share of bank originations—while demand for subprime mortgages remained weak. At the same time, standards stayed tight and business loan demand was softer, consistent with lingering caution and the role of bank capital positions in lending. Together, this suggests policy support is effectively reaching household mortgage channels, even as riskier segments and business credit remain subdued. Net tone: still slightly negative on the outlook, but marginally improved versus a risk-only read given SLOOS-confirmed strength in core mortgage demand.
+"Adjusted assessment using SLOOS insights:
+- The FOMC statement stays highly accommodative (near-zero rates, ongoing Treasury and agency MBS purchases), which supports market functioning and credit availability.
+- SLOOS indicates banks tightened lending standards and reported weaker demand for business credit (C&I and CRE), pointing to headwinds for broader credit intermediation despite easy financial conditions.
+- On the household side, SLOOS shows strong demand for GSE-eligible and QM non-jumbo mortgages (a positive for housing), but weaker demand in riskier segments (e.g., subprime), implying uneven transmission.
+Net: While policy remains supportive, SLOOS points to continued credit frictions for businesses and riskier borrowers that temper the positives. Adjusting from the FSR-based view, the tone shifts a bit more negative overall.
 
-sentiment score = -0.07"
+sentiment score = -0.15"

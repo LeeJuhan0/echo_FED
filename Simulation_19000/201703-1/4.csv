@@ -1,14 +1,9 @@
 Response
-"Summary and stance: The Committee judged that the labor market continued to strengthen and overall activity expanded at a moderate pace. Inflation moved closer to the 2 percent symmetric objective, though core measures remained somewhat below 2 percent and market-based inflation compensation stayed low. With near-term risks roughly balanced, the FOMC raised the federal funds rate target range to 3/4 to 1 percent, maintained reinvestments, and signaled a gradual path of further increases with policy remaining accommodative for some time. Future moves will remain data-dependent across labor, inflation, and financial conditions.
+"Summary adjusted with SLOOS insights:
+- Core FOMC message is moderately positive: labor market strengthening, growth moderate, inflation near 2%, balanced risks, and policy still accommodative despite a rate hike with an outlook for gradual increases.
+- SLOOS signals are mixed and temper the outlook slightly:
+  - Easing: Banks expect to ease standards for C&I loans and some residential mortgages (including GSE-eligible and nonconforming jumbo), with some improvement expected in C&I and certain mortgage asset quality.
+  - Tightening/risks: Banks and foreign banks expect tighter standards for CRE, construction/land development, and auto loans; foreign banks also see tighter C&I for small firms. Asset quality is expected to deteriorate in auto, credit cards, and multifamily, with weaker business loan demand reported by foreign banks.
+- Net effect: Easing in business and mortgage credit supports the FOMC’s constructive view, but anticipated tightening and deteriorating asset quality in CRE/consumer credit add headwinds. Overall tone remains moderately positive but slightly less upbeat.
 
-SLOOS overlay: 
-- C&I lending: Banks reported standards largely unchanged for large, middle-market, and small firms, with some banks expecting to ease C&I standards ahead; asset quality expectations for C&I categories show some improvement. However, foreign banks reported weaker demand from business borrowers and expect to tighten C&I standards, especially for small firms.
-- CRE and construction: Both banks and foreign banks expect to tighten CRE and construction/land development lending standards; several expect asset quality to deteriorate for multifamily properties.
-- Household credit: Banks expect tighter standards and deteriorating asset quality in auto loans and credit cards. Residential mortgage credit looks steadier—little change expected for GSE-eligible loans and HELOCs, while some expect asset quality improvement for nonconforming jumbo and subprime segments.
-- Drivers: Where tightening occurs, banks cite the economic outlook, capital positions, risk tolerance, and industry-specific issues; easing where present is mainly competition-driven.
-
-FSR overlay: Core institutions remain resilient with contained funding risks, but elevated asset valuations, leverage pockets (notably in parts of nonbank and CRE), and episodic liquidity risks warrant vigilance—reinforcing gradualism.
-
-Net read: Modestly positive growth and labor trends with cautious normalization, tempered by mixed credit supply signals—tighter CRE/auto and weaker consumer credit quality offset by potential C&I easing and stable mortgage credit. Slightly less constructive than the macro-only read.
-
-sentiment score = 0.34"
+sentiment score = 0.38"

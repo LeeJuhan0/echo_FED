@@ -1,6 +1,10 @@
 Response
-"- Core FOMC message: Solid real activity and continued labor-market strengthening despite hurricane disruptions; inflation still soft; policy on hold with gradual hikes expected; balance sheet normalization proceeding.
-- SLOOS lens (Oct 2017): Banks eased standards for C&I loans (competition-driven), but tightened terms/standards for credit cards and auto loans, citing economic outlook, loan portfolio quality, and risk tolerance. Banks also reported weaker demand across several categories, including credit cards, auto, and business uses such as inventory financing, accounts receivable, capex, and M&A.
-- Net take: The SLOOS mix—easier C&I but tighter consumer credit and softer loan demand—tempers the otherwise constructive FOMC backdrop. Financial conditions remain broadly accommodative for firms, but household credit headwinds and subdued loan demand argue for a positive but more measured stance.
+"Updated tone incorporating the October 2017 Senior Loan Officer Opinion Survey (SLOOS):
+- FOMC statement remains moderately positive: solid growth, strengthening labor market, and continued gradual normalization with balanced near-term risks.
+- SLOOS shows mixed credit conditions: banks eased standards for commercial and industrial (C&I) loans, driven partly by competition, but reported weaker demand across several business uses (inventory, A/R, capex, M&A), tempering the investment outlook.
+- On the household side, banks tightened terms/standards for credit card and auto loans and reported weaker demand, citing concerns about the economic outlook, loan portfolio quality, and risk tolerance—signs of caution that could weigh on consumer credit growth.
+- Some offset from reported willingness to make consumer installment loans, but overall the survey points to tighter household credit and softer loan demand than the FOMC’s macro tone alone suggests.
 
-sentiment score = 0.37"
+Net result: still mildly positive, but with clearer headwinds from lending conditions and demand. Adjusting the sentiment slightly lower.
+
+sentiment score = 0.25"

@@ -1,17 +1,12 @@
 Response
-"Updated assessment using Beige Book insights
+"Beige Book cross-check and adjustment:
+- Economic activity: Most districts reported moderate to robust growth, with strong consumer spending and a rebound in travel and leisure. Manufacturing and construction expanded amid strong demand, though supply bottlenecks constrained output.
+- Labor markets: Hiring increased, but widespread labor availability issues persisted. Firms reported rising wage pressures to attract and retain workers.
+- Prices: Input cost pressures were broad-based, and many firms passed through higher costs to customers, indicating near-term inflation pressure.
+- Real estate: Residential real estate remained strong but inventory-constrained; commercial real estate was uneven—industrial and multifamily stronger, office softer.
+- Financial conditions: Conditions remained broadly accommodative, consistent with the FOMC’s stance.
+- Credit availability (SLOOS overlay): Banks eased standards for residential real estate (including GSE-eligible mortgages and HELOCs) and some consumer credit, while remaining cautious for lower-rated C&I borrowers and CRE lending.
 
-- Policy stance: The June 16, 2021 FOMC decision (0–0.25% policy rate, IOER at 0.15%, ongoing $80B Treasuries and $40B agency MBS purchases, plus active repo/ON RRP) remains highly accommodative and consistent with FAIT, supporting maximum employment and price stability.
+Net assessment: The Beige Book strengthens the positive tone on activity and employment and supports the view of accommodative financial conditions, but it also underscores near-term price pressures, labor shortages, and uneven credit for riskier borrowers. This pushes the tone modestly more positive than before, but still short of “strongly positive.”
 
-- Beige Book cross-check on economic activity and employment:
-  - Economic activity: Broad-based gains across Districts, with stronger Consumer spending and Business spending; Manufacturing production expanding alongside robust order books, though constrained by input shortages.
-  - Labor markets: Employment rising, but widespread Labor availability challenges and elevated Job openings are slowing hiring; firms report increased Wage pressures to attract/retain workers.
-  - Prices: Price increases have accelerated amid supply-chain bottlenecks and materials shortages, consistent with near-term inflation running above 2% while longer-term expectations remain anchored.
-  - Real estate and construction: Residential real estate demand is strong with low inventories and rapid price appreciation; Construction activity is solid but impeded by materials costs and availability. Commercial real estate is mixed, with nonresidential and construction underwriting still cautious.
-  - Financial conditions: Financial conditions remain easy; bank capital/liquidity are strong. SLOOS indicates net easing in bank lending standards (consumer credit, HELOCs/GSE-eligible mortgages, and investment-grade corporates), improving credit access for households and higher-quality firms. CRE underwriting remains tighter, and foreign banks are more conservative for lower-rated borrowers.
-
-- Risk balance: Ongoing public health progress is supportive, but risks persist from supply constraints, elevated valuations and leverage (per FSR), and uneven recovery in riskier credit and CRE.
-
-Implication for tone: The Beige Book’s broad-based improvement in Economic activity and Employment, alongside easing credit conditions in SLOOS, tilts the outlook modestly more positive than an FSR-only view, though tempered by labor/supply constraints and uneven CRE. Accordingly, we mark up the sentiment modestly.
-
-sentiment score = 0.60"
+sentiment score = 0.44"
