@@ -1,8 +1,0 @@
-Response
-"""Information received since the Federal Open Market Committee met in September indicates that the labor market remains strong and that economic activity has been rising at a moderate rate.""
-
-Literature underscores why the Committee’s caution about weak business fixed investment matters: investment is highly procyclical and accounts for a disproportionate share of GDP downturns in business cycles, so softness here is a meaningful downside risk even with robust household spending (standard investment-function and business-cycle results; see also VAR evidence in Sims and subsequent work with Zha showing monetary shocks affect real activity). With market-based inflation compensation low and survey expectations little changed, New Keynesian estimates of the Phillips curve (e.g., Galí, Gertler, and López-Salido) imply subdued inflation when expected inflation is anchored and slack risks persist, supporting a dovish stance. The rate cut and ample-reserves operations align with the literature on policy implementation and expectations management (Svensson on inflation targeting; McCallum and Nelson on assessing stance), aiming to lower real rates and bolster investment-sensitive demand.
-
-Overall tone: balanced but dovish—positive on labor and consumption, tempered by investment/export weakness and sub-2% inflation. Adjusting for the literature’s emphasis on investment’s outsized role in downturns, sentiment is slightly less positive than a headline read.
-
-sentiment score = 0.15"

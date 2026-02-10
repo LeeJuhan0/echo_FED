@@ -1,2 +1,0 @@
-﻿content
-"As in chapter 2, a variable x^ denotes the percentage deviation of x around the steady state.25 The CIA model can be approximated around the steady state by the following nine linear equations: y^t 1⁄4 a^ kt1 þ ð1 aÞn^t þ zt ð3:44Þ yss kss y^t 1⁄4 css kss c^t þ ^kt ð1 dÞ^kt1 ð3:45Þ y^t þ ^lt 1⁄4 1 þ h nss 1 nss n^t ð3:46Þ ^rt 1⁄4 a yss kss ðEt y^tþ1 ^ktÞ ð3:47Þ 25. The exceptions again being that ^r and ^{ are expressed in percentage terms (e.g., ^rt 1⁄4 rt rss t )."

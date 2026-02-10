@@ -1,2 +1,0 @@
-﻿content
-"45. This requires that terms such as rt be small. Otherwise, one should use the exact Taylor series expansion. For example, in the case of (1 + rt)/(1 + rss), this would be 1 + rt 1 + rss A1 + 1/(1 + rss)(rt rss) = 1 + 1/(1 + rss)^rt: With the calibration employed, rss = 0:011, so 1/(1 + rss) = b = 0:989."
