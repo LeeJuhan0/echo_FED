@@ -2,7 +2,7 @@ echo_FED/
 
 ├── src/                  # 핵심 로직 모듈 (Core Logic)
 
-│   ├── analysis/         # 평가, 통계적 예측 및 평가(arima, ttest, 정규성 검사), 평가 데이터 전처리 (Evaluation, Statistic, Pre-processig)
+│   ├── analysis/         # 평가, 통계적 예측 및 평가(arima, ttest, 정규성 검사), 평가 데이터 전처리 (Evaluation, Statistic, Pp)
 
 │   ├── external/         # 외부 라이브러리 (camel) 
 
@@ -18,7 +18,7 @@ echo_FED/
 
 │   ├── experiment/       # 실험 과정
 
-│   ├── optimization/     # sobol_token 계
+│   ├── optimization/     # Sobol Sequence 기반 최적화 스크립트
 
 │   ├── similarity/       # 문단 단위 유사도 검
 
