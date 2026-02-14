@@ -17,17 +17,87 @@ from src.external.camel.storages import Neo4jGraph
 from src.ingestion import generate_para
 
 # Graph Construction
-from src.graph.builder import build_graph_from_files
+from src.graph.builder import (
+    build_theory_graph_from_files,
+    build_statement_graph_from_files
+)
 
 # Graph Linking
 from src.graph.link import run_linking_process
 
 
 sys.path.append(os.path.join(project_root, "src", "utils"))
-from src.utils.common import get_response # 예시 경로
+from src.utils.common import get_response, extract_pdf_to_dataframe # 예시 경로
 from src.analysis.pre_processing.sim_score_per import get_column_top_percent_values
 
 # --- Helper Functions (유지) ---
+# --- PDF → CSV Extraction Step ---
+
+def run_statement_extraction():
+
+    print(" Starting Statement PDF Extraction...")
+
+    base_dir = Path(Config.RAW_STATEMENT_DIR)   # .../FOMC_Statement
+    output_dir = Path(Config.DIR_statement_prompt)
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    year_dirs = sorted([
+        d for d in base_dir.iterdir()
+        if d.is_dir() and d.name.isdigit()
+    ])
+
+
+    if not year_dirs:
+        print("️ No year directories found.")
+        return
+
+
+    for year_dir in year_dirs:
+
+        print(f"\n Year: {year_dir.name}")
+
+        pdf_files = list(year_dir.glob("*.pdf"))
+
+        if not pdf_files:
+            print("  No PDF files in this folder.")
+            continue
+
+
+        for pdf_path in pdf_files:
+
+            try:
+                print(f"   Processing: {pdf_path.name}")
+
+                df = extract_pdf_to_dataframe(pdf_path)
+
+                if df.empty:
+                    print(f" No text: {pdf_path.name}")
+                    continue
+
+
+                #  연도별로 출력 폴더도 나눌 경우
+                year_out = output_dir / year_dir.name
+                year_out.mkdir(exist_ok=True)
+
+
+                out_file = year_out / f"{pdf_path.stem}.csv"
+
+
+                df.to_csv(
+                    out_file,
+                    index=False,
+                    encoding="utf-8-sig"
+                )
+
+                print(f" Saved: {out_file}")
+
+
+            except Exception as e:
+
+                print(f" Error {pdf_path.name}: {e}")
+
+
 
 def find_monetary_statement_csv(year_month: str, base_dir: str) -> str:
     """
@@ -151,7 +221,7 @@ def main():
 
     # [Step Selection]
     parser.add_argument('--step', type=str, required=True,
-                        choices=['preprocess', 'construct', 'link', 'inference'],
+                        choices=['preprocess', 'construct_theory','construct_statement', 'link', 'inference', 'extract_statement'],
                         help="Select the pipeline step to run.")
     # Construct Step Args
     parser.add_argument('--grained_chunk', default= False, action='store_true',
@@ -180,7 +250,7 @@ def main():
                         help="Base output directory for inference results")
 
     parser.add_argument('--report_sum_dir', type=str,
-                        default=Config.DIR_REPORT_SUM,
+                        default=Config.DIR_statement_prompt,
                         help="Directory containing monetary statement CSVs")
     args = parser.parse_args()
 
@@ -191,27 +261,48 @@ def main():
             return
         generate_para(input_path=args.input_file)
 
-    elif args.step == 'construct':
-        print(" Constructing Graph...")
-        build_graph_from_files(
+    elif args.step == 'construct_theory':
+
+        print(" Constructing THEORY Graph...")
+
+        build_theory_graph_from_files(
+
             data_path=Config.DATA_THEORY_PATH,
+
             excel_path=Config.DATA_SIMSCORE_EXCEL,
+
             grained_chunk=args.grained_chunk
         )
 
-    elif args.step == 'link':
-        if not args.fomc_gid:
-            print(" Error: --fomc_gid is required for linking.")
-            return
-        run_linking_process(
-            fomc_gid=args.fomc_gid,
-            check_fsr=args.check_fsr,
-            check_sloos=args.check_sloos,
-            check_beigebook=args.check_beigebook
+
+    elif args.step == 'construct_statement':
+
+        print(" Constructing STATEMENT Graph...")
+
+        build_statement_graph_from_files(
+
+            base_path= Config.DIR_statement_prompt,
+
+            grained_chunk=args.grained_chunk
         )
+
+
+    elif args.step == 'link':
+            if not args.fomc_gid:
+                print(" Error: --fomc_gid is required for linking.")
+                return
+            run_linking_process(
+                fomc_gid=args.fomc_gid,
+                check_fsr=args.check_fsr,
+                check_sloos=args.check_sloos,
+                check_beigebook=args.check_beigebook
+            )
 
     elif args.step == 'inference':
         run_inference_simulation(args)
+
+    elif args.step == 'extract_statement':
+        run_statement_extraction()
 
 if __name__ == "__main__":
     main()

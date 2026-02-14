@@ -28,10 +28,34 @@ class Config:
         "DIR_OUTPUT",
         os.path.join(PROJECT_ROOT, "data", "results","experiment","simulation")
     )
+    # Raw FOMC Statement PDF directory
+    RAW_STATEMENT_DIR = os.getenv(
+        "RAW_STATEMENT_DIR",
+        os.path.join(
+            PROJECT_ROOT,
+            "data",
+            "raw",
+            "Statement",
+            "FOMC_Statement"
+        )
+    )
 
-    # 통화정책 보고서 폴더
-    DIR_REPORT_SUM = os.getenv(
-        "DIR_REPORT_SUM",
+    # Theory raw dataset directory (papers, theory docs)
+    DATA_THEORY_PATH = os.getenv(
+        "DATA_THEORY_PATH",
+        os.path.join(
+            PROJECT_ROOT,
+            "data",
+            "raw",
+            "Theory",
+            "dataset_paper"
+        )
+    )
+
+
+#  통화정책 보고서 폴더
+    DIR_statement_prompt = os.getenv(
+        "DIR_statement_prompt",
         os.path.join(PROJECT_ROOT, "data", "processed", "statement_prompt")
     )
 
@@ -40,12 +64,13 @@ class Config:
     NEO4J_URL = os.getenv("NEO4J_URL", "neo4j://127.0.0.1:7687")
     NEO4J_USERNAME = os.getenv("NEO4J_USERNAME", "neo4j")
     NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "12345678")
+    FRIENDLI_TOKEN = os.getenv("FRIENDLI_TOKEN", "LG_API_TOKEN")
 
 
-    # 2. Models (구축용 vs 추론용 분리)
+    # Models (구축용 vs 추론용 분리)
     # [중요] 여기서 모델명을 관리합니다.
     MODEL_CONSTRUCTION = os.getenv("LLM_MODEL_CONSTRUCTION", "gpt-4o-mini")
-    MODEL_INFERENCE = os.getenv("LLM_MODEL_INFERENCE", "gpt-4o")
+    MODEL_INFERENCE = os.getenv("LLM_MODEL_INFERENCE", "LGAI-EXAONE/K-EXAONE-236B-A23B")
 
     # 4. Paths
     BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))

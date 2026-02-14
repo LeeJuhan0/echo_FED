@@ -3,11 +3,16 @@ import os
 from neo4j import GraphDatabase
 import numpy as np
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
-
+from src.utils.config import Config
 from src.external.camel.storages import Neo4jGraph
 from src.llm.summarizer import process_chunks
+import time
+import random
+import pdfplumber
+from pathlib import Path
+import pandas as pd
 
-from openai import OpenAI
+from openai import OpenAI, APITimeoutError, APIConnectionError, InternalServerError, RateLimitError
 import uuid
 import openai
 import re
@@ -142,20 +147,70 @@ def add_sum(n4j,content,gid):
     return s
 
 def call_llm(sys, user):
-    response = openai.chat.completions.create(
-        model="gpt-5",
-        messages=[
-            {"role": "system", "content": sys},
-            {"role": "user", "content": f" {user}"},
-        ],
-        max_completion_tokens=3000, #for : gpt-5
-        temperature=1,
-        #max_tokens=3000, #for : gpt-4o
-        #temperature=0.2,
-        n=1,
-        stop=None,
-    )
-    return response.choices[0].message.content
+    if Config.MODEL_INFERENCE == "gpt-5" :
+        response = openai.chat.completions.create(
+            model=Config.MODEL_INFERENCE,
+            messages=[
+                {"role": "system", "content": sys},
+                {"role": "user", "content": f" {user}"},
+            ],
+            max_completion_tokens=3000, #for : gpt-5
+            temperature=1,
+            #max_tokens=3000, #for : gpt-4o
+            #temperature=0.2,
+            n=1,
+            stop=None,
+        )
+        return response.choices[0].message.content
+
+    elif Config.MODEL_INFERENCE == "LGAI-EXAONE/K-EXAONE-236B-A23B":
+        client = OpenAI(
+            api_key=Config.FRIENDLI_TOKEN,
+            base_url="https://api.friendli.ai/serverless/v1",
+            timeout=90.0,  # [수정1] Cold Start 고려하여 타임아웃을 좀 더 넉넉하게 (60 -> 90)
+        )
+
+    base_delay = 2.0
+
+    for attempt in range(6):
+        try:
+            completion = client.chat.completions.create(
+                model="LGAI-EXAONE/K-EXAONE-236B-A23B",
+                extra_body={
+                    "parse_reasoning": True,
+                    "chat_template_kwargs": {"enable_thinking": False},
+                },
+                messages=[
+                    {"role": "system", "content": sys},
+                    {"role": "user", "content": user},
+                ],
+            )
+            return completion.choices[0].message.content
+
+        except Exception as e:
+            msg = str(e).lower()
+
+            is_retryable = (
+                    "429" in msg or "rate limit" in msg or  # 요청 제한
+                    "timeout" in msg or                     # 시간 초과
+                    "500" in msg or "502" in msg or "503" in msg or # 서버 내부 에러
+                    isinstance(e, (APITimeoutError, APIConnectionError, InternalServerError, RateLimitError))
+            )
+
+            if is_retryable:
+                # 지수 백오프 (Exponential Backoff) + Jitter
+                delay = base_delay * (2 ** attempt) + random.uniform(0.1, 0.5)
+                print(f"[Attempt {attempt+1}] Error: {msg[:50]}... Retrying in {delay:.2f}s") # 로깅 추가
+                time.sleep(delay)
+                continue
+
+            # 재시도 해도 안 되는 에러(예: 400 Bad Request, 인증 에러 등)는 바로 중단
+            print(f"Non-retryable Error: {e}")
+            raise e
+        # print(completion.choices[0].message.content)
+        return completion.choices[0].message.content
+
+    return 0
 
 def find_index_of_largest(nums):
     # Sorting the list while keeping track of the original indexes
@@ -187,7 +242,7 @@ def get_response(n4j, gid, query, i, sim_score_median, year, meeting_no):
     linkcontSLOOS = link_context_SLOOS(n4j, gid)
     linkcontbeigebook = link_context_beigebook(n4j, gid)
 
-    user_one = "the question is: " + query
+    user_one = "the question is: " + query + "the references are: " +  "".join(selfcont)
     res = call_llm(sys_prompt_one,user_one)
     responses.append(res)
     score_list.append(parsing_score(res))
@@ -216,6 +271,7 @@ def get_response(n4j, gid, query, i, sim_score_median, year, meeting_no):
     responses.append(res)
     score_list.append(parsing_score(res))
     print("beigebook의 대답 : " + res)
+
     save_responses_per_meeting(year, meeting_no, responses)
     return score_list
 
@@ -537,4 +593,25 @@ def str_uuid():
     # Convert UUID to a string
     return str(generated_uuid)
 
+def extract_pdf_to_dataframe(pdf_path: Path) -> pd.DataFrame:
+    """
+    Extract text from PDF and return DataFrame with:
+    file_name | page | text
+    """
 
+    records = []
+
+    with pdfplumber.open(pdf_path) as pdf:
+
+        for i, page in enumerate(pdf.pages, start=1):
+
+            text = page.extract_text()
+
+            if text:
+                records.append({
+                    "file_name": pdf_path.stem,
+                    "page": i,
+                    "text": text.strip()
+                })
+
+    return pd.DataFrame(records)
