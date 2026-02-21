@@ -61,7 +61,7 @@ def save_responses_per_meeting(year: int, meeting_no: int, responses):
     특정 연도(year)-회의번호(meeting_no) 폴더에
     responses 리스트(예: 5개)를 1.csv ~ N.csv로 저장.
     """
-    BASE_PATH = r"C:/Users/HUFS_MATH/IdeaProjects/FOMC_Graphrag/Simulation_19000"
+    BASE_PATH = r"/data/results/experiment/Simulation_19000"
     folder_name = f"{year}-{meeting_no}"
     folder_path = os.path.join(BASE_PATH, folder_name)
     os.makedirs(folder_path, exist_ok=True)
@@ -255,7 +255,7 @@ def get_response(n4j, gid, query, i, sim_score_median, year, meeting_no):
     print("paper의 대답 : "  + res)
     #
     user_three = "the question is:" + query + "the provided information is: " + res + "the references are: " + "".join(linkcontFSR)
-    res = call_llm(sys_prompt_three,user_three)
+    #res = call_llm(sys_prompt_three,user_three)
     responses.append(res)
     score_list.append(parsing_score(res))
     print("FSR의 대답 : " + res)
@@ -335,7 +335,7 @@ def link_context_FSR(n4j, gid):
 
 def link_context_SLOOS(n4j, gid):
     cont = []
-    retrieve_query = """
+    retrieve_query_1hop = """
         // Match all 'n' nodes with a specific gid but not of the "Summary" type
         MATCH (n)
         WHERE n.gid = $gid AND NOT n:Summary
@@ -355,16 +355,85 @@ def link_context_SLOOS(n4j, gid):
             TYPE(r) AS SLOOSType, 
             collect(DISTINCT {RelationType: type(s), Oid: o.id}) AS Connections
     """
-    res = n4j.query(retrieve_query, {'gid': gid})
+    retrieve_query_2hop = """
+        
+        
+        //  Match 'n' node
+        MATCH (n)
+        WHERE n.gid = $gid AND NOT n:Summary
+        
+        //  nodes connected via 'SLOOS'
+        MATCH (n)-[r:SLOOS]->(m)
+        WHERE NOT m:Summary
+        
+        // 모든 m을 수집하여 인덱스(i) 부여 
+        WITH n, collect({node: m, rel: r}) AS m_list
+        UNWIND range(0, size(m_list) - 1) AS i
+        WITH n, m_list[i].node AS m, m_list[i].rel AS r, i
+        
+        // 모든 'm'에 대해 1~2홉 경로 탐색 진행 (텍스트 제한과 무관하게 전부 탐색)
+        MATCH p = (m)-[*1..2]-(o)
+        WHERE NONE(node IN nodes(p) WHERE node:Summary)
+          AND NONE(rel IN relationships(p) WHERE type(rel) = 'SLOOS')
+        
+        // 결과 반환
+        RETURN n.id AS NodeId1, 
+        m.id AS Mid, 
+        TYPE(r) AS SLOOSType, 
+        CASE WHEN i < 3 THEN m.source_text ELSE null END AS SourceText,
+        collect(DISTINCT {
+            Hops: length(p),
+            TargetNode: o.id,
+            PathNodes: [node IN nodes(p) | node.id],
+            PathRels: [rel IN relationships(p) | type(rel)]
+        }) AS Connections
+    """
+
+    res = n4j.query(retrieve_query_2hop, {'gid': gid})
+    """
     for r in res:
         # Expand each set of connections into separate entries with n and m
         for ind, connection in enumerate(r["Connections"]):
             cont.append("Reference " + str(ind) + ": " + r["NodeId1"] + "has the reference that" + r['Mid'] + connection['RelationType'] + connection['Oid'])
+    """
+    source_texts = []  # source_text를 마지막에 붙이기 위해 따로 모아둘 리스트
+
+    for r in res:
+        if r.get("SourceText"):
+            source_texts.append("Source Text for " + str(r['Mid']) + ":\n" + str(r['SourceText']))
+
+        for ind, connection in enumerate(r["Connections"]):
+            rels = connection.get("PathRels", [])
+            nodes = connection.get("PathNodes", [])
+
+            if len(rels) == 1:
+                # 1홉 연결일 경우: -[관계]->
+                rel_str = f" -[{rels[0]}]- "
+            elif len(rels) > 1:
+                # 2홉 연결일 경우: -[관계1]- 중간노드 -[관계2]-
+                rel_str = f" -[{rels[0]}]- {nodes[1]} -[{rels[1]}]- "
+            else:
+                rel_str = " connects to "
+
+            connection['RelationType'] = rel_str
+            connection['Oid'] = str(nodes[-1])
+            cont.append("Reference " + str(ind) + ": " + r["NodeId1"] + "has the reference that" + r['Mid'] + connection['RelationType'] + connection['Oid'])
+
+    if source_texts:
+        cont.append("\n--- Source Texts ---")
+
+        truncated_texts = [
+            text[:2000] + "..." if len(text) > 2000 else text
+            for text in source_texts
+        ]
+
+        cont.extend(truncated_texts)
+
     return cont
 
 def link_context_beigebook(n4j, gid):
     cont = []
-    retrieve_query = """
+    retrieve_query_1hop = """
         // Match all 'n' nodes with a specific gid but not of the "Summary" type
         MATCH (n)
         WHERE n.gid = $gid AND NOT n:Summary
@@ -384,11 +453,80 @@ def link_context_beigebook(n4j, gid):
             TYPE(r) AS beigebookType, 
             collect(DISTINCT {RelationType: type(s), Oid: o.id}) AS Connections
     """
-    res = n4j.query(retrieve_query, {'gid': gid})
+    retrieve_query_2hop = """
+    // Match all 'n' nodes with a specific gid but not of the "Summary" type
+        MATCH (n)
+        WHERE n.gid = $gid AND NOT n:Summary
+
+        // Find all 'm' nodes where 'm' is a reference of 'n' via a 'beigebook' relationship
+        MATCH (n)-[r:beigebook]->(m)
+        WHERE NOT m:Summary
+
+        // Collect all 'm' nodes and their relationships, assigning an index 'i' to each
+        WITH n, collect({node: m, rel: r}) AS m_list
+        UNWIND range(0, size(m_list) - 1) AS i
+        WITH n, m_list[i].node AS m, m_list[i].rel AS r, i
+
+        // Find 1-hop and 2-hop paths 'p' for ALL 'm' nodes
+        // while excluding 'Summary' type nodes and 'beigebook' relationship in the path
+        MATCH p = (m)-[*1..2]-(o)
+        WHERE NONE(node IN nodes(p) WHERE node:Summary)
+          AND NONE(rel IN relationships(p) WHERE type(rel) = 'beigebook')
+
+        // Collect and return details in a structured format
+        // Return source_text only for the first 3 'm' nodes (i < 3) to save LLM context
+        RETURN n.id AS NodeId1, 
+            m.id AS Mid, 
+            TYPE(r) AS beigebookType, 
+            CASE WHEN i < 3 THEN m.source_text ELSE null END AS SourceText,
+            collect(DISTINCT {
+                Hops: length(p),
+                TargetNode: o.id,
+                PathNodes: [node IN nodes(p) | node.id],
+                PathRels: [rel IN relationships(p) | type(rel)]
+            }) AS Connections
+    """
+    res = n4j.query(retrieve_query_2hop, {'gid': gid})
+    """
     for r in res:
         # Expand each set of connections into separate entries with n and m
         for ind, connection in enumerate(r["Connections"]):
             cont.append("Reference " + str(ind) + ": " + r["NodeId1"] + "has the reference that" + r['Mid'] + connection['RelationType'] + connection['Oid'])
+    """
+
+    source_texts = []  # source_text를 마지막에 붙이기 위해 따로 모아둘 리스트
+
+    for r in res:
+        if r.get("SourceText"):
+            source_texts.append("Source Text for " + str(r['Mid']) + ":\n" + str(r['SourceText']))
+
+        for ind, connection in enumerate(r["Connections"]):
+            rels = connection.get("PathRels", [])
+            nodes = connection.get("PathNodes", [])
+
+            if len(rels) == 1:
+                # 1홉 연결일 경우: -[관계]->
+                rel_str = f" -[{rels[0]}]- "
+            elif len(rels) > 1:
+            # 2홉 연결일 경우: -[관계1]- 중간노드 -[관계2]-
+                rel_str = f" -[{rels[0]}]- {nodes[1]} -[{rels[1]}]- "
+            else:
+                rel_str = " connects to "
+
+            connection['RelationType'] = rel_str
+            connection['Oid'] = str(nodes[-1])
+            cont.append("Reference " + str(ind) + ": " + r["NodeId1"] + "has the reference that" + r['Mid'] + connection['RelationType'] + connection['Oid'])
+
+    if source_texts:
+        cont.append("\n--- Source Texts ---")
+
+        truncated_texts = [
+            text[:2000] + "..." if len(text) > 2000 else text
+            for text in source_texts
+        ]
+
+        cont.extend(truncated_texts)
+
     return cont
 
 def ret_context(n4j, gid):

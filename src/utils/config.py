@@ -26,7 +26,7 @@ class Config:
     # 결과 저장소 (Output Dir)
     DIR_OUTPUT = os.getenv(
         "DIR_OUTPUT",
-        os.path.join(PROJECT_ROOT, "data", "results","experiment","simulation")
+        os.path.join(PROJECT_ROOT, "data", "results","experiment","simulation2014_16")
     )
     # Raw FOMC Statement PDF directory
     RAW_STATEMENT_DIR = os.getenv(
@@ -35,8 +35,8 @@ class Config:
             PROJECT_ROOT,
             "data",
             "raw",
-            "Statement",
-            "FOMC_Statement"
+            "Policy",
+            "SLOOS"
         )
     )
 
@@ -68,11 +68,10 @@ class Config:
 
 
     # Models (구축용 vs 추론용 분리)
-    # [중요] 여기서 모델명을 관리합니다.
     MODEL_CONSTRUCTION = os.getenv("LLM_MODEL_CONSTRUCTION", "gpt-4o-mini")
-    MODEL_INFERENCE = os.getenv("LLM_MODEL_INFERENCE", "LGAI-EXAONE/K-EXAONE-236B-A23B")
+    MODEL_INFERENCE = os.getenv("LLM_MODEL_INFERENCE", "gpt-5")
 
-    # 4. Paths
+    # Paths
     BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     DATA_THEORY_PATH = os.getenv("DATA_THEORY_PATH", os.path.join(BASE_DIR, "data/raw/theory/paragraph"))
     DATA_SIMSCORE_EXCEL = os.getenv("DATA_SIMSCORE_EXCEL", os.path.join(BASE_DIR, "data/processed/experiment/openai_paragraph_vs_statements_only_economic.xlsx"))

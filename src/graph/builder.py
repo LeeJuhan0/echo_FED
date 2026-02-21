@@ -33,7 +33,7 @@ def extract_fomc_gid(filename: str) -> str:
 
     yyyymm = match.group(0)
 
-    return f"FOMC{yyyymm}"
+    return f"SLOOS{yyyymm}" #beigebook, SLOOS, FSR, FOMC
 
 def normalize_chunks(chunks) -> list[str]:
 
@@ -308,7 +308,6 @@ def create_statement_metagraph(
         except Exception as e:
             print(f"     Error processing chunk {i}: {e}")
 
-    add_sum(n4j_instance, whole_chunk, gid)
     return n4j_instance
 
 def build_statement_graph_from_files(
@@ -316,7 +315,7 @@ def build_statement_graph_from_files(
         base_path,
         grained_chunk: bool = False,
 
-        start_year: int = 2000,
+        start_year: int = 2016,
         end_year: int = 2016
 ):
 

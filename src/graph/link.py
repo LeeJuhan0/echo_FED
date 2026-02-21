@@ -42,12 +42,14 @@ def run_linking_process(
 
     # Paper(Theory) -> FOMC 링크
     print(f"\n [Link] Paper({paper_gid}) -> FOMC({fomc_gid})")
+    """
     try:
         ref_link(n4j, paper_gid, fomc_gid)
         context = link_context(n4j, fomc_gid, ctx_idx, threshold)
         print(f"   > Context Sample: {str(context)[:100]}..." if context else "   > Context: Empty")
     except Exception as e:
         print(f"   Error: {e}")
+    """
 
     # FSR 링크
     if check_fsr:

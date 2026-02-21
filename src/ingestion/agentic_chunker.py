@@ -300,7 +300,7 @@ class AgenticChunker:
             chunk_found = extraction_found.chunk_id
 
         if chunk_found is None:
-            pass
+            return None
 
         elif len(chunk_found) != self.id_truncate_limit:
             return None
