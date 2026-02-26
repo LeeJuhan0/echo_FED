@@ -10,12 +10,13 @@ hub = Client()
 import os
 from src.ingestion.dataloader import load_high
 from src.ingestion.agentic_chunker import AgenticChunker
-
+from src.utils.config import Config
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import PydanticOutputParser
 from pydantic import BaseModel, Field
 
+construction_model = Config.MODEL_CONSTRUCTION
 
 # -----------------------------
 # Schema
@@ -59,7 +60,7 @@ def build_extraction_chain():
     )
 
     llm = ChatOpenAI(
-        model="gpt-4o-mini",
+        model = construction_model ,
         temperature=0
     )
 

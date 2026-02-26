@@ -107,12 +107,35 @@ def add_nodes_emb(n4j):
             embedding = get_embedding(node['id'])
             # Store embedding back in the node
             add_embeddings(n4j, node['id'], embedding)
-
+"""
 def add_ge_emb(graph_element):
     for node in graph_element.nodes:
         emb = get_embedding(node.id)
         node.properties['embedding'] = emb
     return graph_element
+"""
+def add_ge_emb(graph_element):
+    for node in graph_element.nodes:
+        node_id = node.id
+        node_type = getattr(node, 'type', 'Entity')
+
+        spo_list = []
+        for rel in graph_element.relationships:
+            src_id = rel.subj.id if hasattr(rel, 'subj') else getattr(rel.source, 'id', str(rel.source))
+            tgt_id = rel.obj.id if hasattr(rel, 'obj') else getattr(rel.target, 'id', str(rel.target))
+            rel_type = getattr(rel, 'type', 'RELATED_TO')
+
+            if src_id == node_id or tgt_id == node_id:
+                spo_list.append(f"[{src_id} - {rel_type} -> {tgt_id}]")
+        spo_context = ", ".join(spo_list) if spo_list else "No direct relationships."
+        contextualized_text = (
+            f"Entity: {node_id} ({node_type})\n"
+            f"Relationships: {spo_context}"
+        )
+        emb = get_embedding(contextualized_text)
+        node.properties['embedding'] = emb
+    return graph_element
+
 
 def add_sim_score(graph_element, sim_score):
     for node in graph_element.nodes:
@@ -454,25 +477,25 @@ def link_context_beigebook(n4j, gid):
             collect(DISTINCT {RelationType: type(s), Oid: o.id}) AS Connections
     """
     retrieve_query_2hop = """
-    // Match all 'n' nodes with a specific gid but not of the "Summary" type
+        // Match all 'n' nodes with a specific gid but not of the "Summary" type
         MATCH (n)
-        WHERE n.gid = $gid AND NOT n:Summary
-
+        WHERE n.gid = 'FOMC201910'AND NOT n:Summary
+        
         // Find all 'm' nodes where 'm' is a reference of 'n' via a 'beigebook' relationship
-        MATCH (n)-[r:beigebook]->(m)
+        MATCH (n)-[r:beigebooknew]->(m)
         WHERE NOT m:Summary
-
+        
         // Collect all 'm' nodes and their relationships, assigning an index 'i' to each
         WITH n, collect({node: m, rel: r}) AS m_list
         UNWIND range(0, size(m_list) - 1) AS i
         WITH n, m_list[i].node AS m, m_list[i].rel AS r, i
-
+        
         // Find 1-hop and 2-hop paths 'p' for ALL 'm' nodes
         // while excluding 'Summary' type nodes and 'beigebook' relationship in the path
         MATCH p = (m)-[*1..2]-(o)
         WHERE NONE(node IN nodes(p) WHERE node:Summary)
-          AND NONE(rel IN relationships(p) WHERE type(rel) = 'beigebook')
-
+          AND NONE(rel IN relationships(p) WHERE type(rel) = 'beigebooknew')
+        
         // Collect and return details in a structured format
         // Return source_text only for the first 3 'm' nodes (i < 3) to save LLM context
         RETURN n.id AS NodeId1, 

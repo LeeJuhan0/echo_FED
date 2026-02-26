@@ -2,11 +2,11 @@ import os
 import uuid
 from typing import Optional, List, Dict
 from dotenv import load_dotenv
-
+from src.utils.config import Config
 from pydantic import BaseModel, Field
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI  # pip install langchain-openai
-
+construction_model = Config.MODEL_CONSTRUCTION
 load_dotenv()
 
 class AgenticChunker:
@@ -24,7 +24,7 @@ class AgenticChunker:
         if openai_api_key is None:
             raise ValueError("API key is not provided and not found in environment variables")
 
-        self.llm = ChatOpenAI(model='gpt-4o-mini', openai_api_key=openai_api_key, temperature=0)
+        self.llm = ChatOpenAI(model= construction_model, openai_api_key=openai_api_key, temperature=0)
 
     def add_propositions(self, propositions):
         for proposition in propositions:

@@ -33,7 +33,7 @@ def extract_fomc_gid(filename: str) -> str:
 
     yyyymm = match.group(0)
 
-    return f"SLOOS{yyyymm}" #beigebook, SLOOS, FSR, FOMC
+    return f"beigebook{yyyymm}new" #beigebook, SLOOS, FSR, FOMC
 
 def normalize_chunks(chunks) -> list[str]:
 
@@ -290,7 +290,7 @@ def create_statement_metagraph(
                 element_example,
                 parse_graph_elements=True
             )
-            # ===== property 처리 (simscore 제거) =====
+            # property 처리
             graph_elements = add_text_property(
                 graph_elements,
                 element_example.text,
@@ -298,7 +298,7 @@ def create_statement_metagraph(
             )
             graph_elements = add_ge_emb(graph_elements)
             graph_elements = add_gid(graph_elements, gid)
-            #  add_sim_score 제거됨
+            #  add_sim_score 제거
             # 저장
             n4j_instance.add_graph_elements(
                 graph_elements=[graph_elements]
@@ -315,8 +315,8 @@ def build_statement_graph_from_files(
         base_path,
         grained_chunk: bool = False,
 
-        start_year: int = 2016,
-        end_year: int = 2016
+        start_year: int = 2018,
+        end_year: int = 2025
 ):
 
     """
@@ -362,7 +362,7 @@ def build_statement_graph_from_files(
 
 
     if not year_dirs:
-        print("⚠ No valid year directories found.")
+        print(" No valid year directories found.")
         return
 
 

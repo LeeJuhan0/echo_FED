@@ -26,7 +26,7 @@ class Config:
     # 결과 저장소 (Output Dir)
     DIR_OUTPUT = os.getenv(
         "DIR_OUTPUT",
-        os.path.join(PROJECT_ROOT, "data", "results","experiment","simulation2014_16")
+        os.path.join(PROJECT_ROOT, "data", "results","experiment","simul30times")
     )
     # Raw FOMC Statement PDF directory
     RAW_STATEMENT_DIR = os.getenv(
@@ -36,7 +36,7 @@ class Config:
             "data",
             "raw",
             "Policy",
-            "SLOOS"
+            "beigebook"
         )
     )
 
