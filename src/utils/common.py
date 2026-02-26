@@ -3,11 +3,16 @@ import os
 from neo4j import GraphDatabase
 import numpy as np
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
-
+from src.utils.config import Config
 from src.external.camel.storages import Neo4jGraph
 from src.llm.summarizer import process_chunks
+import time
+import random
+import pdfplumber
+from pathlib import Path
+import pandas as pd
 
-from openai import OpenAI
+from openai import OpenAI, APITimeoutError, APIConnectionError, InternalServerError, RateLimitError
 import uuid
 import openai
 import re
@@ -56,7 +61,7 @@ def save_responses_per_meeting(year: int, meeting_no: int, responses):
     특정 연도(year)-회의번호(meeting_no) 폴더에
     responses 리스트(예: 5개)를 1.csv ~ N.csv로 저장.
     """
-    BASE_PATH = r"C:/Users/HUFS_MATH/IdeaProjects/FOMC_Graphrag/Simulation_19000"
+    BASE_PATH = r"/data/results/experiment/Simulation_19000"
     folder_name = f"{year}-{meeting_no}"
     folder_path = os.path.join(BASE_PATH, folder_name)
     os.makedirs(folder_path, exist_ok=True)
@@ -102,12 +107,35 @@ def add_nodes_emb(n4j):
             embedding = get_embedding(node['id'])
             # Store embedding back in the node
             add_embeddings(n4j, node['id'], embedding)
-
+"""
 def add_ge_emb(graph_element):
     for node in graph_element.nodes:
         emb = get_embedding(node.id)
         node.properties['embedding'] = emb
     return graph_element
+"""
+def add_ge_emb(graph_element):
+    for node in graph_element.nodes:
+        node_id = node.id
+        node_type = getattr(node, 'type', 'Entity')
+
+        spo_list = []
+        for rel in graph_element.relationships:
+            src_id = rel.subj.id if hasattr(rel, 'subj') else getattr(rel.source, 'id', str(rel.source))
+            tgt_id = rel.obj.id if hasattr(rel, 'obj') else getattr(rel.target, 'id', str(rel.target))
+            rel_type = getattr(rel, 'type', 'RELATED_TO')
+
+            if src_id == node_id or tgt_id == node_id:
+                spo_list.append(f"[{src_id} - {rel_type} -> {tgt_id}]")
+        spo_context = ", ".join(spo_list) if spo_list else "No direct relationships."
+        contextualized_text = (
+            f"Entity: {node_id} ({node_type})\n"
+            f"Relationships: {spo_context}"
+        )
+        emb = get_embedding(contextualized_text)
+        node.properties['embedding'] = emb
+    return graph_element
+
 
 def add_sim_score(graph_element, sim_score):
     for node in graph_element.nodes:
@@ -142,20 +170,70 @@ def add_sum(n4j,content,gid):
     return s
 
 def call_llm(sys, user):
-    response = openai.chat.completions.create(
-        model="gpt-5",
-        messages=[
-            {"role": "system", "content": sys},
-            {"role": "user", "content": f" {user}"},
-        ],
-        max_completion_tokens=3000, #for : gpt-5
-        temperature=1,
-        #max_tokens=3000, #for : gpt-4o
-        #temperature=0.2,
-        n=1,
-        stop=None,
-    )
-    return response.choices[0].message.content
+    if Config.MODEL_INFERENCE == "gpt-5" :
+        response = openai.chat.completions.create(
+            model=Config.MODEL_INFERENCE,
+            messages=[
+                {"role": "system", "content": sys},
+                {"role": "user", "content": f" {user}"},
+            ],
+            max_completion_tokens=3000, #for : gpt-5
+            temperature=1,
+            #max_tokens=3000, #for : gpt-4o
+            #temperature=0.2,
+            n=1,
+            stop=None,
+        )
+        return response.choices[0].message.content
+
+    elif Config.MODEL_INFERENCE == "LGAI-EXAONE/K-EXAONE-236B-A23B":
+        client = OpenAI(
+            api_key=Config.FRIENDLI_TOKEN,
+            base_url="https://api.friendli.ai/serverless/v1",
+            timeout=90.0,  # [수정1] Cold Start 고려하여 타임아웃을 좀 더 넉넉하게 (60 -> 90)
+        )
+
+    base_delay = 2.0
+
+    for attempt in range(6):
+        try:
+            completion = client.chat.completions.create(
+                model="LGAI-EXAONE/K-EXAONE-236B-A23B",
+                extra_body={
+                    "parse_reasoning": True,
+                    "chat_template_kwargs": {"enable_thinking": False},
+                },
+                messages=[
+                    {"role": "system", "content": sys},
+                    {"role": "user", "content": user},
+                ],
+            )
+            return completion.choices[0].message.content
+
+        except Exception as e:
+            msg = str(e).lower()
+
+            is_retryable = (
+                    "429" in msg or "rate limit" in msg or  # 요청 제한
+                    "timeout" in msg or                     # 시간 초과
+                    "500" in msg or "502" in msg or "503" in msg or # 서버 내부 에러
+                    isinstance(e, (APITimeoutError, APIConnectionError, InternalServerError, RateLimitError))
+            )
+
+            if is_retryable:
+                # 지수 백오프 (Exponential Backoff) + Jitter
+                delay = base_delay * (2 ** attempt) + random.uniform(0.1, 0.5)
+                print(f"[Attempt {attempt+1}] Error: {msg[:50]}... Retrying in {delay:.2f}s") # 로깅 추가
+                time.sleep(delay)
+                continue
+
+            # 재시도 해도 안 되는 에러(예: 400 Bad Request, 인증 에러 등)는 바로 중단
+            print(f"Non-retryable Error: {e}")
+            raise e
+        # print(completion.choices[0].message.content)
+        return completion.choices[0].message.content
+
+    return 0
 
 def find_index_of_largest(nums):
     # Sorting the list while keeping track of the original indexes
@@ -187,7 +265,7 @@ def get_response(n4j, gid, query, i, sim_score_median, year, meeting_no):
     linkcontSLOOS = link_context_SLOOS(n4j, gid)
     linkcontbeigebook = link_context_beigebook(n4j, gid)
 
-    user_one = "the question is: " + query
+    user_one = "the question is: " + query + "the references are: " +  "".join(selfcont)
     res = call_llm(sys_prompt_one,user_one)
     responses.append(res)
     score_list.append(parsing_score(res))
@@ -200,7 +278,7 @@ def get_response(n4j, gid, query, i, sim_score_median, year, meeting_no):
     print("paper의 대답 : "  + res)
     #
     user_three = "the question is:" + query + "the provided information is: " + res + "the references are: " + "".join(linkcontFSR)
-    res = call_llm(sys_prompt_three,user_three)
+    #res = call_llm(sys_prompt_three,user_three)
     responses.append(res)
     score_list.append(parsing_score(res))
     print("FSR의 대답 : " + res)
@@ -216,6 +294,7 @@ def get_response(n4j, gid, query, i, sim_score_median, year, meeting_no):
     responses.append(res)
     score_list.append(parsing_score(res))
     print("beigebook의 대답 : " + res)
+
     save_responses_per_meeting(year, meeting_no, responses)
     return score_list
 
@@ -279,7 +358,7 @@ def link_context_FSR(n4j, gid):
 
 def link_context_SLOOS(n4j, gid):
     cont = []
-    retrieve_query = """
+    retrieve_query_1hop = """
         // Match all 'n' nodes with a specific gid but not of the "Summary" type
         MATCH (n)
         WHERE n.gid = $gid AND NOT n:Summary
@@ -299,16 +378,85 @@ def link_context_SLOOS(n4j, gid):
             TYPE(r) AS SLOOSType, 
             collect(DISTINCT {RelationType: type(s), Oid: o.id}) AS Connections
     """
-    res = n4j.query(retrieve_query, {'gid': gid})
+    retrieve_query_2hop = """
+        
+        
+        //  Match 'n' node
+        MATCH (n)
+        WHERE n.gid = $gid AND NOT n:Summary
+        
+        //  nodes connected via 'SLOOS'
+        MATCH (n)-[r:SLOOS]->(m)
+        WHERE NOT m:Summary
+        
+        // 모든 m을 수집하여 인덱스(i) 부여 
+        WITH n, collect({node: m, rel: r}) AS m_list
+        UNWIND range(0, size(m_list) - 1) AS i
+        WITH n, m_list[i].node AS m, m_list[i].rel AS r, i
+        
+        // 모든 'm'에 대해 1~2홉 경로 탐색 진행 (텍스트 제한과 무관하게 전부 탐색)
+        MATCH p = (m)-[*1..2]-(o)
+        WHERE NONE(node IN nodes(p) WHERE node:Summary)
+          AND NONE(rel IN relationships(p) WHERE type(rel) = 'SLOOS')
+        
+        // 결과 반환
+        RETURN n.id AS NodeId1, 
+        m.id AS Mid, 
+        TYPE(r) AS SLOOSType, 
+        CASE WHEN i < 3 THEN m.source_text ELSE null END AS SourceText,
+        collect(DISTINCT {
+            Hops: length(p),
+            TargetNode: o.id,
+            PathNodes: [node IN nodes(p) | node.id],
+            PathRels: [rel IN relationships(p) | type(rel)]
+        }) AS Connections
+    """
+
+    res = n4j.query(retrieve_query_2hop, {'gid': gid})
+    """
     for r in res:
         # Expand each set of connections into separate entries with n and m
         for ind, connection in enumerate(r["Connections"]):
             cont.append("Reference " + str(ind) + ": " + r["NodeId1"] + "has the reference that" + r['Mid'] + connection['RelationType'] + connection['Oid'])
+    """
+    source_texts = []  # source_text를 마지막에 붙이기 위해 따로 모아둘 리스트
+
+    for r in res:
+        if r.get("SourceText"):
+            source_texts.append("Source Text for " + str(r['Mid']) + ":\n" + str(r['SourceText']))
+
+        for ind, connection in enumerate(r["Connections"]):
+            rels = connection.get("PathRels", [])
+            nodes = connection.get("PathNodes", [])
+
+            if len(rels) == 1:
+                # 1홉 연결일 경우: -[관계]->
+                rel_str = f" -[{rels[0]}]- "
+            elif len(rels) > 1:
+                # 2홉 연결일 경우: -[관계1]- 중간노드 -[관계2]-
+                rel_str = f" -[{rels[0]}]- {nodes[1]} -[{rels[1]}]- "
+            else:
+                rel_str = " connects to "
+
+            connection['RelationType'] = rel_str
+            connection['Oid'] = str(nodes[-1])
+            cont.append("Reference " + str(ind) + ": " + r["NodeId1"] + "has the reference that" + r['Mid'] + connection['RelationType'] + connection['Oid'])
+
+    if source_texts:
+        cont.append("\n--- Source Texts ---")
+
+        truncated_texts = [
+            text[:2000] + "..." if len(text) > 2000 else text
+            for text in source_texts
+        ]
+
+        cont.extend(truncated_texts)
+
     return cont
 
 def link_context_beigebook(n4j, gid):
     cont = []
-    retrieve_query = """
+    retrieve_query_1hop = """
         // Match all 'n' nodes with a specific gid but not of the "Summary" type
         MATCH (n)
         WHERE n.gid = $gid AND NOT n:Summary
@@ -328,11 +476,80 @@ def link_context_beigebook(n4j, gid):
             TYPE(r) AS beigebookType, 
             collect(DISTINCT {RelationType: type(s), Oid: o.id}) AS Connections
     """
-    res = n4j.query(retrieve_query, {'gid': gid})
+    retrieve_query_2hop = """
+        // Match all 'n' nodes with a specific gid but not of the "Summary" type
+        MATCH (n)
+        WHERE n.gid = 'FOMC201910'AND NOT n:Summary
+        
+        // Find all 'm' nodes where 'm' is a reference of 'n' via a 'beigebook' relationship
+        MATCH (n)-[r:beigebooknew]->(m)
+        WHERE NOT m:Summary
+        
+        // Collect all 'm' nodes and their relationships, assigning an index 'i' to each
+        WITH n, collect({node: m, rel: r}) AS m_list
+        UNWIND range(0, size(m_list) - 1) AS i
+        WITH n, m_list[i].node AS m, m_list[i].rel AS r, i
+        
+        // Find 1-hop and 2-hop paths 'p' for ALL 'm' nodes
+        // while excluding 'Summary' type nodes and 'beigebook' relationship in the path
+        MATCH p = (m)-[*1..2]-(o)
+        WHERE NONE(node IN nodes(p) WHERE node:Summary)
+          AND NONE(rel IN relationships(p) WHERE type(rel) = 'beigebooknew')
+        
+        // Collect and return details in a structured format
+        // Return source_text only for the first 3 'm' nodes (i < 3) to save LLM context
+        RETURN n.id AS NodeId1, 
+            m.id AS Mid, 
+            TYPE(r) AS beigebookType, 
+            CASE WHEN i < 3 THEN m.source_text ELSE null END AS SourceText,
+            collect(DISTINCT {
+                Hops: length(p),
+                TargetNode: o.id,
+                PathNodes: [node IN nodes(p) | node.id],
+                PathRels: [rel IN relationships(p) | type(rel)]
+            }) AS Connections
+    """
+    res = n4j.query(retrieve_query_2hop, {'gid': gid})
+    """
     for r in res:
         # Expand each set of connections into separate entries with n and m
         for ind, connection in enumerate(r["Connections"]):
             cont.append("Reference " + str(ind) + ": " + r["NodeId1"] + "has the reference that" + r['Mid'] + connection['RelationType'] + connection['Oid'])
+    """
+
+    source_texts = []  # source_text를 마지막에 붙이기 위해 따로 모아둘 리스트
+
+    for r in res:
+        if r.get("SourceText"):
+            source_texts.append("Source Text for " + str(r['Mid']) + ":\n" + str(r['SourceText']))
+
+        for ind, connection in enumerate(r["Connections"]):
+            rels = connection.get("PathRels", [])
+            nodes = connection.get("PathNodes", [])
+
+            if len(rels) == 1:
+                # 1홉 연결일 경우: -[관계]->
+                rel_str = f" -[{rels[0]}]- "
+            elif len(rels) > 1:
+            # 2홉 연결일 경우: -[관계1]- 중간노드 -[관계2]-
+                rel_str = f" -[{rels[0]}]- {nodes[1]} -[{rels[1]}]- "
+            else:
+                rel_str = " connects to "
+
+            connection['RelationType'] = rel_str
+            connection['Oid'] = str(nodes[-1])
+            cont.append("Reference " + str(ind) + ": " + r["NodeId1"] + "has the reference that" + r['Mid'] + connection['RelationType'] + connection['Oid'])
+
+    if source_texts:
+        cont.append("\n--- Source Texts ---")
+
+        truncated_texts = [
+            text[:2000] + "..." if len(text) > 2000 else text
+            for text in source_texts
+        ]
+
+        cont.extend(truncated_texts)
+
     return cont
 
 def ret_context(n4j, gid):
@@ -537,4 +754,25 @@ def str_uuid():
     # Convert UUID to a string
     return str(generated_uuid)
 
+def extract_pdf_to_dataframe(pdf_path: Path) -> pd.DataFrame:
+    """
+    Extract text from PDF and return DataFrame with:
+    file_name | page | text
+    """
 
+    records = []
+
+    with pdfplumber.open(pdf_path) as pdf:
+
+        for i, page in enumerate(pdf.pages, start=1):
+
+            text = page.extract_text()
+
+            if text:
+                records.append({
+                    "file_name": pdf_path.stem,
+                    "page": i,
+                    "text": text.strip()
+                })
+
+    return pd.DataFrame(records)

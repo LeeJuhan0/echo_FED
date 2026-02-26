@@ -18,7 +18,6 @@ if project_root not in sys.path:
 
 from src.utils.config import Config  # [NEW] Config 사용
 
-# pip install openai (>=1.0)
 try:
     from openai import OpenAI
 except ImportError:

@@ -10,8 +10,8 @@ from scipy import stats
 from pathlib import Path
 
 # --------------- Configuration (edit if paths 2_differ) ---------------
-SENTIMENT_CSV = r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\sentiment_13+19_llm.csv"
-CPI_CSV       = r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\cpi.csv"
+SENTIMENT_CSV = r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\results\pipeline_output\score_lg\score_lg_ex_th_full_pipeline2.csv"
+CPI_CSV       = r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\external\cpi.csv"
 
 # Output image
 OUT_3x2 = "cpi_prev_next_3x2.png"
@@ -91,8 +91,8 @@ sent_df.columns = [c.strip() for c in sent_df.columns]
 
 # normalize expected columns
 col_map = {}
-if "statment" in sent_df.columns:
-    col_map["statment"] = "Statement"
+if "llm" in sent_df.columns:
+    col_map["llm"] = "Statement"
 elif "Statement" in sent_df.columns:
     col_map["Statement"] = "Statement"
 
@@ -119,7 +119,7 @@ for c in ["Statement", "Theory", "Policy"]:
 # normalize date (YYYY-MM)
 sent_df["date"] = sent_df["date"].astype(str).str.strip()
 
-# CPI: expects columns: 2_diff, Next_2Month_CPI, FOMC_date
+# CPI: expects columns: Prev_CPI_Value, Next_2Month_CPI, FOMC_date
 cpi_df = read_csv_kr(CPI_CSV)
 cpi_df.columns = [c.strip() for c in cpi_df.columns]
 
@@ -127,15 +127,15 @@ cpi_df.columns = [c.strip() for c in cpi_df.columns]
 cpi_col_map = {}
 for cand in cpi_df.columns:
     key = cand.strip().lower().replace(" ", "_")
-    if key in {"2_diff", "prev_cpi"}:
-        cpi_col_map[cand] = "2_diff"
-    elif key in {"Next_2Month_CPI", "next_cpi"}:
-        cpi_col_map[cand] = "Next_2Month_CPI"
+    if key in {"Prev_CPI_Value", "prev_cpi"}:
+        cpi_col_map[cand] = "Prev_CPI_Value"
+    elif key in {"Next_CPI_Value", "next_cpi"}:
+        cpi_col_map[cand] = "Next_CPI_Value"
     elif key in {"fomc_date", "fomcdate", "date"}:
         cpi_col_map[cand] = "FOMC_date"
 cpi_df = cpi_df.rename(columns=cpi_col_map)
 
-cpi_needed = ["2_diff", "Next_2Month_CPI", "FOMC_date"]
+cpi_needed = ["Prev_CPI_Value", "Next_CPI_Value", "FOMC_date"]
 cpi_missing = [c for c in cpi_needed if c not in cpi_df.columns]
 if cpi_missing:
     raise ValueError(f"Missing required columns in CPI CSV: {cpi_missing}")
@@ -147,8 +147,8 @@ cpi_df["month"] = cpi_df["FOMC_date"].dt.strftime("%Y-%m")
 cpi_month = (
     cpi_df.groupby("month", as_index=False)
     .agg({
-        "2_diff": "mean",
-        "Next_2Month_CPI": "mean",
+        "Prev_CPI_Value": "mean",
+        "Next_CPI_Value": "mean",
         "FOMC_date": "min"
     })
     .rename(columns={"month": "date"})
@@ -156,14 +156,14 @@ cpi_month = (
 
 # Merge on YYYY-MM  (FIXED)
 merged = sent_df.merge(
-    cpi_month[["date", "2_diff", "Next_2Month_CPI", "FOMC_date"]],
+    cpi_month[["date", "Prev_CPI_Value", "Next_CPI_Value", "FOMC_date"]],
     on="date", how="left"
 )
 
 # Warn if unmatched
-if merged["2_diff"].isna().any():
+if merged["Prev_CPI_Value"].isna().any():
     print("Warning: some sentiment rows did not find CPI match. Rows:")
-    print(merged.loc[merged["2_diff"].isna(), ["date"]].drop_duplicates())
+    print(merged.loc[merged["Prev_CPI_Value"].isna(), ["date"]].drop_duplicates())
 
 # Ensure datetime and sort
 merged["FOMC_date"] = pd.to_datetime(merged["FOMC_date"], errors="coerce")
@@ -191,10 +191,10 @@ def make_3x2_prev_next(out_fname: str):
             ax=axes[r, 0],
             df=merged,
             xcol=xcol,
-            ycol="2_diff",
-            title=f"{row_title_prefix} vs CPI 2_difference",
+            ycol="Prev_CPI_Value",
+            title=f"{row_title_prefix} vs Prev_CPI_Value",
             xlabel="Sentiment Score",
-            ylabel="CPI 2_difference",
+            ylabel="Prev_CPI_Value",
             early_mask=early_mask,
             late_mask=late_mask
         )
@@ -204,10 +204,10 @@ def make_3x2_prev_next(out_fname: str):
             ax=axes[r, 1],
             df=merged,
             xcol=xcol,
-            ycol="Next_2Month_CPI",
-            title=f"{row_title_prefix} vs Next 2Month CPI",
+            ycol="Next_CPI_Value",
+            title=f"{row_title_prefix} vs Next Month CPI",
             xlabel="Sentiment Score",
-            ylabel="Next 2Month CPI",
+            ylabel="Next Month CPI",
             early_mask=early_mask,
             late_mask=late_mask
         )

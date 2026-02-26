@@ -22,9 +22,10 @@ except Exception:
     SCIPY_OK = False
 
 # -------------------- Paths --------------------
-BASE_DIR = Path(r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data")
-NFCI_ANFCI_PATH = BASE_DIR / "nfci_anfci_input_data_for_analysis.xlsx"
-SENTIMENT_PATH  = BASE_DIR / "sentiment_13+19_llm.csv"
+BASE_DIR = Path(r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\results\evaluation")
+NFCI_ANFCI_PATH = Path(r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\external\nfci_anfci_input_data_for_analysis.xlsx")
+SENTIMENT_PATH  = Path(r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\results\pipeline_output\score_lg\score_lg_ex_th_full_pipeline.csv")
+
 
 OUT_3x2 = BASE_DIR / "sentiment_nfci_anfci_3x2.png"
 
@@ -88,6 +89,8 @@ def plot_scatter_reg(ax, df, xcol, ycol, title, xlabel, ylabel, early_mask, late
 
 def resolve_statement_column(df: pd.DataFrame) -> str:
     """Return the actual column name for Statement metric (handles typo)."""
+    if "llm" in df.columns:
+        return  "llm"
     if "statment" in df.columns:
         return "statment"
     if "statement" in df.columns:

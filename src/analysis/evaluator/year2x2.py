@@ -18,13 +18,13 @@ plt.rcParams.update({
 })
 
 # -------------------- Paths --------------------
-BASE_DIR = Path(r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data")
+BASE_DIR = Path(r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\results\external")
 NFCI_ANFCI_PATH = BASE_DIR / "nfci_anfci_monthly.xlsx"
 
-SENTIMENT_CSV = r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\sentiment_13+19_llm.csv"
+SENTIMENT_CSV = r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\results\experiment\except_theory_Simulation_score\Simulation_except_theory.csv"
 CPI_CSV       = r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\cpi.csv"
-
-OUT_FIG = str(BASE_DIR / "panel_2x2_nfci_anfci_cpi_policy.png")
+BASE_DIR_out = Path(r"C:\Users\HUFS_MATH\IdeaProjects\FOMC_Graphrag\data\evalution")
+OUT_FIG = str(BASE_DIR_out / "panel_2x2_nfci_anfci_cpi_wo_th.png")
 
 YEAR_START, YEAR_END = 2017, 2025
 DENSE_N = 400
