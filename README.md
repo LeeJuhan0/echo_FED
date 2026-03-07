@@ -42,4 +42,4 @@ echo_FED/
 
 이 프로젝트는 **GraphRAG 기반의 금융텍스트 감성 분석**에 관한 연구를 기반으로 구현되었습니다.
 
-<img width="813" height="811" alt="image" src="https://github.com/user-attachments/assets/94ea4c28-b215-4458-a3c8-8b5918483c43" />
+<img width="813" height="811" alt="image" src="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6163827" />
