@@ -44,3 +44,4 @@ echo_FED/
 
 
 <img width="813" height="811" alt="image" src="https://github.com/user-attachments/assets/94ea4c28-b215-4458-a3c8-8b5918483c43" />
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6163827"><img src="path/to/image.jpg" alt="Theoretical Background" /></a>
