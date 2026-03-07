@@ -44,5 +44,4 @@ echo_FED/
 
 
 <img width="813" height="811" alt="image" src="https://github.com/user-attachments/assets/94ea4c28-b215-4458-a3c8-8b5918483c43" />
-<img width="256" height="256" alt="Shortcuts_23414" src="https://github.com/user-attachments/assets/cae6c5f2-c2f6-4938-a4a2-02773443952a" />
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6163827"><img src="https://github.com/user-attachments/assets/cae6c5f2-c2f6-4938-a4a2-02773443952a" alt="Theoretical Background" /></a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6163827"><img src="https://github.com/user-attachments/assets/cae6c5f2-c2f6-4938-a4a2-02773443952a" alt="Theoretical Background" /></a>
